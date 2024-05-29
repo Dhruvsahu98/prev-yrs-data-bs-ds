@@ -1,0 +1,48 @@
+Certainly! Below is the transcription of the document with the code blocks formatted, and mathematical expressions and tables (if any) in LaTeX format.
+
+```python
+data = pd.read_csv('dataset.csv')
+data = data.dropna()
+rows, cols = data.shape
+data_train = data[:int(0.8*rows)]
+data_test = data[int(0.8*rows):]
+X_train = data_train[data.columns[:-1]]
+y_train = data_train[data.columns[-1]]
+X_test = data_test[data.columns[:-1]]
+y_test = data_test[data.columns[-1]]
+
+model = LinearRegression().fit(X_train, y_train)
+model.score(X_test, y_test)
+```
+
+```python
+data = pd.read_csv('dataset.csv')
+data = data.dropna()
+rows, cols = data.shape
+data_train = data[:int(0.2*rows)]
+data_test = data[int(0.2*rows):]
+X_train = data_train[data.columns[:-1]]
+y_train = data_train[data.columns[-1]]
+X_test = data_test[data.columns[:-1]]
+y_test = data_test[data.columns[-1]]
+
+model = LinearRegression().fit(X_train, y_train)
+model.score(X_test, y_test)
+```
+
+```python
+data = pd.read_csv('dataset.csv')
+data = data.dropna()
+rows, cols = data.shape
+data_train = data[:int(0.2*rows)]
+data_test = data[int(0.2*rows):]
+X_train = data_train[data.columns[:-1]]
+y_train = data_train[data.columns[-1]]
+X_test = data_test[data.columns[:-1]]
+y_test = data_test[data.columns[-1]]
+
+model = LinearRegression().fit(X_test, y_test)
+model.score(X_test, y_test)
+```
+
+The provided text does not contain any explicit mathematical expressions or tables to be converted into LaTeX format. If you need further assistance, please let me know!

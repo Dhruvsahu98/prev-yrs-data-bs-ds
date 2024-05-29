@@ -1,0 +1,78 @@
+For a dataset with 1000 data points and 100 features, the following code will generate how many models during execution?
+
+**Note:** X is the feature matrix and y is the target vector.
+
+```python
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import LeaveOneOut
+from sklearn.linear_model import linear_regression
+
+lin_reg = linear_regression()
+loocv = LeaveOneOut()
+score = cross_val_score(lin_reg, X, y, cv=loocv)
+```
+
+**Options:**
+- 6406531563200. ![1000](https://latex.codecogs.com/svg.latex?1000)
+- 6406531563201. ![100](https://latex.codecogs.com/svg.latex?100)
+- 6406531563202. ![99](https://latex.codecogs.com/svg.latex?99)
+- 6406531563203. ![999](https://latex.codecogs.com/svg.latex?999)
+
+---
+
+**Question Number:** 208  
+**Question Id:** 640653470417  
+**Question Type:** MCQ Is Question  
+**Mandatory:** No  
+**Calculator:** None  
+**Response Time:** N.A  
+**Think Time:** N.A  
+**Minimum Instruction Time:** 0  
+**Correct Marks:** 3  
+**Question Label:** Multiple Choice Question
+
+Consider the following cross-validation strategy:
+
+```python
+cv = ShuffleSplit(n_splits=40, test_size=0.3, random_state=0)
+```
+
+Assume we apply this strategy to some data set. Which of the following options is/are correct?
+
+**Options:**
+- 6406531563204. ![Every data point will be used only once for training.](https://latex.codecogs.com/svg.latex?Every\ data\ point\ will\ be\ used\ only\ once\ for\ training.)
+- 6406531563205. ![Every data point will be used only once for validation.](https://latex.codecogs.com/svg.latex?Every\ data\ point\ will\ be\ used\ only\ once\ for\ validation.)
+
+---
+
+**Mathematical Expressions in LaTeX:**
+
+- 1000: \(1000\)
+- 100: \(100\)
+- 99: \(99\)
+- 999: \(999\)
+
+**Code Blocks:**
+
+```python
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import LeaveOneOut
+from sklearn.linear_model import linear_regression
+
+lin_reg = linear_regression()
+loocv = LeaveOneOut()
+score = cross_val_score(lin_reg, X, y, cv=loocv)
+```
+
+```python
+cv = ShuffleSplit(n_splits=40, test_size=0.3, random_state=0)
+```
+
+**Options in LaTeX:**
+
+- \(1000\)
+- \(100\)
+- \(99\)
+- \(999\)
+- \(Every\ data\ point\ will\ be\ used\ only\ once\ for\ training.\)
+- \(Every\ data\ point\ will\ be\ used\ only\ once\ for\ validation.\)

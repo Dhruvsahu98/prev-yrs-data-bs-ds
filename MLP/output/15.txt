@@ -1,0 +1,53 @@
+```
+We know that applying polynomial transformation to the samples is often helpful. Assume we imported all the required modules.
+
+```python
+X = np.random.randn(2,2)
+poly = PolynomialFeatures(degree=2,
+                          interaction_only=True,
+                          include_bias=False)
+poly_X= poly.fit_transform(X)
+```
+
+What is the shape of the variable poly_X?
+
+Options:
+
+6406531563229. 
+(a) (2,2)
+
+6406531563230. 
+(b) (2,6)
+
+6406531563231. 
+(c) (6,2)
+
+6406531563232. 
+(d) (2,3)
+
+6406531563233. 
+(e) (3,2)
+
+6406531563234. 
+(f) (2,5)
+
+6406531563235. 
+(g) (5,2)
+
+Question Number : 211 Question Id : 640653470424 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+A team has built a dataset for a regression problem. It contains 1000 samples. Each sample x is of size 2. All the features are binary, that is, \(x_i \in \{0, 1\}\). The team decided to use polynomial feature transformation of degree 2 as follows,
+
+```python
+X = np.random.randint(0,2,size=(1000,2))
+poly = PolynomialFeatures(degree=2)
+poly_X= poly.fit_transform(X)
+```
+
+The transformed features are stored in the variable poly_X. There are \(N\) redundant column(s) (they are the exact copy of some column) in the variable poly_X. What is the value of \(N\)?
+
+```

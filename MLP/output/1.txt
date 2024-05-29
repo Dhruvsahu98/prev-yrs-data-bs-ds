@@ -1,0 +1,38 @@
+```plaintext
+Correct Marks: 0
+
+Question Label: Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING PRACTICE"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options:
+6406531563148. ✔ YES
+6406531563149. ✖ NO
+
+Sub-Section Number: 2
+Sub-Section Id: 64065367810
+Question Shuffling Allowed: Yes
+Is Section Default?: null
+
+Question Number: 194 Question Id: 640653470403 Question Type: SA Calculator: None Response Time: N.A Think Time: N.A Minimum Instruction Time: 0
+
+Correct Marks: 2
+
+Question Label: Short Answer Question
+
+[String Matching] Enter the sequence of steps to be followed, in general, in end to end machine learning project. Enter the answer as a 6-character string. For example, entering the answer as (without quotes) ‘BADCFE’ implies that the first step is B, followed by the second step A and so on.
+A. Select suitable model
+B. Train the model
+C. Pre-process the data
+D. Collect data
+E. Fine tune model
+F. Present your solution
+
+Response Type: Alphanumeric
+```
+
+No mathematical expressions, tables, or diagrams were present in the provided document, so no LaTeX formatting for those is needed.

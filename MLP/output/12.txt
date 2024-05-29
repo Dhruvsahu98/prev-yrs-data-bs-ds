@@ -1,0 +1,56 @@
+Here is the text transcription of the provided document, formatted as requested:
+
+### Code Block
+
+```python
+num_tranform = Pipeline(
+    steps=[("imputer", SimpleImputer(strategy="median")),
+           ("scaler", StandardScaler())]
+)
+
+cat_transform = OneHotEncoder(handle_unknown="ignore")
+ordinal_encoder = OrdinalEncoder()
+preprocessor = ColumnTransformer(
+    transformers=[
+        ("num", num_tranform, ['HouseAge', 
+                               'City', 
+                               'Population']),
+        ("cat", cat_transform, ['AveRoom']),
+        ("ord", ordinal_encoder, ['IncomeGroup'])
+    ]
+)
+
+preprocessor.fit_transform(X)
+
+num_tranform = Pipeline(
+    steps=[("imputer", SimpleImputer(strategy="median")),
+           ("scaler", StandardScaler())]
+)
+
+cat_transform = OneHotEncoder(handle_unknown="ignore")
+ordinal_encoder = OrdinalEncoder()
+preprocessor = ColumnTransformer(
+    transformers=[
+        ("num", num_tranform, ['IncomeGroup', 
+                               'AveRoom', 
+                               'Population']),
+        ("cat", cat_transform, ['City']),
+        ("ord", ordinal_encoder, ['HouseAge'])
+    ]
+)
+
+preprocessor.fit_transform(X)
+```
+
+### Question Information
+
+- **Question Number**: 207
+- **Question Id**: 640653470416
+- **Question Type**: MCQ Is Question
+- **Mandatory**: No
+- **Calculator**: None
+- **Response Time**: N.A
+- **Think Time**: N.A
+- **Minimum Instruction Time**: 0
+- **Correct Marks**: 3
+- **Question Label**: Multiple Choice Question

@@ -1,0 +1,39 @@
+```plaintext
+6406531563195. 🐞 7,7
+
+Sub-Section Number : 4
+Sub-Section Id : 64065367812
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 198 Question Id : 640653470405 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Suppose that we load a data set that contains 1000 samples in a Pandas Dataframe. Each sample has 30 features. However, a few samples in the data set miss the values for all features. Therefore, those samples need to be dropped. Choose the method that removes such samples from the dataset?
+
+Options :
+6406531563155. 🐞 drop(columns=[‘all’])
+6406531563156. 🐞 drop(how=‘all’)
+6406531563157. 🐞 dropna()
+6406531563158. ✔ dropna(how=‘all’)
+6406531563159. 🐞 dropna.all()
+
+Question Number : 199 Question Id : 640653470406 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+The statement that each feature in the input data set has a (physical) meaning associated with it is
+
+Options :
+6406531563160. ✔ True, for all ML problems
+6406531563161. 🐞 True, for some ML problems
+```
+
+### LaTeX for Mathematical Expressions:
+
+There are no explicit mathematical expressions in the provided document. 
+
+### LaTeX for Tables and Diagrams:
+
+There are no tables or diagrams in the provided document.

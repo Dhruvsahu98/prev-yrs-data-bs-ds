@@ -1,0 +1,42 @@
+```
+6406531563162. ❌ False, for all ML problems
+6406531563163. ❌ can not be decided
+
+Question Number : 200 Question Id : 640653470408 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+A company collects 40000 samples (examples) to build a Machine Learning model for an application. They decide to use 30% of the total samples for testing (to be stored in the variable testset) and the rest 70% for training (to be stored in the variable trainset). They also want to sample the same set of samples across multiple runs. Which of the following line (statement) achieves this task? Assume that all samples are stored in the variable data.
+
+Options :
+
+6406531563168. ❌ 
+```python
+testset, trainset = train_test_split(data, test_size=0.3)
+```
+
+6406531563169. ❌ 
+```python
+trainset, testset = train_test_split(data, test_size=0.3)
+```
+
+6406531563170. ✅ 
+```python
+trainset, testset = train_test_split(data, test_size=0.3, random_state=42)
+```
+
+6406531563171. ❌ 
+```python
+testset, trainset = train_test_split(data, test_size=0.3)
+```
+
+Question Number : 201 Question Id : 640653470409 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following utilities of sklearn.datasets helps us to get the realworld data from the internet?
+```

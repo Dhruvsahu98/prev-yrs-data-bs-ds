@@ -1,0 +1,47 @@
+```
+Consider following data:
+
+data = [{'age': 4, 'height':96.0},
+        {'age': 1, 'height':73.9},
+        {'age': 3, 'height':88.9},
+        {'age': 2, 'height':81.6}]
+
+Which one of the following APIs can be used to extract features from the above data?
+
+Options :
+6406531563189. DictVectorizer
+6406531563190. HashingVectorizer
+6406531563191. FeatureHasher
+
+Question Number : 197 Question Id : 640653470414 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Consider following data:
+
+\[
+X = \begin{bmatrix}
+8 & 3 \\
+\text{np.nan} & 8 \\
+3 & \text{np.nan} \\
+10 & 6 \\
+7 & 7 
+\end{bmatrix}
+\]
+
+What will be the output of the following code? (Assume necessary imports)
+
+```python
+si = SimpleImputer(strategy='mean')
+Xnew = si.fit_transform(X)
+print(f'{Xnew[1,0]}, {Xnew[2,1]}')
+```
+
+Options :
+6406531563192. 7,6
+6406531563193. 6,6
+6406531563194. 6,7
+```

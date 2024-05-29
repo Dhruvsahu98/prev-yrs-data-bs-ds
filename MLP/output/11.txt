@@ -1,0 +1,45 @@
+Sure, here is the converted text from the image. The code blocks are provided in a separate section, and no mathematical expressions, tables, or diagrams were present in the image.
+
+```python
+num_tranform = Pipeline(
+    steps=[("imputer", SimpleImputer(strategy="median")),
+           ("scaler", StandardScaler())]
+)
+
+cat_transfom = OneHotEncoder(handle_unknown="ignore")
+ordinal_encoder = OrdinalEncoder()
+preprocessor = ColumnTransformer(
+    transformers=[
+        ("num", num_tranform, ['HouseAge',
+                               'AveRoom',
+                               'Population']),
+        ("cat", cat_transfom, ['City1']),
+        ("ord", ordinal_encoder, ['IncomeGroup'])
+    ]
+)
+
+preprocessor.fit_transform(X)
+```
+
+```python
+num_tranform = Pipeline(
+    steps=[("scaler", StandardScaler())]
+)
+
+cat_transfom = OneHotEncoder(handle_unknown="ignore")
+ordinal_encoder = OrdinalEncoder()
+preprocessor = ColumnTransformer(
+    transformers=[
+        ("num", num_tranform, ['HouseAge',
+                               'AveRoom',
+                               'Population']),
+        ("cat", cat_transfom, ['City1']),
+        ("ord", ordinal_encoder, ['IncomeGroup'])
+    ]
+)
+
+preprocessor.fit_transform(X)
+```
+
+6406531563197.◊
+6406531563198.◊

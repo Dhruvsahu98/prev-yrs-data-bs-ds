@@ -1,0 +1,43 @@
+```python
+data = pd.read_csv('dataset.csv')
+data = data.dropna()
+rows, cols = data.shape
+data_train = data[:int(0.8*rows)]
+data_test = data[int(0.2*rows):]
+X_train = data_train[data.columns[:-1]]
+y_train = data_train[data.columns[-1]]
+X_test = data_test[data.columns[:-1]]
+y_test = data_test[data.columns[-1]]
+
+model = LinearRegression().fit(X_train,y_test)
+model.score(X_train, y_train)
+```
+
+```python
+data = pd.read_csv('dataset.csv')
+rows, cols = data.shape
+data_train = data[:int(0.8*rows)]
+data_test = data[int(0.2*rows):]
+X_train = data_train[data.columns[:-1]]
+y_train = data_train[data.columns[-1]]
+X_test = data_test[data.columns[:-1]]
+y_test = data_test[data.columns[-1]]
+
+model = LinearRegression().fit(X_train,y_test)
+model.score(X_train, y_train)
+```
+
+Question Number : 203 Question Id : 640653470419 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 2  
+
+Question Label : Multiple Choice Question  
+Consider the following code where X_train, y_train is the training data. X_test, y_test is the test data.
+
+```python
+from sklearn.linear_model import SGDRegressor
+sgd= SGDRegressor(learning_rate='constant', eta0=1e-2)
+sgd.fit(X_train, y_train)
+sgd.predict(X_test)
+score = sgd.score(X_test, y_test)
+```

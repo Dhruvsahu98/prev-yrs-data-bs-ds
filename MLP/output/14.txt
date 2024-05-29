@@ -1,0 +1,55 @@
+```plaintext
+6406531563206. ✖ The code will result in an error as n_splits * test_size should be equal to 1.
+
+6406531563207. ✔ None of these.
+```
+
+### Question Number : 209
+**Question Id : 640653470418**  
+**Question Type : MCQ**  
+**Is Question Mandatory : No**  
+**Calculator : None**  
+**Response Time : N.A**  
+**Think Time : N.A**  
+**Minimum Instruction Time : 0**  
+**Correct Marks : 3**  
+**Question Label : Multiple Choice Question**  
+
+Which of the following code is correct if we want the mean absolute error to be minimized during the computation of cross_val_score?
+
+**Options :**
+
+```plaintext
+6406531563208. ✖
+cross_val_score(lin_reg, X, y, cv=5,
+performance='mean_absolute_error')
+```
+
+```plaintext
+6406531563209. ✖
+cross_val_score(lin_reg, X, y, cv=5,
+performance='neg_mean_absolute_error')
+```
+
+```plaintext
+6406531563210. ✔
+cross_val_score(lin_reg, X, y, cv=5,
+scoring='neg_mean_absolute_error')
+```
+
+```plaintext
+6406531563211. ✖
+cross_val_score(lin_reg, X, y, cv=5,
+scoring='mean_absolute_error')
+```
+
+### Question Number : 210
+**Question Id : 640653470423**  
+**Question Type : MCQ**  
+**Is Question Mandatory : No**  
+**Calculator : None**  
+**Response Time : N.A**  
+**Think Time : N.A**  
+**Minimum Instruction Time : 0**  
+**Correct Marks : 3**  
+**Question Label : Multiple Choice Question**  

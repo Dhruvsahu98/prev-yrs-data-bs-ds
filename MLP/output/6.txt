@@ -1,0 +1,81 @@
+```plaintext
+Options :
+
+6406531563172. 🕊 load_
+
+6406531563173. ✔ fetch_
+
+6406531563174. 🕊 generate_
+
+6406531563175. 🕊 get_
+
+Question Number : 202 Question Id : 640653470412 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following ML task/steps for a regression dataset:
+
+1. Read the data from a file (named ‘dataset.csv’). It has 7 columns. The last column is the target variable, the rest of them are numerical features.
+2. Drop rows with missing values.
+3. After removing samples with missing values split the data into training and test sets. Take about the first 80% of rows in the training set and the rest of them into the test set.
+4. Train a simple linear regression model, with intercept, on the training set.
+5. Report R2 score on the test set.
+
+Which of the following code snippets correctly accomplishes the above task? Assume necessary imports.
+
+Options :
+```
+
+For the Mathematical expressions in LaTeX format:
+
+$$
+R^2 \text{ score on the test set}
+$$
+
+For the tables and diagrams in LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{array}
+
+\begin{document}
+
+Options :
+
+\begin{itemize}
+    \item 6406531563172. \(\text{🕊 load\_}\)
+    \item 6406531563173. \(\text{✔ fetch\_}\)
+    \item 6406531563174. \(\text{🕊 generate\_}\)
+    \item 6406531563175. \(\text{🕊 get\_}\)
+\end{itemize}
+
+\section*{Question Number : 202 Question Id : 640653470412}
+\textbf{Question Type : MCQ}\\
+\textbf{Is Question Mandatory : No}\\
+\textbf{Calculator : None}\\
+\textbf{Response Time : N.A}\\
+\textbf{Think Time : N.A}\\
+\textbf{Minimum Instruction Time : 0}\\
+\textbf{Correct Marks : 2}\\
+
+\textbf{Question Label : Multiple Choice Question}
+
+Consider the following ML task/steps for a regression dataset:
+
+\begin{enumerate}
+    \item Read the data from a file (named ‘dataset.csv’). It has 7 columns. The last column is the target variable, the rest of them are numerical features.
+    \item Drop rows with missing values.
+    \item After removing samples with missing values split the data into training and test sets. Take about the first 80\% of rows in the training set and the rest of them into the test set.
+    \item Train a simple linear regression model, with intercept, on the training set.
+    \item Report \(R^2\) score on the test set.
+\end{enumerate}
+
+Which of the following code snippets correctly accomplishes the above task? Assume necessary imports.
+
+\textbf{Options :}
+\end{document}
+```
