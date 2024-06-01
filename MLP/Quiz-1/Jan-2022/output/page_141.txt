@@ -1,0 +1,41 @@
+```plaintext
+Question Label : Multiple Choice Question
+
+Which of the following is/are NOT a metric for regression?
+
+Options :
+A. 🌼 Mean Absolute Error
+B. 🌼 \( R^2 \) score
+C. ✔️ \( F1 \) score
+D. 🌼 Mean Squared Error
+
+Question Number : 186 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Consider following code:
+
+```python
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LinearRegression
+from sklearn.pipeline import Pipeline
+pipe = Pipeline([('feature_scaling', StandardScaler()),
+                 ('regressor', LinearRegression())])
+```
+
+Which of the following commands can be used to print the number of steps in a pipeline?
+
+Options :
+A. 🌼 `print(step_pipe)`
+B. 🌼 `print(steps(pipe.len))`
+C. ✔️ `print(len(pipe.named_steps))`
+D. 🌼 `print(len(pipe.steps))`
+
+Question Number : 187 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+```

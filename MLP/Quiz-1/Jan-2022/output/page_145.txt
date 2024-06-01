@@ -1,0 +1,45 @@
+```python
+Question Label : Multiple Choice Question
+
+Consider a grid search for various learning rate values in SGDRegressor
+
+from sklearn.linear_model import SGDRegressor
+from sklearn.model_selection import GridSearchCV
+param_grid = [{'eta0':[0.1,0.2,0.3,0.4,0.5]}]
+gs = GridSearchCV(SGDRegressor(),param_grid,cv=5)
+gs.fit(X,y)
+
+Upon execution of GridSearchCV(), how many times the fit() method of the estimator 
+would have been called internally?
+
+Options :
+
+A. ❉ 1
+
+B. ✅ 25
+
+C. ❉ 5
+
+D. ❉ 125
+
+Question Number : 193 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Fill the name of the missing attribute in the following code:
+
+from sklearn.datasets import make_blobs
+import matplotlib.pyplot as plt
+X, y = make_blobs(n_samples = 100, n_features=2, -----------=2)
+plt.scatter(X[:, 0], X[:, 1], marker="o", c=y, s=25, edgecolor="k")
+
+The output plot is shown in Figure 1:
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{figure1}
+\caption{Figure 1}
+\end{figure}
+```

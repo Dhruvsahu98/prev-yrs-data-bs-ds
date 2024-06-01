@@ -1,0 +1,43 @@
+```plaintext
+Based on the following statements, select the correct option.
+
+I. For a very large dataset, it is better to employ LinearRegressor over SGDRegressor.
+II. SGDRegressor solves the normal equation to calculate the value of unknown parameters.
+
+Options :
+
+A. Statement I is true, Statement II is true, Statement II is a correct explanation for statement I.
+B. Statement I is true, Statement II is true, Statement II is not a correct explanation for statement I.
+C. Statement I is true, Statement II is false.
+D. Statement I and II are false.
+
+Question Number : 191 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Consider the following 6 lines of code:
+
+```python
+from sklearn.linear_model import SGDRegressor
+from sklearn.model_selection import GridSearchCV
+estimator = SGDRegressor(learning_rate='constant').fit(X,y)
+param_grid = [{'eta0':[0.1,0.001]}]
+gs = GridSearchCV(estimator,param_grid)
+gs.fit(X,y)
+```
+
+Assuming that the input dataset is loaded to the variable (X,y). The shapes of X and y are (100,10) and (100,1), respectively. Does the code raise an error upon execution? If yes, which line of the code raises the error first?
+
+Options :
+
+A. Error in the third line of code
+B. Error in the fourth line of code
+C. Error in the fifth line of code
+D. Error in the sixth line of code
+E. It won’t raise any error
+
+Question Number : 192 Question Type : MCQ
+
+Correct Marks : 2
+```

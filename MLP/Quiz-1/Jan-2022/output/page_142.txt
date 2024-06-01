@@ -1,0 +1,45 @@
+```python
+Consider the following code:
+from sklearn.datasets import load_diabetes
+data = load_diabetes()
+
+The feature matrix containing the samples will be present in:
+
+Options :
+
+A. ❌ data.feature_matrix
+
+B. ❌ data.features
+
+C. ❌ data.matrix
+
+D. ✔ data.data
+```
+
+Question Number : 188 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+```python
+Consider following code snippet:
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+X, y = load_iris(return_X_y = True)
+print(X.shape)
+print(y.shape)
+train_X, test_X, train_y, test_y = train_test_split(X, y,
+                                                    test_size=0.2,
+                                                    random_state=42)
+# The output of the above code is the following:
+# (150, 4)
+# (150, )
+
+# What will be the output of the following code?
+
+print(train_X.shape)
+print(test_X.shape)
+print(train_y.shape)
+print(test_y.shape)
+```

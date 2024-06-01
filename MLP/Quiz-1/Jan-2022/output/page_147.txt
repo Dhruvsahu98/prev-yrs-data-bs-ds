@@ -1,0 +1,49 @@
+```plaintext
+\begin{tabular}{ccc}
+42. & 13.5 & 91. \\
+428. & 22 & 96. \\
+1200. & 13.5 & 96. \\
+42. & 236 & 92. \\
+\end{tabular}
+
+Question Number : 195 Question Type : MCQ
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider the following code and select the correct option(s).
+
+```python
+from sklearn.linear_model import SGDRegressor
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+sgd = Pipeline([('feature_scaling', StandardScaler()),
+                ('sgd_regressor', SGDRegressor())])
+
+sgd.fit(X, y)
+```
+where X and y are training data.
+
+Options :
+A. ❌ It transforms the original feature vector X into a new feature vector so that all values fall within range [0, 1].
+
+B. ❌ It transforms the original feature vector X into a new feature vector so that all values fall within range [−1, 1].
+
+C. ❌ It will fit the linear regression model on the transformed data using normal equation.
+
+D. ✔ It will fit the linear regression model on the transformed data using iterative optimization.
+
+Question Number : 196 Question Type : MSQ
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Which of the following list of functions are used for hyper-parameter tuning in sklearn?
+
+Options :
+A. ✔ GridSearchCV()
+
+B. ✔ RandomizedSearchCV()
+```

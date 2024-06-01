@@ -1,0 +1,56 @@
+```python
+Consider the following code and select the correct options.
+
+from sklearn.linear_model import SGDRegressor
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+estimator = SGDRegressor(penalty='elasticnet',
+                         l1_ratio=0.2,
+                         learning_rate='invscaling')
+sgd = Pipeline([('feature_scaling', StandardScaler()),
+                ('sgd_regressor', estimator)])
+
+sgd.fit(X, y)
+```
+
+**Options:**
+
+A. ✔ Regularization rate for L2 penalty will be 0.8
+
+B. ❌ Regularization rate for L2 penalty will be 0.2
+
+C. ✔ Learning rate decreases with every iteration
+
+D. ❌ Learning rate increases with every iteration
+
+---
+
+**Question Number : 202 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Select Question**
+
+Consider the following code:
+
+```python
+from sklearn.linear_model import SGDRegressor
+SGDRegressor = SGDRegressor(loss='squared_error',
+                            early_stopping=True,
+                            max_iter=500,
+                            tol=1e-3,
+                            validation_fraction=0.2,
+                            n_iter_no_change=5)
+```
+
+When is SGDRegressor likely to stop?
+
+**Options:**
+
+A. ✔ validation score does not improve by at least \(10^{-3}\) for 5 consecutive epochs.
+
+B. ❌ validation score does not improve by at least \(10^{-3}\) for the first epoch.
+
+C. ✔ after at most 500 iterations.
+
+D. ❌ after exactly 5 iterations.

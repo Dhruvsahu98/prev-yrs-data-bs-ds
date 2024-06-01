@@ -1,0 +1,78 @@
+```plaintext
+Options :
+
+A. ✵ clusters
+
+B. ✵ labels
+
+C. ✔ centers
+
+D. ✵ classes
+```
+
+```plaintext
+Question Number : 194 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+What is the output of the following code?
+```
+
+```python
+import numpy as np
+from sklearn.impute import SimpleImputer
+imp_mean = SimpleImputer(missing_values=np.nan, strategy='mean')
+X=imp_mean.fit_transform([[42, 22, 19],
+                         [np.nan, np.nan, 96],
+                         [1200, 5, np.nan],
+                         [42, np.nan, 92]])
+
+print(X)
+```
+
+```plaintext
+Options :
+```
+
+```latex
+\[
+\begin{bmatrix}
+42. & 22. & 19. \\
+428. & 13.5 & 96. \\
+1200. & 5. & 69. \\
+42. & 13.5 & 92.
+\end{bmatrix}
+\]
+
+A. ✔
+```
+
+```latex
+\[
+\begin{array}{ccc}
+42 & 22 & 19 \\
+2 & 3 & 96 \\
+10 & 100 & 69 \\
+42 & 13.5 & 92
+\end{array}
+\]
+
+B. ✵
+```
+
+```latex
+\[
+\begin{bmatrix}
+42 & 22 & 19 \\
+3 & \text{np.nan} & \text{np.nan} \\
+10 & 100 & 92 \\
+1200 & 5 & 42
+\end{bmatrix}
+\]
+
+C. ✵
+```
+
+D. ✵

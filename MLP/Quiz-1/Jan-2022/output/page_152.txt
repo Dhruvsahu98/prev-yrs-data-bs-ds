@@ -1,0 +1,40 @@
+```python
+Options :
+
+\textcolor{red}{A. *} The shapes of \( X \) and \( y \) are \( (5, 2) \) and \( (5, ) \), respectively.
+
+\textcolor{green}{B. *} The shapes of \( X \) and \( y \) are \( (50, 5) \) and \( (50, ) \), respectively.
+
+\textcolor{green}{C. *} \( X \) has one feature such that it can be written as linear combination of other features.
+
+\textcolor{red}{D. *} \( X \) has three features such that they can be written as linear combination of other features.
+
+\begin{center}
+CT
+\end{center}
+
+Number of Questions : 14
+
+Section Marks : 50
+
+Question Number : 205 Question Type : MCQ
+
+Correct Marks : 0
+
+Question Label : Multiple Choice Question
+
+\begin{center}
+\textbf{THIS IS QUESTION PAPER FOR THE SUBJECT "COMPUTATIONAL THINKING"}
+\end{center}
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+\textcolor{green}{A. * YES}
+
+\textcolor{red}{B. * NO}
+```

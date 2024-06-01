@@ -1,0 +1,51 @@
+```python
+C. ✳ MinMaxScaler()
+D. ✳ StandardScaler()
+```
+
+### Question Number : 197 Question Type : MSQ
+
+**Correct Marks : 2**
+
+Question Label : Multiple Select Question
+
+Which of the following statements are true about hyper-parameter tuning?
+
+**Options :**
+
+A. ✳ It is only applicable for applications that require gradient calculations.
+
+B. ✳ The tuning is done by using a portion of the test data set.
+
+C. ✔ It is used to select the best model’s various settings of hyper-parameters.
+
+D. ✔ More than one hyper-parameter of a model can be tuned simultaneously in sklearn.
+
+
+### Question Number : 198 Question Type : MSQ
+
+**Correct Marks : 3**
+
+Question Label : Multiple Select Question
+
+Which of the following statements is/are correct?
+
+**Options :**
+
+A. ✔ Oversampling refers to replicating some points from the minority class in order to increase the cardinality of the minority class.
+
+B. ✔ Oversampling may consist of either replicating or generating synthetic data for the minority class.
+
+C. ✳ SMOTE is a popular technique for undersampling.
+
+D. ✔ FeatureUnion and Pipeline can be used to create complex transformers.
+
+
+### Question Number : 199 Question Type : MSQ
+
+**Correct Marks : 3**
+
+Question Label : Multiple Select Question
+
+Consider the following box plots of features of iris data and select the correct options.
+```

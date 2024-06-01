@@ -1,0 +1,44 @@
+```python
+Question Number : 203 Question Type : MSQ
+
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+Consider the following code and select the correct options. Assume that all the necessary libraries are imported.
+
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import SGDRegressor
+from sklearn.pipeline import Pipeline
+poly_transform = PolynomialFeatures(degree=2,
+                                    interaction_only= True)
+estimator = SGDRegressor(penalty='elasticnet',
+                         l1_ratio=0.3)
+poly_model = Pipeline([('polynomial_transform', poly_transform),
+                       ('elasticnet', estimator)])
+
+poly_model.fit(X, y)
+
+Options :
+A. ✔️ It will first transform the features into degree 2 such that power of 2 and higher of the same input feature are excluded.
+B. ❌ It will first transform the features into degree 2 such that only power of 2 the same input feature are included.
+C. ❌ It will not perform any regularization.
+D. ✔️ It will apply both lasso and ridge penalties to the model.
+```
+
+```python
+Question Number : 204 Question Type : MSQ
+
+Correct Marks : 4
+
+Question Label : Multiple Select Question
+Consider the following code and select the correct options.
+
+from sklearn.datasets import make_classification
+X, y = make_classification(n_features=5,
+                           n_informative=3,
+                           n_redundant = 1,
+                           n_classes=2,
+                           n_clusters_per_class=1,
+                           random_state=10,
+                           n_samples=50)
+```

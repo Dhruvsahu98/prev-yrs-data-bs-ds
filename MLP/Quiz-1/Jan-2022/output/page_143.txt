@@ -1,0 +1,64 @@
+```python
+Options:
+
+A. ✻ (130, 3) (20, 1) (130, 3) (20, 1)
+
+B. ✔ (120, 4) (30, 4) (120,) (30,)
+
+C. ✻ (130, 4) (20, 4) (130,) (20,)
+
+D. ✻ (120, 3) (30, 1) (120, 3) (30, 1)
+
+Question Number: 189 Question Type: MCQ
+
+Correct Marks: 2
+
+Question Label: Multiple Choice Question
+
+What is the output of the following code?
+
+\begin{verbatim}
+import numpy as np
+from sklearn.preprocessing import FunctionTransformer
+transformer = FunctionTransformer(np.exp)
+X = np.array([[1,2],
+              [3,4]])
+transformer.transform(X)
+\end{verbatim}
+
+Options:
+
+\begin{verbatim}
+array([[ 2.71828183,    7.3890561 ],
+       [20.08553692,   54.59815003]])
+\end{verbatim}
+
+A. ✔
+
+\begin{verbatim}
+array([[ 1.71828183,    6.3890561 ],
+       [19.08553692,   53.59815003]])
+\end{verbatim}
+
+B. ✻
+
+\begin{verbatim}
+array([[ 147.4131591 ,    402.42879349],
+       [1095.63315843,  2979.95798704]])
+\end{verbatim}
+
+C. ✻
+
+\begin{verbatim}
+array([[0.69314718, 1.09861229],
+       [1.38629436, 1.60943791]])
+\end{verbatim}
+
+D. ✻
+
+Question Number: 190 Question Type: MCQ
+
+Correct Marks: 2
+
+Question Label: Multiple Choice Question
+```
