@@ -1,0 +1,39 @@
+```python
+Question Number : 206 Question Id : 640653345650 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Output of the following block of code is -
+
+import numpy as np
+from sklearn.datasets import fetch_california_housing
+from sklearn.model_selection import train_test_split
+from sklearn.feature_selection import SelectKBest, mutual_info_regression
+# download data
+X_california, y_california = fetch_california_housing(return_X_y=True)
+# select a subset of data
+X, y = X_california[:2000, :], y_california[:2000]
+skb = SelectKBest(mutual_info_regression, k = 3)
+X_new = skb.fit_transform(X,y)
+print(X_new.shape)
+
+Options :
+
+6406531149531. *(2000,8)
+6406531149532. ✔(2000,3)
+6406531149533. *(3, 2000)
+6406531149534. *(2000, 5)
+```
+```python
+Question Number : 207 Question Id : 640653345651 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+What is the `explained variance score` for the following code?
+from sklearn.metrics import explained_variance_score
+y_true = [1, 2, 3]
+y_pred = [2, 5, 8]
+explained_variance_score(y_true, y_pred)
+
+Options :
+```

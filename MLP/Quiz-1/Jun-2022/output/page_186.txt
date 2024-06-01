@@ -1,0 +1,50 @@
+```plaintext
+Question Shuffling Allowed :                      No
+
+
+Question Number : 196 Question Id : 640653345639 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 0
+
+Question Label : Multiple Choice Question
+
+\begin{verbatim}
+THIS IS QUESTION PAPER FOR THE SUBJECT "MACHINE LEARNING PRACTICES"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+\end{verbatim}
+
+Options :
+
+6406531149487. ✔ YES
+
+6406531149488. ❌ NO
+
+Sub-Section Number :                        2
+Sub-Section Id :                            64065348901
+
+Question Shuffling Allowed :                  Yes
+
+
+Question Number : 197 Question Id : 640653345640 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+\begin{verbatim}
+Consider the following code snippet:
+
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+X, y = load_iris(return_X_y = True)
+
+The size of X and y is (150, 4) and (150), respectively.
+Which of the following option(s) split X and y into training and test data such that test data has 30 samples?
+\end{verbatim}
+
+Options :
+```

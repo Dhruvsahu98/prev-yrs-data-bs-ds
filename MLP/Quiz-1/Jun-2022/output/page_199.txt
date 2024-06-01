@@ -1,0 +1,45 @@
+```python
+3
+Sub-Section Number : 7
+Sub-Section Id : 64065348906
+Question Shuffling Allowed : Yes
+
+Question Number : 215 Question Id : 640653345655 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Which of the following code snippets represent correct methods to obtain cross validated performance measure using LeaveOneOut?
+
+Options :
+
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import LeaveOneOut
+from sklearn.linear_model import linear_regression
+
+lin_reg = linear_regression()
+loocv = LeaveOneOut()
+score = cross_val_score(lin_reg, X, y, cv=loocv)
+
+6406531149548. ✔
+
+from sklearn.linear_model import SGDRegressor
+linear_regressor = SGDRegressor(loss='squared_error', 
+                                early_stopping=True 
+                                max_iter=500, 
+                                tol=1e-3, 
+                                validation_fraction=0.2, 
+                                n_iter_no_change=5)
+
+6406531149549. ✘
+
+from sklearn.linear_model import linear_regression
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import ShuffleSplit
+from sklearn.model_selection import LeaveOneOut
+lin_reg = linear_regression()
+shuffle_split = ShuffleSplit(n_splits=5, test_size=0.2, random_state=42)
+score = cross_val_score(lin_reg, X, y, cv=loocv)
+
+6406531149550. ✘
+```

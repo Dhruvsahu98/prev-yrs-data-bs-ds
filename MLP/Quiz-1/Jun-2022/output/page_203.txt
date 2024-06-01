@@ -1,0 +1,54 @@
+```plaintext
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+What will be the output of the following code?
+
+print(results.best_score_)
+
+Options :
+
+6406531149572. ✱ 0.32
+
+6406531149573. ✱ 0.528
+
+6406531149574. ✱ 0.681
+
+6406531149575. ✔ -0.609
+
+
+BDM
+
+Section Id : 64065321879
+
+Section Number : 13
+
+Section type : Online
+
+Mandatory or Optional : Mandatory
+
+Number of Questions : 13
+
+Number of Questions to be attempted : 13
+
+Section Marks : 20
+
+Display Number Panel : Yes
+
+Group All Questions : No
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+
+Maximum Instruction Time : 0
+
+Sub-Section Number : 1
+
+Sub-Section Id : 64065348908
+
+Question Shuffling Allowed : No
+
+
+Question Number : 220 Question Id : 640653345664 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+```

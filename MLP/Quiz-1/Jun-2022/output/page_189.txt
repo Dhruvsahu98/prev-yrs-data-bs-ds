@@ -1,0 +1,62 @@
+features.
+
+6406531149526. $\ast$ Only the feature sepal_length has outliers.
+
+---
+
+### Question Number : 200
+**Question Id : 640653345653**  
+**Question Type : MSQ**  
+**Is Question Mandatory : No**  
+**Calculator : None**  
+**Response Time : N.A**  
+**Think Time : N.A**  
+**Minimum Instruction Time : 0**  
+**Correct Marks : 2**  
+**Question Label : Multiple Select Question**
+
+The correct code block or blocks to set adaptive learning rate while using SGDRegressor will be-
+
+**Options :**
+
+```python
+6406531149540. $\ast$
+from sklearn.model_selection import SGDRegressor
+linear_regressor = SGDRegressor(learning_rate='log2', eta0=1e-2)
+```
+
+```python
+6406531149541. $\checkmark$
+from sklearn.linear_model import SGDRegressor
+linear_regressor = SGDRegressor(learning_rate='adaptive', eta0=1e-2)
+```
+
+```python
+6406531149542. $\checkmark$
+from sklearn.linear_model import SGDRegressor
+linear_regressor = SGDRegressor(learning_rate='adaptive')
+```
+
+```python
+6406531149543. $\ast$
+from sklearn.model_selection import SGDRegressor
+SGD_regressor = LinearRegressor(learning_rate='adaptive', eta0=1e-2)
+```
+
+**Sub-Section Number :** 3  
+**Sub-Section Id :** 64065348902  
+**Question Shuffling Allowed :** Yes  
+
+---
+
+### Question Number : 201
+**Question Id : 640653345641**  
+**Question Type : MCQ**  
+**Is Question Mandatory : No**  
+**Calculator : None**  
+**Response Time : N.A**  
+**Think Time : N.A**  
+**Minimum Instruction Time : 0**  
+**Correct Marks : 2**  
+**Question Label : Multiple Choice Question**
+

@@ -1,0 +1,34 @@
+```plaintext
+6406531149510. * (20,10) and (20,)
+
+Question Number : 203 Question Id : 640653345645 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+What is the output of the following block of the code?
+
+```python
+data = [{'plot number': 51, 'Carpet area':251.8},
+        {'Plot number': 69, 'Carpet area':611.9}]
+from sklearn.feature_extraction import DictVectorizer
+dv = DictVectorizer(sparse=False)
+data_transformed = dv.fit_transform(data)
+data_transformed
+```
+
+Options :
+
+6406531149511. * array([[610.9, 0. , 77. ], [ 51. , 251.8, 0. ]])
+
+6406531149512. * array([[611.9, 0. , 69. ], [251.8, 51. , 0. ]])
+
+6406531149513. * array([[251.8, 0. , 69. ], [611.9, 51. , 0. ]])
+
+6406531149514. ✔ array([[251.8, 0. , 51. ], [611.9, 69. , 0. ]])
+
+Question Number : 204 Question Id : 640653345647 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+```

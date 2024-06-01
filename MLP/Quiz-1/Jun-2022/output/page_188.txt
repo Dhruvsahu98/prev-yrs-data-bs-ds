@@ -1,0 +1,46 @@
+```python
+Question Number : 199 
+Question Id : 640653345648 
+Question Type : MSQ Is Question 
+Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0 
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+The output of the following code block based on the 'Iris' dataset is shown in Figure 1.
+
+import seaborn as sns 
+from matplotlib import pyplot as plt 
+iris= sns.load_dataset("iris") 
+sns.set(font_scale=1.5) 
+plt.figure(figsize=(8,6)) 
+sns.boxplot(data=iris) 
+sns.swarmplot(data=iris, size=2, color='k') 
+plt.grid() 
+plt.title('Box Plot') 
+plt.ylabel('Range') 
+plt.show()
+
+Based on the Figure 1, mark the correct statements from below options.
+
+\[
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\textwidth]{boxplot.png}
+    \caption{Box Plot}
+    \label{fig:boxplot}
+\end{figure}
+\]
+
+Options :
+
+6406531149523. ✔️ Median petal_length value is greater than median petal_width.
+
+6406531149524. ❌ Median sepal_length value is smaller than the value of median petal_width.
+
+6406531149525. ✔️ The range of petal_length values is larger than the ranges of all three other variables.
+```

@@ -1,0 +1,51 @@
+```python
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import RidgeCV
+from sklearn.datasets import fetch_california_housing
+california_housing = fetch_california_housing(as_frame=True)
+com_train_features=california_housing.data
+com_train_labels=california_housing.target
+
+lf= np.logspace(-3, 0, num=4)
+
+ridge_reg_pipeline = Pipeline([("poly", PolynomialFeatures(degree=2)),
+                               ("feature_scaling", StandardScaler())
+                              ])
+
+ridge= RidgeCV(alphas=lf,
+               scoring="neg_mean_squared_error",
+               fit_intercept = False)
+results = ridge.fit(com_train_features, com_train_labels)
+
+```
+
+**Sub questions**
+
+**Question Number : 218 Question Id : 640653345661 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+What will be the output of the following code?
+
+```python
+print(results.intercept_)
+```
+
+**Options :**
+
+1. 6406531149568. \* 0.0001
+2. 6406531149569. \* 0.001
+3. 6406531149570. \* 0.1
+4. 6406531149571. ✔ 0.0
+
+**Question Number : 219 Question Id : 640653345662 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**

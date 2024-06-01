@@ -1,0 +1,58 @@
+```python
+What is the output of the following block of the code?
+
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler
+estimators = [('simpleImputer', SimpleImputer()),
+              ('standardScaler', StandardScaler())]
+pipe = Pipeline(steps=estimators)
+print(len(pipe.steps))
+```
+
+Options :
+- 6406531149515. ✔ 2
+- 6406531149516. ✱ 3
+- 6406531149517. ✱ 4
+- 6406531149518. ✱ 1
+
+Sub-Section Number : 6
+
+Sub-Section Id : 64065348905
+
+Question Shuffling Allowed : Yes
+
+Question Number : 214
+Question Id : 640653345652
+Question Type : SA
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+```python
+What will be the output of following block of code?
+
+from sklearn.model_selection import ShuffleSplit
+rs = ShuffleSplit(n_splits=3, random_state=0)
+rs.get_n_splits(X)
+```
+
+**NOTE:** Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+```

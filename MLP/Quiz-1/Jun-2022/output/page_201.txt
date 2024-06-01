@@ -1,0 +1,37 @@
+```python
+Consider the following code snippet:
+
+data=np.array([1, 2, 3, 4])
+from sklearn.preprocessing import PolynomialFeatures
+poly= PolynomialFeatures(degree=3, interaction_only=True)
+data = data.reshape(2,2)
+print(poly.fit_transform(data))
+
+Which of the following is the correct output?
+
+Options :
+
+6406531149560. * array([[ 1., 1., 2., 2.], [ 1., 5., 10., 50.], [ 1., 3., 4., 12.]])
+
+6406531149561. * array([[ 1., 1., 2., 3., 2., 3., 6.], [ 1., 4., 5., 10., 20., 40., 50.]])
+
+6406531149562. * array([[ 1., 4., 5., 10., 20., 40., 50.], [ 1., 1., 2., 3., 2., 3., 6.]])
+
+6406531149563. ✔ array([[ 1., 1., 2., 2.], [ 1., 3., 4., 12.]])
+
+Sub-Section Number : 8
+
+Sub-Section Id : 64065348907
+
+Question Shuffling Allowed : No
+
+Question Id : 640653345660 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A 
+Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (218 to 219)
+
+Question Label : Comprehension
+
+Consider the following code snippet, and answer the given subquestions.
+```

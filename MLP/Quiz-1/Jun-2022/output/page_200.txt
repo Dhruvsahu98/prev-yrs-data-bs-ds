@@ -1,0 +1,38 @@
+```python
+from sklearn.model_selection import cross_validate
+from sklearn.model_selection import ShuffleSplit
+from sklearn.model_implementation import LeaveOneOut
+cv = ShuffleSplit(n_splits=40, test_size=0.3, random_state=0)
+cv_results = cross_validate(regressor, data,
+                            target, cv=cv,
+                            scoring="loocv_neg_mean_absolute_error")
+
+6406531149551. *
+```
+
+Question Number : 216 Question Id : 640653345657 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+Question Label : Multiple Choice Question
+
+What is the recall value for the class “2” for the following block of code?
+
+```python
+from sklearn.metrics import confusion_matrix
+y_true = [2, 0, 2, 2]
+y_pred = [0, 0, 2, 2]
+confusion_matrix(y_true, y_pred)
+from sklearn.metrics import classification_report
+print(classification_report(y_true, y_pred))
+```
+
+Options :
+- 6406531149556. * 1.00
+- 6406531149557. ✔ 0.67
+- 6406531149558. * 0.50
+- 6406531149559. * 0.81
+
+Question Number : 217 Question Id : 640653345658 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+Question Label : Multiple Choice Question

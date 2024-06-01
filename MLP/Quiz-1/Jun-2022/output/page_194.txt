@@ -1,0 +1,32 @@
+```plaintext
+6406531149535. ✔ -3
+6406531149536. ❋ 3
+6406531149537. ❋ -2
+6406531149538. ❋ 2
+
+Question Number : 208 Question Id : 640653345654 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Calculate the coefficient of determination ($R^2$) from the following block of code?
+
+```python
+from sklearn.metrics import r2_score
+y_true = [3, -0.5, 2, 7]
+y_pred = [2.5, 0.0, 2, 8]
+print(r2_score(y_true, y_pred))
+```
+
+Options :
+
+6406531149544. ❋ 0.789
+6406531149545. ✔ 0.948
+6406531149546. ❋ 0.922
+6406531149547. ❋ 0.824
+
+Question Number : 209 Question Id : 640653345656 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+```
