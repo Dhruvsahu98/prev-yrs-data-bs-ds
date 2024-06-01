@@ -1,0 +1,33 @@
+```python
+6406531285676. ✔ 5
+
+Question Number : 195 Question Id : 640653386585 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following is likely to be the correct output of the code given below?
+
+from sklearn import linear_model
+clf = linear_model.Ridge(alpha=1)
+X= [[1,0], [2, 1], [3, 2]]
+y= [10, 20, 30]
+clf.fit(X, y)
+linear_model.Ridge(alpha=1,max_iter=1000, tol=0.0001,fit_intercept=True)
+clf.score(X,y)
+
+Options :
+6406531285691. ✵ 12
+6406531285692. ✵ 29
+6406531285693. ✵ No evaluation metrics are mentioned, hence it will produce an error
+6406531285694. ✔ 0.96
+
+Sub-Section Number : 4
+Sub-Section Id : 64065355288
+Question Shuffling Allowed : Yes
+
+Question Number : 196 Question Id : 640653386574 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following is likely to be the correct output of the code given below?
+```

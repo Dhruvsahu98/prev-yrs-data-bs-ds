@@ -1,0 +1,31 @@
+Which of the following options is likely to be the correct output of the code snippet given below?
+
+```python
+import numpy as np
+from sklearn.preprocessing import MaxAbsScaler
+x= np.array([3, 2, 5, -4, -21]).reshape(-1,1)
+mas = MaxAbsScaler()
+x_new = mas.fit_transform(x)
+print(x_new)
+```
+
+**Options:**
+
+1. 6406531285659. ✔
+\[ \[0.14285714\] \[0.0952381\] \[0.23809524\] \[-0.19047619\] \[-1.\] \]
+
+2. 6406531285660. ❌
+\[ \[0.14285714\] \[0.0952381\] \[0.23809524\] \[-0.23809524\] \[-1.19047619\] \[-0.\] \]
+
+3. 6406531285661. ❌
+\[ \[0.14285714\] \[0.0952381\] \[0.23809524\] \[-0.19047619\] \[1.2134245\] \]
+
+4. 6406531285662. ❌
+\[ \[0.0952381\] \[0.23809524\] \[-0.19047619\] \[-1.\] \]
+
+Question Number : 193 Question Id : 640653386579 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 2  
+
+Question Label : Multiple Choice Question  
+In the figure 1, what are the names of classes arranged in the increasing order of the median values?

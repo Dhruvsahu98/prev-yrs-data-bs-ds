@@ -1,0 +1,39 @@
+```latex
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{box_plot.png}
+    \caption{Box plot}
+\end{figure}
+```
+
+Options :
+
+- 6406531285663. ❌ First < Second < Third
+- 6406531285664. ✔ Third < Second < First
+- 6406531285665. ❌ Second < Third < First
+- 6406531285666. ❌ Third < First < Second
+
+Question Number : 194 Question Id : 640653386581 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 2  
+
+Question Label : Multiple Choice Question
+
+Go through the code snippet given below and mark the correct output.
+
+```python
+from sklearn.metrics import max_error
+
+y_true = [2, 2, 2, 1]
+y_pred = [3, 5, 7, 5]
+
+max_error(y_true, y_pred)
+```
+
+Options :
+
+- 6406531285671. ❌ 1
+- 6406531285672. ❌ 3
+- 6406531285673. ❌ 9
+- 6406531285674. ❌ 25
+- 6406531285675. ✔ 4

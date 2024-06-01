@@ -1,0 +1,67 @@
+```python
+Question Label : Multiple Choice Question
+
+Go through the code snippet given below and mark the correct output.
+
+from sklearn.metrics import r2_score
+y_true = [3, -1, 2, 8]
+y_pred = [2, 0.0, 2, 8]
+r2_score(y_true, y_pred)
+
+Options :
+
+6406531285677. ** 0.61
+
+6406531285678. ** 0.83
+
+6406531285679. ✔ 0.95
+
+6406531285680. ** 1
+
+6406531285681. ** -0.6
+
+6406531285682. ** 5
+```
+
+```python
+Question Number : 200 Question Id : 640653386584 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0 
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following is likely to be the correct output of the code given below?
+
+from sklearn.preprocessing import OneHotEncoder
+enc = OneHotEncoder(handle_unknown='ignore')
+X = [['Red', 1], ['White', 2], ['orange', 2]]
+b=enc.fit_transform(X).toarray()
+print(b)
+
+Options :
+
+6406531285687. ** 
+
+\begin{tabular}{ccc}
+0.0 & 1.0 & 0.0 \\
+0.0 & 1.0 & 0.1 \\
+0.0 & 1.0 & 0.1 \\
+\end{tabular}
+
+6406531285688. ** 
+
+\begin{tabular}{cccccc}
+1.0 & 0.0 & 0.0 & 1.0 & 0.0 & 0.0 \\
+0.0 & 1.0 & 0.0 & 0.0 & 1.0 & 0.0 \\
+0.0 & 1.0 & 0.0 & 0.0 & 1.0 & 0.1 \\
+\end{tabular}
+
+6406531285689. ** 
+
+\begin{tabular}{cccccc}
+1.0 & 0.0 & 0.0 & 1.0 & 0.0 & 0.0 \\
+0.0 & 1.0 & 0.0 & 0.0 & 1.0 & 0.0 \\
+0.0 & 1.0 & 0.0 & 0.0 & 1.0 & 0.2 \\
+\end{tabular}
+```

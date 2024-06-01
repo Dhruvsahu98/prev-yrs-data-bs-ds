@@ -1,0 +1,49 @@
+```plaintext
+Which of the following code blocks will correctly return an array of feature variables?
+
+Options :
+
+```python
+from sklearn.datasets import load_iris
+X,y = load_iris()
+print(X)
+```
+6406531285639. ❌
+
+```python
+from sklearn.datasets import load_iris
+data = load_iris()
+print(data.data)
+```
+6406531285640. ✔
+
+```python
+from sklearn.datasets import load_iris
+(X, y) = load_iris()
+print(X)
+```
+6406531285641. ❌
+
+```python
+from sklearn.datasets import load_iris
+X,y = load_iris(return_X_y = True)
+print(X)
+```
+6406531285642. ✔
+
+Sub-Section Number : 6
+Sub-Section Id : 64065355290
+Question Shuffling Allowed : Yes
+
+Question Number : 203 Question Id : 640653386571 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+Scikit-Learn's API is remarkably well designed. The main design principles are:-
+
+Options :
+6406531285631. ✔ Nonproliferation of classes
+6406531285632. ✔ Sensible defaults
+6406531285633. ✔ Consistency
+6406531285634. ❌ Proportion
+```

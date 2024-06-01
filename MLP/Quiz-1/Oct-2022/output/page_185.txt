@@ -1,0 +1,52 @@
+```python
+6406531285649.  # <class 'sklearn.utils.Ndarray'>
+```
+
+```python
+6406531285650.  # It will result in an error
+```
+
+Question Number : 191  
+Question Id : 640653386576  
+Question Type : MCQ Is Question  
+Mandatory : No  
+Calculator : None  
+Response Time : N.A  
+Think Time : N.A  
+Minimum Instruction Time : 0  
+
+Correct Marks : 2  
+
+Question Label : Multiple Choice Question
+
+Go through the code snippet given below:
+
+```python
+import numpy as np
+j = 1000
+i = 6
+X = 2 * np.random.randn(j, i)
+y = 6+ 3* np.random.randn(j)
+```
+
+What will be the shape of the feature matrix (X.shape) and the label vector (y.shape)?
+
+Options :
+
+1. 6406531285651. $\ast$ (2000, 12) and (1000, 6)
+2. 6406531285652. $\ast$ (1, 1000) and (1,1000)
+3. 6406531285653. $\ast$ (599, 1) and (699, 1)
+4. 6406531285654. $\checkmark$ (1000, 6) and (1000,)
+
+Question Number : 192  
+Question Id : 640653386578  
+Question Type : MCQ Is Question  
+Mandatory : No  
+Calculator : None  
+Response Time : N.A  
+Think Time : N.A  
+Minimum Instruction Time : 0  
+
+Correct Marks : 2  
+
+Question Label : Multiple Choice Question

@@ -1,0 +1,44 @@
+```python
+6406531285690. ✔️ [[1. 0. 0. 1. 0.] [0. 1. 0. 0. 1.] [0. 0. 1. 0. 1.]]
+```
+
+**Question Number : 201 Question Id : 640653386587 Question Type : MCQ Is Question**  
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**  
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**  
+Which of the following code blocks will correctly take the learning rate as 'optimal' ?
+
+**Options :**
+
+```python
+6406531285696. ✔️
+from sklearn.linear_model import SGDRegressor
+linear_regressor = SGDRegressor(learning_rate='optimal', eta0=1e-3)
+```
+
+```python
+6406531285697. ❌
+from sklearn.linear_model import SGDRegressor
+linear_regressor = (SGDRegressor_learning_rate='adaptive', eta0=1e-2)
+```
+
+```python
+6406531285698. ❌
+from sklearn.model_selection import SGDRegressor
+SGD_regressor = LinearRegressor(learning_rate='optimal', eta0=1e-2)
+```
+
+```python
+6406531285699. ❌ None of these
+```
+
+**Sub-Section Number :** 5  
+**Sub-Section Id :** 64065355289  
+**Question Shuffling Allowed :** Yes  
+
+**Question Number : 202 Question Id : 640653386573 Question Type : MSQ Is Question**  
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**  
+**Correct Marks : 2**
+
+**Question Label : Multiple Select Question**  

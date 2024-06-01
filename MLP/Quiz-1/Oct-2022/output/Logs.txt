@@ -1,0 +1,769 @@
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_182.jpeg
+Output : ```plaintext
+Possible Answers :
+
+0.39 to 0.41
+
+MLP
+
+Section Id : 64065323893
+Section Number : 12
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 20
+Number of Questions to be attempted : 20
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065355285
+Question Shuffling Allowed : No
+
+Question Number : 187 Question Id : 640653386570 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING PRACTICE"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_183.jpeg
+An error occurred: 'charmap' codec can't encode character '\u2714' in position 31: character maps to <undefined>
+Output : ```
+Options :
+6406531285629. ✔ YES
+6406531285630. ✖ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065355286
+Question Shuffling Allowed : Yes
+
+Question Number : 188 Question Id : 640653386583 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+The violin plot shown in Figure 2 demonstrates the age of passengers on the Titanic ship. Mark the approximate age range of most of the passengers.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.5\textwidth]{violin_plot.png}
+\caption{Violin plot for Titanic data-set}
+\end{figure}
+
+Options :
+6406531285683. ✔ 20 - 40
+6406531285684. ✖ 80 above
+6406531285685. ✖ Less than 20
+6406531285686. ✖ 40-60
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_184.jpeg
+An error occurred: 'charmap' codec can't encode character '\u2714' in position 541: character maps to <undefined>
+Output : ```
+Sub-Section Number : 3
+Sub-Section Id : 64065355287
+Question Shuffling Allowed : Yes
+
+Question Number : 189 Question Id : 640653386572 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Which of the following Sklearn objects can help you to reduce, expand or generate feature representations?
+
+Options :
+
+6406531285635. * Estimator
+
+6406531285636. * Predictor
+
+6406531285637. ✔ Transformer
+
+6406531285638. * None of these
+```
+
+```
+Question Number : 190 Question Id : 640653386575 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+What will be the output of the following code?
+
+\begin{verbatim}
+from sklearn.datasets import load_wine
+data= load_wine(return_X_y = False)
+print(type(data))
+\end{verbatim}
+
+Options :
+
+6406531285647. ✔ <class 'sklearn.utils.Bunch'>
+
+6406531285648. * <class 'sklearn.utils.Tuple'>
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_185.jpeg
+An error occurred: 'charmap' codec can't encode character '\u274b' in position 20: character maps to <undefined>
+Output : ```
+6406531285649. ❋ <class[sklearn.utils.Ndarray'>
+6406531285650. ❋ It will result in an error
+```
+
+Question Number : 191 Question Id : 640653386576 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 2  
+Question Label : Multiple Choice Question  
+
+Go through the code snippet given below:  
+
+```python
+import numpy as np
+j = 1000
+i = 6
+X = 2 * np.random.randn(j, i)
+y = 6+ 3* np.random.randn(j)
+```
+
+What will be the shape of the feature matrix (X.shape) and the label vector (y.shape)?
+
+Options :
+
+6406531285651. ❋ (2000, 12) and (1000, 6)  
+6406531285652. ❋ (1, 1000) and (1,1000)  
+6406531285653. ❋ (599, 1) and (699, 1)  
+6406531285654. ✔ (1000, 6) and (1000,)
+
+Question Number : 192 Question Id : 640653386578 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 2  
+Question Label : Multiple Choice Question
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_186.jpeg
+An error occurred: 'charmap' codec can't encode character '\u2714' in position 317: character maps to <undefined>
+Output : ```
+Which of the following options is likely to be the correct output of the code snippet given below?
+
+import numpy as np
+from sklearn.preprocessing import MaxAbsScaler
+x= np.array([3, 2, 5, -4, -21]).reshape(-1,1)
+mas = MaxAbsScaler()
+x_new = mas.fit_transform(x)
+print(x_new)
+
+Options:
+
+6406531285659. ✔
+
+[[ 0.14285714] [ 0.0952381 ] [ 0.23809524] [-0.19047619] [-1. ]]
+
+6406531285660. ❌
+
+[[ 0.14285714] [ 0.0952381 ] [-0.23809524] [-1.19047619] [-0. ]]
+
+6406531285661. ❌
+
+[[ 0.14285714] [ 0.0952381 ] [ 0.23809524] [-0.19047619] [ 1.2134245 ]]
+
+6406531285662. ❌
+
+[[ 0.0952381 ] [ 0.23809524] [-0.19047619] [-1. ]]
+
+Question Number : 193 Question Id : 640653386579 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+In the figure 1, what are the names of classes arranged in the increasing order of the median values?
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_187.jpeg
+An error occurred: 'charmap' codec can't encode character '\u274c' in position 1145: character maps to <undefined>
+Output : ```
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    boxplot/draw direction=y,
+    ylabel={class},
+    xlabel={age},
+    xtick={0, 10, 20, 30, 40, 50, 60, 70, 80},
+    ytick={1, 2, 3},
+    yticklabels={First, Second, Third},
+]
+% First class data
+\addplot+[
+    boxplot prepared={
+        lower whisker=15,
+        lower quartile=20,
+        median=30,
+        upper quartile=45,
+        upper whisker=60,
+        every box/.style={fill=blue}
+    },
+] coordinates {};
+% Second class data
+\addplot+[
+    boxplot prepared={
+        lower whisker=10,
+        lower quartile=15,
+        median=25,
+        upper quartile=35,
+        upper whisker=50,
+        every box/.style={fill=orange}
+    },
+] coordinates {};
+% Third class data
+\addplot+[
+    boxplot prepared={
+        lower whisker=5,
+        lower quartile=10,
+        median=20,
+        upper quartile=30,
+        upper whisker=40,
+        every box/.style={fill=green}
+    },
+] coordinates {};
+\end{axis}
+\end{tikzpicture}
+\caption{Box plot}
+\end{figure}
+```
+
+Options :
+
+\begin{itemize}
+\item \textbf{6406531285663.} ❌ \textit{First < Second < Third}
+\item \textbf{6406531285664.} ✔️ \textit{Third < Second < First}
+\item \textbf{6406531285665.} ❌ \textit{Second < Third < First}
+\item \textbf{6406531285666.} ❌ \textit{Third < First < Second}
+\end{itemize}
+
+Question Number : 194 Question Id : 640653386581 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2 Question Label : Multiple Choice Question
+
+Go through the code snippet given below and mark the correct output.
+
+```
+from sklearn.metrics import max_error
+y_true = [2, 2, 2, 1]
+y_pred = [3, 5, 7, 5]
+max_error(y_true, y_pred)
+```
+
+Options :
+
+\begin{itemize}
+\item \textbf{6406531285671.} ❌ \textit{1}
+\item \textbf{6406531285672.} ❌ \textit{3}
+\item \textbf{6406531285673.} ❌ \textit{9}
+\item \textbf{6406531285674.} ❌ \textit{25}
+\item \textbf{6406531285675.} ❌ \textit{4}
+\end{itemize}
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_188.jpeg
+An error occurred: 'charmap' codec can't encode character '\u2714' in position 29: character maps to <undefined>
+Output : ```plaintext
+6406531285676. ✔ 5
+
+Question Number : 195 Question Id : 640653386585 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following is likely to be the correct output of the code given below?
+
+\begin{verbatim}
+from sklearn import linear_model
+clf = linear_model.Ridge(alpha=1)
+X= [[1,0], [2, 1], [3, 2]]
+y= [10, 20, 30]
+clf.fit(X, y)
+linear_model.Ridge(alpha=1,max_iter=1000, tol=0.0001,fit_intercept=True)
+clf.score(X,y)
+\end{verbatim}
+
+Options :
+
+6406531285691. ❌ 12
+
+6406531285692. ❌ 29
+
+6406531285693. ❌ No evaluation metrics are mentioned, hence it will produce an error
+
+6406531285694. ✔ 0.96
+
+Sub-Section Number : 4
+
+Sub-Section Id : 64065355288
+
+Question Shuffling Allowed : Yes
+
+Question Number : 196 Question Id : 640653386574 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following is likely to be the correct output of the code given below?
+```
+
+
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_189.jpeg
+An error occurred: 'charmap' codec can't encode character '\u274c' in position 406: character maps to <undefined>
+Output : ```
+from math import nan
+import numpy as np
+from sklearn.impute import SimpleImputer
+data=[(2,3),(4,5),(3,1),(1,2),(5, nan)]
+imputer = SimpleImputer(missing_values = np.nan, strategy ='mean',
+                        add_indicator=True)
+
+imputer = imputer.fit(data)
+data_imputed_with_indicator = imputer.transform(data)
+print (data_imputed_with_indicator)
+```
+
+Options :
+
+```
+6406531285643. ❌
+[[2.  3.  0.] [4.  5.  0.] [3.  1.  0.] [1.  2.  0.] [5.  2.2 1.]]
+
+6406531285644. ✔
+[[2.  3.  0.] [4.  5.  0.] [3.  1.  0.] [1.  2.  0.] [5.  2.75 1.]]
+
+6406531285645. ❌
+[[2.3  4.5.  5.] [3.1.] [1.2.] [5. 2.2]]
+
+6406531285646. ❌
+There are some mistakes in the code, hence it will produce errors.
+```
+
+Question Number : 197 Question Id : 640653386577 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Consider the following code snippet:
+
+```
+data=np.array([ 5,7,2,1])
+from sklearn.preprocessing import PolynomialFeatures
+poly= PolynomialFeatures(degree=2, interaction_only=True)
+data = data.reshape(2,2)
+poly.fit_transform(data)
+```
+
+Which of the following could be the correct output?
+
+Options :
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_190.jpeg
+An error occurred: 'charmap' codec can't encode characters in position 29-30: character maps to <undefined>
+Output : ```plaintext
+6406531285655. ✔️
+\[
+\text{array}([\left[1, 5, 7, 35\right], \left[1, 2, 1, 2\right]])
+\]
+
+6406531285656. ❌
+\[
+\text{array}([\left[1, 5, 7\right], \left[1, 2, 1\right]])
+\]
+
+6406531285657. ❌
+\[
+\text{array}([\left[1, 5, 7, 25, 35, 49, 125, 175, 245, 343\right], \left[1, 2, 1, 4, 2, 1, 8, 4, 2, 1\right]])
+\]
+
+6406531285658. ❌
+\[
+\text{array}([\left[1, 5, 7, 25, 35, 49\right], \left[1, 2, 1, 4, 2, 1\right]])
+\]
+
+Question Number : 198 Question Id : 640653386580 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Which of the following options will be the correct output of \text{print}(clf.coef\_)? 
+
+\begin{verbatim}
+from sklearn import linear_model
+clf = linear_model.Lasso(alpha=0.1)
+clf.fit([[3,1,0], [2, 2, 1], [1,3, 2]], [2,5,1])
+linear_model.Lasso(alpha=0.1,max_iter=1000, tol=0.0001, warm_start=False,fit_intercept=True)
+\end{verbatim}
+
+Options :
+
+6406531285667. ✔️ \([ 0.35 -0. -0. ]\)
+
+6406531285668. ❌ [-0.85,0]
+
+6406531285669. ❌ [3,2,1,2]
+
+6406531285670. ❌ Given code block will return an error.
+
+Question Number : 199 Question Id : 640653386582 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_191.jpeg
+Output : ```
+Question Label : Multiple Choice Question
+
+Go through the code snippet given below and mark the correct output.
+
+from sklearn.metrics import r2_score
+y_true = [3, -1, 2, 8]
+y_pred = [2, 0.0, 2, 8]
+r2_score(y_true, y_pred)
+
+Options :
+
+6406531285677. $\ast$ 0.61
+
+6406531285678. $\ast$ 0.83
+
+6406531285679. $\checkmark$ 0.95
+
+6406531285680. $\ast$ 1
+
+6406531285681. $\ast$ -0.6
+
+6406531285682. $\ast$ 5
+
+
+Question Number : 200 Question Id : 640653386584 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following is likely to be the correct output of the code given below?
+
+from sklearn.preprocessing import OneHotEncoder
+enc = OneHotEncoder(handle_unknown='ignore')
+X = [['Red', 1], ['White', 2], ['orange', 2]]
+b=enc.fit_transform(X).toarray()
+print(b)
+
+Options :
+
+6406531285687. $\ast$
+
+\[
+\begin{bmatrix}
+0.0 & 0.0 & 1.0 & 0.0 & 1.0 & 0.0 & 1.0 \\
+0.0 & 1.0 & 0.0 & 0.0 & 1.0 & 0.1 & 0.1 \\
+0.0 & 1.0 & 0.0 & 0.1 & 0.1 & 0.1 & 0.1 \\
+\end{bmatrix}
+\]
+
+6406531285688. $\ast$
+
+\[
+\begin{bmatrix}
+1.0 & 0.0 & 0.0 & 1.0 & 0.0 & 0.0 & 1.0 \\
+1.0 & 0.0 & 0.0 & 1.0 & 0.0 & 0.0 & 1.0 \\
+1.0 & 0.0 & 0.0 & 1.0 & 0.0 & 0.0 & 1.0 \\
+\end{bmatrix}
+\]
+
+6406531285689. $\ast$
+
+\[
+\begin{bmatrix}
+1.0 & 0.0 & 0.0 & 1.0 & 0.0 & 0.0 & 1.0 \\
+0.0 & 1.0 & 0.0 & 0.0 & 1.0 & 0.0 & 1.0 \\
+0.0 & 1.0 & 0.0 & 0.1 & 0.1 & 0.1 & 0.1 \\
+\end{bmatrix}
+\]
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_192.jpeg
+An error occurred: 'charmap' codec can't encode characters in position 20-21: character maps to <undefined>
+Output : ```
+6406531285690. ✔️
+
+\[
+\left[ \left[ 1.0 \; 0.0 \; 1.0 \right] \; \left[ 0.1 \; 0.0 \; 0.1 \right] \; \left[ 0.0 \; 1.0 \; 0.1 \right] \; \left[ 0.0 \; 1.0 \; 1.0 \right] \right]
+\]
+
+Question Number : 201 Question Id : 640653386587 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following code blocks will correctly take the learning rate as ‘optimal’ ?
+
+Options :
+
+\[
+\begin{verbatim}
+6406531285696. ✔️
+
+from sklearn.linear_model import SGDRegressor
+linear_regressor = SGDRegressor(learning_rate='optimal', eta0=1e-3)
+\end{verbatim}
+\]
+
+\[
+\begin{verbatim}
+6406531285697. ❌
+
+from sklearn.linear_model import SGDRegressor
+linear_regressor = (SGDRegressor_learning_rate='adaptive',eta0=1e-2)
+\end{verbatim}
+\]
+
+\[
+\begin{verbatim}
+6406531285698. ❌
+
+from sklearn.model_selection import SGDRegressor
+SGD_regressor = LinearRegressor(learning_rate='optimal',eta0=1e-2)
+\end{verbatim}
+\]
+
+\[
+\begin{verbatim}
+6406531285699. ❌ None of these
+\end{verbatim}
+\]
+
+Sub-Section Number : 5
+
+Sub-Section Id : 64065355289
+
+Question Shuffling Allowed : Yes
+
+Question Number : 202 Question Id : 640653386573 Question Type : MSQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_193.jpeg
+An error occurred: 'charmap' codec can't encode character '\u274c' in position 195: character maps to <undefined>
+Output : ```
+Which of the following code blocks will correctly return an array of feature variables?
+
+Options :
+
+from sklearn.datasets import load_iris
+X,y = load_iris()
+print(X)
+
+6406531285639. ❌
+
+from sklearn.datasets import load_iris
+data = load_iris()
+print(data.data)
+
+6406531285640. ✔️
+
+from sklearn.datasets import load_iris
+(X, y) = load_iris()
+print(X)
+
+6406531285641. ❌
+
+from sklearn.datasets import load_iris
+X,y = load_iris(return_X_y = True)
+print(X)
+
+6406531285642. ✔️
+
+Sub-Section Number : 6
+Sub-Section Id : 64065355290
+Question Shuffling Allowed : Yes
+
+Question Number : 203 Question Id : 640653386571 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+Scikit-Learn’s API is remarkably well designed. The main design principles are:-
+
+Options :
+
+6406531285631. ✔️Nonproliferation of classes
+6406531285632. ✔️Sensible defaults
+6406531285633. ✔️Consistency
+6406531285634. ❌Proportion
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_194.jpeg
+An error occurred: 'charmap' codec can't encode character '\u274c' in position 1013: character maps to <undefined>
+Output : ```
+Question Number : 204 Question Id : 640653386588 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+Go through the code block given below:
+
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import RidgeCV
+from sklearn.datasets import load_diabetes
+diabetes = load_diabetes(as_frame=True)
+train_X= diabetes.data
+train_y= diabetes.target
+
+lf= np.logspace(-5, 0, num=6)
+
+reg= Pipeline([("poly", PolynomialFeatures(degree=2)),
+              ("feature_scaling", StandardScaler())
+              ])
+
+ridge= RidgeCV(alphas=lf,scoring= None,fit_intercept = False)
+results = ridge.fit(train_X, train_y)
+print(results.intercept_)
+
+Which of the following can’t be the correct output of the given code block?
+
+Options :
+
+6406531285700. ❌ 0.0
+
+6406531285701. ✔ 0.01
+
+6406531285702. ✔ 0.1
+
+6406531285703. ✔ 1
+
+Sub-Section Number : 7
+
+Sub-Section Id : 64065355291
+
+Question Shuffling Allowed : Yes
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_195.jpeg
+Output : ```
+Question Number : 205 Question Id : 640653386586 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Enter the correct output of the following code block.
+
+\begin{verbatim}
+import numpy as np
+from sklearn.model_selection import ShuffleSplit
+X = np.array([[2, 2], [5, 4], [1, 6], [2, 8], [3, 4], [2, 6]])
+y = np.array([3, 2, 1, 2, 3, 2])
+rs = ShuffleSplit(n_splits=5, test_size=.25, random_state=0)
+k=1
+for i, j in rs.split(X):
+    k+=1
+print(k)
+\end{verbatim}
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+6
+
+Sub-Section Number : 8
+Sub-Section Id : 64065355292
+Question Shuffling Allowed : No
+
+Question Id : 640653386589 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (206 to 207)
+Question Label : Comprehension
+Go through the code snippet given below and answer the given subquestions.
+```
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_196.jpeg
+Output : ```python
+import numpy as np
+from sklearn.linear_model import SGDRegressor
+from sklearn.pipeline import make_pipeline
+n_samples, n_features = 18, 4
+rng = np.random.RandomState(0)
+y = rng.randn(n_samples)
+X = rng.randn(n_samples, n_features)
+reg = SGDRegressor(max_iter=1000,tol=1e-3,eta0= 0.04, power_t=5,
+                   n_iter_no_change=3, validation_fraction=0.3 ,random_state=42)
+reg.fit(X, y)
+print(reg.coef_)
+```
+
+Sub questions
+
+Question Number : 206 Question Id : 640653386590 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+Question Label : Multiple Choice Question  
+Which of the following options will be the output of the given code?  
+
+Options :  
+6406531285704. $\checkmark$ [-0.02634908 0.01189399 0.0917284 0.08966849]  
+6406531285705. $\ast$ array([-0.22622766, -0.00582008, -0.1820344 , 0.03518086, -0.14490955])  
+6406531285706. $\ast$ array([-0.22622766, -0.00582008, -0.1820344 ])  
+6406531285707. $\ast$ Given code will return an error because the data set is not given  
+
+Question Number : 207 Question Id : 640653386591 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+Question Label : Multiple Choice Question  
+Which of the following could be the possible output of print(reg.score())?  
+
+Options :  
+6406531285708. $\ast$ -0.528  
+6406531285709. $\ast$ 1  
+Using image url : https://raw.githubusercontent.com/Dhruvsahu98/prev-yrs-data-bs-ds/main/MLP/Quiz-1/Oct-2022/input/page_197.jpeg
+An error occurred: 'charmap' codec can't encode character '\u274b' in position 20: character maps to <undefined>
+Output : ```
+6406531285710. ❋ 0.528
+
+6406531285711. ✔ Given code will return an error
+
+\section*{BDM}
+
+\begin{tabular}{ll}
+    \textbf{Section Id :} & 64065323894 \\
+    \textbf{Section Number :} & 13 \\
+    \textbf{Section type :} & Online \\
+    \textbf{Mandatory or Optional :} & Mandatory \\
+    \textbf{Number of Questions :} & 13 \\
+    \textbf{Number of Questions to be attempted :} & 13 \\
+    \textbf{Section Marks :} & 16 \\
+    \textbf{Display Number Panel :} & Yes \\
+    \textbf{Group All Questions :} & No \\
+    \textbf{Enable Mark as Answered Mark for Review and Clear Response :} & Yes \\
+    \textbf{Maximum Instruction Time :} & 0 \\
+    \textbf{Sub-Section Number :} & 1 \\
+    \textbf{Sub-Section Id :} & 64065355293 \\
+    \textbf{Question Shuffling Allowed :} & No \\
+\end{tabular}
+
+\section*{Question Number : 208}
+
+\begin{tabular}{ll}
+    \textbf{Question Id :} & 640653386592 \\
+    \textbf{Question Type :} & MCQ \\
+    \textbf{Is Question Mandatory :} & No \\
+    \textbf{Calculator :} & None \\
+    \textbf{Response Time :} & N.A \\
+    \textbf{Think Time :} & N.A \\
+    \textbf{Minimum Instruction Time :} & 0 \\
+    \textbf{Correct Marks :} & 0 \\
+\end{tabular}
+
+\textbf{Question Label :} Multiple Choice Question
+```

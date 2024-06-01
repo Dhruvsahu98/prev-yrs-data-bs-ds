@@ -1,0 +1,48 @@
+```python
+import numpy as np
+from sklearn.linear_model import SGDRegressor
+from sklearn.pipeline import make_pipeline
+n_samples, n_features = 18, 4
+rng = np.random.RandomState(0)
+y = rng.randn(n_samples)
+X = rng.randn(n_samples, n_features)
+reg = SGDRegressor(max_iter=1000,tol=1e-3,eta0= 0.04, power_t=5, 
+                   n_iter_no_change=3, validation_fraction=0.3 ,random_state=42)
+
+reg.fit(X, y)
+print(reg.coef_)
+```
+
+Sub questions
+
+**Question Number : 206 Question Id : 640653386590 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Which of the following options will be the output of the given code?
+
+**Options :**
+
+- 6406531285704. ✔ [-0.02634908 0.01189399 0.0917284 0.08966849]
+
+- 6406531285705. ❋ array([-0.22622766, -0.00582008, -0.1820344 , 0.03518086, -0.14490955])
+
+- 6406531285706. ❋ array([-0.22622766, -0.00582008, -0.1820344 ])
+
+- 6406531285707. ❋ Given code will return an error because the data set is not given
+
+**Question Number : 207 Question Id : 640653386591 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Which of the following could be the possible output of print(reg.score())?
+
+**Options :**
+
+- 6406531285708. ❋ -0.528
+
+- 6406531285709. ❋ 1

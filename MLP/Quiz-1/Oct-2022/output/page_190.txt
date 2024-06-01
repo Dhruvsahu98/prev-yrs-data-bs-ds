@@ -1,0 +1,42 @@
+```plaintext
+6406531285655. ✔
+array([[1., 5., 7., 35.], [1., 2., 1., 2.]])
+
+6406531285656. ❌
+array([[1., 5., 7.], [1., 2., 1.]])
+
+6406531285657. ❌
+array([[1., 5., 7, 25, 35., 49., 125., 175., 245., 343.], [1., 2., 1., 4., 2., 1., 8., 4., 2., 1.]])
+
+6406531285658. ❌
+array([[1., 5., 7., 25., 35., 49.], [1., 2., 1., 4., 2., 1.]])
+
+Question Number : 198 Question Id : 640653386580 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following options will be the correct output of print(clf.coef_)?
+
+```python
+from sklearn import linear_model
+clf = linear_model.Lasso(alpha=0.1)
+clf.fit([[3,1,0], [2, 2, 1], [1,3, 2]], [2,5,1])
+linear_model.Lasso(alpha=0.1,max_iter=1000, tol=0.0001, warm_start=False,fit_intercept=True)
+```
+
+Options :
+
+6406531285667. ✔ [ 0.35 -0. -0. ]
+
+6406531285668. ❌ [-0.85,0]
+
+6406531285669. ❌ [3,2,1,2]
+
+6406531285670. ❌ Given code block will return an error.
+
+Question Number : 199 Question Id : 640653386582 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+```
