@@ -1,0 +1,75 @@
+```plaintext
+Question Number : 182 Question Id : 640653521179 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 2 
+Question Label : Multiple Choice Question 
+
+What might be the possible output of the following code:
+
+```
+from sklearn.metrics import precision_score
+y_true = [1,1,0,1,0,0,1]
+y_pred = [0,1,0,1,1,1,1]
+precision_score(y_true,y_pred)
+```
+
+Options : 
+6406531737125. * 0.00 
+6406531737126. * 0.33 
+6406531737127. ✔ 0.66 
+6406531737128. * 0.99
+
+
+Question Number : 183 Question Id : 640653521181 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 2 
+Question Label : Multiple Choice Question 
+
+Mention TRUE or FALSE: Feature scaling does not impact KNN model performance 
+
+Options : 
+6406531737133. * TRUE 
+6406531737134. ✔ FALSE
+
+
+Question Number : 184 Question Id : 640653521182 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 2 
+Question Label : Multiple Choice Question
+```
+
+### Mathematical Expressions
+
+The precision score calculation in LaTeX:
+
+\[
+\text{precision\_score}(\mathbf{y}_{\text{true}}, \mathbf{y}_{\text{pred}})
+\]
+
+### LaTeX Code for Tables and Diagrams
+
+#### Table for Options
+```latex
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Option ID & Option Value \\ \hline
+6406531737125 & 0.00 \\ \hline
+6406531737126 & 0.33 \\ \hline
+6406531737127 & 0.66 \\ \hline
+6406531737128 & 0.99 \\ \hline
+\end{tabular}
+\caption{Options for Question Number 182}
+\end{table}
+```
+
+#### Diagram for Code Block
+```latex
+\begin{verbatim}
+from sklearn.metrics import precision_score
+y_true = [1,1,0,1,0,0,1]
+y_pred = [0,1,0,1,1,1,1]
+precision_score(y_true,y_pred)
+\end{verbatim}
+```

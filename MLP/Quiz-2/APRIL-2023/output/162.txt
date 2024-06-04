@@ -1,0 +1,51 @@
+```
+'multiclass'
+'multiclass'
+'binary'
+
+'binary'
+'multiclass'
+'multilabel-indicator'
+
+'multilabel-indicator'
+'continuous'
+'binary'
+```
+
+```
+6406531737083.
+```
+
+```
+6406531737084.
+```
+
+**Question Number : 176 Question Id : 640653521169
+Question Type : MCQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Brajesh wrote following code snippet:
+
+```python
+clf = Perceptron(max_iter=100,
+                 random_state=1729)
+```
+
+He learnt that every time he calls fit() method on ‘clf’, the parameters learnt from the previous training session (i.e. previous call to ‘fit()’) are lost. What should he change in code so that this problem is removed?
+
+Options :
+
+```
+6406531737085. ✔ Set ‘warm_start=True’
+6406531737086. ✖ Combine training data from different training sessions
+6406531737087. ✖ Set ‘retain_parameters=True’
+6406531737088. ✖ This problem can not be solved.
+```

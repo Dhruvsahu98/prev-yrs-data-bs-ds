@@ -1,0 +1,42 @@
+```python
+rfc = RandomForestClassifier(random_state=0)
+param_distributions = {'n_estimators': [50, 100, 150],
+                       'max_depth': [5, 10, 15],
+                       'min_samples_split': [2, 4, 6]}
+randomized_search = RandomizedSearchCV(rfc,
+                                       param_distributions=param_distributions,
+                                       cv=5)
+```
+```python
+rfc = RandomForestClassifier(random_state=0)
+param_distributions = {'n_estimators': [50, 100, 150],
+                       'max_depth': [5, 10, 15],
+                       'min_samples_split': [2, 4, 6]}
+randomized_search = RandomizedSearchCV(rfc,
+                                       param_distributions=param_distributions,
+                                       cv=5)
+```
+
+---
+
+\textbf{Question Number : 186 Question Id : 640653521186 Question Type : MCQ Is Question} \\
+\textbf{Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0} \\
+\textbf{Correct Marks : 2} \\
+\textbf{Question Label : Multiple Choice Question} \\
+
+Decision Trees are prone to:
+
+\textbf{Options :} \\
+\textbf{6406531737151.} \textcolor{red}{* Low bias, low variance} \\
+\textbf{6406531737152.} \textcolor{red}{* High bias, low variance} \\
+\textbf{6406531737153.} \textcolor{green}{* Low bias, high variance} \\
+\textbf{6406531737154.} \textcolor{red}{* High bias, high variance} \\
+
+---
+
+\textbf{Question Number : 187 Question Id : 640653521189 Question Type : MCQ Is Question} \\
+\textbf{Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0} \\
+\textbf{Correct Marks : 2} \\
+\textbf{Question Label : Multiple Choice Question} \\
+
+Consider the following code. How many DecisionTreeClassifier models will be trained internally?

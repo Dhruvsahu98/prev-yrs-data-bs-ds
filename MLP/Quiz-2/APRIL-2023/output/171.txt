@@ -1,0 +1,54 @@
+```plaintext
+Question Number : 191 Question Id : 640653521175 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Which of the following option(s) are correct regarding regularization?
+
+Options :
+
+6406531737109. ✔ It is a technique used to minimize the adjusted loss function and avoid overfitting.
+
+6406531737110. ✖ It increases the bias and variance of the training model
+
+6406531737111. ✔ Elastic net regularization is a combination of L1 and L2 regularization both.
+
+6406531737112. ✖ It controls the number of passes a training dataset takes in an algorithm.
+```
+
+```plaintext
+Question Number : 192 Question Id : 640653521180 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statements are true? (Multiple options may be correct.)
+
+Options :
+
+6406531737129. ✔ KNN models with low values of K produces complex decision boundaries.
+
+6406531737130. ✔ KNN models with high values of K produces smooth decision boundaries.
+
+6406531737131. ✖ In KNN models K does not impact the decision boundaries.
+
+6406531737132. ✖ None of these
+```
+
+```plaintext
+Question Number : 193 Question Id : 640653521184 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Fill in the missing parameter value in the following estimator that can be used to classify the data
+```
+
+Mathematical expressions in LaTeX format and tables/diagrams are not present in the provided image. If there were any, they would be converted to LaTeX format as well.

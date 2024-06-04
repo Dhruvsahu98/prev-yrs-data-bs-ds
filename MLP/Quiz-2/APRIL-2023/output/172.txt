@@ -1,0 +1,38 @@
+```python
+from sklearn.svm import SVC
+clf = SVC(kernel = ______)
+clf.fit(X, y)
+```
+Options :
+```text
+6406531737143. ✔ `poly`,
+
+6406531737144. ✖ `lasso`
+
+6406531737145. ✔ `rbf`,
+
+6406531737146. ✖ `scale`
+```
+
+Question Number : 194 Question Id : 640653521187 Question Type : MSQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+
+Correct Marks : 2 Selectable Option : 0  
+
+Question Label : Multiple Select Question  
+Which of the following is/are correct?  
+
+Options :  
+```text
+6406531737155. ✖ Decision trees are prone to underfitting.
+
+6406531737156. ✖ By increasing the ‘max_depth’ parameter in ‘DecisionTreeClassifier’, the tree is likely to underfit
+
+6406531737157. ✖ By increasing the ‘min_samples_leaf’ parameter in ‘DecisionTreeClassifier’, the tree is likely to overfit.
+
+6406531737158. ✖ By increasing the ‘min_samples_split’ parameter in ‘DecisionTreeClassifier’, the tree is likely to overfit.
+
+6406531737159. ✖ By increasing the ‘ccp_alpha’ parameter in ‘DecisionTreeClassifier’, the tree is likely to overfit.
+
+6406531737160. ✔ None of these
+```

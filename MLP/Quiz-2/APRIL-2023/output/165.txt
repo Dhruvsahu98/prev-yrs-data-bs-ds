@@ -1,0 +1,55 @@
+```python
+import numpy as np
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.linear_model import LinearRegression
+
+steps = [
+    ('imputer', SimpleImputer(missing_values=np.nan, strategy='mean')),
+    ('scaler', MinMaxScaler()),
+    ('model', LinearRegression())
+]
+
+pipe = Pipeline(steps = steps)
+
+From the above code what pipe[1].fit.transform(X) does ? where X is a feature matrix
+```
+
+Options:
+- 6406531737117. ❌ Replaces missing values with mean value of feature
+- 6406531737118. ✔️ Applies MinMaxScaling on the X
+- 6406531737119. ❌ LinearRegression model fitting
+- 6406531737120. ❌ None of these
+
+---
+
+Question Number: 181
+Question Id: 640653521178
+Question Type: MCQ
+Is Question Mandatory: No
+Calculator: None
+Response Time: N.A
+Think Time: N.A
+Minimum Instruction Time: 0
+Correct Marks: 2
+
+Question Label: Multiple Choice Question
+
+What might be the possible output of the following code:
+
+```python
+from sklearn.metrics import mean_absolute_error
+
+y_true = [3, -0.5, 2, 7]
+y_pred = [2.5, 0.0, 2, 8]
+
+mean_absolute_error(y_true, y_pred)
+```
+
+Options:
+- 6406531737121. ❌ 0.00
+- 6406531737122. ✔️ 0.50
+- 6406531737123. ❌ 0.72
+- 6406531737124. ❌ 1.00
+```

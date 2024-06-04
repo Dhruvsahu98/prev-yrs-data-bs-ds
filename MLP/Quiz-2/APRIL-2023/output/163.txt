@@ -1,0 +1,59 @@
+```plaintext
+Question Number : 177
+Question Id : 640653521170
+Question Type : MCQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider following variants of gradient descent algorithm:
+
+1. full batch gradient descent
+2. mini batch gradient descent
+3. stochastic gradient descent
+
+Which of the following variants of gradient descent can be implemented with SGDClassifier?
+
+Options :
+
+6406531737089. \textbf{* only 3}
+
+6406531737090. \textbf{✔ 1, 2 and 3}
+
+6406531737091. \textbf{* 1 and 2 only}
+
+6406531737092. \textbf{* 2 and 3 only}
+```
+
+```plaintext
+Question Number : 178
+Question Id : 640653521174
+Question Type : MCQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Suppose we have a multi-class classification problem with n classes. Which of the following methods require exactly n classifiers to solve this problem?
+
+Options :
+
+6406531737105. \textbf{✔ OneVsRestClassifier}
+
+6406531737106. \textbf{* OneVsOneClassifier}
+
+6406531737107. \textbf{* OutputCodeClassifier}
+
+6406531737108. \textbf{* MultiOutputClassifier}
+```

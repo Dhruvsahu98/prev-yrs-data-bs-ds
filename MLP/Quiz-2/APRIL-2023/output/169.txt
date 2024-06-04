@@ -1,0 +1,64 @@
+Here is the converted text from the document image, including the code block, mathematical expressions in LaTeX format, and tables/diagrams in LaTeX format:
+
+```python
+from sklearn.ensemble import BaggingRegressor
+from sklearn.model_selection import GridSearchCV
+param_grid = [{'max_depth':range(1, 20, 2)}]
+gs = GridSearchCV(DecisionTreeClassifier(), param_grid, cv = 10)
+gs.fit(X,y)
+```
+
+Options:
+- 6406531737165. \* 1000
+- 6406531737166. \* 20
+- 6406531737167. \* 10000
+- 6406531737168. ✔ 100
+- 6406531737169. \* 90
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\textbf{Sub-Section Number} & 4 \\ \hline
+\textbf{Sub-Section Id} & 64065373972 \\ \hline
+\textbf{Question Shuffling Allowed} & Yes \\ \hline
+\textbf{Is Section Default?} & null \\ \hline
+\end{tabular}
+\end{table}
+
+\section*{Question Number : 188}
+\begin{itemize}
+    \item \textbf{Question Id} : 640653521171
+    \item \textbf{Question Type} : MSQ
+    \item \textbf{Is Question Mandatory} : No
+    \item \textbf{Calculator} : None
+    \item \textbf{Response Time} : N.A
+    \item \textbf{Think Time} : N.A
+    \item \textbf{Minimum Instruction Time} : 0
+    \item \textbf{Correct Marks} : 2
+    \item \textbf{Selectable Option} : 0
+\end{itemize}
+
+\textbf{Question Label} : Multiple Select Question
+
+The precision-recall curve
+
+Options:
+\begin{itemize}
+    \item 6406531737093. ✔ plots a graph with precision value on X-axis and recall value on Y-axis
+    \item 6406531737094. ✔ computes precision-recall pairs for different probability thresholds
+    \item 6406531737095. \* computes precision-recall pairs for one singular probability threshold
+    \item 6406531737096. \* plots a graph with recall value on X-axis and precision value on Y-axis
+\end{itemize}
+
+\section*{Question Number : 189}
+\begin{itemize}
+    \item \textbf{Question Id} : 640653521172
+    \item \textbf{Question Type} : MSQ
+    \item \textbf{Is Question Mandatory} : No
+    \item \textbf{Calculator} : None
+    \item \textbf{Response Time} : N.A
+    \item \textbf{Think Time} : N.A
+    \item \textbf{Minimum Instruction Time} : 0
+\end{itemize}
+```

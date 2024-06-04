@@ -1,0 +1,43 @@
+```python
+from sklearn.datasets import load_wine
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y,
+                                                    test_size = 0.10,
+                                                    random_state = 12)
+
+clf = DecisionTreeClassifier(max_depth = 6,
+                             min_samples_split = 2,
+                             min_samples_leaf = 3,
+                             random_state = 81)
+
+clf.fit(X_train, y_train)
+print(clf.score(X_train, y_train))
+```
+
+Assume that the output of the above code is 0.852. If we increase the value of the parameter `max_depth`, which of the following is more likely to happen?:
+
+**Options:**
+
+1. 6406531737161. ✔ The output score is likely to increase.
+2. 6406531737162. ❌ The output score is likely to decrease.
+3. 6406531737163. ❌ The change in `max_depth` is not likely to have any effect on the output.
+4. 6406531737164. ❌ If we increase the value of `max_depth` beyond 6, the code will throw an error, as the max_depth cannot be more than the product of `min_samples_split` and `min_samples_leaf`.
+
+\newpage
+
+\section*{BDM}
+
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Section Id} & 64065333940 \\ \hline
+\textbf{Section Number} & 12 \\ \hline
+\textbf{Section type} & Online \\ \hline
+\textbf{Mandatory or Optional} & Mandatory \\ \hline
+\textbf{Number of Questions} & 11 \\ \hline
+\textbf{Number of Questions to be attempted} & 11 \\ \hline
+\textbf{Section Marks} & 15 \\ \hline
+\textbf{Display Number Panel} & Yes \\ \hline
+\textbf{Group All Questions} & No \\ \hline
+\end{tabular}

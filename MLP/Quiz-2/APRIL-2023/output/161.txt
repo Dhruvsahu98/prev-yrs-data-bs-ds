@@ -1,0 +1,68 @@
+Sure! Here is the document converted to text as requested:
+
+---
+Ashok has to train a logistic regression model on a dataset with gradient descent approach. Which of the following solvers can he use?
+
+Options :
+
+6406531737076. * newton-cg
+
+6406531737077. * lbfgs
+
+6406531737078. * liblinear
+
+6406531737079. ✔ sag
+
+6406531737080. ✔ saga
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065373971
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 175 Question Id : 640653521168 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider following code snippet:
+
+```python
+from sklearn.utils.multiclass import type_of_target
+import numpy as np
+print(type_of_target(np.array([[0, 1], [1, 1]])))
+print(type_of_target([1.0, 0.0, 3.0]))
+print(type_of_target(['a', 'b', 'a']))
+```
+
+What will be the output of the above code snippet in the correct sequence?
+
+Options :
+
+‘multilabel-indicator’
+
+‘multiclass’
+
+‘binary’
+
+6406531737081. ✔
+
+6406531737082. *
+
+---
+
+Mathematical expressions:
+
+No mathematical expressions are present in the provided document.
+
+Tables:
+
+No tables are present in the provided document.
+
+Diagrams:
+
+No diagrams are present in the provided document.

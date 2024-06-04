@@ -1,0 +1,32 @@
+```plaintext
+Question Number : 172 Question Id : 640653521165 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Consider another linear classifier with \( w' = 3w \).
+How many points are misclassified by this new classifier?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+```
+
+\section*{MLP}
+
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Section Id} & 64065333939 \\ \hline
+\textbf{Section Number} & 11 \\ \hline
+\textbf{Section type} & Online \\ \hline
+\textbf{Mandatory or Optional} & Mandatory \\ \hline
+\textbf{Number of Questions} & 25 \\ \hline
+\textbf{Number of Questions to be attempted} & 25 \\ \hline
+\textbf{Section Marks} & 50 \\ \hline
+\textbf{Display Number Panel} & Yes \\ \hline
+\textbf{Group All Questions} & No \\ \hline
+\textbf{Enable Mark as Answered Mark for Review and Clear Response} & Yes \\ \hline
+\textbf{Maximum Instruction Time} & 0 \\ \hline
+\end{tabular}

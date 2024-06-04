@@ -1,0 +1,64 @@
+Here is the converted document with the code blocks and LaTeX format for the mathematical expressions:
+
+---
+
+By using all features of a dataset accuracy score of 100% is achieved on the training set, but accuracy score of 70% on test set, which of the following statements is most relevant?
+
+**Options:**
+
+\begin{itemize}
+    \item 6406531737135. ❋ Model is underfitting
+    \item 6406531737136. ✔ Model is overfitting
+    \item 6406531737137. ❋ Nothing, the model is perfect
+\end{itemize}
+
+
+---
+
+**Question Number**: 185  
+**Question Id**: 640653521185  
+**Question Type**: MCQ  
+**Is Question Mandatory**: No  
+**Calculator**: None  
+**Response Time**: N.A  
+**Think Time**: N.A  
+**Minimum Instruction Time**: 0  
+
+**Correct Marks**: 2  
+
+**Question Label** : Multiple Choice Question
+
+Which of the following code snippets correctly sets up a RandomizedSearchCV object to perform hyperparameter tuning on a RandomForestClassifier with the following parameters to be tested:
+
+\begin{itemize}
+    \item Number of estimators: 50, 100, 150
+    \item Maximum depth of the tree: 5, 10, 15
+    \item Minimum number of samples to enable a split: 2, 4, 6
+\end{itemize}
+
+**Options:**
+
+\begin{verbatim}
+6406531737147. ❋
+rfc = RandomForestClassifier(random_state=0)
+param_distributions = {n_estimators: [50, 100, 150],
+                       max_depth: [5, 10, 15],
+                       min_samples_split: [2, 4, 6]}
+randomized_search = RandomizedSearchCV(rfc, 
+                                       param_distributions=param_distributions, 
+                                       cv=5)
+\end{verbatim}
+
+\begin{verbatim}
+6406531737148. ❋
+rfc = RandomForestClassifier(random_state=0)
+param_distributions = {'n_estimators': [50, 100, 150], 
+                       'max_depth': [5, 10, 15], 
+                       'min_samples_split': [2, 4, 6]}
+randomized_search = RandomizedSearchCV(rfc, 
+                                       param_distributions=param_distributions, 
+                                       cv=5)
+\end{verbatim}
+
+---
+

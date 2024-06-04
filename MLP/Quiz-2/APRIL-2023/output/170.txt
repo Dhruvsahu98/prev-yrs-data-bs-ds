@@ -1,0 +1,50 @@
+```plaintext
+Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Consider a classification dataset with 98% negative samples and 2% positive samples. A model is trained on this data, which of the following evaluation metrics are suitable for measuring effectiveness of this model:
+
+Options :
+
+6406531737097. * accuracy
+
+6406531737098. ✔ precision
+
+6406531737099. ✔ recall
+
+6406531737100. ✔ F-1 score
+```
+
+```plaintext
+Question Number : 190 Question Id : 640653521173 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Consider following code snippet:
+```
+
+```python
+from sklearn.naive_bayes import MultinomialNB
+estimator = MultinomialNB()
+estimator.fit(X, y)
+
+where X and y are training data.
+```
+
+```plaintext
+Options :
+
+6406531737101. * MultinomialNB is best suited when feature matrix X contains text data and not the word counts.
+
+6406531737102. ✔ MultinomialNB is best suited when feature matrix X contains word counts for text data.
+
+6406531737103. * The MultinomialNB classifier is suitable for classification with continuous features.
+
+6406531737104. * None of these
+```

@@ -1,0 +1,34 @@
+```text
+Question Number : 179 Question Id : 640653521176 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+What might be the possible output of the following code:
+
+```python
+from sklearn.feature_extraction.text import CountVectorizer
+corpus = ["Hello Hello World great"]
+vectorizer = CountVectorizer()
+X = vectorizer.fit_transform(corpus)
+print(X.toarray())
+```
+
+Options :
+
+6406531737113. ![1 2 1] 
+6406531737114. ![1 2 3]
+6406531737115. ![0 1 1]
+6406531737116. ![1 1 1]
+
+Question Number : 180 Question Id : 640653521177 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider following code snippet:
+```
