@@ -1,0 +1,37 @@
+```python
+import scipy.cluster.hierarchy as shc
+plt.figure(figsize=(5, 7))
+plt.title("Dendrograms")
+dend = shc.dendrogram(shc.linkage(X, method='ward'))
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{dendrogram.png}
+    \caption{Elbow chart}
+    \label{fig:elbow_chart}
+\end{figure}
+```
+
+In the given dendrogram which sample is most similar to the sample having label as 1 ?
+
+**Response Type** : Numeric
+
+**Evaluation Required For SA** : Yes
+
+**Show Word Count** : Yes
+
+**Answers Type** : Equal
+
+**Text Areas** : PlainText
+
+**Possible Answers** :
+
+0
+
+**Sub-Section Number** : 6
+
+**Sub-Section Id** : 64065351841
+
+**Question Shuffling Allowed** : No
+
+**Question Id** : 640653357273 **Question Type** : COMPREHENSION **Sub Question Shuffling Allowed** : No **Group Comprehension Questions** : No **Calculator** : None **Response Time** : N.A **Think Time** : N.A **Minimum Instruction Time** : 0

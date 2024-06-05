@@ -1,0 +1,36 @@
+```python
+array([[2, 2],
+       [1, 0]])
+
+array([[2, 2],
+       [0, 2]])
+```
+
+Question Number : 260 Question Id : 640653357270 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+Question Label : Multiple Choice Question  
+Which of the following statements will be true based on the following diagram?
+
+```latex
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{roc_curve.png}
+    \caption{ROC Curve}
+    \label{fig:roc_curve}
+\end{figure}
+```
+
+Options :
+
+6406531184267. \textcolor{red}{✱} The classifier will predict all positive classes as negatives and all negative classes as positives.
+
+6406531184268. \textcolor{green}{✔} The classifier will perfectly distinguish between the positive and negative classes.
+
+6406531184269. \textcolor{red}{✱} There is a good probability that the classifier can properly identify the classes.
+
+6406531184270. \textcolor{red}{✱} We can not comment on the classifier performance based on the given figure
+
+
+Question Number : 261 Question Id : 640653357271 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  

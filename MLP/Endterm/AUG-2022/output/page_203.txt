@@ -1,0 +1,50 @@
+```python
+# Find the joint distribution of U and V
+
+# Options :
+
+# 6406531184184.
+g(u, v) = \left\{
+\begin{array}{ll}
+\frac{1}{2}ve^{-(u-v)} & \text{if } 0 < v < 2, u > v \\
+0 & \text{otherwise}
+\end{array}
+\right.
+
+# 6406531184185.
+g(u, v) = \left\{
+\begin{array}{ll}
+\frac{1}{2}ve^{-(u+v)} & \text{if } 0 < v < 2, u > v \\
+0 & \text{otherwise}
+\end{array}
+\right.
+
+# 6406531184186.
+g(u, v) = \left\{
+\begin{array}{ll}
+\frac{1}{2}ve^{-(u-v)} & \text{if } 0 < v < 2, v > u \\
+0 & \text{otherwise}
+\end{array}
+\right.
+
+# 6406531184187.
+g(u, v) = \left\{
+\begin{array}{ll}
+\frac{1}{2}ve^{-(u-v)} & \text{if } 0 < x < 2, u > v \\
+0 & \text{otherwise}
+\end{array}
+\right.
+
+# MLP
+
+# Section Id : 64065322345
+# Section Number : 10
+# Section type : Online
+# Mandatory or Optional : Mandatory
+# Number of Questions : 38
+# Number of Questions to be attempted : 38
+# Section Marks : 100
+# Display Number Panel : Yes
+# Group All Questions : No
+# Enable Mark as Answered Mark for Review and : Yes
+```

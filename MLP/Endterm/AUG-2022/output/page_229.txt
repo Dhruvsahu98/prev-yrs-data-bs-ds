@@ -1,0 +1,48 @@
+```plaintext
+6406531184285. * Hamming Distance
+
+6406531184286. * None of these
+```
+
+```plaintext
+Question Id : 640653357287 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (271 to 272)
+Question Label : Comprehension
+```
+
+Consider the following code snippet:
+```python
+from sklearn.datasets import fetch_california_housing
+from sklearn.neural_network import MLPRegressor
+
+X,y = fetch_california_housing(as_frame = True,
+                               return_X_y = True)
+rs = MLPRegressor(activation='logistic',
+                  hidden_layer_sizes=(12,15,13,11,12,8),
+                  random_state=12)
+
+rs.fit(X, y)
+```
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+```plaintext
+Question Number : 271 Question Id : 640653357288 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2
+Question Label : Short Answer Question
+```
+
+What will be the output of the following code?
+
+```python
+print(rs.n_layers_)
+```
+
+```plaintext
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+```

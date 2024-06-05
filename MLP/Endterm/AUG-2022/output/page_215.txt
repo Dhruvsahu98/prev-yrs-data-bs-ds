@@ -1,0 +1,39 @@
+```plaintext
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{image}
+    \caption{Figure 1}
+\end{figure}
+
+Options :
+
+6406531184275. \checkmark 0.67
+
+6406531184276. * 1.00
+
+6406531184277. * 0.50
+
+6406531184278. * 0.25
+
+Question Number : 253 Question Id : 640653357284 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following code block and mark the correct output.
+
+\begin{python}
+from sklearn.cluster import KMeans
+import numpy as np
+X = np.array([[2, 4], [4, 2],[8, 10], [10, 12],[20,21],[17,19]])
+kmeans = KMeans(n_clusters=3, random_state=5).fit(X)
+print(kmeans.labels_)
+\end{python}
+
+Options :
+
+6406531184313. * [0 0 0 1 1 1]
+
+6406531184314. \checkmark [2 2 0 0 1 1]
+```

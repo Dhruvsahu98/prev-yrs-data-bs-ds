@@ -1,0 +1,40 @@
+```python
+Go through the code snippet given below and answer the subquestions.
+
+import numpy as np
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import StandardScaler
+X = np.array([[-8, -3], [3, 3], [5, 3], [-4, -3],])
+y = np.array([-3, 3, 3, -3])
+from sklearn.svm import SVC
+clf = SVC(gamma='auto',kernel="linear")
+clf.fit(X, y)
+print(clf.predict([[-4, -3]]))
+```
+
+**Sub questions**
+
+**Question Number : 273 Question Id : 640653357278 Question Type : MCQ Is Question**  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+**Question Label : Multiple Choice Question**  
+Which of the following is likely to be the correct output of the given code ?  
+
+**Options :**  
+6406531184291. **[3]**  
+6406531184292. **[-1]**  
+6406531184293. **[1]**  
+6406531184294. **[-3]**
+
+**Question Number : 274 Question Id : 640653357279 Question Type : MCQ Is Question**  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+**Question Label : Multiple Choice Question**  
+Which of the following is likely to be the correct output:
+
+```python
+print(clf.support_vectors_)
+```
+
+**Options :**  
+```

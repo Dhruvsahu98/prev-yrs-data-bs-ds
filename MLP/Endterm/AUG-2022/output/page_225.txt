@@ -1,0 +1,31 @@
+```plaintext
+Question Shuffling Allowed : Yes
+
+Question Number : 266 Question Id : 640653357261 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Calculate the coefficient of determination (\(R^2\)) [up to 1 decimal point] based on the following block of code.
+
+```python
+from sklearn.metrics import r2_score
+y_true = [2, 5, 2, 7]
+y_pred = [3, 9, 2, 8]
+print(r2_score(y_true, y_pred))
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+
+-0.05 to 0.05
+
+Question Number : 267 Question Id : 640653357282 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+In the given block of code, the Iris dataset having shape (150,4) has been loaded for model training. What do you think will be the output of the code given below?
+```

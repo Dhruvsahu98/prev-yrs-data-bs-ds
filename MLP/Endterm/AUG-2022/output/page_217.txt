@@ -1,0 +1,36 @@
+```plaintext
+6406531184202. ✔️ Nonproliferation of classes
+
+6406531184203. ❌ Execution of all codes within 99.9 ms.
+
+6406531184204. ✔️ Sensible defaults
+
+6406531184205. ✔️ Direct accessibility of hyperparameters of all estimators
+
+Question Number : 256 Question Id : 640653357264 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Which of the following options represent(s) the correct method(s) to search for the best regularization parameter for ridge regression?
+
+Options :
+
+6406531184243. ✔️ Search for the best regularization rate with built-in cross validation in RidgeCV estimator
+
+6406531184244. ❌ Step 1: Instantiate object of Ridge estimator.
+Step 2: Set parameter alpha to the maximum regularization rate.
+
+6406531184245. ✔️ Use cross validation with Ridge to search for best regularization.
+
+6406531184246. ✔️ Apply cross validation with SGDRegressor for searching the best regularization parameter.
+
+Question Number : 257 Question Id : 640653357292 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Consider the following block of code and mark all possible correct options.
+```

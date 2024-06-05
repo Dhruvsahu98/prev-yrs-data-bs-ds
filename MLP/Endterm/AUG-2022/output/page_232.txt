@@ -1,0 +1,55 @@
+```python
+6406531184295. * array([[-8., -3.], [ 3., 3.]])
+6406531184296. ✔ array([[-4., -3.], [ 3., 3.]])
+6406531184297. * array([[-4., -3.], [ 5., 3.]])
+6406531184298. * array([[-8., -3.], [ 5., 3.]])
+
+\textbf{Sub-Section Number:} 8
+
+\textbf{Sub-Section Id:} 64065351843
+
+\textbf{Question Shuffling Allowed:} Yes
+
+\textbf{Question Number:} 275 
+\textbf{Question Id:} 640653357290 
+\textbf{Question Type:} MSQ 
+\textbf{Is Question Mandatory:} No 
+\textbf{Calculator:} None 
+\textbf{Response Time:} N.A 
+\textbf{Think Time:} N.A 
+\textbf{Minimum Instruction Time:} 0
+
+\textbf{Correct Marks:} 4
+
+\textbf{Question Label:} Multiple Select Question
+
+Which of the following is/are true about the following block of the code?
+
+\begin{verbatim}
+from sklearn.neural_network import MLPClassifier
+X = [[0., 0.], [1., 1.],[2., 3.],[5., 4.]]
+y = [0, 0, 1, 1]
+rs = MLPClassifier(solver='adam',
+                   alpha=0.0001,
+                   batch_size="auto",
+                   hidden_layer_sizes=(8,12),
+                   random_state=12)
+rs.fit(X,y)
+rs.score(X,y)
+\end{verbatim}
+
+\textbf{Options:}
+
+\begin{itemize}
+  \item 6406531184327. ✔ Given dataset belongs to binary classification.
+  \item 6406531184328. ✔ Number of neurons in the 1\textsuperscript{st} hidden layer is 8.
+  \item 6406531184329. * Strength of the L1 regularization term is 0.0001
+  \item 6406531184330. ✔ The activation function for the output layer in the given code is the `logistic` function.
+\end{itemize}
+
+\textbf{Sub-Section Number:} 9
+
+\textbf{Sub-Section Id:} 64065351844
+
+\textbf{Question Shuffling Allowed:} Yes
+```

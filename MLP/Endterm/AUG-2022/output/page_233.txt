@@ -1,0 +1,35 @@
+```python
+Question Number : 276 Question Id : 640653357291 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Select Question
+Which of the following code blocks will throw an error ?
+Options :
+
+from sklearn.svm import SVC
+from sklearn.ensemble import BaggingClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.datasets import make_classification
+X, y = make_classification(n_samples=100,
+                           n_features=22,
+                           n_informative=2,
+                           n_redundant=0,
+                           random_state=0,
+                           shuffle=False)
+param_grid = [{'n_estimators':range(10,50,12)}]
+clf = BaggingClassifier(base_estimator=SVC(),
+                        n_estimators=10,
+                        random_state=0)
+
+est= GridSearchCV(clf,
+                  param_grid,
+                  cv = 5,
+                  return_train_score=True)
+
+est.fit(X, y)
+est.best_score_
+
+6406531184331. * 
+
+6406531184332. ✔
+```

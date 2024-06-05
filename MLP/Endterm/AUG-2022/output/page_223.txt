@@ -1,0 +1,34 @@
+```python
+Question Number : 264 Question Id : 640653357281 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following block of code and mark the correct option.
+
+from sklearn.datasets import load_breast_cancer
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+X, y = load_breast_cancer(as_frame = True,
+                          return_X_y = True)
+X_train, X_test, y_train, y_test = train_test_split(X,
+                                                    y,
+                                                    test_size = 0.2,
+                                                    random_state = 1)
+clf = DecisionTreeClassifier(min_samples_split = 5,
+                             random_state = 5)
+
+clf.fit(X_train, y_train)
+print(clf.score(X_test, y_test))
+
+Options :
+6406531184303. ❉ The minimum number of samples required to split a leaf node is 5.
+6406531184304. ❉ The minimum number of samples required to split an internal node is 6.
+6406531184305. ❉ The minimum number of samples required to be at a leaf node is 4.
+6406531184306. ✔ The minimum number of samples required to split an internal node is 5.
+
+Question Number : 265 Question Id : 640653357283 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following code snippet. What value should we fill at the blank place, so that given code block creates graph as shown below:
+```

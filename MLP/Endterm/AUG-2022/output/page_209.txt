@@ -1,0 +1,45 @@
+```plaintext
+[[5. 1. 4.]
+ [3. 1. 8.]
+ [2. 1. 0.]
+ [9. 1. 6.]]
+
+[[ 5. 4. 1.]
+ [3. 8. 1.]
+ [ 2. 0. 1.]
+ [ 9. 6. 1.]]
+ 
+6406531184220. *
+
+[[1. 5. 4.]
+ [1. 3. 8.]
+ [1. 2. 0.]
+ [1. 9. 6.]]
+
+6406531184221. ✔
+
+Question Number : 244 Question Id : 640653357258 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the options will be the correct output for the following code snippet?
+
+```python
+from sklearn.preprocessing import MultiLabelBinarizer
+mlb = MultiLabelBinarizer()
+mlb.fit_transform([(1, 2), (3,)])
+```
+Options :
+
+```plaintext
+6406531184222. *
+array([[1, 1, 0, 0],
+       [0, 0, 1, 1]])
+```
+
+```plaintext
+6406531184223. *
+array([[1, 1, 0, 0],
+       [0, 1, 1, 1]])
+```
+```

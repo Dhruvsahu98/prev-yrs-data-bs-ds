@@ -1,0 +1,48 @@
+```python
+from sklearn.datasets import make_blobs
+from sklearn.cluster import KMeans
+X, y = make_blobs(n_samples=1000,
+                  n_features=9,
+                  centers=.......,
+                  random_state=42)
+
+wcss = []
+for i in range(1, 11):
+    km = KMeans(n_clusters = i, random_state = 10)
+    km.fit(X)
+    wcss.append(km.inertia_)
+
+plt.plot(range(1, 11), wcss)
+plt.title('The Elbow Method', fontsize = 12)
+plt.xlabel('No. of Clusters')
+plt.ylabel('wcss')
+plt.show()
+```
+
+\[
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{elbow_chart.png}
+\caption{Figure 2: Elbow chart}
+\end{figure}
+\]
+
+\[
+\begin{array}{|c|c|}
+\hline
+\text{Options :} & \\\hline
+6406531184308. & 2 \\\hline
+6406531184309. & 4 \\\hline
+\textcolor{green}{6406531184310.} & 5 \\\hline
+6406531184311. & 6 \\\hline
+6406531184312. & 10 \\\hline
+\end{array}
+\]
+
+\[
+\text{Sub-Section Number :} 5
+\]
+
+\[
+\text{Sub-Section Id :} 64065351840
+\]

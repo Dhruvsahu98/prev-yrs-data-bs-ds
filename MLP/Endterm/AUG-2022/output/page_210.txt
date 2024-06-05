@@ -1,0 +1,42 @@
+```plaintext
+array([[1, 1, 0],
+       [1, 0, 1]])
+
+6406531184224. ❋
+
+array([[1, 1, 0],
+       [0, 0, 1]])
+
+6406531184225. ✔
+
+Question Number : 245 Question Id : 640653357259 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following options is correct explained variance score for the following code snippet applying PCA technique.
+
+```python
+import numpy as np
+from sklearn.decomposition import PCA
+X = np.array([[1, 1], [2, 2]])
+pca = PCA(n_components=2)
+pca.fit(X)
+print(pca.explained_variance_ratio_)
+```
+
+Options :
+
+6406531184226. ❋ [1. 1.]
+
+6406531184227. ✔ [1. 0.]
+
+6406531184228. ❋ [0. 1.]
+
+6406531184229. ❋ [0. 0.]
+
+Question Number : 246 Question Id : 640653357262 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following options is the correct output of the following block of code?
+```

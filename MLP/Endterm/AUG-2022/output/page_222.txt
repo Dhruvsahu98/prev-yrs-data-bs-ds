@@ -1,0 +1,45 @@
+```python
+6406531184288. * array([[[1., 1., 1., 0.], [1., 1., 1., 0.], [0., 1., 0., 1.], [0., 1., 0., 1.]]])
+6406531184289. * array([[[1., 1., 0., 1.], [0., 1., 1., 0.], [0., 1., 1., 0.], [1., 0., 1., 1.]]])
+6406531184290. ✔ array([[[1., 1., 1., 0.], [1., 1., 1., 0.], [0., 1., 1., 1.], [0., 1., 1., 1.]]])
+```
+
+**Question Number : 263 Question Id : 640653357280 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+For the following block of code, we get the output as 0.9875. How would the output change if we decrease max depth value?:
+
+```python
+from sklearn.datasets import load_wine
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+
+X, y = load_wine(as_frame=True, return_X_y=True)
+
+X_train, X_test, y_train, y_test = train_test_split(X, y,
+                                                    test_size=0.10,
+                                                    random_state=12)
+
+clf = DecisionTreeClassifier(max_depth=6,
+                             min_samples_split=2,
+                             min_samples_leaf=3,
+                             random_state=81)
+
+clf.fit(X_train, y_train)
+print(clf.score(X_train, y_train))
+```
+
+**Options :**
+
+**6406531184299.** * Output score will definitely increase.
+
+**6406531184300.** * Output score will definitely decrease.
+
+**6406531184301.** ✔ Output score may decrease or remain the same.
+
+**6406531184302.** * Code will throw an error because max_depth can’t be less than 6.

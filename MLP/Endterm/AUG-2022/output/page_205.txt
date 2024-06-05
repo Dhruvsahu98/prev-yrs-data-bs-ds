@@ -1,0 +1,44 @@
+```plaintext
+6406531184191. ✔ Both loaders and fetchers return a Bunch object, which is a dictionary with two keys
+
+6406531184192. ✱ Both techniques load small standard datasets
+
+6406531184193. ✱ None of these options are correct
+
+Question Number : 238 Question Id : 640653357251 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following options represent the main purpose of using the FeatureUnion?
+
+Options :
+
+6406531184194. ✱ Enables different transformations on various columns of data based on their types
+
+6406531184195. ✔ Combines output from several transformer objects by creating a new transformer from them
+
+6406531184196. ✱ To chain multiple estimators to execute a fixed sequence of steps in data preprocessing and modeling
+
+6406531184197. ✱ None of these
+
+Question Number : 239 Question Id : 640653357252 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+What will be the output of the following block of code?
+
+```python
+from sklearn.datasets import make_blobs
+X, y = make_blobs(n_samples=10,
+                  centers=3,
+                  n_features=2,
+                  random_state=0)
+print(X.shape)
+```
+```

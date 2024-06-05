@@ -1,0 +1,39 @@
+```plaintext
+Question Numbers : (269 to 270)
+
+Question Label : Comprehension
+
+Go through the code snippet given below and answer the subquestions.
+```python
+x = [[0,1],[3,4], [4,5],[1,2],[2,3], [5,6]]
+y = [0, 1, 1,0,0,1]
+from sklearn.neighbors import RadiusNeighborsClassifier
+neigh = RadiusNeighborsClassifier(radius=1.0, P=1)
+neigh.fit(X, y)
+print(neigh.predict([[2.8,3.8]]))
+```
+
+Sub questions
+
+Question Number : 269 Question Id : 640653357274 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following is likely to be the correct output of the given code ?
+
+Options :
+6406531184279. ✖ [2]
+6406531184280. ✖ [0]
+6406531184281. ✔ [1]
+6406531184282. ✖ [3]
+
+Question Number : 270 Question Id : 640653357275 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following distance metrics is used in the given code.
+
+Options :
+6406531184283. ✔ Euclidean_distance
+6406531184284. ✖ Manhattan_distance
+```

@@ -1,0 +1,61 @@
+```plaintext
+6406531184256. * 1.25
+
+6406531184257. * 1.94
+
+6406531184258. * -2.64
+```
+
+```plaintext
+Question Number : 251
+Question Id : 640653357269
+Question Type : MCQ Is Question
+Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+What operation does the following code implement?
+```
+
+```python
+from sklearn.linear_model import LogisticRegression
+logreg = LogisticRegression()
+logreg.fit(X,y)
+```
+
+```plaintext
+where X and y are the training data.
+
+Options :
+
+6406531184263. * It will perform linear regression on the given data.
+
+6406531184264. * It will generate synthetic regression data.
+
+6406531184265. * It will generate synthetic classification data.
+
+6406531184266. ✔ It will perform classification on the given data.
+```
+
+```plaintext
+Question Number : 252
+Question Id : 640653357272
+Question Type : MCQ Is Question
+Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following options represent the recall value for the class 2 in the confusion matrix shown in Figure 1 if \(y_{\text{true}} = [0, 1, 2, 2, 2], y_{\text{pred}} = [0, 0, 2, 2, 1]\) ?
+```

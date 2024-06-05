@@ -1,0 +1,67 @@
+```python
+from sklearn.model_selection import LeaveOneOut
+X = [1, 2, 3, 4]
+loo = LeaveOneOut()
+split = 1
+for train, test in loo.split(X):
+    print(f"split# {split}, {train} {test}")
+    split += 1
+```
+
+Options:
+```latex
+\begin{tabular}{ l l }
+\textcolor{green}{6406531184235.} & \textcolor{green}{\checkmark} \\
+split# 1, [1 2 3] [0] \\
+split# 2, [0 2 3] [1] \\
+split# 3, [0 1 3] [2] \\
+split# 4, [0 1 2] [3] \\
+\end{tabular}
+```
+
+```latex
+\begin{tabular}{ l l }
+\textcolor{red}{6406531184236.} & \textcolor{red}{\#} \\
+split# 1, [1 2 3] [4] \\
+split# 2, [4 2 3] [1] \\
+split# 3, [4 1 3] [2] \\
+split# 4, [4 1 2] [3] \\
+\end{tabular}
+```
+
+```latex
+\begin{tabular}{ l l }
+\textcolor{red}{6406531184237.} & \textcolor{red}{\#} \\
+split# 1, [1 2 3] [4] \\
+split# 2, [4 2 3] [1] \\
+split# 3, [4 1 3] [2] \\
+\end{tabular}
+```
+
+```latex
+\begin{tabular}{ l l }
+\textcolor{red}{6406531184238.} & \textcolor{red}{\#} \\
+split# 1, [1 2 3] [0] \\
+split# 2, [0 2 3] [1] \\
+split# 3, [0 1 3] [2] \\
+\end{tabular}
+```
+
+Question Number: 247
+Question Id: 640653357263
+Question Type: MCQ
+Is Question Mandatory: No
+Calculator: None
+Response Time: N.A
+Think Time: N.A
+Minimum Instruction Time: 0
+
+Correct Marks: 2
+
+Question Label: Multiple Choice Question
+Which of the following options is the correct method to shuffle training data after each epoch in SGDRegressor?
+
+Options:
+```latex
+    % Options are not provided in the image
+```

@@ -1,0 +1,49 @@
+```python
+Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following options is the correct output of the following block of code?
+
+import numpy as np
+from sklearn.dummy import DummyRegressor
+X = np.array([1.0, 1.5, 2.0])
+y = np.array([1.0, 2.0, 3.0])
+dummy_regr = DummyRegressor(strategy="mean")
+dummy_regr.fit(X, y)
+dummy_regr.predict(X)
+
+Options :
+
+6406531184271. ✖ array([2.25, 2.25, 2.25])
+
+6406531184272. ✖ array([1.,  1.,  1.])
+
+6406531184273. ✔ array([2.,  2.,  2.])
+
+6406531184274. ✖ DummyRegressor()
+
+
+Question Number : 262 Question Id : 640653357276 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following is likely to be the correct output of the code given below?
+
+X = [[0], [5], [7], [10]]
+y = [0, 0, 1, 1]
+from sklearn.neighbors import KNeighborsClassifier
+neigh = KNeighborsClassifier(n_neighbors=3)
+neigh.fit(X, y)
+A = neigh.kneighbors_graph(X)
+A.toarray()
+
+Options :
+
+6406531184287. ✖ array([[1.,  1.,  1.,  0.], [1.,  1.,  1.,  0.], [1.,  1.,  1.,  0.], [0.,  1.,  0.,  1.], [0.,  1.,  1.,  1.]])
+```
