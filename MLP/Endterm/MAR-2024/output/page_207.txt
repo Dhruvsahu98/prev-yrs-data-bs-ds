@@ -1,0 +1,44 @@
+```python
+Options :
+
+6406532577823. ✔ ‘poly’
+
+6406532577824. ✖ ‘lasso’
+
+6406532577825. ✖ ‘scale’
+
+6406532577826. ✔ ‘sigmoid’
+```
+
+```
+Sub-Section Number : 5
+Sub-Section Id : 640653112643
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+```
+
+```
+Question Number : 224 Question Id : 640653770646 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+```
+
+```
+Consider the following code snippet:
+\begin{verbatim}
+from sklearn.datasets import load_iris
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.pipeline import FeatureUnion
+X = load_iris().data # X.shape = (150,4)
+
+poly_feature = PolynomialFeatures(degree=2, include_bias=True)
+union = FeatureUnion([('poly', poly_feature),
+                      ('pca', PCA(n_components=2))])
+
+X_transformed = union.fit_transform(X)
+print(X_transformed.shape)
+\end{verbatim}
+If the shape of X is (150,4). How many total columns are there in the X_transformed ?
+```

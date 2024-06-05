@@ -1,0 +1,40 @@
+```python
+from sklearn.pipeline import Pipeline
+from sklearn.svm import SVC
+from sklearn.preprocessing import StandardScaler
+import numpy as np
+
+# Simulated data (features: X, target: y)
+X = np.array([[2, 3], [5, 7], [8, 10]])
+y = np.array([0, 1, 0])
+
+# Create a pipeline with StandardScaler and SVM classifier
+pipeline = Pipeline([('scaler', StandardScaler()),
+                     ('svm', SVC())])
+
+# Fit the pipeline on training data
+pipeline.fit(X, y)
+
+# Make predictions using the trained pipeline
+predictions = pipeline.predict(X)
+```
+
+What is the purpose of using the pipeline in this code snippet?
+
+**Options**:
+
+6406532577783. ✻ The pipeline combines multiple models for better model performance.
+
+6406532577784. ✻ The pipeline allows for simultaneous training of the scaler and classifier.
+
+6406532577785. ✔ The pipeline simplifies the code by encapsulating preprocessing and modeling steps.
+
+6406532577786. ✻ The pipeline ensures that only linear SVM can be used for this classification task.
+
+**Question Number** : 212 **Question Id** : 640653770635 **Question Type** : MCQ Is Question
+
+**Mandatory** : No **Calculator** : None **Response Time** : N.A **Think Time** : N.A **Minimum Instruction Time** : 0
+
+**Correct Marks** : 2
+
+**Question Label** : Multiple Choice Question

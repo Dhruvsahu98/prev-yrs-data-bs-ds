@@ -1,0 +1,34 @@
+```plaintext
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following is true for a hard margin SVM algorithm ?
+
+Options :
+
+6406532577834. ❌ It does not create hyperplanes as a classification decision boundary
+
+6406532577835. ❌ It is robust to outliers
+
+6406532577836. ✔ It will correctly classify all the datapoints if the data is linearly separable.
+
+6406532577837. ❌ It is mostly used for clustering the data
+
+Sub-Section Number : 3
+Sub-Section Id : 640653112641
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 218 Question Id : 640653770640 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following is/are correct regarding RadiusNeighborsClassifier
+
+Options :
+
+6406532577807. ❌ Only n_neighbors in the range of some radius R are used to compute the label of a sample.
+
+6406532577808. ✔ All the neighbours in the range of some radius R are used to compute the label of a sample.
+
+6406532577809. ✔ Feature Scaling helps in improving the score of RadiusNeighborsClassifier model
+```

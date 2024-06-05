@@ -1,0 +1,41 @@
+```python
+>>> import pandas as pd
+>>> from sklearn.preprocessing import OneHotEncoder
+>>> from sklearn.linear_model import LinearRegression
+>>> data_array = [[19, 'Black', 74],
+...               [19, 'Blue', 75],
+...               [19, 'Red', 85],
+...               [24, 'Black', 70],
+...               [24, 'Blue', 70],
+...               [24, 'Red', 89],
+...               [30, 'Black', 78],
+...               [30, 'Blue', 76],
+...               [30, 'Red', 90]]
+>>> data = pd.DataFrame(data_array,columns=["Age",
+...                                         "Car_color",
+...                                         "Accidents_per_1000_Driver"])
+>>> X = data.drop("Accidents_per_1000_Driver", axis=1)
+>>> y = data["Accidents_per_1000_Driver"]
+>>> ohe = OneHotEncoder(sparse_output=False)
+>>> X[['Black', 'Blue', 'Red']] = ohe.fit_transform(X[["Car_color"]])
+>>> X.drop("Car_color", axis=1, inplace=True)
+>>> lr = LinearRegression().fit(X, y)
+>>> print(lr.coef_)
+[0.32, -4.55, -4.88, 9.44]
+>>> print(lr.intercept_)
+70.75
+```
+
+**How many Accidents per 1000 Driver predicted by the model for Age 27 and driving a Red car ?**
+
+**Response Type**: Numeric
+
+**Evaluation Required For SA**: Yes
+
+**Show Word Count**: Yes
+
+**Answers Type**: Range
+
+**Text Areas**: PlainText
+
+**Possible Answers**:

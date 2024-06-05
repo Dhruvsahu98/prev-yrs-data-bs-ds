@@ -1,0 +1,53 @@
+```python
+Given below code to load a huge file name as filename.csv and this file is not loading at 
+once in the system which parameter should be added to pd.read_csv to load this file ?
+
+import pandas as pd
+from sklearn.linear_model import SGDRegressor
+for train_df in pd.read_csv("filename.csv", --------=1024):
+    X = train_df.iloc[:, :-1]
+    y = train_df.iloc[:, -1]
+    model = SGDRegressor()
+    model = SGDRegressor()
+    model.partial_fit(prep.X, y)
+```
+
+Options:
+
+\begin{itemize}
+    \item 6406532577787. $\star$ max\_depth
+    \item 6406532577788. $\star$ C
+    \item 6406532577789. $\checkmark$ chunksize
+    \item 6406532577790. $\star$ warm\_start
+\end{itemize}
+
+Question Number : 213 
+Question Id : 640653770636 
+Question Type : MCQ 
+Is Question Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+What will the output for below code
+
+```python
+from sklearn.feature_extraction.text import CountVectorizer
+corpus = ['This is the first document.',
+          'This document is the second document.']
+vectorizer = CountVectorizer()
+vectorizer.fit_transform(corpus)
+print(vectorizer.get_feature_names_out())
+```
+
+Options:
+
+\begin{itemize}
+    \item 6406532577791. $\star$ \{'this': 5, 'is': 2, 'the': 4, 'first': 1, 'document': 0, 'second': 3\}
+\end{itemize}
+```

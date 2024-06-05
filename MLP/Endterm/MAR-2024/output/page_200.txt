@@ -1,0 +1,38 @@
+```python
+640653257792. * [3,1,2,1,2,2]
+
+640653257793. ✔ ['document', 'first', 'is', 'second', 'the', 'this']
+
+640653257794. * [0,1,2,3,4,5]
+```
+
+**Question Number : 214 Question Id : 640653770637 Question Type : MCQ Is Question**  
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**  
+**Correct Marks : 2**  
+
+**Question Label : Multiple Choice Question**  
+
+Imagine you’re training a Perceptron using sklearn with the following code:
+
+```python
+from sklearn.linear_model import Perceptron
+X = [[0, 0.5], [1, 1.5], [1, 2], [2, 3]]
+y = [-1, -1, 1, 1]
+clf = Perceptron(eta0 = 1, tol=None, shuffle=True, random_state=42)
+clf.fit(X, y)
+iterations = clf.n_iter_
+```
+
+Given the linearly separable nature of the data, how many iterations would it most likely take for the perceptron to converge? What will be the value of iterations?
+
+**Options :**
+
+```python
+640653257795. * iterations = 1
+
+640653257796. * iterations = 10
+
+640653257797. ✔ iterations value can vary since the data is being shuffled in each epoch.
+
+640653257798. * iterations = 5
+```

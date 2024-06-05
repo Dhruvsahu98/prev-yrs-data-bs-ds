@@ -1,0 +1,39 @@
+```python
+6406532577776. * ‘11’, None
+
+6406532577777. ✔ ‘12’, ‘11’
+
+6406532577778. * ‘12’, None
+```
+
+Question Number : 210 Question Id : 640653770633 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 2  
+Question Label : Multiple Choice Question  
+
+What might be the possible output of the following code:  
+```python
+from sklearn.metrics import mean_absolute_error
+y_true = [3, -0.5, 2, 7]
+y_pred = [2.5, 0.0, 2, 8]
+mean_absolute_error(y_true, y_pred)
+```
+
+Options :
+
+```python
+6406532577779. * 0.00
+
+6406532577780. ✔ 0.50
+
+6406532577781. * 0.72
+
+6406532577782. * 1.00
+```
+
+Question Number : 211 Question Id : 640653770634 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 2  
+Question Label : Multiple Choice Question  
+
+You’re building a machine learning pipeline to preprocess data and train a model on a  

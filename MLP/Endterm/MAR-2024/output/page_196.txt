@@ -1,0 +1,49 @@
+```python
+6406532577772. ✼ Mean Absolute Error
+
+6406532577773. ✼ smote
+
+6406532577774. ✔ F-1 score
+```
+
+**Question Number : 209 Question Id : 640653770632 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following code block:
+
+```python
+from sklearn.datasets import make_regression
+X, y = make_regression(n_samples = 1000,
+                       n_features = 5,
+                       n_informative = 2,
+                       random_state=42)
+
+from sklearn.linear_model import SGDRegressor
+sgd1 = SGDRegressor(alpha=1e-3,
+                    random_state=42,
+                    penalty='---------------', )
+
+sgd1.fit(X, y)
+print(sgd1.coef_)
+
+sgd2 = SGDRegressor(alpha=1e-3,
+                    random_state=42,
+                    penalty='---------------')
+
+sgd2.fit(X, y)
+print(sgd2.coef_)
+```
+
+What are the most suitable values to be filled in the two blank spaces (in that order) in the code to expect the following output?:
+\[ [1.68069576e+01, 1.89752021e+01, 7.4921236e-04, -6.53455275e-04, 3.01471918e-04] \]
+
+\[ [16.82258106, 18.99248887, 0., 0., 0.] \]
+
+**Options:**
+
+```python
+6406532577775. ✼ 'l1', 'l2'
+```

@@ -1,0 +1,32 @@
+```plaintext
+6406532577816. ✔ The precision-recall curve shows the trade-off between precision and recall for different threshold values.
+
+6406532577817. ✵ The precision-recall curve used to evaluate unsupervised algorithm for imbalanced clustered data.
+
+6406532577818. ✵ None of these
+
+Question Number : 221 Question Id : 640653770643 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statements are true?
+
+Options :
+
+6406532577819. ✔ KNeighborsClassifier with low values of n_neighbors produces complex decision boundaries.
+
+6406532577820. ✵ KNeighborsClassifier with low values of n_neighbors produces smooth decision boundaries.
+
+6406532577821. ✔ In KNeighborsClassifier the scale of the features(columns) can impact the decision boundaries.
+
+6406532577822. ✵ None of these
+
+
+Question Number : 222 Question Id : 640653770645 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+```

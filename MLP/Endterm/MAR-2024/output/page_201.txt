@@ -1,0 +1,47 @@
+```plaintext
+Question Number : 215 Question Id : 640653770638 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following code snippet using scikit-learn:
+```
+
+```python
+from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import Pipeline
+from sklearn.svm import SVC
+from sklearn.model_selection import GridSearchCV
+
+pipeline = Pipeline([('scaler', StandardScaler()), 
+                     ('classifier', SVC())])
+
+param_grid = {'scaler__with_mean': [True, False],
+              'classifier__C': [0.1, 1, 10],
+              'classifier__kernel': ['linear', 'rbf'],
+              'classifier__gamma': [0.1, 1, 10]}
+
+grid_search = GridSearchCV(estimator= pipeline,
+                           param_grid= param_grid,
+                           cv=5,
+                           scoring='accuracy',
+                           verbose=2)
+
+grid_search.fit(X_train, y_train)
+```
+
+```plaintext
+Assuming that X_train and y_train are given and the features are not sparse, which of the following statements about the given code is correct?
+
+Options :
+
+6406532577799. 
+The StandardScaler will scale both X_train and y_train before training a classifier.
+
+6406532577800. 
+All the classifiers will not be trained on the scaled data with zero mean and unit variance.
+
+6406532577801. 
+The pipeline always uses a radial basis function (‘rbf’) as the kernel for the SVC() classifier.
+```

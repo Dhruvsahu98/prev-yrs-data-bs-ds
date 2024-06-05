@@ -1,0 +1,35 @@
+```python
+88.3 to 89.3
+
+Question Number : 226
+Question Id : 640653770650
+Question Type : SA
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+After training a multi-class classifier, you obtain the following confusion matrix. What will be the weighted average of the recall score for each class?
+
+\[
+\begin{array}{ccc}
+ & \text{Predicted label} &  \\
+\text{True label} & 0 & 1 & 2 \\
+0 & 4 & 0 & 4 \\
+1 & 2 & 1 & 2 \\
+2 & 4 & 2 & 1 \\
+\end{array}
+\]
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 0.295 to 0.315
+
+Sub-Section Number : 6
+Sub-Section Id : 640653112644
+```
