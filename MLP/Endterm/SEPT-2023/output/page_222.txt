@@ -1,0 +1,39 @@
+```python
+Options :
+
+6406532034050. ✔ Complete Linkage
+
+6406532034051. ❋ Ward’s Linkage
+
+6406532034052. ❋ Single Linkage
+
+6406532034053. ❋ Average Linkage
+
+Question Number : 243 Question Id : 640653608928 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+You’re analyzing a dataset of customer transaction histories. Each transaction includes the purchase amount and timestamp. You want to identify groups of customers based on their spending behavior. Which clustering approach would be most appropriate for this scenario?
+
+Options :
+
+6406532034054. ✔ Distribution-based Clustering
+
+6406532034055. ❋ Density-based Clustering
+
+Sub-Section Number : 4
+
+Sub-Section Id : 64065387480
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 244 Question Id : 640653608903 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+```

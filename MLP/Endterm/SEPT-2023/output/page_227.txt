@@ -1,0 +1,45 @@
+```plaintext
+6406532033975. ✔ Predict the mean or median of the target variable for all instances.
+
+6406532033976. ✖ Fit a complex mathematical function to the data.
+
+6406532033977. ✖ Randomly shuffle the target variable values to make predictions.
+
+6406532033978. ✖ Predict the sum of the input features for each instance.
+```
+
+### Question Number : 250 Question Id : 640653608906 Question Type : MCQ Is Question
+### Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+### Correct Marks : 3
+### Question Label : Multiple Choice Question
+
+Consider the following Python code snippet that demonstrates the use of StandardScaler from scikit-learn:
+
+```python
+from sklearn.preprocessing import StandardScaler
+import numpy as np
+
+data = np.array([[2.0, 5.0],
+                 [4.0, 8.0],
+                 [6.0, 12.0]])
+
+scaler = StandardScaler()
+scaled_data = scaler.fit_transform(data)
+
+print("Original data:\n", data)
+print("\nScaled data:\n", scaled_data)
+```
+
+What does the code above achieve?
+
+### Options :
+
+```plaintext
+6406532033980. ✖ It converts the numerical values in the data array to categorical labels.
+
+6406532033981. ✔ It standardizes the features in the data array to have zero mean and unit variance.
+
+6406532033982. ✖ It applies a logarithmic transformation to the values in the data array.
+
+6406532033983. ✖ It removes the mean and scales the features in the data array to a specific range.
+```

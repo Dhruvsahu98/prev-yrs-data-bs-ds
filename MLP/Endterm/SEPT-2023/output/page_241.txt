@@ -1,0 +1,40 @@
+```plaintext
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+You're aiming to optimize an AdaBoostClassifier that uses a DecisionTreeClassifier as its base estimator. You decide to use GridSearchCV from sklearn.model_selection to search for the best hyperparameters. In the given parameter grids for GridSearchCV, parameters n_estimator and learning_rate are meant for the 'AdaBoost Classifier', while the others are for the 'DecisionTreeClassifier'. Which of the following sets of parameters is the MOST comprehensive in testing the capabilities of both the 'AdaBoost- Classifier' and its base estimator?
+
+Options :
+
+{'AdaBoostClassifier_n_estimators': [50, 100, 150], 
+ 'AdaBoostClassifier_learning_rate': [0.01, 0.1, 1]}
+
+6406532034042. *
+
+{'max_depth': [1, 2, 3], 
+ 'n_estimators': [50, 100], 
+ 'learning_rate': [0.01, 0.1, 1]}
+
+6406532034043. *
+
+{'DecisionTreeClassifier_criterion': ['gini', 'entropy'], 
+ 'DecisionTreeClassifier_splitter': ['best', 'random'], 
+ 'n_estimators': [50, 100], 
+ 'learning_rate': [0.1, 1]}
+
+6406532034044. *
+
+{'base_estimator__max_depth': [1, 2, 3], 
+ 'base_estimator__criterion': ['gini', 'entropy'], 
+ 'n_estimators': [30, 50], 
+ 'learning_rate': [0.05, 0.1, 0.5]}
+
+6406532034045. ✔
+
+Question Number : 269 Question Id : 640653608931 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+```

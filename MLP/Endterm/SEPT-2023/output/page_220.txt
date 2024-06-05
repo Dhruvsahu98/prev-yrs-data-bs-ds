@@ -1,0 +1,51 @@
+```python
+Consider the following Python code snippet that demonstrates the use of GaussianNB from scikit-learn:
+
+from sklearn.naive_bayes import GaussianNB
+import numpy as np
+
+X = np.array([[1.0, 2.0],
+              [2.5, 3.5],
+              [3.0, 5.0]])
+
+y = np.array([0, 1, 0])
+
+classifier = GaussianNB()
+classifier.fit(X, y)
+
+new_data = np.array([[2.0, 3.0]])
+
+predicted_proba = classifier.predict_proba(new_data)
+
+In the context of the code above, what information does the array predicted_proba contain?
+
+Options :
+
+6406532033999. ✵ The predicted classes for the new data points.
+
+6406532034000. ✵ The decision boundary values for the classes.
+
+6406532034001. ✔ The posterior probabilities of the classes for the new data points.
+
+6406532034002. ✵ The likelihood estimates for the new data points.
+
+Question Number : 240 Question Id : 640653608920 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+```
+
+```python
+What is the output of the following code?
+
+corpus=['Bias is actually the error rate of the training data',
+        'The difference between train and test error is called variance.']
+from sklearn.feature_extraction.text import CountVectorizer
+vectorizer = CountVectorizer()
+vectors = vectorizer.fit_transform(corpus)
+print (vectors.shape)
+Options :
+```
+
+Note: The mathematical expressions and tables/diagrams in LaTeX format were not applicable in this context.

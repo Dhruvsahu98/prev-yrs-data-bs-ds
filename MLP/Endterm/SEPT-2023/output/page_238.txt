@@ -1,0 +1,45 @@
+```python
+Consider the following code snippet where two decision trees are trained on the same dataset:
+
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.datasets import load_iris
+
+data = load_iris()
+X, y = data.data, data.target
+
+tree_1 = DecisionTreeClassifier(max_depth=None, min_samples_split=2,
+                                min_samples_leaf=1)
+tree_1.fit(X, y)
+
+tree_2 = DecisionTreeClassifier(max_depth=3, min_samples_split=20,
+                                min_samples_leaf=10)
+tree_2.fit(X, y)
+
+Given the configurations of tree_1 and tree_2, which decision tree is more likely to overfit the training data?
+
+Options :
+
+6406532034028. tree_1
+
+6406532034029. tree_2
+```
+
+```
+Question Number : 265 Question Id : 640653608922 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Given the following code using BaggingClassifier with KNeighborsClassifier as the base estimator:
+
+from sklearn.ensemble import BaggingClassifier
+from sklearn.neighbors import KNeighborsClassifier
+
+base_knn = KNeighborsClassifier(n_neighbors=5)
+
+bag_clf = BaggingClassifier(base_knn, n_estimators=50, max_samples=0.5,
+                            bootstrap=True, n_jobs=-1)
+
+Which of the following statements is correct?
+```

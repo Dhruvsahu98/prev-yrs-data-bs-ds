@@ -1,0 +1,48 @@
+```
+Question Label : Short Answer Question
+
+What will be the numerical value in the output array of the following code:
+
+import numpy as np
+from sklearn.preprocessing import StandardScaler
+from sklearn.impute import SimpleImputer
+from sklearn.pipeline import Pipeline
+
+X_train = [[1],[2],[3],[np.nan], [4], [np.nan], [5]]
+pipe = Pipeline(steps = [('impute', SimpleImputer(strategy='mean')),
+                         ('scale', StandardScaler())])
+
+pipe.fit(X_train)
+
+print(pipe[0].statistics_)
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+3
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065387479
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 238 Question Id : 640653608900 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+```

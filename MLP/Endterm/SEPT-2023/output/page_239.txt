@@ -1,0 +1,35 @@
+```python
+Options :
+
+6406532034030. 
+Bag_clf will throw an error as it only accepts decision tree classifiers as base classifiers.
+
+6406532034031. 
+Each base KNN classifier will be trained on the entire dataset.
+
+6406532034032. 
+The max_samples=0.5 parameter means each base estimator in the ensemble is trained on 50% of the training samples.
+
+6406532034033. 
+The ensemble will use sequential computation due to n_jobs=-1.
+
+Question Number : 266 Question Id : 640653608923 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+You're using a RandomForestClassifier from sklearn for a multi-class classification problem. You want to ensure diversity among the trees to avoid overfitting and increase robustness. Which combination of parameter settings would contribute MOST to achieving this objective?
+
+Options :
+
+6406532034034. 
+Setting n_estimators to 10, max_depth to 3, and using criterion='entropy'.
+
+6406532034035. 
+Increasing the value of n_estimators, setting max_features to a value less than the total number of features, and setting bootstrap to False.
+
+6406532034036. 
+Setting n_estimators to a high value, using criterion='gini', and setting max_samples to a value less than the total number of samples.
+```

@@ -1,0 +1,42 @@
+```python
+Consider the following code snippet:
+
+from sklearn.datasets import fetch_california_housing
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler, PolynomialFeatures
+from sklearn.pipeline import Pipeline, FeatureUnion
+
+data = fetch_california_housing()
+X = data.data
+
+polynomial_transform = PolynomialFeatures(degree=2, include_bias=False)
+pca_transform = PCA(n_components=5)
+scaler = StandardScaler()
+
+combined_features = FeatureUnion([('poly', polynomial_transform),
+                                  ('pca', pca_transform)])
+
+pipeline = Pipeline([('features', combined_features),
+                     ('scaler', scaler)])
+
+X_transformed = pipeline.fit_transform(X)
+print(X_transformed.shape)
+
+If the shape of X is \( (20640, 8) \), what will be the shape of X_transformed?
+
+Options :
+
+1. 6406532033967. \((20640, 8)\)
+2. 6406532033968. \((20640, 5)\)
+3. 6406532033969. \((20640, 44)\)
+4. 6406532033970. \((20640, 49)\) ✔
+
+Question Number : 249 Question Id : 640653608904 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+What is the main principle behind a dummy regressor’s prediction strategy?
+
+Options :
+```

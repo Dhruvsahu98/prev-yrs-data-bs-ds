@@ -1,0 +1,43 @@
+```python
+Consider the following code snippet that employs LogisticRegression from 
+sklearn on a feature matrix X and corresponding label vector y:
+
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression(class_weight='balanced', C=0.5)
+model.fit(X, y)
+
+Given the code above, which of the following statements is true?
+
+Options :
+
+6406532033990. The logistic regression model will give equal importance to both classes in an imbalanced dataset.
+
+6406532033991. The model does not use any regularization because the parameter C is set.
+
+6406532033992. The model will perform equally well on both imbalanced and balanced datasets due to the class_weight parameter.
+
+6406532033993. The value of C indicates that the model will apply a regularization.
+```
+
+\[
+\text{Question Number : 253 Question Id : 640653608911 Question Type : MCQ Is Question}
+\]
+\[
+\text{Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0}
+\]
+\[
+\text{Correct Marks : 3}
+\]
+\[
+\text{Question Label : Multiple Choice Question}
+\]
+
+```python
+After training a LogisticRegression model from sklearn.linear_model on a dataset, which of the following attributes gives the coefficients of the features in the decision function?
+
+Options :
+
+6406532033994. model.coef_
+
+6406532033995. model.params_
+```

@@ -1,0 +1,48 @@
+```python
+from matplotlib import pyplot as plt
+import numpy as np
+
+confusion_matrix = np.array([[3, 2, 1], [3, 2, 1], [2, 4, 2]])
+fig, ax = plt.subplots()
+cax = ax.matshow(confusion_matrix, cmap='viridis')
+
+for (i, j), val in np.ndenumerate(confusion_matrix):
+    ax.text(j, i, f'{val}', ha='center', va='center', color='yellow')
+
+plt.xlabel('Predicted label')
+plt.ylabel('True label')
+plt.colorbar(cax)
+plt.show()
+```
+
+**Response Type**: Numeric
+
+**Evaluation Required For SA**: Yes
+
+**Show Word Count**: Yes
+
+**Answers Type**: Equal
+
+**Text Areas**: PlainText
+
+**Possible Answers**:
+
+0.25
+
+**Question Number**: 260
+
+**Question Id**: 640653608912
+
+**Question Type**: SA
+
+**Calculator**: None
+
+**Response Time**: N.A
+
+**Think Time**: N.A
+
+**Minimum Instruction Time**: 0
+
+**Correct Marks**: 3
+
+**Question Label**: Short Answer Question

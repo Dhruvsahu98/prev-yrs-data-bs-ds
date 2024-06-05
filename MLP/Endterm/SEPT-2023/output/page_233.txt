@@ -1,0 +1,44 @@
+```python
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+For LinearRegression with equation \( Y = W_{0}X_{0} + W_{1}X_{1} + W_{2}X_{2} + \epsilon \) 
+and given that \( W_{2} = \frac{5}{7} * W_{1} \) and \( \epsilon = 0 \). What will be the value of the \( W_{1} \) for the below code? (Write 3 digits after the decimal)
+
+Where \( X_{1} \) and \( X_{2} \) are column1 and column2 respectively and \( W_{1} \) and \( W_{2} \) are weights associated to the respected columns while fitting
+
+```python
+from sklearn.linear_model import LinearRegression
+X_train = [[0,0], [2,1.43], [4,2.86], [6,4.29]]
+y_train = [0,1,2,3]
+reg = LinearRegression(fit_intercept=False) #intercept=0
+reg.fit(X_train,y_train)
+print(reg.coef_[0])
+```
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.327 to 0.333
+
+Question Number : 259 Question Id : 640653608909 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+Using the confusion matrix given below. What is the precision score for the label (class) 1 ?
+```

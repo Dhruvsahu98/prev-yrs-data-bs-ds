@@ -1,0 +1,36 @@
+```python
+6406532033996. ** model.intercept_
+
+6406532033997. ** model.feature_weights_
+```
+
+---
+
+**Question Number : 254 Question Id : 640653608914 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+You’re working on a binary classification problem where the dataset is relatively small, and you suspect that a linear decision boundary will work well due to distinct class separation. Additionally, you want to perform logistic regression with L1 regularization for improved feature selection. Which solver is most appropriate for this scenario?
+
+**Options :**
+
+6406532034003. ** Newton-CG
+
+6406532034004. ** SGD
+
+6406532034005. ** LBFGS
+
+6406532034006. ✔ Liblinear
+
+---
+
+**Question Number : 255 Question Id : 640653608929 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+You’re building an ‘MLPClassifier’ for a dataset with a large number of features. The goal is to predict whether an online user will purchase a product based on their browsing behavior. You’re trying to decide the appropriate number of neurons in the hidden layers of the neural network. Which statement about adjusting the hidden_layer_sizes parameter is correct?
+```

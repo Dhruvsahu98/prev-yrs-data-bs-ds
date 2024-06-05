@@ -1,0 +1,65 @@
+```python
+Given below a y_train list which consists of coffee order's preference by the customers in a cafe.
+
+y_train = [['large', 'cold'],
+           ['small', 'cold'],
+           ['small', 'hot'],
+           ['large', 'hot']]
+           
+MultiLabelBinarizer from sklearn library has been used to convert the y_train into numbers, so which of the following option matches with the output of the following code ?
+
+from sklearn.preprocessing import MultiLabelBinarizer
+mlb = MultiLabelBinarizer(classes=['cold', 'hot', 'large', 'small'])
+print(mlb.fit_transform(y_train))
+
+Options :
+
+6406532033959. ✔
+
+\[
+\begin{bmatrix}
+1 & 0 & 1 & 0 \\
+1 & 0 & 0 & 1 \\
+0 & 1 & 0 & 1 \\
+0 & 1 & 1 & 0 \\
+\end{bmatrix}
+\]
+
+6406532033960. ✖
+
+\[
+\begin{bmatrix}
+0 & 0 & 1 & 0 \\
+1 & 1 & 1 & 0 \\
+0 & 0 & 0 & 0 \\
+0 & 0 & 0 & 0 \\
+\end{bmatrix}
+\]
+
+6406532033961. ✖
+
+\[
+\begin{bmatrix}
+1 & 0 & 1 & 0 \\
+1 & 0 & 1 & 0 \\
+0 & 1 & 1 & 0 \\
+0 & 1 & 0 & 0 \\
+\end{bmatrix}
+\]
+
+6406532033962. ✖
+
+\[
+\begin{bmatrix}
+1 & 0 & 1 & 0 \\
+1 & 0 & 1 & 0 \\
+0 & 1 & 0 & 1 \\
+0 & 1 & 1 & 0 \\
+\end{bmatrix}
+\]
+
+Question Number : 239 Question Id : 640653608913 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+```

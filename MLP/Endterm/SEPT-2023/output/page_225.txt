@@ -1,0 +1,41 @@
+```python
+import numpy as np
+from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
+from sklearn.compose import ColumnTransformer
+
+X = np.array([[2.0, 'apple'],
+              [5.0, 'banana'],
+              [1.0, 'apple'],
+              [4.0, 'cherry']])
+
+preprocessor = ColumnTransformer(
+    transformers=[('num', MinMaxScaler(), [0]),
+                  ('cat', OneHotEncoder(), [1])])
+
+X_transformed = preprocessor.fit_transform(X)
+print(X_transformed[0])
+```
+
+Options :
+
+6406532033963. \(\checkmark\)
+
+\[ \left[ 0.25, 1, 0, 0 \right] \]
+
+6406532033964. \(\times\)
+
+\[ \left[ 0.5, 0, 1, 0 \right] \]
+
+6406532033965. \(\times\)
+
+\[ \left[ 0, 1, 0, 0 \right] \]
+
+6406532033966. \(\times\)
+
+\[ \left[ 1, 0, 0, 1 \right] \]
+
+Question Number : 248 Question Id : 640653608902 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3
+
+Question Label : Multiple Choice Question

@@ -1,0 +1,45 @@
+```python
+Given the following code snippet, which statement is true regarding the use of LabelEncoder?
+
+from sklearn.preprocessing import LabelEncoder
+
+data = ["cat", "dog", "fish", "cat", "bird", "dog", "bird"]
+
+encoder = LabelEncoder()
+encoded_data = encoder.fit_transform(data)
+
+print(encoded_data)
+```
+
+Options :
+
+6406532033971. 
+encoded_data will contain only the values 0, 1, 2, and 3.
+
+6406532033972. 
+If ["elephant"] is passed to encoder.transform(), it will be successfully transformed to an integer.
+
+6406532033973. 
+LabelEncoder assigns higher integer values to more frequently occurring labels.
+
+6406532033974. 
+After calling encoder.inverse_transform([2]), the result will be "dog".
+
+Question Number : 245 Question Id : 640653608916 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Which of the following estimators can implement the partial_fit method ?
+
+Options :
+
+6406532034008. 
+MultinomialNB
+
+6406532034009. 
+RandomForestRegressor
+
+6406532034010. 
+LogisticRegressor
+```

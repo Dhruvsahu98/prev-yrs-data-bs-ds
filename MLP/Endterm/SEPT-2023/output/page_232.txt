@@ -1,0 +1,38 @@
+```python
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+You’re working on a binary classification task using the ‘MLPClassifier’ to predict whether a customer will make a purchase based on their browsing behavior. You’re concerned about overfitting due to the complexity of the model. You decide to increase the ‘alpha’ parameter to control overfitting. The following code snippet shows the application of ‘MLPClassifier’:
+
+from sklearn.neural_network import MLPClassifier
+import numpy as np
+
+data = np.array([[10, 3], [20, 5], [5, 1], [15, 4], [8, 2]])
+
+# Corresponding target labels (0: No Purchase, 1: Purchase)
+target = np.array([0, 1, 0, 1, 0])
+
+# Initialize MLPClassifier with alpha parameter
+clf = MLPClassifier(alpha=0.01, random_state=42)
+clf.fit(data, target)
+
+# Predict class labels
+predicted_labels = clf.predict(data)
+
+By setting the ‘alpha’ parameter to 0.01, how are you affecting the neural network model’s behavior?
+
+Options :
+
+6406532034068. ❋ Increasing the model’s complexity to fit the training data more closely.
+6406532034069. ✔ Adding a stronger regularization term to the loss function, discouraging complex models.
+6406532034070. ❋ Making the model more sensitive to outliers and noise in the data.
+6406532034071. ❋ Adjusting the learning rate to control convergence speed.
+
+Sub-Section Number : 6
+Sub-Section Id : 64065387482
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 258 Question Id : 640653608908 Question Type : SA Calculator : None
+```

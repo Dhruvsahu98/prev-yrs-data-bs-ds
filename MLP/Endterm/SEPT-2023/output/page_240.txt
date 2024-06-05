@@ -1,0 +1,43 @@
+```python
+Setting max_depth to None, min_samples_split to 2, and min_samples_leaf to 1.
+
+6406532034037.
+
+Question Number: 267 Question Id: 640653608924 Question Type: MCQ Is Question
+Mandatory: No Calculator: None Response Time: N.A Think Time: N.A Minimum Instruction Time: 0
+
+Correct Marks: 4
+
+Question Label: Multiple Choice Question
+
+You're using a DecisionTreeClassifier from sklearn.tree to build a classification model. Which of the following statements is MOST accurate regarding the parameters and attributes of this classifier?
+
+Options:
+
+6406532034038. 
+\[
+\text{The max_depth parameter ensures that the tree is pruned to have a maximum depth, while the tree..max_depth attribute retrieves the depth of the actual tree that was built.}
+\]
+
+6406532034039. 
+\[
+\text{Setting min_samples_split to a value greater than 2 can prevent the tree from splitting on features that have very minimal influence, but this guarantees that all leaf nodes will contain fewer samples than this value.}
+\]
+
+6406532034040.
+\[
+\text{The criterion='entropy' parameter means that the decision tree will split nodes to maximize information gain, while the tree..impurity attribute retrieves the impurity of the root node.}
+\]
+
+6406532034041. 
+\[
+\text{If the class_weight parameter is set to 'balanced', the decision tree will always have balanced classes in its leaf nodes.}
+\]
+
+Question Number: 268 Question Id: 640653608925 Question Type: MCQ Is Question
+Mandatory: No Calculator: None Response Time: N.A Think Time: N.A Minimum Instruction Time: 0
+
+Correct Marks: 4
+
+Question Label: Multiple Choice Question
+```

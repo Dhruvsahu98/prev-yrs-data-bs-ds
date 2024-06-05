@@ -1,0 +1,42 @@
+```python
+6406532034024. ❌ (15,2)
+
+6406532034025. ❌ (2,3)
+
+6406532034026. ✔️ (2,15)
+
+6406532034027. ❌ (15,3)
+
+Question Number : 241 Question Id : 640653608926 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+You’re working on a dataset containing customer purchase data, and you want to segment the
+customers into distinct groups based on their purchasing behavior. Each data point represents a
+customer and includes features like ”Total Amount Spent” and ”Number of Items Purchased.”
+Which algorithm is suitable for this scenario?
+
+Options :
+
+6406532034046. ❌ Linear Regression
+
+6406532034047. ❌ Decision Tree
+
+6406532034048. ✔️ K-means Clustering
+
+6406532034049. ❌ Support Vector Machine
+
+Question Number : 242 Question Id : 640653608927 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+You’re working with a dataset of geographical locations and want to group similar locations
+together based on their distances. The dataset includes latitude and longitude coordinates for
+each location. Which linkage method would be most appropriate for this scenario?
+```

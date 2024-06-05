@@ -1,0 +1,31 @@
+```plaintext
+Options :
+
+6406532034056. ✴ Increasing the number of neurons in hidden layers will always lead to better model performance.
+
+6406532034057. ✴ Decreasing the number of neurons in hidden layers reduces the model’s capacity to capture complex patterns.
+
+6406532034058. ✴ The number of neurons in hidden layers does not significantly affect the model’s performance.
+
+6406532034059. ✔ Finding the optimal number of neurons is a trial-and-error process and may require experimentation.
+```
+
+```plaintext
+Question Number : 256 Question Id : 640653608930 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+You’re designing an ‘MLPClassifier’ for an image recognition task. The dataset consists of grayscale images of animals. You want to introduce non-linearity to the neural network’s architecture. Which element of the neural network architecture would you adjust to incorporate non-linearity in the model?
+Options :
+
+6406532034060. ✴ Number of hidden layers
+
+6406532034061. ✴ Number of neurons in input layer
+
+6406532034062. ✴ Learning rate
+
+6406532034063. ✔ Activation function
+```
+
+```plaintext
+Question Number : 257 Question Id : 640653608932 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+```
