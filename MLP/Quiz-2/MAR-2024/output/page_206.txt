@@ -1,0 +1,95 @@
+```python
+Consider the following code snippet that employs LogisticRegression from sklearn on a feature matrix X and corresponding label vector y:
+
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression(C=0.8, multi_class="multinomial", max_iter=1000)
+model.fit(X, y)
+
+Given the code above, which of the following statements is true?
+
+Options :
+
+6406532577827. ❌ The LogisticRegression model is set up for binary classification.
+
+6406532577828. ❌ The model does not use any regularization because the parameter C is set.
+
+6406532577829. ✅ The model has been specifically set up to handle a multi-class classification problem using a softmax regression approach.
+
+6406532577830. ✅ The model might iterate through the data multiple times, with a maximum limit set at 1000 iterations.
+
+Sub-Section Number : 4
+Sub-Section Id : 640653112642
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 223 Question Id : 640653770644 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Fill in the missing parameter value in the following estimator that can be used to classify the data
+
+from sklearn.svm import SVC
+clf = SVC(kernel = ------)
+clf.fit(X, y)
+```
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\begin{document}
+
+Consider the following code snippet that employs \texttt{LogisticRegression} from \texttt{sklearn} on a feature matrix $X$ and corresponding label vector $y$:
+
+\begin{verbatim}
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression(C=0.8, multi_class="multinomial", max_iter=1000)
+model.fit(X, y)
+\end{verbatim}
+
+Given the code above, which of the following statements is true?
+
+\textbf{Options}:
+
+\begin{itemize}
+    \item 6406532577827. \textcolor{red}{❌} The \texttt{LogisticRegression} model is set up for binary classification.
+    \item 6406532577828. \textcolor{red}{❌} The model does not use any regularization because the parameter $C$ is set.
+    \item 6406532577829. \textcolor{green}{✅} The model has been specifically set up to handle a multi-class classification problem using a softmax regression approach.
+    \item 6406532577830. \textcolor{green}{✅} The model might iterate through the data multiple times, with a maximum limit set at 1000 iterations.
+\end{itemize}
+
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Sub-Section Number} & 4 \\ \hline
+\textbf{Sub-Section Id}     & 640653112642 \\ \hline
+\textbf{Question Shuffling Allowed} & Yes \\ \hline
+\textbf{Is Section Default?} & null \\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Question Number} & 223 \\ \hline
+\textbf{Question Id} & 640653770644 \\ \hline
+\textbf{Question Type} & MSQ \\ \hline
+\textbf{Is Question Mandatory} & No \\ \hline
+\textbf{Calculator} & None \\ \hline
+\textbf{Response Time} & N.A \\ \hline
+\textbf{Think Time} & N.A \\ \hline
+\textbf{Minimum Instruction Time} & 0 \\ \hline
+\textbf{Correct Marks} & 2 \\ \hline
+\textbf{Max. Selectable Options} & 0 \\ \hline
+\textbf{Question Label} & Multiple Select Question \\ \hline
+\end{tabular}
+
+Fill in the missing parameter value in the following estimator that can be used to classify the data
+
+\begin{verbatim}
+from sklearn.svm import SVC
+clf = SVC(kernel = ------)
+clf.fit(X, y)
+\end{verbatim}
+
+\end{document}
+```

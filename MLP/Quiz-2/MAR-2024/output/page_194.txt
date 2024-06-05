@@ -1,0 +1,34 @@
+```python
+Question Number : 206 Question Id : 640653770629 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider following code snippet:
+
+\begin{verbatim}
+from sklearn.utils.multiclass import type_of_target
+import numpy as np
+print(type_of_target(np.array([['horror','fantasy'],
+                               ['adventure','fantasy'],
+                               ['adventure','fantasy']])))
+print(type_of_target([72, 17.89, 63.00]))
+print(type_of_target([0, 1, 1, 0]))
+\end{verbatim}
+
+What will be the output of the above code snippet in the correct sequence?
+
+Options :
+
+\begin{itemize}
+  \item 6406532577763. \textbf{'multilabel-indicator'}\\ \textbf{'multiclass'}\\ \textbf{'binary'}
+  \item 6406532577764. \textbf{'multiclass'}\\ \textbf{'multiclass'}\\ \textbf{'binary'}
+  \item 6406532577765. \textbf{'binary'}\\ \textbf{'multiclass'}\\ \textbf{'multilabel-indicator'}
+  \item 6406532577766. \textbf{'multilabel-multioutput'}\\ \textbf{'continuous'}\\ \textbf{'binary'}
+\end{itemize}
+
+Question Number : 207 Question Id : 640653770630 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+```

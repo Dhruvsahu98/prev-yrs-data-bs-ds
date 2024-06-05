@@ -1,0 +1,42 @@
+```plaintext
+Question Shuffling Allowed :                  Yes
+Is Section Default? :                         null
+
+Question Number : 227 Question Id : 640653770648 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+What is the output of the following code?
+
+```python
+from sklearn.neighbors import KNeighborsClassifier
+X = [[2,3], [5,6], [8,9], [10, 11], [15,16], [20,21]]
+y = [2, 1, 0, 1, 2, 1]
+
+knn = KNeighborsClassifier(n_neighbors=3,
+                           metric='euclidean',
+                           weights='uniform')
+
+knn.fit(X, y)
+print(knn.predict([[8,9]]))
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+1
+```
+
+```plaintext
+Business Analytics
+
+Section Id :                    64065353270
+Section Number :                14
+Section type :                  Online
+Mandatory or Optional :         Mandatory
+Number of Questions :           5
+```

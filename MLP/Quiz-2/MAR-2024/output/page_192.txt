@@ -1,0 +1,38 @@
+```python
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Select all true statements.
+
+Options :
+
+6406532577751. ✔
+In Decision tree, if a question \( Q_1 \) is "better" than question \( Q_2 \), then information gains for \( Q_1 \) is greater than information gains \( Q_2 \) always.
+
+6406532577752. ✔
+The training dataset is required while predicting the label of a test-point in the k-NN algorithm.
+
+6406532577753. ✖
+A question of the form \( f_k \leq \theta \) always partitions the dataset into two non-empty sets.
+
+6406532577754. ✔
+The depth of the tree is a hyperparameter and has to be chosen using cross validation.
+
+6406532577755. ✖
+Decision trees are prone to overfit if the maximum depth is set too low.
+
+MLP
+
+\section*{MLP}
+\begin{tabular}{ll}
+\textbf{Section Id :} & 64065353269 \\
+\textbf{Section Number :} & 13 \\
+\textbf{Section type :} & Online \\
+\textbf{Mandatory or Optional :} & Mandatory \\
+\textbf{Number of Questions :} & 23 \\
+\textbf{Number of Questions to be attempted :} & 23 \\
+\textbf{Section Marks :} & 50 \\
+\textbf{Display Number Panel :} & Yes \\
+\textbf{Section Negative Marks :} & 0 \\
+\end{tabular}
+```

@@ -1,0 +1,29 @@
+A total of 18 different combinations of hyperparameters were trained during the \texttt{GridSearchCV} fitting.
+
+\textcolor{red}{6406532577802.}
+
+\textbf{Question Number : 216 Question Id : 640653770639 Question Type : MCQ Is Question} \\
+\textbf{Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0} \\
+\textbf{Correct Marks : 2} \\
+
+\textbf{Question Label : Multiple Choice Question}
+
+Consider the following code snippet that employs LogisticRegression from sklearn on a feature matrix X and corresponding label vector y:
+
+```python
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression(class_weight='balanced', C=0.5)
+model.fit(X, y)
+```
+
+Given the code above, which of the following statements is true?
+
+\textbf{Options :}
+
+1. The logistic regression model will give equal importance to both classes in an imbalanced dataset. \textcolor{red}{6406532577803.}
+2. The model does not use any regularization because the parameter C is set. \textcolor{red}{6406532577804.}
+3. The model will perform equally well on both imbalanced and balanced datasets due to the \texttt{class\_weight} parameter. \textcolor{red}{6406532577805.}
+4. The value of C indicates that the model will apply a regularization. \textcolor{green}{6406532577806.}
+
+\textbf{Question Number : 217 Question Id : 640653770649 Question Type : MCQ Is Question} \\
+\textbf{Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0}
