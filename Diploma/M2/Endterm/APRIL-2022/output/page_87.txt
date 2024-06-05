@@ -1,47 +1,49 @@
-```python
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8"/>
-    <title>My title</title>
-    <style>
-        .class1 {
-            color: yellow;
-        }
-        .class2 {
-            color: red;
-        }
-        .class3 {
-            color: blue;
-        }
-    </style>
-</head>
-<body>
-    <div>
-        <p class="class3 class2 class1">
-            CSS is fun!
-        </p>
-    </div>
-</body>
-</html>
+```plaintext
+Question Number : 158 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Using the list careers that we have been working with, what is the output of the following snippet of code? Assume that data is only the sample six players shown.
+
+```
+def all_rounders(careers):
+    count = 0
+    for elem in careers:
+        player, runs, centuries, wickets, five = elem
+        if runs > 4000 and wickets > 200:
+            count += 1
+    return count
+
+print(all_rounders(careers))
 ```
 
-What will be the color applied to the text in the paragraph tag?
+NOTE: Enter your answer to the nearest integer.
 
-**Options :**
+Response Type : Numeric
 
-A.  ❉ yellow
+Evaluation Required For SA : Yes
 
-B.  ❉ red
+Show Word Count : Yes
 
-C.  ✔ blue
+Answers Type : Equal
 
-D.  ❉ None of these
+Text Areas : PlainText
 
-**Question Number : 94 Question Type : MCQ**
+Possible Answers :
 
-**Correct Marks : 2**
+4
+```
 
-**Question Label : Multiple Choice Question**
+```plaintext
+Sem2 Maths2
 
-Consider the following services provided by platform-as-a-service approach.
+Number of Questions : 12
+
+Section Marks : 50
+```
+
+```plaintext
+Page 88 of 308
+```

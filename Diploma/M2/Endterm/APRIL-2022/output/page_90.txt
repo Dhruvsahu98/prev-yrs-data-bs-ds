@@ -1,0 +1,55 @@
+```python
+C. \(\checkmark\)
+
+\[
+\text{If } A \text{ is an } m \times n \text{ matrix, then sum of dimension of column space and dimension of nullspace of } A \text{ is } n.
+\]
+
+D. \(\ast\)
+
+\[
+\text{If } A \text{ is an } m \times n \text{ matrix, then sum of dimension of column space and dimension of nullspace of } A \text{ is } m.
+\]
+
+E. \(\checkmark\)
+
+\[
+\text{If the columns of a matrix } A \text{ are linearly independent, then nullity of } A \text{ is } 0.
+\]
+
+\textbf{Question Number : 163 Question Type : MSQ}
+
+\textbf{Correct Marks : 3}
+
+\textbf{Question Label : Multiple Select Question}
+
+\textbf{Choose the set of correct options.}
+
+\textbf{Options :}
+
+A. \(\checkmark\)
+
+\[
+\text{Consider a linear transformation } T : \mathbb{R}^n \rightarrow \mathbb{R}^m \text{ such that } T(v_1) = w_1 \text{ and } T(v_2) = w_2. \text{ If } w_1 \text{ and } w_2 \text{ are linearly independent, then } v_1 \text{ and } v_2 \text{ are linearly independent.}
+\]
+
+B. \(\ast\)
+
+\[
+\text{Consider a linear transformation } T : \mathbb{R}^n \rightarrow \mathbb{R}^m \text{ such that } T(v_1) = w_1 \text{ and } T(v_2) = w_2, \text{ where } \mathbb{R}^n \text{ and } \mathbb{R}^m \text{ are inner product spaces. If } w_1 \text{ and } w_2 \text{ are orthogonal, then } v_1 \text{ and } v_2 \text{ are orthogonal.}
+\]
+
+C. \(\checkmark\)
+
+\[
+\text{Let } u \text{ and } v \text{ be two vectors of an inner product space } V. \text{ If } u + v \text{ and } u - v \text{ are orthogonal to each other, then } \|u\| = \|v\|.
+\]
+
+D. \(\checkmark\)
+
+\[
+\text{Let } A \text{ be an } n \times n \text{ matrix. The null space of } A \text{ is the orthogonal complement of the row space of } A \text{ when both are viewed as subspaces of } \mathbb{R}^n \text{ with the usual inner product.}
+\]
+
+\text{Page 91 of 308}
+```

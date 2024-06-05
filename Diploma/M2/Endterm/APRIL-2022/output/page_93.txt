@@ -1,0 +1,47 @@
+```plaintext
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+2
+```
+```plaintext
+Question Number : 168 Question Type : SA
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+A potter wants to make a rectangular box of volume 17 cubic units such that its total surface area is minimum. He successfully creates one of dimensions x, y, and z units. Find the value of \(x^3 + z^3\).
+
+[Note: If the dimensions of a rectangular box are l, b, and h units, then volume of the box is \(V = lbh\) cubic units and the total surface area of the rectangular box is \(S = 2(lb + bh + lh)\) square units.]
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+34
+```
+```plaintext
+Question Type : COMPREHENSION
+```

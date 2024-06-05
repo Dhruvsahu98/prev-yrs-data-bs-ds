@@ -1,0 +1,47 @@
+```python
+Question Number : 179 Question Type : MCQ
+
+Correct Marks : 5
+
+Question Label : Multiple Choice Question
+
+Let $ T $ denote the linear transformation 
+from $ V_1 $ to $ V_2 $, whose matrix representation 
+with respect to the ordered bases 
+$\beta$ and $ \gamma $ (mentioned in the previous questions 
+19 & 20), respectively for $ V_1 $
+and $ V_2 $ is the identity matrix,
+i.e., $ 
+\begin{bmatrix}
+1 & 0 \\
+0 & 1 
+\end{bmatrix}
+$. Which of the following 
+functions denotes an affine mapping 
+from $ A_1 $ to $ A_2 $ corresponding to $ T $?
+
+Options :
+
+A. $\bigstar \quad f(x, y, z) = (-x, -y, x + y + 1)$
+
+B. $\bigstar \quad f(x, y, z + 4) = (x, y, -x + y + 1)$
+
+C. $\bigstar \quad f(x, y, z - 4) = (x, y, x + y + 1)$
+
+D. $\checkmark \quad f(x, y, z - 4) = (-x, y, x + y + 1)$
+
+
+BDM
+
+Number of Questions : 33
+
+Section Marks : 120
+
+
+Question Number : 180 Question Type : MCQ
+
+Correct Marks : 0
+
+Question Label : Multiple Choice Question
+
+```

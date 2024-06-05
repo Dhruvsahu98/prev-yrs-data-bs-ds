@@ -1,0 +1,43 @@
+```plaintext
+Text Areas : PlainText
+
+Possible Answers :
+
+101112
+
+Question Number : 170 Question Type : SA
+
+Correct Marks : 2
+Question Label : Short Answer Question
+Similar matrices have the same ________. (Enter 2 best possible options. Enter only the serial numbers of those options in increasing order without adding any comma or space in between them.) [Suppose your answer is 7, 14 and 17, then you should enter 71417]
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+13
+
+Question Number : 171 Question Type : SA
+
+Correct Marks : 1
+Question Label : Short Answer Question
+Gram-Schmidt algorithm generates a ________. (Enter the best possible option (only one). Enter only the serial number of that option.) [Suppose your answer is 7, 14 and 17, then you should enter 71417]
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+```

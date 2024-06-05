@@ -1,0 +1,47 @@
+```plaintext
+A. \(\left( \frac{1}{\sqrt{2}}, -\frac{1}{\sqrt{2}} \right)\)
+
+B. \(\left( \frac{1}{\sqrt{2}}, \frac{1}{\sqrt{2}} \right)\)
+
+C. \(\left( -\frac{1}{\sqrt{2}}, -\frac{1}{\sqrt{2}} \right)\)
+
+D. \(\left( -\frac{1}{\sqrt{2}}, \frac{1}{\sqrt{2}} \right)\)
+```
+
+```plaintext
+Question Number : 175 
+Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+The number of critical points of the function \( f \) is ____________.
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1
+```
+
+```plaintext
+Question Number : 176 
+Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+What is the rank of A?
+```

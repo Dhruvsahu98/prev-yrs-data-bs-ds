@@ -1,0 +1,50 @@
+```python
+Minimum Instruction Time : 0
+
+Question Numbers : (169 to 172)
+
+Question Label : Comprehension
+
+From the list of given terms find out the best possible options for each of the given subquestions:
+
+\begin{itemize}
+  \item 1) Rank
+  \item 2) Limit
+  \item 3) Determinant
+  \item 4) Closure with respect to addition and scalar multiplication
+  \item 5) Existence of zero element
+  \item 6) Existence of additive inverse
+  \item 7) Commutativity of addition
+  \item 8) Associativity of addition
+  \item 9) Elements
+  \item 10) Local maxima
+  \item 11) Local minima
+  \item 12) Saddle points
+  \item 13) Gradient
+  \item 14) Directional derivative
+  \item 15) Partial derivative
+  \item 16) Set of orthonormal vectors
+  \item 17) Standard ordered basis
+  \item 18) Affine subspace
+\end{itemize}
+
+Sub questions
+
+Question Number : 169 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Critical points can be ________. (Enter 3 best possible options. Enter only the serial numbers of those options in increasing order without adding any comma or space in between them.)
+
+[Suppose your answer is 7, 14 and 17, then you should enter 71417]
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+```

@@ -1,0 +1,46 @@
+```python
+Question Number : 164 Question Type : MSQ
+
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+
+Choose the correct statements for the function
+
+$$
+f(x, y) = 
+\begin{cases} 
+\frac{x^2 y}{x^4 + y^2} & (x, y) \neq (0, 0) \\
+0 & (x, y) = (0, 0)
+\end{cases}
+$$
+
+Options :
+
+A. $\lim_{{(x,y) \to (0,0)}} f(x, y) = 0$
+
+B. $f$ is not continuous at $(0, 0)$.
+
+C. The directional derivative of $f$ at $(0, 0)$ in the direction of $(1, 1)$ is $\frac{1}{\sqrt{2}}$.
+
+D. The directional derivative of $f$ at $(0, 0)$ in the direction of $(1, 1)$ does not exist.
+
+Question Number : 165 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following system of linear equations
+
+$$
+\text{System:} \quad
+\begin{cases}
+x + y + z = 2 \\
+y - 3z = 1 \\
+2x + y + 5z = 3
+\end{cases}
+$$
+
+The number of solutions of the above system is
+```

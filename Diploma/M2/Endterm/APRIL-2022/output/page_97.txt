@@ -1,0 +1,50 @@
+```python
+# Consider the function \( f : \mathbb{R}^2 \rightarrow \mathbb{R} \) defined as
+# 
+# \[
+# f(x, y) = x^2 y + xy^2
+# \]
+# 
+# 
+# The tangent plane to the function \( f \) at the point \((1,1)\) is given by \( T_1 \).
+# Let \( A_1 \) denote the affine subspace of \(\mathbb{R}^3\) formed by the set of points on \( T_1 \).
+# Let \( V_1 \) denote the corresponding vector subspace associated with \( A_1 \).
+# Let \( A \) denote the Hessian matrix of the function \( f \) at the point \((1,1)\).
+# Consider the affine subspace of \(\mathbb{R}^3\) given by
+# 
+# \[
+# A_2 = \{(x, y, z) | x - y + z = 1, \text{ where } x, y, z \in \mathbb{R}\}
+# \]
+# 
+# Let \( V_2 \) denote the corresponding vector subspace associated with \( A_2 \).
+# Using the above information answer the given subquestions.
+# 
+# Sub questions
+# 
+# Question Number : 173 Question Type : MCQ
+# 
+# Correct Marks : 2
+# Question Label : Multiple Choice Question
+# 
+# Which one of the following represents the equation of the tangent lines to the function \( f \) at the point \((1, 1)\) in the direction of the unit vector \((1, 0)\)?
+# 
+# Options :
+# 
+# A. \( x(t) = 1 - t, y(t) = 1, z(t) = 2 + 3t \).
+# 
+# B. \( x(t) = 1 + t, y(t) = 1, z(t) = 2 - 3t \).
+# 
+# C. \( x(t) = 1 + t, y(t) = 1, z(t) = 2 + 3t \).
+# 
+# D. \( x(t) = 1 + t, y(t) = 0, z(t) = 2 + 3t \).
+# 
+# 
+# Question Number : 174 Question Type : MCQ
+# 
+# Correct Marks : 2
+# Question Label : Multiple Choice Question
+# 
+# The unit vector along which the rate of change of the function \( f \) at \((1, 1)\) is the maximum is
+# 
+# Options :
+```

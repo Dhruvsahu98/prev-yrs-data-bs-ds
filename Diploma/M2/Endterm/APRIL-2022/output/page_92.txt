@@ -1,0 +1,45 @@
+```python
+Options :
+A. 0
+B. 1
+C. 2
+D. infinite
+
+Question Number : 166 Question Type : SA
+
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Suppose \( T : \mathbb{R}^3 \to \mathbb{R}^3 \) is a linear transformation defined by
+\[ T(x, y, z) = (x + y + z, x + 2y, y + z). \]
+
+Let \( A \) denote the matrix representation of \( T \) with respect to the ordered bases
+\[ \beta = \{(1, 1, 0), (2, 3, 4), (1, -1, 1)\} \] 
+for the domain and 
+\[ \gamma = \{(0, 1, 0), (0, 0, 1), (1, 0, 0)\} \] 
+for the codomain. Then the sum of the elements in the first row of \( A \) is
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+10
+
+Question Number : 167 Question Type : SA
+
+Correct Marks : 3
+Question Label : Short Answer Question
+
+The number of local minima of the function 
+\[ f(x, y) = 2x^2 - 4xy + y^4 + 2 \]
+```

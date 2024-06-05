@@ -1,34 +1,47 @@
 ```python
-A Power supply, network and hardware management.
-B Updating of security patches and OS installation.
-C providing base for application platform.
-D Includes multiple database connectivity.
+Question Number : 159
+Question Type : MCQ
 
-Suppose the above-mentioned services are taken care by the provider, then identify the job of developer.
-
-Options :
-A. ❋ Specify the requirements on server, database and network connectivity.
-B. ❋ Deploy and maintain the application.
-C. ✔ Both Specify the requirements on server, database and network connectivity & Deploy and maintain the application.
-D. ❋ None of these
-
-Question Number : 95 Question Type : MCQ
-
-Correct Marks : 2
+Correct Marks : 0
 
 Question Label : Multiple Choice Question
 
-Identify the system that provides centralized control over distributed patches and provides a friendly interface for Git.
+THIS IS QUESTION PAPER FOR THE SUBJECT "FOUNDATION LEVEL: SEMESTER 2: MATHEMATICS FOR DATA SCIENCE 2"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
 
 Options :
-A. ❋ Gitlens
-B. ❋ Github
-C. ❋ Gitlab
-D. ✔ Both Gitlens and Github
 
-Question Number : 96 Question Type : MCQ
+A. ✔ YES
+B. ❌ NO
+
+Question Number : 160
+Question Type : MSQ
 
 Correct Marks : 3
 
-Question Label : Multiple Choice Question
+Question Label : Multiple Select Question
+
+Choose the correct options from the following:
+
+Options :
+
+A. ❌ Consider two matrices \( A \) and \( B \). If both the matrix multiplications \( AB \) and \( BA \) are well-defined then \( A \) and \( B \) are square matrices.
+
+B. ✔ Consider two matrices \( A \) and \( B \) of order \( n \). If \( A \) is not invertible, then \( AB \) is not invertible.
+
+C. ❌ Consider two matrices \( A \) and \( B \) of order \( n \). If \( AB = B \), then \( B = I \), where \( I \) is the identity matrix of order \( n \).
+
+D. ✔ There exists a \( 2 \times 2 \) matrix \( A \neq I \) such that \( A^3 = I \), where \( I \) is the identity matrix of order \( 2 \times 2 \).
+
+Question Number : 161
+Question Type : MSQ
+
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+
 ```

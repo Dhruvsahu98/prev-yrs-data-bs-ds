@@ -1,0 +1,49 @@
+```plaintext
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+2
+```
+
+```plaintext
+Question Number : 177 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Which of the following sets forms a basis $\beta$ of $V_1$?
+Options :
+A. ❋ {(1, 0, 1), (0, 1, 1)}
+B. ✔ {(-1, 0, -3), (0, 1, 3)}
+C. ❋ {(1, 0, -3), (0, 1, 3)}
+D. ❋ {(1, 0, -1), (0, 1, -1)}
+```
+
+```plaintext
+Question Number : 178 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Which of the following sets forms a basis $\gamma$ of $V_2$?
+Options :
+A. ✔ {(1, 0, -1), (0, 1, 1)}
+B. ❋ {(1, 0, 3), (0, 1, 3)}
+C. ❋ {(1, 0, -3), (0, 1, 3)}
+D. ❋ {(1, 0, -1), (0, 1, -1)}
+```
+
+```plaintext
+Page 100 of 308
+```
