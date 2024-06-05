@@ -1,0 +1,46 @@
+```python
+from sklearn.datasets import load_breast_cancer
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+X,y = load_breast_cancer(as_frame = True,
+                         return_X_y = True)
+
+X_train,X_test,y_train,y_test = train_test_split(X,
+                                                 y,
+                                                 test_size = 0.2,
+                                                 random_state = 1)
+clf = DecisionTreeClassifier(min_samples_split = 6, min_samples_leaf = 4,
+                             random_state = 5)
+
+clf.fit(X_train, y_train)
+print(clf.score(X_test, y_test))
+```
+
+In which of the following scenarios, the split will NOT be done at node N?
+
+**Options**:
+
+1. **6406531892518.** ❌ Number of samples at node N = 15. If it is split, it will result in 9 nodes in the left child and 6 nodes in the right child.
+
+2. **6406531892519.** ✔ Number of samples at node N = 5. If it is split, it will result in 4 nodes in the left child and 2 nodes in the right child.
+
+3. **6406531892520.** ✔ Number of samples at node N = 7. If it is split, it will result in 4 nodes in the left child and 3 nodes in the right child.
+
+4. **6406531892521.** ✔ Number of samples at node N = 12. If it is split, it will result in 3 nodes in the left child and 9 nodes in the right child.
+
+---
+
+**Question Number**: 289  
+**Question Id**: 640653566267  
+**Question Type**: MSQ  
+**Is Question Mandatory**: No  
+**Calculator**: None  
+**Response Time**: N.A  
+**Think Time**: N.A  
+**Minimum Instruction Time**: 0  
+**Correct Marks**: 4  
+**Selectable Option**: 0
+
+**Question Label**: Multiple Select Question
+
+The code given below attempts to find the clusters in the dataset, \(X\) using the K-means algorithm.

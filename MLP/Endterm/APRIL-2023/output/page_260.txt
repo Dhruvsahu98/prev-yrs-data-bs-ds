@@ -1,0 +1,47 @@
+```python
+6406531892475. * Encoded_X_train will have more number of rows than X_train
+```
+
+Question Number : 287  
+Question Id : 640653566253  
+Question Type : MSQ Is Question  
+Mandatory : No  
+Calculator : None  
+Response Time : N.A  
+Think Time : N.A  
+Minimum Instruction Time : 0  
+
+Correct Marks : 3  
+Selectable Option : 0  
+
+Question Label : Multiple Select Question  
+
+Which of the following ways can help in feature selection?  
+
+Options :  
+
+6406531892476. ✔ Drop a Feature with many missing values  
+6406531892477. * Drop a feature containing data with high standard deviation  
+6406531892478. ✔ Use SelectKBest or SelectKPercentile methods  
+6406531892479. * Drop a feature which has high correlation with target variable  
+
+Sub-Section Number : 7  
+Sub-Section Id : 64065380977  
+Question Shuffling Allowed : Yes  
+Is Section Default? : null  
+
+Question Number : 288  
+Question Id : 640653566263  
+Question Type : MSQ Is Question  
+Mandatory : No  
+Calculator : None  
+Response Time : N.A  
+Think Time : N.A  
+Minimum Instruction Time : 0  
+
+Correct Marks : 4  
+Selectable Option : 0  
+
+Question Label : Multiple Select Question  
+
+Consider the following block of code:  

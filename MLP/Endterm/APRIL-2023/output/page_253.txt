@@ -1,0 +1,53 @@
+```plaintext
+Question Number : 277 
+Question Id : 640653566262 
+Question Type : MCQ 
+Is Question Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider the following code. How many DecisionTreeClassifier models will be trained internally?
+
+```python
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import GridSearchCV
+param_grid = [{'max_depth':range(1, 10, 2)}, {'min_samples_split': range(1, 10, 3)}]
+gs = GridSearchCV(DecisionTreeClassifier(), param_grid, cv = 10)
+gs.fit(X,y)
+```
+
+Options :
+
+6406531892512. * 20
+
+6406531892513. * 200
+
+6406531892514. * 8
+
+6406531892515. * 150
+
+6406531892516. * 15
+
+6406531892517. ✔ 80
+
+Question Number : 278 
+Question Id : 640653566264 
+Question Type : MCQ 
+Is Question Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider two classifiers as shown in the following block of code:
+```

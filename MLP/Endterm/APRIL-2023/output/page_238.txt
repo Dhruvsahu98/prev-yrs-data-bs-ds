@@ -1,0 +1,53 @@
+```plaintext
+Question Label : Multiple Choice Question
+
+Which of the following is correct with respect to R2-score?
+
+Options :
+
+6406531892429. ❌ R2 score is always positive and it may go up to infinity.
+
+6406531892430. ❌ R2 score is always positive, but it ranges between 0 and 1 only.
+
+6406531892431. ✅ R2 score can be negative. That happens if our model is worse than the mean model.
+
+6406531892432. ❌ R2 score can be negative. That happens if the mean model is worse than our model.
+
+Question Number : 259 Question Id : 640653566242 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which options represent the output of the following code block?
+
+```python
+from sklearn.metrics import confusion_matrix
+y_true = ["Rainy", "Sunny", "Sunny", "Rainy", "Sunny", "Rainy"]
+y_pred = ["Sunny", "Sunny", "Rainy", "Rainy", "Sunny", "Sunny"]
+confusion_matrix(y_true, y_pred, labels=["Rainy", "Sunny"])
+```
+
+Options :
+
+\[
+\text{array}([[2, 1],
+              [2, 1]])
+\]
+
+6406531892433. ❌
+
+\[
+\text{array}([[2, 1],
+              [1, 2]])
+\]
+
+6406531892434. ❌
+
+\[
+\text{array}([[1, 2], 
+              [1, 2]])
+\]
+
+6406531892435. ✅
+```

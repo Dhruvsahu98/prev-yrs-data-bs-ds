@@ -1,0 +1,42 @@
+```python
+from sklearn.datasets import load_wine
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+
+X, y = load_wine(as_frame = True,
+                 return_X_y = True)
+X_train, X_test, y_train, y_test = train_test_split(X, 
+                                                    y,
+                                                    test_size = 0.2,
+                                                    random_state = 1)
+clf1 = DecisionTreeClassifier(min_samples_split = 3, min_samples_leaf = 2,
+                              random_state = 5)
+clf1.fit(X_train, y_train)
+
+clf2 = DecisionTreeClassifier(min_samples_split = 6, min_samples_leaf = 4,
+                              random_state = 5)
+
+clf2.fit(X_train, y_train)
+```
+
+What can we say about the depths of the classifiers clf1 and clf2?
+
+Options :
+
+6406531892522. $\checkmark$ depth(clf1) $\ge$ depth(clf2)
+
+6406531892523. $\ast$ depth(clf1) $\le$ depth(clf2)
+
+6406531892524. $\ast$ depth(clf1) = depth(clf2)
+
+6406531892525. $\ast$ Insufficient Information
+
+Question Number : 279 Question Id : 640653566266 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider the following code:

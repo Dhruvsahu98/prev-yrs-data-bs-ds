@@ -1,0 +1,45 @@
+```python
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.datasets import load_wine
+
+X, y = load_wine(as_frame = True, return_X_y = True)
+
+dtc1 = DecisionTreeClassifier(ccp_alpha = 0.0)
+dtc1.fit(X, y)
+
+dtc2 = DecisionTreeClassifier(ccp_alpha = 0.03)
+dtc2.fit(X, y)
+
+dtc3 = DecisionTreeClassifier(ccp_alpha = 0.06)
+dtc3.fit(X, y)
+
+dtc4 = DecisionTreeClassifier(ccp_alpha = 0.1)
+dtc4.fit(X, y)
+
+d1 = dtc1.get_depth()
+d2 = dtc2.get_depth()
+d3 = dtc3.get_depth()
+d4 = dtc4.get_depth()
+
+What can we say about d1, d2, d3 and d4?
+```
+
+Options:
+
+6406531892531. $\ast$ $d1 < d2 < d3 < d4$
+
+6406531892532. $\ast$ $d1 \leq d2 \leq d3 \leq d4$
+
+6406531892533. $\ast$ $d1 > d2 > d3 > d4$
+
+6406531892534. $\checkmark$ $d1 \geq d2 \geq d3 \geq d4$
+
+Question Number : 280 Question Id : 640653566268 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Suppose that we have 10000 samples in a dataset. Suppose further we use the $K$ - means algorithm to find clusters in the dataset. Then, the statement that K-Means algorithm always converges with zero inertia (or zero Sums Square Error) for some value of $K$ is
+
+Options:

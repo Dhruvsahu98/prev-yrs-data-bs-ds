@@ -1,0 +1,47 @@
+```python
+from sklearn.svm import SVC
+clf = SVC(C=1).fit(X_train, y_train)
+print(clf.support_)
+```
+
+What will be the output?
+
+Options :
+
+6406531892500. ❋ It will print number of support vectors
+
+6406531892501. ✔ It will print an array of support vectors
+
+6406531892502. ❋ It will print an array of probabilities representing distance from decision boundary with each data point.
+
+6406531892503. ❋ It will print indices of the support vectors from the training set.
+
+---
+
+Question Number : 267 Question Id : 640653566260 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider below code which of the following option is true for that
+
+```python
+from sklearn.neighbors import NearestNeighbors
+neigh = NearestNeighbors(n_neighbors=1)
+neigh.fit(X_train)
+print(neigh.kneighbors(X_test[1:2,:]))
+```
+
+Assume X_train and X_test are of type numpy.ndarray .
+
+Options :
+
+6406531892504. ❋ It will print nearest neighbours from the test point
+
+6406531892505. ✔ It will print indices of and distances to the neighbouring points (in training set) from test point
+
+6406531892506. ❋ It will print indices, distance and nearest training point from the test point
+
+6406531892507. ❋ It will throw an error
+```

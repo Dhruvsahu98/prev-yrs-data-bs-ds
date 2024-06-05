@@ -1,0 +1,59 @@
+```plaintext
+Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following code block:
+
+```python
+X = ['a', 'b', 'c', 'd', 'e', 'f']
+from sklearn.model_selection import RepeatedKFold
+rkf = RepeatedKFold(n_splits = 3, n_repeats = 2, random_state = 10)
+for train, test in rkf.split(X):
+    print(train, test)
+```
+
+Which of the following may be the correct output of the above code?
+
+Options :
+
+\[
+\begin{array}{ccc}
+[0 1] & [3 4] & [2 5] \\
+[1 2] & [4 5] & [0 3] \\
+[0 2] & [3 5] & [1 4] \\
+[1 3] & [4 5] & [0 2] \\
+[0 2] & [3 4] & [1 5] \\
+[0 1] & [2 5] & [3 4] \\
+\end{array}
+\]
+
+6406531892441. *
+\[
+\begin{array}{ccc}
+[0 1 3 4] & [3 5] \\
+[1 2 4 5] & [0 2] \\
+[0 2 3 5] & [1 5] \\
+[1 3 4 5] & [0 4] \\
+[0 2 3 4] & [1 0] \\
+[0 1 2 5] & [3 2] \\
+\end{array}
+\]
+
+6406531892442. *
+\[
+\begin{array}{ccc}
+[0 1 3 4] & [2 5] \\
+[1 2 4 5] & [0 3] \\
+[0 2 3 5] & [1 4] \\
+[1 3 4 5] & [0 2] \\
+[0 2 3 4] & [1 5] \\
+[0 1 2 5] & [3 4] \\
+\end{array}
+\]
+
+6406531892443. ✓
+6406531892444. *
+```

@@ -1,0 +1,39 @@
+```python
+6406531892553. ✔ The neural network contains 2 hidden layers with 3 neurons in the first hidden layer
+
+6406531892554. ❌ None of the given options are correct
+
+Sub-Section Number : 8
+Sub-Section Id : 64065380978
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 291 Question Id : 640653566245 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider the following code block:
+
+from sklearn.model_selection import GridSearchCV
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.datasets import make_classification
+
+X, y = make_classification(n_samples = 100, n_features = 3, n_informative = 2, n_redundant = 1)
+
+param_grid = [{'max_depth': [2, 3, 4, 5, 6], 'min_samples_split': [2, 3, 4, 5, 6]},
+              {'min_samples_leaf': [2, 3, 4, 5, 6]},
+              {'min_impurity_decrease': [0.2, 0.3, 0.4, 0.5, 0.6]},
+              {'ccp_alpha': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6]}]
+
+gscv = GridSearchCV(DecisionTreeClassifier(), param_grid, cv = 3)
+gscv.fit(X, y)
+
+print(gscv.best_params_)
+
+How many parameter combinations will be tried by GridSearchCV?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+```

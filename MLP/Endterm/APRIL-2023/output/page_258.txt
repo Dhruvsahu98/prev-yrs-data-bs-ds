@@ -1,0 +1,51 @@
+```python
+6406531892458. ❌ SGDClassifier(loss=”log_loss”) is stochastic version of a SVM model
+
+6406531892459. ✔️ SGDClassifier(loss=”hinge”) is stochastic version of a SVM model
+
+Question Number : 284 Question Id : 640653566251 Question Type : MSQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0 
+Correct Marks : 2 Selectable Option : 0 
+
+Question Label : Multiple Select Question 
+
+Which of the following algorithms may get impacted by feature scaling? 
+
+Options : 
+
+6406531892468. ✔️ LinearRegression
+
+6406531892469. ❌ DecisionTree
+
+6406531892470. ✔️ SVM
+
+6406531892471. ❌ BinomialNaiveBayes
+
+Question Number : 285 Question Id : 640653566270 Question Type : MSQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0 
+Correct Marks : 2 Selectable Option : 0 
+
+Question Label : Multiple Select Question 
+
+Which of the following class(es) is (are) used to instantiate a neural network in Sklearn. 
+
+Options : 
+
+6406531892546. ❌ SGDClassifier()
+
+6406531892547. ✔️ MLPClassifier()
+```
+
+### Mathematical Expressions
+
+N/A
+
+### LaTeX Tables
+
+N/A
+
+### LaTeX Diagrams
+
+N/A

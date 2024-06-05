@@ -1,0 +1,42 @@
+```plaintext
+Question Label : Multiple Choice Question
+
+Which of the following estimators can implement the partial_fit method ?
+
+Options :
+
+6406531892484. ❌ DecisionTreeClassifier
+
+6406531892485. ❌ RandomForestRegressor
+
+6406531892486. ❌ LogisticRegressor
+
+6406531892487. ✔️ SGDRegressor
+
+Question Number : 264 Question Id : 640653566256 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following code
+
+```python
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LogisticRegression
+
+pipe = ([
+    ('scaler', StandardScaler()),
+    ('softmax', ___________ )
+])
+```
+
+Which of the following options is True for blank space if I want to train the above pipeline as softmax regression ?
+
+Options :
+6406531892488. ❌ LogisticRegression(solver = ‘sag’)
+
+6406531892489. ❌ LogisticRegression(multi_class = ‘ovr’)
+```

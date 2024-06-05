@@ -1,0 +1,46 @@
+```plaintext
+Question Number : 270 Question Id : 640653566246 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+What will be the output of the following code?:
+
+```python
+from sklearn.datasets import make_regression
+from sklearn.preprocessing import PolynomialFeatures
+X, y = make_regression(n_samples = 10, n_features = 3)
+poly_transform = PolynomialFeatures(degree=2, interaction_only=True)
+X_trans = poly_transform.fit_transform(X)
+print(X_trans.shape)
+```
+
+Options :
+
+6406531892447. ✲ (10, 3)
+
+6406531892448. ✔ (10, 7)
+
+6406531892449. ✲ (10, 8)
+
+6406531892450. ✲ (10, 10)
+
+6406531892451. ✲ (10, 11)
+```
+
+```plaintext
+Question Number : 271 Question Id : 640653566249 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider the following statements about SGDClassifier:
+
+1. It can be used to train a model on large dataset that doesn’t fit in main memory
+2. It can emulate a KNN model
+3. It can emulate a decision tree model
+4. It can emulate a perceptron
+
+```

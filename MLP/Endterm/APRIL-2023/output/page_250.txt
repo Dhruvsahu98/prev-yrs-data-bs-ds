@@ -1,0 +1,42 @@
+```python
+model1 = KNeighborsClassifier(n_neighbors=2)
+model2 = KNeighborsClassifier(n_neighbors=5)
+
+model1.fit(X_train,y_train)
+model2.fit(X_train,y_train)
+```
+
+Choose the correct options:
+
+**Options :**
+
+6406531892480. ✔️ model1 will have smoother decision boundary compared to model model2
+
+6406531892481. ❌ model2 will have smoother decision boundary compared to model model1
+
+6406531892482. ❌ model1 will have same decision boundary compared as model model2
+
+6406531892483. ❌ No comparison can be made between decision boundaries of model1 and model2
+
+---
+
+**Question Number : 274 Question Id : 640653566257 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Which of the following options is true for the gamma parameter in a non-linear soft margin SVM?
+
+**Options :**
+
+6406531892492. ✔️ For high values of gamma, the points need to be very close to each other in order to be considered in the same class
+
+6406531892493. ❌ For low values of gamma, the points need to be very close to each other in order to be considered in the same class
+
+6406531892494. ❌ Gamma doesn’t affect the SVM model at all
+
+6406531892495. ❌ None of these
+```

@@ -1,0 +1,31 @@
+```python
+Sub-Section Number : 3
+Sub-Section Id : 64065380973
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 268 Question Id : 640653566239 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following APIs only supports conjoining transformers and estimators in series (i.e. one after another)?
+
+Options :
+
+6406531892419. ✔ Pipeline
+
+6406531892420. ❋ ColumnTransformer
+
+6406531892421. ❋ FeatureUnion
+
+6406531892422. ❋ All of these
+
+Question Number : 269 Question Id : 640653566240 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following ML task/steps for a regression dataset:
+
+1. Read the data from a file (named ‘dataset.csv’). It has 7 columns. The last column is the target variable, all 6 features numerical.
+2. Remove rows which have target values missing.
+3. Fill the missing values in the features by KNN using 3 nearest neighbours.
+4. Split the data into training and test sets. Take randomly the 70% of rows in the training set and
+```

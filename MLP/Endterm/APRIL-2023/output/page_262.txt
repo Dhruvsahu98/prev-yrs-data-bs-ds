@@ -1,0 +1,46 @@
+```python
+X,y = make_blobs(n_samples=7,n_features=2,centers=2,random_state=42)
+km = KMeans(n_clusters=8,init='random',n_init=1,random_state=42)
+km.fit(X)
+```
+
+Select the true statements about the code upon execution. Assume necessary imports.
+Note: There are no typos in the code, the argument names passed to the function are all correct
+
+**Options :**
+
+- 6406531892535. ❌ The code attempts to find 2 clusters in the given dataset
+- 6406531892536. ✔️ The dataset X can be visualized in the Euclidean space
+- 6406531892537. ✔️ The code raises an error upon execution
+- 6406531892538. ❌ The code gets executed without an error upon execution
+
+---
+
+**Question Number : 290**
+**Question Id : 640653566271**
+**Question Type : MSQ Is Question**
+**Mandatory : No**
+**Calculator : None**
+**Response Time : N.A**
+**Think Time : N.A**
+**Minimum Instruction Time : 0**
+**Correct Marks : 4**
+**Selectable Option : 0**
+
+**Question Label : Multiple Select Question**
+
+The following line of code creates a neural network (assume necessary imports):
+
+```python
+regr = MLPRegressor(hidden_layer_sizes=(3,5),
+                    max_iter=5).fit(X_train, y_train)
+```
+
+Select the correct statements from the following list of statements:
+
+**Options :**
+
+- 6406531892550. ❌ The neural network contains 3 hidden layers with 5 neurons in each hidden layer
+- 6406531892551. ❌ The neural network contains 5 hidden layers with 3 neurons in each hidden layer
+- 6406531892552. ✔️ The neural network contains 2 hidden layers with 5 neurons in the second hidden layer
+```

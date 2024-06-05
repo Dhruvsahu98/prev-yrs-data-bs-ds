@@ -1,0 +1,59 @@
+```python
+6406531892490. * 
+LogisticRegression(solver = ‘lbfgs’)
+
+6406531892491. ✔ 
+LogisticRegression(multi_class = ‘multinomial’)
+```
+
+---
+
+Question Number : 265
+Question Id : 640653566258
+Question Type : MCQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following code:
+
+```python
+from sklearn.metrics import f1_score
+y_true = [1,1,0,1,0,0,1,0,1]
+y_pred = [0,1,0,1,0,1,1,1,1]
+print(f1_score(y_true,y_pred))
+```
+
+What will be the output?
+
+Options :
+
+6406531892496. * 0.66
+
+6406531892497. ✔ 0.72
+
+6406531892498. * 0.80
+
+6406531892499. * 1.00
+
+---
+
+Question Number : 266
+Question Id : 640653566259
+Question Type : MCQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following are correct about sklearn.svm.SVC:
+```

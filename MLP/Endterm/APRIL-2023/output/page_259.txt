@@ -1,0 +1,39 @@
+```python
+6406531892548. ❌ NNClassifier()
+
+6406531892549. ✅ MLPRegressor()
+
+Sub-Section Number : 6
+Sub-Section Id : 64065380976
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 286 Question Id : 640653566252 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+
+Question Label : Multiple Select Question
+Following information about X_train is given:
+
+- Shape of X_train is (100,6)
+- 4 continuous features, 2 categorical features
+- One categorical feature contains 3 categories/unique values
+- Second categorical feature contains 4 categories/unique values
+
+```python
+from sklearn.preprocessing import OneHotEncoder
+Ohe = OneHotEncoder()
+Encoded_X_train = ohe.fit_transform(X_train)
+Encoded_X_train.shape
+```
+
+Which of the following is(are) correct option(s) for above information ?
+
+Options :
+
+6406531892472. ✅ Encoded_X_train will have more number of columns than X_train
+
+6406531892473. ❌ Encoded_X_train will have 11 columns
+
+6406531892474. ✅ Encoded_X_train will have more than 11 columns
+```

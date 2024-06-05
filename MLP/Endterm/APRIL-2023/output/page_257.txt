@@ -1,0 +1,63 @@
+```plaintext
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+We wish to load the wine dataset from sklearn. Which of the following will throw an error?
+
+Options :
+
+6406531892412. ✔
+
+```python
+from sklearn.datasets import load_wine
+X, y = load_wine(load_X_y = True)
+```
+
+6406531892413. ✔
+
+```python
+from sklearn.datasets import load_wine
+data = load_wine(load_X_y = True)
+```
+
+6406531892414. ✘
+
+```python
+from sklearn.datasets import load_wine
+data = load_wine(return_X_y = True)
+```
+
+6406531892415. ✘
+
+```python
+from sklearn.datasets import load_wine
+X, y = load_wine(return_X_y = True)
+```
+
+Question Number : 283 Question Id : 640653566248 Question Type : MSQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Which of the following is correct?
+
+Options :
+
+6406531892456. ✘
+
+```plaintext
+SGDClassifier(loss=”percept”) is stochastic version of a perceptron model
+```
+
+6406531892457. ✔
+
+```plaintext
+SGDClassifier(loss=”log_loss”) is stochastic version of a logistic classifier model
+```
+```

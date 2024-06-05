@@ -1,0 +1,56 @@
+```plaintext
+array([[1, 2],
+       [2, 1]])
+```
+
+6406531892436. ✻
+
+Question Number : 260
+Question Id : 640653566243
+Question Type : MCQ Is Question
+Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following code block:
+
+```python
+from sklearn.datasets import make_regression
+X, y = make_regression(n_samples = 10, n_features = 3)
+
+from sklearn.model_selection import LeavePOut
+lpo = LeavePOut(p = 2)
+count = 0
+for train, test in lpo.split(X):
+    print(train, test)
+    count += 1
+print(count)
+```
+
+What will be the value of the ‘count’?
+
+Options :
+
+6406531892437. ✻ 20
+
+6406531892438. ✻ 30
+
+6406531892439. ✔ 45
+
+6406531892440. ✻ 15
+
+Question Number : 261
+Question Id : 640653566244
+Question Type : MCQ Is Question
+Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+```

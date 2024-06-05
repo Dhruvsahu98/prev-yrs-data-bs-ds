@@ -1,0 +1,41 @@
+```plaintext
+Choose the correction option(s)
+
+Options :
+
+6406531892460. ✔ 1 and 4
+
+6406531892461. ✱ 1 and 2
+
+6406531892462. ✱ 2 and 3
+
+6406531892463. ✱ 3 and 4
+
+
+Question Number : 272 Question Id : 640653566250 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider an image classification task: an image can have dogs, birds and trees. An image can have any combination of these three. The classifier is expected to report all these three for every sample. What kind of classification problem is this?
+
+Options :
+
+6406531892464. ✔ multi-label and multiclass problem.
+
+6406531892465. ✱ multi-label and binary class problem.
+
+6406531892466. ✱ multiclass problem.
+
+6406531892467. ✱ binary class single label problem.
+
+
+Question Number : 273 Question Id : 640653566254 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider following code snippets, assuming necessary imports.
+```

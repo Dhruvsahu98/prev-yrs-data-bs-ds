@@ -1,0 +1,39 @@
+```python
+the rest of them into the test set.
+5. Train a simple linear regression model, with intercept, on the training set.
+6. Report R2 score on the test set.
+
+Which of the following code snippets correctly accomplishes the above task? Assume necessary imports.
+
+Options :
+
+data = pd.read_csv('dataset.csv')
+data = data.dropna()
+X, y = data[data.columns[:-1]],data[data.columns[-1]]
+X = X[~y.isna()]
+y = y.dropna()
+X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.7)
+pipe = Pipeline([('imputer', KNNImputer(n_neighbors = 3)),
+                ('estimator', LinearRegression())])
+
+pipe.fit(X_train,y_train)
+print(pipe.score(X_test, y_test))
+
+6406531892423. 
+
+data = pd.read_csv('dataset.csv')
+data = data.dropna()
+X, y = data[data.columns[:-1]],data[data.columns[-1]]
+X = X[y.isna()]
+y = y.dropna()
+X_train, X_test, y_train, y_test = train_test_split(X,y, test=0.3)
+pipe = Pipeline([('imputer', KNNImputer(n_neighbors = 3)),
+                ('estimator', LinearRegression())])
+
+pipe.fit(X_train,y_train)
+print(pipe.score(X_test, y_test))
+
+6406531892424. 
+
+6406531892425. 
+```

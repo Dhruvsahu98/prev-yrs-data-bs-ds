@@ -1,0 +1,44 @@
+```python
+Correct Marks : 8
+
+Question Label : Multiple Choice Question
+
+What will be the output of the following command?
+
+echo {a,b,c,b}{c,e,f} | tr ' ' '\n' | sort | uniq | awk '
+{
+    n += NR
+}
+END {
+    print n
+}
+'
+
+Options :
+
+6406531892394. ✅ 45
+
+6406531892395. ❌ 78
+
+6406531892396. ❌ 136
+
+6406531892397. ❌ 55
+
+MLP
+
+Section Id : 64065338407
+
+Section Number : 10
+
+Section type : Online
+
+Mandatory or Optional : Mandatory
+
+Number of Questions : 37
+
+Number of Questions to be attempted : 37
+
+Section Marks : 100
+
+Display Number Panel : Yes
+```

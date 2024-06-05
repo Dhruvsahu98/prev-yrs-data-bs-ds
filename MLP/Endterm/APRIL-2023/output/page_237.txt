@@ -1,0 +1,44 @@
+```plaintext
+Question Number : 256 Question Id : 640653566236 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+__________ generates a bunch of normally-distributed clusters of points with specific mean and standard deviations for each cluster.
+
+Options :
+
+6406531892408. ❌ sklearn.datasets.make_clusters()
+
+6406531892409. ❌ sklearn.datasets.make_centers()
+
+6406531892410. ❌ sklearn.datasets.make_normal_clusters()
+
+6406531892411. ✔ sklearn.datasets.make_blobs()
+
+Question Number : 257 Question Id : 640653566238 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Why is data preprocessing necessary?
+
+Options :
+
+6406531892416. ❌ Some columns have values only between 0 and 1
+
+6406531892417. ✔ The data is divided into multiple types of files i.e. html, csv, tsv, etc.
+
+6406531892418. ❌ The data has only numbers in all the columns.
+
+Question Number : 258 Question Id : 640653566241 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+```
