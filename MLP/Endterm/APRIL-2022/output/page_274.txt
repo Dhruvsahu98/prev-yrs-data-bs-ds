@@ -1,0 +1,64 @@
+```python
+from sklearn.datasets import load_iris
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+X, y = load_iris(as_frame=True, return_X_y=True)
+X_train, X_test, y_train, y_test = train_test_split(X, y,
+                                                    test_size=0.2, 
+                                                    random_state=1)
+clf = DecisionTreeClassifier(min_samples_leaf=5,
+                             random_state=1)
+clf.fit(X_train, y_train)
+print(clf.score(X_test, y_test))
+```
+
+A split point at any depth will only be considered if it leaves:
+
+**Options:**
+
+A. ❌ At max min_samples_leaf training samples in any of the left and right branches.
+
+B. ❌ At max min_samples_leaf training samples in each of the left and right branches.
+
+C. ❌ At least min_samples_leaf training samples in any of the left and right branches.
+
+D. ✔️ At least min_samples_leaf training samples in each of the left and right branches.
+
+---
+
+**Question Number : 314 Question Type : MSQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Select Question**
+
+Which of the following estimators are exactly same?
+
+**Options:**
+
+```python
+SGDClassifier(loss="perceptron",
+              eta0=1,
+              learning_rate="constant",
+              penalty=None)
+```
+
+A. ✔️
+
+```python
+Perceptron()
+```
+
+B. ✔️
+
+```python
+SGDClassifier(loss="percept",
+              eta0=1,
+              learning_rate="constant",
+              penalty=None)
+```
+
+C. ❌
+
+---
+Page 275 of 340

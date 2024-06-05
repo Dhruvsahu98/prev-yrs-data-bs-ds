@@ -1,0 +1,49 @@
+```plaintext
+A. ✔ Value of C increases from Figure (A) to (C)
+
+B. ✵ Value of C increases from Figure (C) to (A)
+
+C. ✵ Value of C in Figure (B) is maximum among the 3.
+
+D. ✵ Value of C is equal for all 3 Figures
+
+Question Number : 308 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+We have run the following code. What do you think will be the output of the code?
+
+```python
+from sklearn.datasets import fetch_california_housing
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+X,y = fetch_california_housing(as_frame = True, return_X_y = True)
+X_train,X_test,y_train,y_test = train_test_split(X,y, 
+                                                 test_size = 0.2, 
+                                                 random_state = 1)
+
+clf = DecisionTreeClassifier(random_state = 1)
+clf.fit(X_train, y_train)
+print(clf.score(X_test, y_test))
+```
+
+Options :
+
+A. ✵ There will be no error and we will get a score as the output.
+
+B. ✵ The code will throw an error as we have not converted the data into a pandas dataframe.
+
+C. ✔ Since the output label in the data is continuous, there will be an error.
+
+D. ✵ Since the input feature variables are continuous, there will be an error.
+
+Question Number : 309 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+What can you say about the following code?:
+```

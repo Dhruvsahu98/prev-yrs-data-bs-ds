@@ -1,0 +1,46 @@
+```python
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider a dataset named ”dataset.csv” having shape of (10000,71) used to train the model using 
+”partial_fit” method.
+
+num = 1000
+clf2 = SGDClassifier(max_iter=1000, tol=0.01)
+iter = 1
+for train_df in pd.read_csv("dataset.csv", chunksize=num, 
+                           iterator=True):
+    if iter == 1:
+        xtrain_partial = train_df.iloc[:, 0:71]
+        ytrain_partial = train_df.iloc[:, 71]
+        clf2.partial_fit(xtrain_partial, ytrain_partial, 
+                         classes=np.array([0, 1, 2]))
+    else:
+        xtrain_partial = train_df.iloc[:, 0:71]
+        ytrain_partial = train_df.iloc[:, 71]
+        clf2.partial_fit(xtrain_partial, ytrain_partial)
+    iter = iter + 1
+print(iter)
+```
+
+Which of the following is the correct output of the above code snippet?
+
+Options :
+
+A. ✔ 10
+
+B. ❋ 70
+
+C. ❋ 100
+
+D. ❋ 1000
+
+Question Number : 313 Question Type : MCQ
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider the following code:
+```

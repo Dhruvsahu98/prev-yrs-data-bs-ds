@@ -1,0 +1,42 @@
+```python
+Go through the code snippet given below and answer the given subquestions.
+
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import RidgeCV
+from sklearn.datasets import load_diabetes
+dataset=load_diabetes(as_frame=True)
+com_train_features=dataset.data
+com_train_labels=dataset.target
+
+lf= np.logspace(-2, 0, num=3)
+
+ridge_reg_pipeline = Pipeline([("poly", PolynomialFeatures(degree=2)),
+                               ("feature_scaling", StandardScaler())
+                              ])
+
+ridge= RidgeCV(alphas=lf,scoring="neg_mean_squared_error")
+results = ridge.fit(com_train_features, com_train_labels)
+
+Sub questions
+
+Question Number : 319 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Based on the given code, select the option Which wouldn’t be considered as input alpha value for our RidgeCV estimator.
+
+Options :
+A. 0.01
+B. 0.001
+C. 0.1
+D. 1
+
+Question Number : 320 Question Type : MSQ
+
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+```

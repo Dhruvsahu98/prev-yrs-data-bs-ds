@@ -1,0 +1,44 @@
+```plaintext
+A. ❌ max_depth = -1
+B. ❌ max_depth = 4
+C. ❌ max_depth = 0
+D. ✔️ max_depth = None
+E. ❌ max_depth = float('inf')
+
+Question Number : 291 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+We are working on an extremely large dataset. Which of the following options is more likely to reduce the difference between train and test error?
+
+```python
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.datasets import make_regression
+
+X, y = make_regression(n_samples = 100000, n_features=4,
+                       n_informative=4, random_state=0,
+                       effective_rank = 4)
+
+model = RandomForestRegressor(min_samples_split = 3,
+                              min_samples_leaf = 4,
+                              max_depth = 100,
+                              criterion = 'absolute_error',
+                              random_state = 1,
+                              verbose = True)
+
+model.fit(X,y)
+model.score(X,y)
+```
+
+Options :
+
+A. ❌ By decreasing min_samples_split
+B. ❌ By decreasing min_samples_leaf
+C. ✔️ By decreasing max_depth
+
+Question Number : 292 Question Type : MCQ
+
+Correct Marks : 2
+```

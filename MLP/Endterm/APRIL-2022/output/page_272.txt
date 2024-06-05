@@ -1,0 +1,92 @@
+```plaintext
+Question Number: 311
+Question Type: MCQ
+
+Correct Marks: 3
+
+Question Label: Multiple Choice Question
+
+Consider the following code snippet for some dataset X. Its output is a graph as shown below.
+
+```python
+import scipy.cluster.hierarchy as shc
+plt.figure(figsize=(12, 28))
+plt.title("Dendrograms")
+dend = shc.dendrogram(shc.linkage(X, method='ward'))
+```
+
+Output:
+
+\[
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{dendrogram.png}
+\caption{Dendrogram}
+\end{figure}
+\]
+
+In this dendrogram which chunk is most similar to three.
+
+Options:
+
+A. \textbf{1}
+
+B. \textbf{2}
+
+C. \textbf{3}
+
+D. \textbf{0}
+
+Question Number: 312
+Question Type: MCQ
+```
+
+```latex
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Question Number: 311}
+\textbf{Question Type: MCQ}
+
+\textbf{Correct Marks: 3}
+
+\textbf{Question Label: Multiple Choice Question}
+
+Consider the following code snippet for some dataset X. Its output is a graph as shown below.
+
+\begin{verbatim}
+import scipy.cluster.hierarchy as shc
+plt.figure(figsize=(12, 28))
+plt.title("Dendrograms")
+dend = shc.dendrogram(shc.linkage(X, method='ward'))
+\end{verbatim}
+
+Output:
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{dendrogram.png}
+\caption{Dendrogram}
+\end{figure}
+
+In this dendrogram which chunk is most similar to three.
+
+\textbf{Options:}
+
+A. \textbf{1}
+
+B. \textbf{2}
+
+C. \textbf{3}
+
+D. \textbf{0}
+
+\section*{Question Number: 312}
+\textbf{Question Type: MCQ}
+
+\end{document}
+```

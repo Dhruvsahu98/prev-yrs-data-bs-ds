@@ -1,0 +1,43 @@
+```python
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+What is the output of the following block of code?
+
+import numpy as np
+x= np.array([2, 4, 2, -5, 100]).reshape(-1,1)
+from sklearn.preprocessing import MaxAbsScaler
+mas = MaxAbsScaler()
+x_new = mas.fit_transform(x)
+print(x_new)
+
+Options :
+A. ✔ [[ 0.02] [ 0.04] [ 0.02] [-0.05] [ 1. ]]
+B. ❌ [[0.04] [0.02] [0.04] [0.05] [1. ]]
+C. ❌ [[0.01] [0.02] [0.01] [0.05] [1. ]]
+D. ❌ [[0.02] [0.01] [0.01] [0.03] [1. ]]
+
+Question Number : 299 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+What is the shape of the matrix 'Y' after executing the following block of code?
+
+import numpy as np
+from sklearn.preprocessing import PolynomialFeatures
+
+X=[[0, 1],
+   [2, 3],
+   [4, 5]]
+poly = PolynomialFeatures(2)
+Y=poly.fit_transform(X)
+print(Y.shape)
+
+Options :
+A. ❌ (6, 3)
+B. ✔ (3, 6)
+C. ❌ (1, 3)
+```

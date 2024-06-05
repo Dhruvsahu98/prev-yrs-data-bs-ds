@@ -1,0 +1,90 @@
+```plaintext
+Which of the following is likely to be the correct output of the above code snippet? 
+
+Options : 
+A. ❊ [[9.84744647e-01, 1.52553311e-02, 2.17333725e-08], [2.75913851e-01, 7.21438673e-01, 2.64747655e-03]] 
+B. ❊ [[9.84744647e-01, 1.52553311e-02,], [2.17333725e-08, 2.75913851e-01], [7.21438673e-01, 2.64747655e-03]] 
+C. ❊ [[9.84744647e-01, 1.52553311e-02]] 
+D. ❊ [[9.84744647e-01, 1.52553311e-02, 2.17333725e-08, 3.17333725e-08]] 
+E. ✔ [[9.84744647e-01, 1.52553311e-02, 2.17333725e-08]] 
+
+Question Number : 304 Question Type : MCQ 
+
+Correct Marks : 3 
+Question Label : Multiple Choice Question 
+Consider the following code: 
+```
+
+```python
+from sklearn.datasets import load_iris 
+from sklearn.linear_model import SGDClassifier 
+from sklearn.model_selection import train_test_split 
+X,y = load_iris(as_frame = True, return_X_y = True) 
+print(X.shape) 
+X_train,X_test,y_train,y_test = train_test_split(X,y, test_size = 0.2, random_state = 1) 
+clf = SGDClassifier(loss = 'log', random_state = 1, max_iter = 10) 
+clf.fit(X_train, y_train) 
+```
+
+```plaintext
+The output of the above code is (150, 4). Which of the following closely represents the value of clf.t_? 
+Note: t_ gives the number of weight updates performed during training. 
+
+Options : 
+A. ❊ 120 
+B. ❊ 150 
+C. ✔ 1200 
+D. ❊ 1500 
+```
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{lscape}
+
+\begin{document}
+
+\section*{Question}
+
+Which of the following is likely to be the correct output of the above code snippet?
+
+\subsection*{Options}
+\begin{itemize}
+    \item[A.] \(\left[\left[9.84744647e-01, 1.52553311e-02, 2.17333725e-08\right], \left[2.75913851e-01, 7.21438673e-01, 2.64747655e-03\right]\right]\)
+    \item[B.] \(\left[\left[9.84744647e-01, 1.52553311e-02\right], \left[2.17333725e-08, 2.75913851e-01\right], \left[7.21438673e-01, 2.64747655e-03\right]\right]\)
+    \item[C.] \(\left[\left[9.84744647e-01, 1.52553311e-02\right]\right]\)
+    \item[D.] \(\left[\left[9.84744647e-01, 1.52553311e-02, 2.17333725e-08, 3.17333725e-08\right]\right]\)
+    \item[E.] \(\left[\left[9.84744647e-01, 1.52553311e-02, 2.17333725e-08\right]\right]\)
+\end{itemize}
+
+\section*{Question Number: 304}
+\subsection*{Question Type: MCQ}
+\subsection*{Correct Marks: 3}
+\subsection*{Question Label: Multiple Choice Question}
+
+Consider the following code:
+
+\begin{verbatim}
+from sklearn.datasets import load_iris 
+from sklearn.linear_model import SGDClassifier 
+from sklearn.model_selection import train_test_split 
+X,y = load_iris(as_frame = True, return_X_y = True) 
+print(X.shape) 
+X_train,X_test,y_train,y_test = train_test_split(X,y, test_size = 0.2, random_state = 1) 
+clf = SGDClassifier(loss = 'log', random_state = 1, max_iter = 10) 
+clf.fit(X_train, y_train) 
+\end{verbatim}
+
+The output of the above code is (150, 4). Which of the following closely represents the value of clf.t\_?
+Note: t\_ gives the number of weight updates performed during training.
+
+\subsection*{Options}
+\begin{itemize}
+    \item[A.] 120
+    \item[B.] 150
+    \item[C.] 1200
+    \item[D.] 1500
+\end{itemize}
+
+\end{document}
+```

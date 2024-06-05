@@ -1,0 +1,48 @@
+```python
+from sklearn.cluster import KMeans
+cs = []
+for i in range(1, 10):
+    kmeans = KMeans(n_clusters = 1, random_state = 10)
+    kmeans.fit(X)
+    cs.append(kmeans.inertia_)
+plt.plot(range(1, 11), cs)
+plt.title('The Elbow Method')
+plt.xlabel('Number of clusters')
+plt.ylabel('CS')
+plt.show()
+```
+
+Question Number : 293 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+What will be the output of following code?
+
+```python
+from sklearn.neural_network import MLPClassifier
+X = [[0., 0.], [1., 1.]]
+y = [0, 1]
+clf = MLPClassifier(hidden_layer_sizes=(5, 2), random_state=1)
+clf.fit(X, y)
+print(clf.coefs_[0].shape)
+```
+
+Options :
+
+A. ✵ (5, 5)
+
+B. ✵ (5, 1)
+
+C. ✔ (2, 5)
+
+D. ✵ (2, 2)
+
+Question Number : 294 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider X and y are the training dataset. What will be the output of the following code?

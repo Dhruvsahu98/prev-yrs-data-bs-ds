@@ -1,0 +1,49 @@
+```python
+Perceptron(eta0=0.2,
+           alpha=0.3,
+           penalty='l1',
+           max_iter=200,
+           early_stopping=True,
+           tol=0.004,
+           n_iter_no_change=20)
+
+A.
+
+Perceptron(learning_rate=0.2,
+           reg_rate=0.3,
+           penalty='l1',
+           max_iterations=200,
+           early_stop=True,
+           tol=0.004,
+           n_iter_no_change=20)
+
+B.
+
+Perceptron(eta0=0.2,
+           alpha=0.3,
+           penalty='l1',
+           max_iter=200,
+           stop_early=True,
+           tolerance=0.004,
+           n_iter_no_change=20)
+
+C.
+
+Perceptron(regularization_rate=0.2,
+           learning_rate=0.3,
+           regulization='l1',
+           max_iter=200,
+           early_stopping=True,
+           tolerance=0.004,
+           n_iter_no_change=20)
+
+D.
+```
+
+## Question Number : 302 Question Type : MCQ
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Which of the following code snippets can be used to compute number of data points predicted to be in positive class?

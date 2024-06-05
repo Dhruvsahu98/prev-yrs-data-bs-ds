@@ -1,0 +1,45 @@
+```python
+from sklearn.datasets import load_iris
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+
+X,y = load_iris(as_frame = True, return_X_y = True)
+X_train,X_test,y_train,y_test = train_test_split(X,y,
+    test_size = 0.2,
+    random_state = 1)
+
+clf = DecisionTreeClassifier(max_features = 10,
+    random_state = 1)
+
+clf.fit(X_train, y_train)
+print(clf.score(X_test, y_test))
+```
+
+Options :
+A. ❇ It will output the test score correctly.
+B. ❇ It will lead to an error as max_features can only be a value out of ‘auto’, ‘sqrt’, ‘log2’.
+C. ✅ It will lead to an error as number of max_features is more than the number of features present in the dataset.
+
+Question Number : 310 Question Type : MCQ  
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+We are running the following code. How many times the fit() method of the estimator would have been called internally?
+
+```python
+from sklearn.ensemble import BaggingRegressor
+from sklearn.model_selection import GridSearchCV
+param_grid = [{'n_estimators':range(10,101,10)}]
+gs = GridSearchCV(BaggingRegressor(), param_grid, cv = 10)
+gs.fit(X,y)
+```
+
+Options :
+A. ❇ 1000
+B. ❇ 20
+C. ❇ 10000
+D. ❇ 100
+E. ❇ 90
+```

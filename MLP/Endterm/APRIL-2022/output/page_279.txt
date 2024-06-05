@@ -1,0 +1,51 @@
+```text
+Which of the following options can not be the possible output of print(results.best_score_)?
+
+Options :
+
+A. ✔ 0.629
+B. ❋ -0.621
+C. ❋ -3000.28
+D. ✔ 2878.45
+
+Question Type : COMPREHENSION
+
+Question Numbers : (321 to 322)
+
+Question Label : Comprehension
+
+Consider the following code snippet and its output:
+
+Code:
+
+```python
+from sklearn.neural_network import MLPClassifier
+from sklearn.datasets import make_classification
+from sklearn.model_selection import train_test_split
+X, y = make_classification(n_samples=3000, random_state=1)
+X_t, X_test, y_t, y_test = train_test_split(X, y, stratify=y, random_state=1)
+print(y_test[30:35])
+```
+
+Output:
+```
+[0 0 0 1 0]
+```
+
+Code:
+```python
+clf = MLPClassifier(random_state=1).fit(X_t, y_t)
+print(clf.predict_proba(X_test[30:35]))
+```
+
+Output:
+```
+[[9.97710379e-01 2.28962074e-03]
+ [3.59471505e-01 6.40528495e-01]
+ [9.99405675e-01 5.94325017e-04]
+ [1.72404926e-03 9.98275951e-01]
+ [9.86367828e-01 1.36321719e-02]]
+```
+
+Based on the above data, answer the given sub questions.
+```

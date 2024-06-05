@@ -1,0 +1,52 @@
+```python
+Question Label : Multiple Choice Question
+
+Which of the following code snippet can correctly plot the elbow graph for feature matrix X (k value is taken from 1 to 10)?
+
+Options :
+
+A.
+from sklearn.cluster import KMeans
+cs = []
+for i in range(1, 11):
+    kmeans = KMeans(n_clusters = i, random_state = 10)
+    kmeans.fit(X)
+    cs.insert(kmeans.inertia_)
+plt.plot(range(1, 11), cs)
+plt.title('The Elbow Method')
+plt.xlabel('Number of clusters')
+plt.ylabel('CS')
+plt.show()
+
+B.
+from sklearn.cluster import KMeans
+cs = []
+for i in range(1, 10):
+    kmeans = KMeans(n_clusters = i, random_state = 10)
+    kmeans.fit(X)
+    cs.insert(kmeans.inertia_)
+plt.plot(range(1, 10), cs)
+plt.title('The Elbow Method')
+plt.xlabel('Number of clusters')
+plt.ylabel('CS')
+plt.show()
+
+C.
+from sklearn.cluster import KMeans
+cs = []
+for i in range(1, 11):
+    kmeans = KMeans(n_clusters = i, random_state = 10)
+    kmeans.fit(X)
+    cs.append(kmeans.inertia_)
+plt.plot(range(1, 11), cs)
+plt.title('The Elbow Method')
+plt.xlabel('Number of clusters')
+plt.ylabel('CS')
+plt.show()
+
+D.
+```
+
+```latex
+Page 260 of 340
+```

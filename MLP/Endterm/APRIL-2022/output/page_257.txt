@@ -1,0 +1,54 @@
+```python
+from sklearn.datasets import load_iris
+from sklearn.linear_model import SGDClassifier
+from sklearn.model_selection import train_test_split
+X,y = load_iris(as_frame = True, return_X_y = True)
+X_train,X_test,y_train,y_test = train_test_split(X,y,
+                                                 test_size = 0.2,
+                                                 random_state = 1)
+
+clf = SGDClassifier(random_state = 1, max_iter = 10)
+clf.fit(X_train, y_train)
+clf.loss_function_
+```
+
+Which of the following may be the correct output of the code?
+
+**Options :**
+
+A. ❉ `sklearn.linear_model._sgd_fast.Huber`
+
+B. ❉ `sklearn.linear_model._sgd_fast.ModifiedHuber`
+
+C. ✔ `sklearn.linear_model._sgd_fast.Hinge`
+
+D. ❉ `sklearn.linear_model._sgd_fast.Log`
+
+---
+
+**Question Number : 290 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+In the following code, for what value of max_depth, nodes are expanded until all leaves are pure or until all leaves contain less than min_samples_split samples?:
+
+```python
+from sklearn.datasets import load_iris
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+X,y = load_iris(as_frame = True, return_X_y = True)
+X_train,X_test,y_train,y_test = train_test_split(X,y,
+                                                 test_size = 0.2,
+                                                 random_state = 1)
+
+clf = DecisionTreeClassifier(max_depth = ..........,
+                             min_samples_split = 4,
+                             random_state = 1)
+clf.fit(X_train, y_train)
+print(clf.score(X_test, y_test))
+```
+
+**Options :**
+```

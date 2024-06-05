@@ -1,0 +1,48 @@
+```python
+SGDRegressor(loss="percept",
+             eta0=1,
+             learning_rate="constant",
+             penalty=None)
+```
+D. ❌
+E. ❌ All of these are different.
+
+---
+
+**Question Number : 315 Question Type : MSQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Select Question**
+
+We are implementing the following model. What can we say about the hyperparamater C?
+
+```python
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression(penalty='l2', dual=False, tol=0.0001,
+                           C=1.0, fit_intercept=True, intercept_scaling=1,
+                           class_weight=None, random_state=None,
+                           solver='lbfgs', max_iter=100, multi_class='auto',
+                           verbose=0, warm_start=False, n_jobs=None,
+                           l1_ratio=None)
+```
+**Options :**
+
+A. ❌ Higher the value of C, higher the regularization
+
+B. ✔ Can only take positive values
+
+C. ✔ Higher the value of C, lower the regularization
+
+D. ❌ Can only take negative values
+
+---
+
+**Question Number : 316 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Select Question**
+
+Select the correct options with respect to the following code:
+```

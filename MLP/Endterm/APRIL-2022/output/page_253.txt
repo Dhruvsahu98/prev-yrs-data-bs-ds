@@ -1,0 +1,36 @@
+```python
+from sklearn.cluster import KMeans
+import numpy as np
+X = np.array([[5, 4], [5, 6], [10, 8], [10, 12]])
+kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
+kmeans.labels_
+
+Output: array([0, 0, 1, 1], dtype=int32)
+```
+
+Considering the above code, Which of the following do you think as correct output of
+Print(kmeans.predict([[6, 5]]))
+
+Options :
+
+A. ✔ 0
+
+B. ❋ 1
+
+C. ❋ 5
+
+D. ❋ 10
+
+Question Number : 284 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Rahul is working on an unsupervised machine learning algorithm. He is not able to choose the optimum number of clusters(k) for his model (model is based on K-means algorithm). He tried to plot the elbow chart which is shown below. By looking at this chart, which option would you recommend Rahul as the most suitable value of number of clusters (k).
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\textwidth]{elbow_chart.png}
+\caption{Elbow Chart}
+\end{figure}

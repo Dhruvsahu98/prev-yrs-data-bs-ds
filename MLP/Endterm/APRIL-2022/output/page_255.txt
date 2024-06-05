@@ -1,0 +1,36 @@
+```plaintext
+Question Number : 286 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+For inverse scaling learning rate in SGDRegressor, if \( \eta_0 = 5 \), power\_t = 3, then the learning rate in 5th iteration will be
+
+Options :
+
+A. \( \frac{1}{35} \)
+
+B. \( \frac{1}{5^2} \)
+
+C. \( \frac{1}{5^3} \)
+
+D. \( \frac{1}{2^5} \)
+
+Question Number : 287 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider following code snippet:
+
+```python
+lin_reg = linear_regression()
+score = cross_val_score(lin_reg, X, y, cv=5)
+```
+
+How many folds are used to obtain cross validated performance measure using KFold cross validation?
+
+Options :
+```

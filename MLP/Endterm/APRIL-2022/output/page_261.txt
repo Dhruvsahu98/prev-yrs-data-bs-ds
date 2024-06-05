@@ -1,0 +1,50 @@
+```python
+from sklearn.neural_network import MLPRegressor
+rs = MLPRegressor(activation= 'logistic', random_state=1)
+rs.fit(X, y)
+print(rs.out_activation_)
+```
+
+Options :
+
+A. ❋ logistic
+
+B. ❋ relu
+
+C. ✔ identity
+
+D. ❋ tanh
+
+---
+
+**Question Number : 295 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Consider we want to train a neural network using MLPRegressor on the training data \((X, y)\). Data has 5 features and single output for each sample. If the estimator has one hidden layer and a total of 71 parameters (weights including bias) are learnt, what will be the correct value for the missing attribute in the following code?
+
+```python
+from sklearn.neural_network import MLPRegressor
+est = MLPRegressor(hidden_layer_sizes=........., random_state=1)
+est.fit(X, y)
+```
+
+Options :
+
+A. ❋ (71)
+
+B. ❋ (71, 1)
+
+C. ✔ (10)
+
+D. ❋ (10, 2)
+
+---
+
+**Question Number : 296 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**

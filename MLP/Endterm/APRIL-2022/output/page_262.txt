@@ -1,0 +1,42 @@
+```python
+What will be the output of the following code?
+
+from sklearn.datasets import make_blobs
+X, y = make_blobs(n_samples=[3, 3, 4],
+                  centers=None,
+                  n_features=2,
+                  random_state=0)
+
+print(X.shape)
+
+Options :
+
+A. ✴ (36, 2)
+B. ✴ (10, 3)
+C. ✔ (10, 2)
+D. ✴ (36, 3)
+
+Question Number : 297 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+What is the output of the following block of the code?
+
+data = [{'roll': 24, 'marks':96.0},
+        {'roll': 11, 'marks':73.9}]
+from sklearn.feature_extraction import DictVectorizer
+dv = DictVectorizer(sparse=False)
+data_transformed = dv.fit_transform(data)
+print(data_transformed)
+
+Options :
+
+A. ✴ array([[24. , 73.9 ], [11, 96. ]])
+B. ✔ array([[96. , 24. ], [73.9, 11. ]])
+C. ✴ array([[11 , 24. ], [73.9, 96. ]])
+D. ✴ array([[86. , 124. ], [73.9, 121. ]])
+
+Question Number : 298 Question Type : MCQ
+```

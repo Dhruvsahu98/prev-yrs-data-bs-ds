@@ -1,0 +1,48 @@
+```plaintext
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{elbow_chart.png}
+    \caption{Elbow chart}
+    \label{fig:elbow_chart}
+\end{figure}
+```
+
+**Options:**
+
+A. \textcolor{red}{4}
+
+B. \textcolor{red}{8}
+
+C. \textcolor{green}{12}
+
+D. \textcolor{red}{40}
+
+E. \textcolor{red}{44}
+
+---
+
+**Question Number: 285 Question Type: MCQ**
+
+**Correct Marks: 2**
+
+**Question Label: Multiple Choice Question**
+
+What will be the type of data as per the following code?
+
+```python
+from sklearn.datasets import load_diabetes
+data = load_diabetes(as_frame = True, return_X_y = True)
+```
+
+**Options:**
+
+A. \textcolor{red}{numpy array}
+
+B. \textcolor{red}{DataFrame}
+
+C. \textcolor{green}{tuple}
+
+D. \textcolor{red}{list}
+
+E. \textcolor{red}{sklearn bunch}
+```

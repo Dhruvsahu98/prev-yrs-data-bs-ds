@@ -1,0 +1,86 @@
+```plaintext
+Sub questions
+
+Question Number : 321 Question Type : MCQ
+
+Correct Marks : 2
+Question Label : Multiple Choice Question
+What will be the output of following code?
+
+```python
+print(clf.predict(X_test[30:35]))
+```
+
+Options :
+A. ❌ [1 1 0 1 0]
+B. ❌ [0 0 0 1 0]
+C. ❌ [0 1 0 0 0]
+D. ✔ [0 1 0 1 0]
+
+Question Number : 322 Question Type : SA
+
+Correct Marks : 2
+Question Label : Short Answer Question
+What will be the output of following code?
+
+```python
+print(clf.score(X_test[30:35], y_test[30:35]))
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+
+0.78 to 0.82
+```
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+Sub questions
+
+\section*{Question Number : 321 Question Type : MCQ}
+
+\textbf{Correct Marks : 2} \\
+\textbf{Question Label : Multiple Choice Question} \\
+What will be the output of following code?
+
+\begin{verbatim}
+print(clf.predict(X_test[30:35]))
+\end{verbatim}
+
+Options :
+\begin{itemize}
+    \item A. ❌ [1 1 0 1 0]
+    \item B. ❌ [0 0 0 1 0]
+    \item C. ❌ [0 1 0 0 0]
+    \item D. ✔ [0 1 0 1 0]
+\end{itemize}
+
+\section*{Question Number : 322 Question Type : SA}
+
+\textbf{Correct Marks : 2} \\
+\textbf{Question Label : Short Answer Question} \\
+What will be the output of following code?
+
+\begin{verbatim}
+print(clf.score(X_test[30:35], y_test[30:35]))
+\end{verbatim}
+
+\textbf{Response Type : Numeric} \\
+\textbf{Evaluation Required For SA : Yes} \\
+\textbf{Show Word Count : Yes} \\
+\textbf{Answers Type : Range} \\
+\textbf{Text Areas : PlainText} \\
+\textbf{Possible Answers :}
+
+0.78 to 0.82
+
+\end{document}
+```

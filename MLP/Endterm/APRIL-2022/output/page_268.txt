@@ -1,0 +1,31 @@
+```python
+E. * 10
+F. * 20
+
+Question Number : 305 Question Type : MCQ
+
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Code snippet written below returns indices of and distances to the neighbors of each point.
+
+X = [[0], [2], [4]]
+from sklearn.neighbors import NearestNeighbors
+neigh = NearestNeighbors(n_neighbors=2)
+neigh.fit(X)
+NearestNeighbors(n_neighbors=2)
+print(neigh.kneighbors([[3]]))
+
+Which of the following is the correct output?
+
+Options :
+A. * (array([[1., 0.]]), array([[2, 1]]))
+B. * (array([[1., 2.]]), array([[1, 1]]))
+C. * (array([[1., 2.]]), array([[1, 2]]))
+D. ✔ (array([[1., 1.]]), array([[1, 2]]))
+
+Question Number : 306 Question Type : MCQ
+
+Correct Marks : 3
+Question Label : Multiple Choice Question
+What will be the output of the following code snippet?
+```

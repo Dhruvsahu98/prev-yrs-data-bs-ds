@@ -1,0 +1,51 @@
+```python
+Options :
+
+from sklearn.linear_model import Perceptron
+clf = Perceptron()
+clf.fit(X,y)
+print(np.sum(clf.decision_function(X)>0))
+
+A. ❌
+
+from sklearn.linear_model import Perceptron
+clf = Perceptron()
+clf.fit(X,y)
+print(np.sum(clf.decision_function(X)>=0))
+
+B. ✔
+
+from sklearn.linear_model import Perceptron
+clf = Perceptron()
+clf.fit(X,y)
+print(np.sum(clf.decision_function(X)<0))
+
+C. ❌
+
+from sklearn.linear_model import Perceptron
+clf = Perceptron()
+clf.fit(X,y)
+print(np.sum(clf.decision_function(X)<=0))
+
+D. ❌
+
+Question Number : 303 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider the following code snippet:
+
+from sklearn.datasets import load_iris
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+X,y = load_iris(as_frame = True, return_X_y = True)
+X_train,X_test,y_train,y_test = train_test_split(X,y,
+                                                 test_size = 0.2,
+                                                 random_state = 1)
+
+clf = LogisticRegression(random_state = 1)
+clf.fit(X_train, y_train)
+clf.predict_proba(X_test.iloc[0:1, :])
+```
