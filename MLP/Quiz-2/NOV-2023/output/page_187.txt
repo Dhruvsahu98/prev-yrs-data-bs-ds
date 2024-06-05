@@ -1,0 +1,34 @@
+```plaintext
+6406531485862. ✔️ For a very large number of hyperparameters and less training time scenarios, RandomizedSearchCV will be more appropriate.
+
+6406531485863. ❇️ GridSearchCV takes smaller training time than RandomizedSearchCV if the number of hyperparameters is very large.
+
+6406531485864. ❇️ Number of hyperparameters and training time of the dataset, do not influence the selection of RandomizedSearchCV and GridSearchCV.
+
+Sub-Section Number : 7
+Sub-Section Id : 64065363466
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653445960 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (227 to 228)
+Question Label : Comprehension
+
+Based on the following block of code, prepare the confusion matrix and answer the given subquestions
+
+```python
+from sklearn.metrics import confusion_matrix
+x = [2, 0, 2, 2, 0, 2]
+y = [0, 0, 2, 2, 0, 2]
+confusion_matrix(x, y)
+```
+
+Sub questions
+
+Question Number : 227 Question Id : 640653445961 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following options represent the precision score?
+
+Options :
+6406531485803. ✔️ 1.00
+```

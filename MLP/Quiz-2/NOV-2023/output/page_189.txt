@@ -1,0 +1,47 @@
+```python
+Sunita wrote a code for logistic regression as shown below:
+
+import numpy as np
+from sklearn.linear_model import LogisticRegression
+x = np.arange(10).reshape(-1, 1)
+y = np.array([0, 0, 0, 0, 1, 1, 1, 1, 1, 1])
+model = LogisticRegression(solver='liblinear', random_state=0).fit(x,y)
+model.predict_proba(x)
+
+The output of the code was following:
+
+array([[0.74002157, 0.25997843],
+       [0.62975524, 0.37024476],
+       [0.5040632 , 0.4959368 ],
+       [0.37785549, 0.62214451],
+       [0.26628093, 0.73371907],
+       [0.17821501, 0.82178499],
+       [0.11472079, 0.88527921],
+       [0.07186982, 0.92813018],
+       [0.04422513, 0.95577487],
+       [0.02690569, 0.97309431]])
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 229 Question Id : 640653445965 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following options represents the output if Sunita writes the following line of code after the given code block?
+
+model.predict(x)
+
+Options :
+
+6406531485813. ✔ array([0, 0, 0, 1, 1, 1, 1, 1, 1, 1])
+
+6406531485814. ✖ array([0, 0, 1, 0, 1, 1, 1, 1, 1, 1])
+
+6406531485815. ✖ array([1, 1, 1, 0, 0, 0, 0, 0, 0, 0])
+
+6406531485816. ✖ array([0, 0, 1, 1, 1, 1, 1, 1, 1, 1])
+```

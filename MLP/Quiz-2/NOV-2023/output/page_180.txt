@@ -1,0 +1,46 @@
+```plaintext
+Question Number : 217 Question Id : 640653445972 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2.5
+
+Question Label : Multiple Choice Question
+
+Consider the block of code given below:
+
+```python
+from sklearn.metrics import confusion_matrix
+y_true = ["cat", "ant", "cat", "cat", "ant", "bird"]
+y_pred = ["ant", "ant", "cat", "ant", "cat"]
+confusion_matrix(y_true, y_pred, labels=["ant", "bird", "cat"])
+```
+
+The resulting confusion matrix from this code is following:
+
+\[
+\begin{array}{ccc}
+2 & 0 & 0 \\
+0 & 0 & 1 \\
+1 & 0 & 2 \\
+\end{array}
+\]
+
+What will be the precision value for the class “ant”?
+
+Options :
+
+6406531485841. \* 0.75
+
+6406531485842. \* 0.0
+
+6406531485843. \* 1.00
+
+6406531485844. ✔ 0.67
+```
+
+```plaintext
+Question Number : 218 Question Id : 640653445974 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2.5
+
+Question Label : Multiple Choice Question
+```

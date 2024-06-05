@@ -1,0 +1,31 @@
+```plaintext
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+```
+
+```plaintext
+MLP
+Section Id : 64065329001
+Section Number : 12
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 22
+Number of Questions to be attempted : 22
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065363460
+Question Shuffling Allowed : No
+Is Section Default? : null
+```
+
+```plaintext
+Question Number : 208 Question Id : 640653445957 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 0
+```

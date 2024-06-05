@@ -1,0 +1,38 @@
+```plaintext
+6406531485871. ✔ This technique allows the decision tree to grow as much as possible, then it clips parts of the tree.
+
+6406531485872. ✖ This technique doesn’t allow the decision tree to grow beyond a certain depth.
+
+Sub-Section Number : 6
+Sub-Section Id : 64065363465
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 225 Question Id : 640653445975 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2.5 Selectable Option : 0
+
+Question Label : Multiple Select Question
+Which of the following options are correct?
+
+Options :
+
+6406531485853. ✔ NuSVC implements the “one-versus-one” approach for multi-class classification.
+
+6406531485854. ✔ LinearSVC implements “one-vs-the-rest” approach for multi-class classification.
+
+6406531485855. ✔ SVC implements the “one-versus-one” approach for multi-class classification.
+
+6406531485856. ✖ NuSVC implements the “one-versus-the-rest” approach for multi-class classification.
+
+Question Number : 226 Question Id : 640653445977 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2.5 Selectable Option : 0
+
+Question Label : Multiple Select Question
+Mention which of the following statements are correct:
+
+Options :
+
+6406531485861. ✔ If we have a small number of hyperparameters and sufficient training time, we should apply GridSearchCV.
+```

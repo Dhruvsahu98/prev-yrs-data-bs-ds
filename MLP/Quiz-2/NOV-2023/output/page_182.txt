@@ -1,0 +1,36 @@
+```python
+In the Figure 1, different classification boundaries are shown with various
+regularization parameters. If regularization parameters for Figures 1(A), 1(B) and 1(C)
+are \( C_A, C_B, C_C \) correspondingly, then find out which of the following option represent
+the relation between \( C_A, C_B, C_C \)?
+
+\begin{figure}[h]
+    \centering
+    \begin{tabular}{ccc}
+        \includegraphics[width=0.3\textwidth]{path_to_image_A} & 
+        \includegraphics[width=0.3\textwidth]{path_to_image_B} & 
+        \includegraphics[width=0.3\textwidth]{path_to_image_C} \\
+        (A) & (B) & (C) \\
+    \end{tabular}
+    \caption{Figure 1}
+\end{figure}
+
+Options :
+
+\begin{enumerate}
+    \item \(\textcolor{green}{\text{6406531485857.} \quad C_A < C_B < C_C}\)
+    \item \(\textcolor{red}{\text{6406531485858.} \quad C_A > C_B < C_C}\)
+    \item \(\textcolor{red}{\text{6406531485859.} \quad C_A < C_B > C_C}\)
+    \item \(\textcolor{red}{\text{6406531485860.} \quad C_A > C_B > C_C}\)
+\end{enumerate}
+
+Sub-Section Number : 4
+
+Sub-Section Id : 64065363463
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 220 Question Id : 640653445973 Question Type : MCQ Is Question
+```

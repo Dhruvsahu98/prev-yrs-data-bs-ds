@@ -1,0 +1,38 @@
+```plaintext
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+4
+```
+
+```plaintext
+BDM
+
+Section Id : 64065329002
+Section Number : 13
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 13
+Number of Questions to be attempted : 13
+Section Marks : 16
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065363469
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 233 
+Question Id : 640653445984 
+Question Type : MCQ 
+Is Question Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0 
+Correct Marks : 0
+```

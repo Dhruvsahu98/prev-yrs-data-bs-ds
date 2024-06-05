@@ -1,0 +1,51 @@
+```python
+Question Number : 232 Question Id : 640653445980 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+Consider following code snippet:
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+
+df = pd.read_csv('some-dataset.data')
+
+# take last column as label, and rest columns as features
+y = df[df.columns[-1]]
+X = df[df.columns[1:]]
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2)
+
+train_scores = []
+test_scores = []
+
+for i_depth in range(1,16):
+    i_clf = DecisionTreeClassifier(max_depth = i_depth).fit(X_train, y_train)
+    train_scores.append(i_clf.score(X_train, y_train))
+    test_scores.append(i_clf.score(X_test, y_test))
+
+plt.figure(figsize=(10,6))
+plt.plot(range(1, 16), train_scores,c='b', label='Training')
+plt.scatter(range(1, 16), train_scores,c='b')
+plt.plot(range(1, 16), test_scores,c='r',label='Test')
+plt.scatter(range(1, 16), test_scores,c='r')
+plt.xlabel('Max Depth');plt.ylabel('Score')
+plt.legend()
+plt.xticks(list(range(1,16)),list(range(1,16)))
+plt.grid(True);plt.show()
+```
+
+Above code block produces the following chart displayed below, Figure 2, what is the optimal value of tree depth based on this chart?
+
+\[
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{your_image.png}
+    \caption{Figure 2}
+\end{figure}
+```
+
+Response Type : Numeric
+```

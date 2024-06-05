@@ -1,0 +1,45 @@
+```python
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+In \textit{HashingVectorizer} class, \textit{build\_analyzer()} method is used to 
+
+Options :
+
+\begin{enumerate}
+    \item 6406531485845. \textcolor{red}{*} Transform a sequence of documents to a document-term matrix.
+    \item 6406531485846. \textcolor{green}{\checkmark} Return a callable to process input data.
+    \item 6406531485847. \textcolor{red}{*} Return a function to preprocess the text before tokenization.
+    \item 6406531485848. \textcolor{red}{*} Return a function that splits a string into a sequence of tokens.
+\end{enumerate}
+
+Question Number : 221 Question Id : 640653445982 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Choose the correct statements:
+
+\begin{enumerate}
+    \item Bagging decreases bias.
+    \item Bagging increases variance.
+    \item Bagging increases bias.
+    \item Bagging decreases variance.
+\end{enumerate}
+
+Options :
+
+\begin{enumerate}
+    \item 6406531485878. \textcolor{red}{*} Only 1 and 2 are correct.
+    \item 6406531485879. \textcolor{green}{\checkmark} Only 3 and 4 are correct.
+    \item 6406531485880. \textcolor{red}{*} Only 1 and 3 are correct.
+    \item 6406531485881. \textcolor{red}{*} Only 2 and 4 are correct.
+\end{enumerate}
+
+Question Number : 222 Question Id : 640653445983 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+```

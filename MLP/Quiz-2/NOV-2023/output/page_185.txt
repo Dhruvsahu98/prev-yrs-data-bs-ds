@@ -1,0 +1,44 @@
+```python
+Consider following code snippet:
+
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+
+df = pd.read_csv('balance-scale.data')
+
+# take last column as label, and rest columns as features
+y = df[df.columns[-1]]
+X = df[df.columns[:-1]]
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2)
+
+clf = DecisionTreeClassifier(random_state = 0)
+clf.fit(X_train, y_train)
+
+Which of the following statements can be used to compute the height of the trained decision tree model?
+
+Options :
+
+6406531485865. ✔ clf.get_depth()
+
+6406531485866. ✔ clf.tree_.max_depth
+
+6406531485867. ✘ clf.tree_.get_depth()
+
+6406531485868. ✘ clf.tree.get_depth
+
+Question Number : 224 Question Id : 640653445979 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Which of the following are correct statements regarding cost complexity pruning?
+
+Options :
+
+6406531485869. ✔ It is useful in reducing overfitting in a decision tree.
+
+6406531485870. ✘ It is useful in reducing underfitting in a decision tree.
+```

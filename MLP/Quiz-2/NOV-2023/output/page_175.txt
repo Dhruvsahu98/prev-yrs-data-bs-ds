@@ -1,0 +1,50 @@
+```plaintext
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL : MACHINE LEARNING PRACTICE"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+6406531485793. ✔️ Yes
+
+6406531485794. ❌ No
+
+Sub-Section Number : 2
+Sub-Section Id : 64065363461
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 209 Question Id : 640653445958 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Which of the following options is the output of the following block of code?
+
+```python
+from sklearn.linear_model import Perceptron
+X=[(0,1),(0,2),(2,0),(3.5,3.5)]
+y=[1,2,3,4]
+clf = Perceptron()
+clf.fit(X, y)
+clf.score(X, y)
+```
+
+Options :
+
+6406531485795. ✔️ 1.0
+
+6406531485796. ❌ 0.0
+
+6406531485797. ❌ 0.5
+
+6406531485798. ❌ 0.75
+
+Question Number : 210 Question Id : 640653445963 Question Type : MCQ Is Question
+```

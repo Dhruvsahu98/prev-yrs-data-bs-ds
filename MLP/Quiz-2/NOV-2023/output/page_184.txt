@@ -1,0 +1,31 @@
+```python
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following statements is correct?
+
+Options :
+
+6406531485882. ✔️ In both boosting and bagging techniques, a set of weak learners whose predictive power is slightly more than guessing is used for training.
+
+6406531485883. ❌ Boosting and Bagging techniques cannot be deployed on any other machine learning model except Decision Trees.
+
+6406531485884. ❌ Boosting and Bagging perform better than Artificial Neural Network in all circumstances.
+
+6406531485885. ❌ Boosting and Bagging are as interpretative as Decision Trees are.
+
+Sub-Section Number : 5
+
+Sub-Section Id : 64065363464
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 223 Question Id : 640653445978 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+```

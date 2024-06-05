@@ -1,0 +1,45 @@
+```python
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+If the data is expected to be already centered, is intercept estimation (fit_intercept) necessary for RidgeClassifier?
+
+Options :
+
+6406531485811. ❌ Yes, as intercepts are required to be modeled and fit, especially at this scenario, keep fit_intercept =True
+
+6406531485812. ✔ No, as no intercept will be used in calculations: fit_intercept =False
+
+Question Number : 211 Question Id : 640653445981 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+In GradientBoostingRegressor, which of the following parameters is used to specify the fraction of samples to be used for fitting the individual base learners?
+
+Options :
+
+6406531485874. ❌ sample fraction
+
+6406531485875. ❌ shrinkage
+
+6406531485876. ❌ subspace
+
+6406531485877. ✔ subsample
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065363462
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 212 Question Id : 640653445959 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+```
