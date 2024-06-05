@@ -1,0 +1,47 @@
+```python
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>My title</title>
+    <style>
+        .class1 {
+            color: yellow;
+        }
+        .class2 {
+            color: red;
+        }
+        .class3 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p class="class3 class2 class1">
+            CSS is fun!
+        </p>
+    </div>
+</body>
+</html>
+```
+
+What will be the color applied to the text in the paragraph tag?
+
+**Options :**
+
+A.  ❉ yellow
+
+B.  ❉ red
+
+C.  ✔ blue
+
+D.  ❉ None of these
+
+**Question Number : 94 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following services provided by platform-as-a-service approach.

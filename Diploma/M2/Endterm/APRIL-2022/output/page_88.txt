@@ -1,0 +1,34 @@
+```python
+A Power supply, network and hardware management.
+B Updating of security patches and OS installation.
+C providing base for application platform.
+D Includes multiple database connectivity.
+
+Suppose the above-mentioned services are taken care by the provider, then identify the job of developer.
+
+Options :
+A. ❋ Specify the requirements on server, database and network connectivity.
+B. ❋ Deploy and maintain the application.
+C. ✔ Both Specify the requirements on server, database and network connectivity & Deploy and maintain the application.
+D. ❋ None of these
+
+Question Number : 95 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Identify the system that provides centralized control over distributed patches and provides a friendly interface for Git.
+
+Options :
+A. ❋ Gitlens
+B. ❋ Github
+C. ❋ Gitlab
+D. ✔ Both Gitlens and Github
+
+Question Number : 96 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+```
