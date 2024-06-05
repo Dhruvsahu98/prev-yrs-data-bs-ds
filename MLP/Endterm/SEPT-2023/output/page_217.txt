@@ -1,0 +1,51 @@
+```plaintext
+REGISTERED BY YOU)
+
+Options :
+
+6406532033956. ✔ YES
+
+6406532033957. ✖ NO
+
+Sub-Section Number : 2
+
+Sub-Section Id : 64065387478
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 236 Question Id : 640653608899 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+What will be the output of the following code:
+
+```python
+from sklearn.preprocessing import MaxAbsScaler
+a = [[-3],[ 0],[-2],[ 2],[-1],[-4]]
+mas = MaxAbsScaler()
+scaled_a = mas.fit_transform(a)
+print(scaled_a.min())
+```
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+-1
+
+Question Number : 237 Question Id : 640653608905 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+```
