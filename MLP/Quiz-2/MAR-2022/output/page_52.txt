@@ -1,0 +1,50 @@
+```python
+D. ✓ array[-1]
+```
+
+## Question Number : 87 Question Type : MCQ
+
+### Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+What is the output of following code snippet (assume necessary imports)?
+
+```python
+X,y= fetch_openml('mnist_784',version=1,return_X_y=True)
+X = X.to_numpy()
+y = y.to_numpy()
+
+indices1 = np.where(y == 8)[0]
+indices2 = np.where(y == 0)[0]
+
+y_train = y[np.concatenate((indices1, indices2), axis = 0)]
+X_train = X[np.concatenate((indices1, indices2), axis = 0)]
+```
+
+Options :
+
+A. ✓ it prepares data for binary classification of 0 and 8
+
+B. ✵ it prepares data for binary classification of 6 and 9
+
+C. ✵ it prepares data for multi class classification of 1 to 7 and 9
+
+D. ✵ none of these
+
+## Question Number : 88 Question Type : MCQ
+
+### Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+A perceptron model is trained on binary output data \(X_{n \times m}\) and \(y_{n \times 1}\).
+
+```python
+clf = Perceptron()
+clf.fit(X,y)
+```
+
+Which of the following will plot the PR curve correctly?
+
+Options :

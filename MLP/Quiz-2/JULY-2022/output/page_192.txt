@@ -1,0 +1,38 @@
+```plaintext
+Question Number : 207 Question Id : 640653351706 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1.5
+
+Question Label : Short Answer Question
+
+Calculate the recall value (up to 3 decimal places) from the confusion matrix.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.925 to 0.935
+
+Sub-Section Number : 8
+
+Sub-Section Id : 64065350532
+
+Question Shuffling Allowed : No
+```
+
+```plaintext
+Question Id : 640653351719 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (208 to 209)
+
+Question Label : Comprehension
+```

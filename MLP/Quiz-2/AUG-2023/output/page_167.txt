@@ -1,0 +1,28 @@
+```plaintext
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+2
+Sub-Section Number : 3
+Sub-Section Id : 64065384998
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 203 Question Id : 640653588719 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The parameter C in a logistic regression is:
+
+Options :
+
+6406531963541. \textit{similar to the parameter alpha in a ridge regressor.}
+
+6406531963542. \textit{similar to 1 / alpha where alpha is the parameter of a ridge regressor.}
+
+6406531963543. \textit{not controlling the regularization.}
+
+6406531963544. \textit{Weights associated with classes while fitting the model.}
+
+Question Number : 204 Question Id : 640653588721 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+```

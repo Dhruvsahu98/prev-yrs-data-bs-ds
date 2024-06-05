@@ -1,0 +1,55 @@
+```text
+Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following is the most expected output for the code given below:
+
+```
+
+```python
+from sklearn.datasets import load_wine
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+X,y = load_wine(as_frame = True, return_X_y = True)
+
+X_train,X_test,y_train,y_test = train_test_split(X,
+                                                 y,
+                                                 test_size = 0.10,
+                                                 random_state = 12)
+
+clf1 = DecisionTreeClassifier(ccp_alpha = 0.1,
+                              random_state = 81)
+
+clf2 = DecisionTreeClassifier(ccp_alpha = 0.25,
+                              random_state = 81)
+
+clf1.fit(X_train, y_train)
+clf2.fit(X_train, y_train)
+
+print(clf1.score(X_train, y_train))
+print(clf2.score(X_train, y_train))
+print(clf1.get_depth())
+print(clf2.get_depth())
+```
+
+```text
+Options :
+
+6406531963601. * 0.9875
+0.9125
+2
+3
+
+6406531963602. * 0.9125
+0.9875
+2
+3
+
+6406531963603. ✔ 0.9875
+0.9125
+3
+2
+```

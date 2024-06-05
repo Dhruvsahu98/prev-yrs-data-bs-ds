@@ -1,0 +1,60 @@
+```plaintext
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.8
+```
+
+---
+
+```plaintext
+Question Number : 200 Question Id : 640653588727 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+What might be the possible output of the following code:
+```
+
+```python
+from sklearn.metrics import precision_score
+y_true = [1,1,0,1,0,0,1,0,1]
+y_pred = [1,1,0,0,0,0,0,1]
+print(precision_score(y_true,y_pred))
+```
+
+```plaintext
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1.00
+```
+
+---
+
+```plaintext
+Question Number : 201 Question Id : 640653588729 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+```

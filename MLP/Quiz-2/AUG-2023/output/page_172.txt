@@ -1,0 +1,36 @@
+```python
+6406531963581. ✔
+
+6406531963582. ❌
+
+Question Number : 211 Question Id : 640653588736 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of these may NOT help in handling overfitting in decision trees?
+
+Options :
+
+6406531963597. ❌ Increasing the value of min_samples_split
+
+6406531963598. ❌ Increasing the value of the pruning parameter
+
+6406531963599. ❌ Increasing the value of min_samples_leaf
+
+6406531963600. ✔ Increasing the depth of the tree
+
+
+Question Number : 212 Question Id : 640653588739 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+In a BaggingClassifier or BaggingRegressor, the parameter base_estimator can be:
+
+Options :
+```

@@ -1,0 +1,33 @@
+```python
+from sklearn.preprocessing import OrdinalEncoder
+oe = OrdinalEncoder()
+print(oe.transform(dataset))
+```
+6406531963567. 
+
+```python
+from sklearn.preprocessing import OrdinalEncoder
+oe = OrdinalEncoder({"small"=0, "Normal"=1, "Large"=2})
+print(oe.fit_transform(dataset))
+```
+6406531963568.
+
+Question Number : 208 Question Id : 640653588726 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following parameters learned by the KNN(KNeighborRegressor) model while training?
+Options :
+
+\[
+\begin{itemize}
+  \item 6406531963569. \quad \text{coef\_}
+  \item 6406531963570. \quad \text{n\_neighbors}
+  \item 6406531963571. \quad \text{weight}
+  \item 6406531963572. \quad \text{None of these} \checkmark
+\end{itemize}
+\]
+
+Question Number : 209 Question Id : 640653588728 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2

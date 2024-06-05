@@ -1,0 +1,43 @@
+```plaintext
+2
+
+6406531963604. * 0.9125
+0.9875
+
+3
+
+2
+
+Sub-Section Number : 8
+Sub-Section Id : 64065385003
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 221 Question Id : 640653588738 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Consider the following block of code:
+
+\begin{python}
+from sklearn.datasets import load_wine
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+X,y = load_breast_cancer(as_frame = True, return_X_y = True)
+X_train,X_test,y_train,y_test = train_test_split(X,y, test_size = 0.2, random_state = 1)
+
+clf = DecisionTreeClassifier(min_samples_split = 8, min_samples_leaf = 5, random_state = 5)
+
+clf.fit(X_train, y_train)
+print(clf.score(X_test, y_test))
+\end{python}
+
+In which of the following scenarios, the split will be done at a node N?
+
+Options :
+
+6406531963605. ✳ Number of samples at node N = 5. If it is split, it will result in 3 samples in the left child and 2 samples in the right child.
+
+6406531963606. ✔ Number of samples at node N = 10. If it is split, it will result in 5 samples in the left child and 5 samples in the right child.
+```

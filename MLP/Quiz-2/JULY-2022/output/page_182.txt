@@ -1,0 +1,37 @@
+```python
+array(['and', 'first', 'is', 'meanwhile', 'one', 'second', 'text', 'the', 'third', 'this'],
+dtype=object)
+
+array(['first', 'is', 'text', 'the', 'this', '??'], dtype=object)
+```
+
+**Question Number : 194 Question Id : 640653351712 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Assume that \( X \) is a feature matrix with shape \( (1000,5) \) and \( y \) is the label vector with two classes: 0 and 1. Assume that 730 examples of training data belong to class 0. What will be the output of the following code?
+
+```python
+base_clf = DummyClassifier(strategy='most_frequent')
+base_clf.fit(X,y)
+print(base_clf.score(X,y))
+```
+
+**Options :**
+
+1. 6406531167196. **0.65**
+2. 6406531167197. ✔ **0.73**
+3. 6406531167198. **0.37**
+4. 6406531167199. **None of these**
+
+---
+
+**Question Number : 195 Question Id : 640653351717 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Rakesh is solving a regression problem with a KNN model. He has considered \( k = 3 \) for his model. Based on the graph shown below, what would you suggest him out of the following options?

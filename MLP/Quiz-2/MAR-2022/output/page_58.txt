@@ -1,0 +1,41 @@
+```python
+D. * MultiSVC
+
+Question Number : 96 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Abhishek wrote the following code to train the Figure 4:
+
+from sklearn.svm import SVC
+SVC_classifier = SVC()
+clf = SVC_classifier.fit(X_train, y_train)
+print(clf.support_vectors_)
+
+what is the output he will get?
+```
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.5\textwidth]{figure4.png}
+\caption{Figure 4}
+\end{figure}
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+6
+```

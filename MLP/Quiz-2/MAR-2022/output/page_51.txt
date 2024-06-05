@@ -1,0 +1,57 @@
+```python
+import pandas as pd
+text= ['An examination is an official test','It shows knowledge in particular subject ']
+countvectorizer = CountVectorizer()
+est = countvectorizer.fit_transform(text)
+Words = countvectorizer.get_feature_names()
+df = pd.DataFrame(data = est.toarray(),index = ['Sentence1','Sentence2'],columns = Words)
+df.head()
+```
+
+\[
+\begin{array}{l|cccccccccccc}
+ & \text{an} & \text{examination} & \text{in} & \text{is} & \text{it} & \text{knowledge} & \text{official} & \text{particular} & \text{shows} & \text{subject} & \text{test} \\
+\hline
+\text{Sentence1} & 1 & 1 & 0 & 1 & 0 & 0 & 1 & 0 & 0 & 0 & 1 \\
+\text{Sentence2} & 0 & 0 & 1 & 0 & 1 & 1 & 0 & 1 & 1 & 1 & 0 \\
+\end{array}
+\]
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.5\textwidth]{figure3.png}
+\caption{Figure 3}
+\label{fig:figure3}
+\end{figure}
+
+Options :
+- A. 🌼 0
+- B. 🌼 1
+- C. 🌼 2
+- D. 🌼 None
+
+Question Number : 86 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+What is the output of the following block of code?
+
+```python
+import numpy as np
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import StandardScaler
+X = np.array([[1, 0], [0, 1]])
+y = np.array([-1, 1])
+from sklearn.svm import SVC
+clf = make_pipeline(StandardScaler(), SVC(kernel='linear'))
+clf.fit(X, y)
+print(clf.predict([[-2,2]]))
+```
+
+Options :
+- A. 🌼 array[1]
+- B. 🌼 array[3]
+- C. 🌼 array[2]
+```

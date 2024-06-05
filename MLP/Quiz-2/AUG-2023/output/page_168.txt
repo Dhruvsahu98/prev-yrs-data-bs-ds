@@ -1,0 +1,41 @@
+```python
+Question Label: Multiple Choice Question
+
+Your task to design a model that can predict label of an article, in order to help an online news website. The labels could be "political", "sports" and "international".
+
+Following is the label matrix for random 3 articles:
+
+\[
+\begin{bmatrix}
+1 & 0 & 0 \\
+1 & 1 & 0 \\
+0 & 1 & 0 \\
+\end{bmatrix}
+\]
+
+What type of classification problem is this?
+
+Options:
+
+6406531963549.  \* Binary class, single label classification.
+6406531963550.  \* Binary class, multi label classification.
+6406531963551.  ✔ Multi class, multi label classification.
+6406531963552.  \* Multi class, single label classification.
+
+Question Number: 205 Question Id: 640653588723 Question Type: MCQ Is Question
+Mandatory: No Calculator: None Response Time: N.A Think Time: N.A Minimum Instruction Time: 0
+Correct Marks: 2
+
+Question Label: Multiple Choice Question
+
+How does strong correlation between features given the labels impact the classification performance in Naive Bayes?
+
+Options:
+
+6406531963557.  \* It has no impact because Naive Bayes assumes feature independence.
+6406531963558.  \* It improves the classification performance.
+6406531963559.  ✔ It degrades the classification performance.
+6406531963560.  \* It depends on the type of Naive Bayes variant used.
+
+Question Number: 206 Question Id: 640653588724 Question Type: MCQ Is Question
+```

@@ -1,0 +1,34 @@
+```python
+[[1]
+ [0]
+ [1]]
+
+[[0 0 1]
+ [1 0 0]
+ [0 1 0]
+ [0 1 0]]
+
+6406531167181. *
+
+[[1]
+ [1]
+ [1]
+ [0]]
+
+6406531167182. *
+
+[[0 0 1]
+ [1 0 0]
+ [0 1 1]
+ [0 1 0]]
+
+6406531167183. ✔
+```
+
+**Question Number : 199 Question Id : 640653351709 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**

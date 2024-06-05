@@ -1,0 +1,45 @@
+```plaintext
+Question Label : Multiple Choice Question
+
+For a support vector machine model, let \( X_i \) be an input instance with
+label \( y_i \). If \( X_i \) is a support vector what will be the output of this formula :
+
+\[
+y_i * (X_i^T W + W_0)
+\]
+
+\( W_0 \) and \( W \) are the estimated parameters from the model
+
+Options:
+
+6406531963574. ❌ > 1
+
+6406531963575. ❌ < 1
+
+6406531963576. ✔️ = 1
+
+6406531963577. ❌ Cannot be determined
+
+Question Number : 210 Question Id : 640653588730 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Consider below code which of the following option is true for that
+
+```python
+from sklearn.neighbors import NearestNeighbors
+neigh = NearestNeighbors(n_neighbors=4)
+neigh.fit(X_train)
+print(neigh.kneighbors(X_test[0:1]))
+```
+
+Assume \( X_{train} \) and \( X_{test} \) are of type numpy.ndarray.
+
+Options:
+
+6406531963579. ❌ It will print nearest neighbours from the test point.
+
+6406531963580. ❌ It will print the distance of test point from all the training points.
+```

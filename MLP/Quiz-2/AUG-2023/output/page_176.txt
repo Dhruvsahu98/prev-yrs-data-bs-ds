@@ -1,0 +1,44 @@
+```plaintext
+6406531963588. * 0.0001
+
+6406531963589. * 1
+
+6406531963590. ✔ 1000
+
+6406531963591. * Cannot be determined
+
+Sub-Section Number : 5
+Sub-Section Id : 64065385000
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 218 Question Id : 640653588734 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+
+What will be the output of the following code:
+
+```python
+from sklearn.feature_extraction.text import HashingVectorizer
+corpus = ['You can have it all. Just not all at once.',
+          'Train your mind to see the good in every situation.',
+          'What we think, we become.',
+          'If I got rid of my demons, I’d lose my angels.']
+vectorizer = HashingVectorizer(n_features=12, lowercase=True)
+X = vectorizer.fit_transform(corpus)
+print(X.shape[1])
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+12
+
+Sub-Section Number : 6
+Sub-Section Id : 64065385001
+```

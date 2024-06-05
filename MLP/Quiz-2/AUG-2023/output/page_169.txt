@@ -1,0 +1,47 @@
+```plaintext
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+When might the Precision-Recall curve be more informative than the ROC curve?
+
+Options :
+
+6406531963561. ✔ When the dataset is imbalanced.
+
+6406531963562. ✲ When the dataset has equal numbers of positive and negative instances.
+
+6406531963563. ✲ When the classifier has high accuracy.
+
+6406531963564. ✲ When the classifier produces balanced precision and recall values.
+
+Question Number : 207 Question Id : 640653588725 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Given ordinal data of the sizes of cups used in a coffee shop. Which of the following code will correctly transform the dataset as given in output array ?
+dataset = [['Small'],['Large'],['Large'],['Large'],['Normal'],['Small'],['Large'],['Normal']]
+output = [[0],[2],[2],[2],[1],[0],[2],[1]]
+
+Options :
+
+6406531963565. ✲
+```python
+from sklearn.preprocessing import OrdinalEncoder
+oe = OrdinalEncoder()
+print(oe.fit_transform(dataset))
+```
+
+6406531963566. ✔
+```python
+from sklearn.preprocessing import OrdinalEncoder
+oe = OrdinalEncoder(categories = [['Small','Normal','Large']])
+print(oe.fit_transform(dataset))
+```
+```

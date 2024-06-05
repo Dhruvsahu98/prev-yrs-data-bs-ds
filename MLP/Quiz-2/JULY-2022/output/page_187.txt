@@ -1,0 +1,40 @@
+```python
+from sklearn.naive_bayes import GaussianNB
+gnb = GaussianNB()
+gnb.fit(X_train, y_train)
+```
+
+```python
+from sklearn.naive_bayes import BernoulliNB
+bnb = BernoulliNB()
+bnb.fit(X_train, y_train)
+```
+
+Question Number : 201 Question Id : 640653351713 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+
+Question Label : Multiple Choice Question  
+Which of the following will be the correct output of the code snippet given below?  
+
+```python
+from sklearn.neighbors import KNeighborsClassifier
+X = [[2,3], [5,6], [10,11], [15,16], [20,21]]
+y = [0, 0, 1, 1, 2]
+neigh = KNeighborsClassifier(n_neighbors=3)
+neigh.fit(X, y)
+print(neigh.predict([[8,9]]))
+```
+
+Options :  
+6406531167200. ✔ 0  
+6406531167201. ✱ 1  
+6406531167202. ✱ 2  
+6406531167203. ✱ None  
+
+Question Number : 202 Question Id : 640653351718 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+
+Question Label : Multiple Choice Question  
+```

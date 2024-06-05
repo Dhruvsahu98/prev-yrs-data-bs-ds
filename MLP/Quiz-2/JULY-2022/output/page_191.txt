@@ -1,0 +1,40 @@
+```python
+Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (206 to 207)
+
+Question Label : Comprehension
+
+Based on the confusion matrix of a specific dataset (MNIST) given in Figure 1, answer the given subquestions.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{confusion_matrix.png}
+\caption{MNIST dataset confusion matrix}
+\end{figure}
+
+Sub questions
+
+Question Number : 206 Question Id : 640653351705 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1.5
+
+Question Label : Short Answer Question
+
+Calculate the precision value (up to 3 decimal places) from the confusion matrix.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+0.970 to 0.980
+```

@@ -1,0 +1,37 @@
+```python
+6406531963556. ✔
+
+SGDClassifier(loss="hinge") is stochastic version of a SVM model
+
+Question Number : 216 Question Id : 640653588731 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+Which of the following option is true?
+
+Options :
+
+6406531963583. ✖
+Distance between the datapoints varies as we change the n_neighbors parameter in KNeighborsClassifier.
+
+6406531963584. ✖
+KNeighborsClassifier model couldn’t able to predict labels for the samples outside of the training dataset because it does not learn from dataset.
+
+6406531963585. ✔
+MinMaxScaler can impact the KNeighborsClassifier’s accuracy score
+
+6406531963586. ✖
+KNeighborsClassifier can help in outlier detection
+
+Question Number : 217 Question Id : 640653588733 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+Which of the following value of C can overfit the SVM classifier model for the linearly inseparable data?
+
+Options :
+```

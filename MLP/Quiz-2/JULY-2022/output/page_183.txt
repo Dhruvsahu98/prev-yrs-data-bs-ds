@@ -1,0 +1,41 @@
+```python
+Options :
+
+6406531167213. ✔ His model is suffering from overfitting. So, he should increase the value of k.
+
+6406531167214. ✖ His model is suffering from underfitting. So, he should increase the value of k.
+
+6406531167215. ✖ His model is suffering from overfitting. So, he should decrease the value of k.
+
+6406531167216. ✖ His model is suffering from underfitting. So, he should decrease the value of k.
+
+6406531167217. ✖ No suggestions, Rakesh has already chosen the best value of k.
+
+Question Number : 196 Question Id : 640653351723 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+/1 penalty in LinearSVC classifier leads to coef_vectors which are-
+
+Options :
+
+6406531167231. ✖ dense.
+
+6406531167232. ✔ sparse.
+
+6406531167233. ✖ Unique class labels.
+
+6406531167234. ✖ /1 penalty can’t be set via a parameter in LinearSVC.
+
+Sub-Section Number : 4
+```
+
+```latex
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figure3.png}
+\caption{Loss vs Hyper parameter K}
+\end{figure}
+```

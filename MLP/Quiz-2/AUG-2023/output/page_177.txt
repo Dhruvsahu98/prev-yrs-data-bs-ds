@@ -1,0 +1,45 @@
+```plaintext
+Question Shuffling Allowed :                           Yes
+Is Section Default? :                                  null
+
+Question Number : 219 Question Id : 640653588735 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Consider the following code. How many different parameter combinations will be tried in GridSearchCV?
+
+```python
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.datasets import load_iris
+
+X, y = load_iris(as_frame = True, return_X_y = True)
+
+param_grid = [{'max_depth':range(1, 10, 2),
+               'min_samples_split': range(2, 10, 3)},
+              {'min_samples_leaf': range(1, 11, 3)}]
+gs = GridSearchCV(DecisionTreeClassifier(),
+                  param_grid, cv = 5)
+
+gs.fit(X,y)
+```
+
+Options :
+
+6406531963593. * 12
+
+6406531963594. * 80
+
+6406531963595. * 60
+
+6406531963596. ✔ 19
+
+Sub-Section Number :                                   7
+Sub-Section Id :                                       64065385002
+Question Shuffling Allowed :                           Yes
+Is Section Default? :                                  null
+
+Question Number : 220 Question Id : 640653588737 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+```

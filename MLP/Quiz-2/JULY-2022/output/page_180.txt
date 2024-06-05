@@ -1,0 +1,55 @@
+```plaintext
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following options represent the output score for the following block of code ?
+
+```python
+from sklearn.linear_model import RidgeClassifier
+X=[[0, 1],[0, 1]]
+y=[[0,1],[0,1]]
+clf = RidgeClassifier().fit(X, y)
+clf.score(X, y)
+```
+
+Options :
+
+6406531167166. * 0.0
+
+6406531167167. ✔ 1.0
+
+6406531167168. * -1.0
+
+6406531167169. * 0.5
+
+
+Question Number : 192 Question Id : 640653351707 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the options below represent the correct method to preprocess class labels in multi-class setup?
+
+Options :
+
+```python
+from sklearn.datasets import make_multilabel_classification as clf
+def plot_2d(ax, n_labels=1, n_classes=3, length=50):
+    X, Y, p_c, p_w_c = clf(
+        n_samples=150,
+        n_features=2,
+        n_labels=n_labels,
+        return_distributions=True,
+        random_state=32,
+    )
+```
+
+6406531167176. *
+
+6406531167177. *
+```

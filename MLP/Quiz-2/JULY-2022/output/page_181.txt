@@ -1,0 +1,59 @@
+```python
+from sklearn.datasets import make_multilabel_classification
+from sklearn.multioutput import MultiOutputClassifier
+from sklearn.linear_model import LogisticRegression
+# Apply multi-label classification and logistic regression
+X, y = make_multilabel_classification(n_classes=3, random_state=0)
+clf = MultiOutputClassifier(LogisticRegression()).fit(X, y)
+```
+
+```python
+from sklearn.preprocessing import LabelBinarizer
+# Using LabelBinarizer transformation
+# to convert the class label to multi-class
+y = np.array(['apple', 'pear', 'apple', 'orange'])
+y_dense = LabelBinarizer().fit_transform(y)
+# Note: The resulting label vector has shape of (n, k)
+```
+
+6406531167178. ✔
+
+6406531167179. ❋ None of these
+
+Question Number : 193 Question Id : 640653351711 Question Type : MCQ Is Question  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 2  
+
+Question Label : Multiple Choice Question  
+Which of the following options will be the output of the following code block?
+
+```python
+from sklearn.feature_extraction.text import TfidfVectorizer
+corpus = [
+    'This is the first document.',
+    'And is this the second one?',
+]
+vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform(corpus)
+vectorizer.get_feature_names_out()
+```
+
+Options :
+
+6406531167192. ✔
+
+```python
+array(['and', 'document', 'first', 'is', 'one', 'second', 'the', 'this'], dtype=object)
+```
+
+6406531167193. ❋
+
+```python
+array(['and', 'document', 'first', 'is', 'one', 'the', 'second', 'the', 'this', '??'], dtype=object)
+```
+
+6406531167194. ❋
+
+```python
+array(['one', 'second', 'document', 'is', 'first', 'the', 'this', 'and'], dtype=object)
+```

@@ -1,0 +1,38 @@
+```python
+Prashant wrote the following code to train the data shown in the following Figure :
+
+from sklearn.svm import SVC
+import numpy as np
+X_train = np.array([[5, 7],
+                    [6, 5],
+                    [7, 7],
+                    [7, 6],
+                    [7, 5],
+                    [3, 7],
+                    [4, 5],
+                    [3, 1],
+                    [2, 4],
+                    [1, 3]])
+
+y_train=np.array([0,0,0,0,1,1,1,1,1,1])
+
+clf = SVC(kernel='linear')
+clf.fit(X_train, y_train)
+print(clf.support_vectors_)
+```
+
+\[
+\begin{array}{cc}
+\includegraphics[width=0.5\textwidth]{figure.png} \\
+\text{Figure: 4}
+\end{array}
+\]
+
+Sub questions
+
+Question Number : 208 Question Id : 640653351720 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+```

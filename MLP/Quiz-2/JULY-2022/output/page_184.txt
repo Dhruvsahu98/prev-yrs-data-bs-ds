@@ -1,0 +1,51 @@
+```plaintext
+Sub-Section Id : 64065350528
+Question Shuffling Allowed : Yes
+```
+
+**Question Number : 197 Question Id : 640653351703 Question Type : MCQ Is Question**  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+Question Label : Multiple Choice Question  
+
+**Which of the following options will be the possible output for the given block of code?**
+
+```python
+from sklearn.linear_model import Perceptron
+X = [[2, 2], [2, 4], [4, 4], [4, 2]]
+y = [1, 2, 1, 2]
+clf = Perceptron(tol = None, random_state=0)
+clf.fit(X, y)
+print(clf.score(X, y))
+```
+
+Options :
+
+1. 6406531167170. $\textbf{1}$
+
+2. 6406531167171. $\textbf{0}$
+
+3. 6406531167172. $\checkmark$ $\textbf{0.5}$
+
+4. 6406531167173. $\textbf{0.40}$
+
+
+**Question Number : 198 Question Id : 640653351708 Question Type : MCQ Is Question**  
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+Question Label : Multiple Choice Question  
+
+**Which of the following options represent the correct output of the following code?**
+
+```python
+import numpy as np
+from sklearn.preprocessing import LabelBinarizer
+y = np.array(['Rajni', 'Amitabh', 'Rajni', 'Mithun'])
+y_dense = LabelBinarizer().fit_transform(y)
+print(y_dense)
+```
+
+Options :
+
+1. 6406531167180. $\textbf{?}$
+```

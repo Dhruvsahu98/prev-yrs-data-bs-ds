@@ -1,0 +1,35 @@
+```markdown
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+The below figure (Figure 1) shows AUC-ROC curves for three logistic regression models. Different colors show curves for different hyper parameters values.
+
+Which of the AUC-ROC curves will give best result?
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{roc_curve.png}
+    \caption{Figure 1}
+\end{figure}
+
+**Options:**
+
+A. ![✔] Yellow
+
+B. ![✘] Pink
+
+C. ![✘] Blue
+
+D. ![✘] All are same
+
+**Question Number : 82 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+What is the default loss value in SGDClassifier API and it gives which classifier?
+
+**Options:**
+```

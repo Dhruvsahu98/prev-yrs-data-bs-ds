@@ -1,0 +1,51 @@
+```plaintext
+Question Label : Multiple Choice Question
+
+What is the output that Prashant will get?
+
+Options :
+
+6406531167222. ✳ Indices of support vectors.
+
+6406531167223. ✳ Number of support vectors.
+
+6406531167224. ✳ Weights assigned to the features when kernel=“linear”
+
+6406531167225. ✔ ndarray of support vectors.
+```
+
+```plaintext
+Question Number : 209 Question Id : 640653351721 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Enter the output of the following block of code.
+```
+
+```python
+from sklearn.svm import SVC
+SVC_classifier = SVC(kernel='linear')
+clf = SVC_classifier.fit(X_train,y_train)
+print(len(clf.support_vectors_))
+```
+
+```plaintext
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+4
+```
+
+```plaintext
+BDM
+
+Section Id : 64065322156
+Section Number : 12
+Section type : Online
+Mandatory or Optional : Mandatory
+```

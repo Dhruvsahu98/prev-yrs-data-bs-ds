@@ -1,0 +1,36 @@
+```python
+# Question Number : 214 Question Id : 640653588720 Question Type : MSQ Is Question
+# Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+# Correct Marks : 2 Max. Selectable Options : 0
+
+# Question Label : Multiple Select Question
+# For which of the following cases, f1-score is the most suitable evaluation metric?
+
+# Options :
+# 6406531963545. ✔ There are 10,000 images, each contains either a cat or a dog. Exactly 500 contain cats and others contain dogs. Your task is to train a binary classifier.
+# 6406531963546. ✔ Train a binary classifier to detect if an MRI image contains carcinogenic cells or not. Number of true positives are 2%.
+# 6406531963547. ✱ Predicting if a chest x-ray belongs to a male patient or a female patient. There are nearly equal number of samples of each category.
+# 6406531963548. ✔ Based on a student’s senior secondary marks and other features, predicting if he will fail a particular exam. The exam clearing rate is 98.23%.
+
+# Question Number : 215 Question Id : 640653588722 Question Type : MSQ Is Question
+# Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+# Correct Marks : 2 Max. Selectable Options : 0
+
+# Question Label : Multiple Select Question
+# Which of the following is correct?
+
+# Options :
+# 6406531963553. ✱ SGDClassifier(loss="percept") is stochastic version of a perceptron model
+# 6406531963554. ✔ SGDClassifier(loss="log_loss") is stochastic version of a logistic classifier model
+# 6406531963555. ✱ SGDClassifier(loss="log_loss") is stochastic version of a SVM model
+```
+
+Mathematical expressions in LaTeX format:
+```latex
+% There are no explicit mathematical expressions in the provided text.
+```
+
+Tables and diagrams in LaTeX format:
+```latex
+% There are no tables or diagrams in the provided text.
+```

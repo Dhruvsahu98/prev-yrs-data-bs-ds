@@ -1,0 +1,55 @@
+```plaintext
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.24 to 0.26
+
+Question Number : 187 Question Id : 640653351683 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1.5
+
+Question Label : Short Answer Question
+
+What is the value of \( w_{22} \) ?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.80 to 0.82
+
+MLP
+
+Section Id : 64065322155
+
+Section Number : 11
+
+Section type : Online
+
+Mandatory or Optional : Mandatory
+
+Number of Questions : 20
+
+Number of Questions to be attempted : 20
+
+Section Marks : 50
+
+Display Number Panel : Yes
+```

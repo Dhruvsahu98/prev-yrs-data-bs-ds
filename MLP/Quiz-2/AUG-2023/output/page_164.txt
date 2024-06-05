@@ -1,0 +1,55 @@
+```plaintext
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+6406531963538. ✔ YES
+
+6406531963539. ✖ NO
+
+Sub-Section Number : 2
+
+Sub-Section Id : 64065384997
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 199 Question Id : 640653588718 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Consider the following code and its output: Code:
+
+```python
+from sklearn.datasets import load_iris
+from sklearn.linear_model import LogisticRegression
+
+X, y = load_iris(return_X_y=True)
+clf = LogisticRegression(random_state=0).fit(X, y)
+
+print(y[70:80])
+print(clf.predict(X[70:80, :]))
+```
+
+Output:
+
+```
+[1 1 1 1 1 1 1 1 1 1]
+[2 1 1 1 1 1 1 1 2 1]
+```
+
+What will be the output of the following code? Enter your answer correct to one decimal place.
+
+```python
+print(clf.score(X[70:80, :], y[70:80]))
+```
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+```

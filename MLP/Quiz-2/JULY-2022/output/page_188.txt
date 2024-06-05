@@ -1,0 +1,43 @@
+```python
+What is the output of the following block of code?
+
+import numpy as np
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import StandardScaler
+X = np.array([[2, 4], [4, 2]])
+y = np.array([-1, 1])
+from sklearn.svm import SVC
+clf = make_pipeline(StandardScaler(), SVC(kernel='linear'))
+clf.fit(X, y)
+print(clf.predict([[-2,2]]))
+
+Options :
+
+6406531167218. ✱ array[1]
+
+6406531167219. ✱ array[3]
+
+6406531167220. ✱ array[2]
+
+6406531167221. ✔array[-1]
+
+Question Number : 203 Question Id : 640653351722 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider the following code snippet and mark the correct output.
+
+from sklearn.svm import SVC
+import numpy as np
+X = np.array([[-1, -1], [-2, -2], [1, 1], [2, 2]])
+y = np.array([-1, -1, 1, 1])
+clf = SVC(kernel='linear')
+clf.fit(X, y)
+print(clf.n_support_)
+
+Options :
+
+6406531167227. ✱ [-1,1]
+```
