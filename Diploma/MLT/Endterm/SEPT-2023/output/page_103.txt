@@ -1,0 +1,33 @@
+```plaintext
+Question Number : 99 
+Question Id : 640653608757 
+Question Type : MCQ 
+Is Question Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+
+Correct Marks : 6
+
+Question Label : Multiple Choice Question
+
+While training a perceptron model, the weight vector at some iteration t is \( w^t \). The next two data-points picked up by the perceptron algorithm in the course of its execution is \( (x_1, y_1) \), and \( (x_2, y_2) \) where y is the true label:
+
+\[
+w^t = \begin{bmatrix} 2 \\ 3 \\ 4 \end{bmatrix}, \quad x_1 = \begin{bmatrix} 1 \\ 0 \\ -1 \end{bmatrix}, \quad y_1 = 1, \quad x_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \quad y_2 = -1
+\]
+
+What are the value of \( w^{t+1} \) and \( w^{t+2} \)?
+
+Options :
+
+\[
+\begin{aligned}
+6406532033446. & \quad w^{t+1} = \begin{bmatrix} 2 \\ 2 \\ 5 \end{bmatrix}, \quad w^{t+2} = \begin{bmatrix} 4 \\ 1 \\ 6 \end{bmatrix} \\
+6406532033447. & \quad w^{t+1} = \begin{bmatrix} 2 \\ 2 \\ 5 \end{bmatrix}, \quad w^{t+2} = \begin{bmatrix} 2 \\ 2 \\ 5 \end{bmatrix} \\
+6406532033448. & \quad w^{t+1} = \begin{bmatrix} 1 \\ 3 \\ 4 \end{bmatrix}, \quad w^{t+2} = \begin{bmatrix} 3 \\ 2 \\ 5 \end{bmatrix} \\
+6406532033449. & \quad \text{No update will happen as the points } (x_1, y_1) \text{ and } (x_2, y_2) \text{ are not mistakes with respect to } w^t
+\end{aligned}
+\]
+```

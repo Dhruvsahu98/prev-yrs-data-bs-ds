@@ -1,0 +1,29 @@
+```plaintext
+6406532033451. ✔
+The bribe paid by the \( i^{th} \) data point is equal to 0.
+
+6406532033452. ❌
+\( i^{th} \) data point lies on the supporting hyper-planes.
+
+6406532033453. ✔
+\( w^T \) classifies the \( i^{th} \) data point correctly.
+
+Question Number : 95 Question Id : 640653608760 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the following dataset on which the soft margin SVM is applied.
+
+\[
+\begin{array}{c}
+\includegraphics[width=0.5\textwidth]{dataset_svm.png}
+\end{array}
+\]
+
+Which of the following statements is/are true about this dataset?
+
+Options :
+
+6406532033458. ❌
+Points \( F, A, C, I \) are the only support vectors.
+```

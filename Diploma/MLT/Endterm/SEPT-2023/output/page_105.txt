@@ -1,0 +1,56 @@
+```python
+Question Label : Short Answer Question
+
+You are working on a spam email classification problem. You have collected a dataset of some
+1000 emails, labeled as either "Spam" or "Not Spam," and you want to build a decision tree to
+classify them based on certain features. One of the features is the presence of a specific keyword:
+"Won."
+
+Here's the breakdown of emails containing or not containing the keyword: "Won."
+
+"Won" keyword present: 300 Spam, 50 Not Spam
+"Won" keyword not present: 100 Spam, 550 Not Spam
+
+Calculate the information gain for selecting the "Won" keyword feature for splitting.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.10 to 0.60
+
+Sub-Section Number : 6
+
+Sub-Section Id : 64065387441
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 102 Question Id : 640653608754 Question Type : MSQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statements is/are true about the K-NN algorithm?
+
+Options :
+
+6406532033437. ✔ K-NN is sensitive to outliers in the dataset.
+
+6406532033438. ✔ K-NN is a supervised learning algorithm used for classification.
+
+6406532033439.
+```
