@@ -1,0 +1,29 @@
+```python
+6406532033144. ✖ \( T(x, y, z) = (x, y - z, z + x) \)
+
+6406532033145. ✔ \( T(x, y, z) = (x + y, y - z, z + x) \)
+
+6406532033146. ✖ \( T(x, y, z) = (x + y, -z, z + x) \)
+
+Question Number : 22 Question Id : 640653608657 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Let \( B \) be the matrix corresponding to the linear transformation \( T \) with respect to the basis \(\{(1, 0, 0), (0, 1, 0), (0, 0, 1)\}\) for both domain and codomain.
+
+Which of the following statement(s) is/are true?
+
+Options :
+
+\[
+\begin{itemize}
+\item[6406532033147. ✔] The column space of \( B \) is spanned by \(\{(1, 0, 1), (1, 1, 0)\}\)
+\item[6406532033148. ✖] The nullspace of \( B \) is spanned by \(\{(-1, 0, 0), (0, 1, 1)\}\)
+\item[6406532033149. ✔] \(\text{rank}(B) = 2 \) and \(\text{nullity}(B) = 1 \)
+\item[6406532033150. ✖] \(\text{rank}(B) = 1 \) and \(\text{nullity}(B) = 2 \)
+\end{itemize}
+\]
+```

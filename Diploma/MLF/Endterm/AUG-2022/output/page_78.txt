@@ -1,0 +1,85 @@
+```plaintext
+Question Number : 151 Question Id : 640653356604 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Find the rank of \( T \).
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+\( 2 \)
+```
+
+```plaintext
+Question Number : 152 Question Id : 640653356605 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Choose the correct option(s).
+
+Options :
+
+\( \{(-6, -2, 2)\} \) is a basis for the kernel of \( T \).
+\[
+\textcolor{green}{\checkmark}
+\]
+
+\( \{(-3, 0, 1), (0, 1, -1)\} \) is a basis for the kernel of \( T \).
+\[
+\textcolor{red}{\times}
+\]
+
+There exists an isomorphism from the range of \( T \) to \( \mathbb{R}^2 \).
+\[
+\textcolor{green}{\checkmark}
+\]
+
+There exists an isomorphism from the range of \( T \) to \( \mathbb{R} \).
+\[
+\textcolor{red}{\times}
+\]
+```
+
+```latex
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Options & Correct \\
+\hline
+\(\{(-6, -2, 2)\}\) is a basis for the kernel of \(T\) & \checkmark \\
+\(\{(-3, 0, 1), (0, 1, -1)\}\) is a basis for the kernel of \(T\) & \times \\
+There exists an isomorphism from the range of \(T\) to \(\mathbb{R}^2\) & \checkmark \\
+There exists an isomorphism from the range of \(T\) to \(\mathbb{R}\) & \times \\
+\hline
+\end{tabular}
+\end{table}
+```
+
+```latex
+\begin{equation}
+\text{Find the rank of } T.
+\end{equation}
+```
+
+```latex
+\begin{equation}
+\text{Correct answer: } 2
+\end{equation}
+```

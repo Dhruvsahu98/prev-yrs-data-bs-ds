@@ -1,0 +1,55 @@
+```python
+Question Number : 19 Question Id : 640653608676 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Choose the correct option for the parametric equations of the line tangent to $f$ at the point $\left( \frac{\pi}{2}, \frac{\pi}{2} \right)$ in the direction of y axis:
+Options :
+
+```latex
+\begin{equation}
+\begin{aligned}
+6406532033199. & \quad x(t) = \frac{\pi}{2}, \, y(t) = \frac{\pi}{2} + t, \, z(t) = -t
+\end{aligned}
+\end{equation}
+```
+
+```latex
+\begin{equation}
+\begin{aligned}
+6406532033200. & \quad x(t) = \frac{\pi}{2} + t, \, y(t) = \frac{\pi}{2}, \, z(t) = t
+\end{aligned}
+\end{equation}
+```
+
+```latex
+\begin{equation}
+\begin{aligned}
+6406532033201. & \quad x(t) = \frac{\pi}{2}, \, y(t) = \frac{\pi}{2} - t, \, z(t) = 0
+\end{aligned}
+\end{equation}
+```
+
+Question Number : 20 Question Id : 640653608677 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Choose the correct option for the parametric equations of the line tangent to $f$ at the point $\left( \frac{\pi}{2}, \frac{\pi}{2} \right)$ in the direction of (-1,1):
+Options :
+
+```latex
+\begin{equation}
+\begin{aligned}
+6406532033202. & \quad x(t) = \frac{\pi}{2} + \frac{t}{\sqrt{2}}, \, y(t) = \frac{\pi}{2} - \frac{t}{\sqrt{2}}, \, z(t) = -\frac{1}{\sqrt{2}}
+\end{aligned}
+\end{equation}
+```
+
+```latex
+\begin{equation}
+\begin{aligned}
+6406532033203. & \quad
+\end{aligned}
+\end{equation}
+```
+```

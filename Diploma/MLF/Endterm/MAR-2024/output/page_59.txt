@@ -1,0 +1,44 @@
+```plaintext
+Is Section Default? :                        null
+
+Question Number : 73 Question Id : 640653770478 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Choose the correct option(s) from the following:
+
+Options :
+
+\[
+6406532577307. \quad \text{If } A \text{ and } B \text{ are orthogonal matrices, then } AB \text{ is also orthogonal.}
+\]
+
+\[
+6406532577308. \quad \text{If } A \text{ is orthogonal, then } A^{-1} \text{ is also an orthogonal matrix.}
+\]
+
+\[
+6406532577309. \quad \text{Let } A \text{ be an } n \times n \text{ orthogonal matrix. Let } R \text{ be the set of rows of } A, \text{ thought of as a subset of } \mathbb{R}^n. \text{ Similarly, let } C \text{ be the set of columns of } A. \text{ Then exactly one of } R \text{ or } C \text{ is an orthogonal subset of vectors.}
+\]
+
+\[
+6406532577310. \quad \text{If } A \text{ is an } n \times n \text{ orthogonal matrix, then } \|Ax\| = \|x\| \text{ for any } x \in \mathbb{R}^n.
+\]
+
+Statistics2
+
+\[
+\begin{array}{ll}
+\text{Section Id :} & 64065353261 \\
+\text{Section Number :} & 5 \\
+\text{Section type :} & \text{Online} \\
+\text{Mandatory or Optional :} & \text{Mandatory} \\
+\text{Number of Questions :} & 12 \\
+\text{Number of Questions to be attempted :} & 12 \\
+\text{Section Marks :} & 40 \\
+\text{Display Number Panel :} & \text{Yes} \\
+\end{array}
+\]
+```

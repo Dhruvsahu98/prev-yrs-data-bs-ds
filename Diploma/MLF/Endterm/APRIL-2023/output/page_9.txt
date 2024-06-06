@@ -1,0 +1,55 @@
+```plaintext
+4
+```
+
+```plaintext
+Question Number : 10
+Question Id : 640653565975
+Question Type : SA
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+The number of local maxima of \( f(x, y) \) is
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+```
+
+```plaintext
+Question Number : 11
+Question Id : 640653565976
+Question Type : SA
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+The number of local minima of \( f(x, y) \) is
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+```
+
+```plaintext
+Question Id : 640653565978
+Question Type : COMPREHENSION
+Sub Question Shuffling Allowed : No
+Group Comprehension Questions : No
+Question Pattern Type : NonMatrix
+```

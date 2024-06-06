@@ -1,0 +1,36 @@
+```python
+Question Label : Comprehension
+
+Let \( f(x, y) = x^4 + y^4 + 4x^3 + 4x^2 - 8y^2 - 5 \).
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 8 Question Id : 640653565973 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+The number of critical points of \( f(x, y) \) is
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9
+
+Question Number : 9 Question Id : 640653565974 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+The number of saddle points of \( f(x, y) \) is
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+```

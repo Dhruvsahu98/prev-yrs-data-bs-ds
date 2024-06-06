@@ -1,0 +1,39 @@
+```plaintext
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+4
+
+Sub-Section Number : 8
+
+Sub-Section Id : 64065351674
+
+Question Shuffling Allowed : Yes
+
+Question Number : 164 Question Id : 640653356614 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following is true for the function:
+
+$$ f(x, y) = \frac{x^3 - y^3}{x - y} $$
+
+Options :
+
+6406531182257. \lim_{(x,y)\to(1,-1)} f(x, y) = 0
+
+6406531182258. \lim_{(x,y)\to(1,-1)} f(x, y) = 1
+
+6406531182259. \lim_{(x,y)\to(1,-1)} f(x, y) = 2
+
+6406531182260. \lim_{(x,y)\to(1,-1)} f(x, y) does not exist.
+
+Question Number : 165 Question Id : 640653356615 Question Type : MCQ Is Question
+```

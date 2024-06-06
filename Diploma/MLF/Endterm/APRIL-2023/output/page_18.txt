@@ -1,0 +1,56 @@
+```python
+Question Id : 640653565985 
+Question Type : COMPREHENSION 
+Sub Question Shuffling Allowed : No 
+Group Comprehension Questions : No 
+Question Pattern Type : NonMatrix 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0 
+
+Question Numbers : (23 to 24)
+
+Question Label : Comprehension
+
+Consider the system of linear equations formed by the equations in column B of Table M2ES2 and let A be its coefficient matrix. Answer the given related subquestions.
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+Equation of the surface (Column A) & Equation of the tangent plane at (1,1,2) (Column B) & Vector subspace corresponding to the affine subspace formed by tangent plane (Column C) \\
+\hline
+i) \( z = x^2 y + xy^2 \) & a) \( 3x + 3y - z = 4 \) & 1) \( \{ (x,y,z) \mid 6x = 2y + z, x,y,z \in \mathbb{R} \} \) \\
+\hline
+ii) \( z = 3x^2 - y^2 \) & b) \( z = -2x - 2y + 6 \) & 2) \( \{ (x,y,z) \mid x + y = \frac{1}{3}z, x,y,z \in \mathbb{R} \} \) \\
+\hline
+iii) \( xyz = 2 \) & c) \( 6x - 2y = z + 2 \) & 3) \( \{ (x,y,z) \mid z = -2(x + y), x, y, z \in \mathbb{R} \} \) \\
+\hline
+\end{tabular}
+\caption{Table: M2ES2}
+\end{table}
+
+Sub questions
+
+Question Number : 23 
+Question Id : 640653565986 
+Question Type : MCQ 
+Is Question Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0 
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following denotes the solution space of this system of linear equations?
+
+Options :
+
+1. \( \{ (x,y,z) \mid x + y = 2, x, y \in \mathbb{R} \} \)
+
+2. 6406531891575
+```

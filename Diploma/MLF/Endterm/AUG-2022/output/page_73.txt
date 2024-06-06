@@ -1,0 +1,42 @@
+```plaintext
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+
+Maximum Instruction Time : 0
+
+Sub-Section Number : 1
+
+Sub-Section Id : 64065351667
+
+Question Shuffling Allowed : No
+
+Question Number : 144 Question Id : 640653356594 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 0
+
+Question Label : Multiple Choice Question
+
+\textbf{THIS IS QUESTION PAPER FOR THE SUBJECT "FOUNDATION LEVEL: SEMESTER 2/DIRECT ENTRY DIPLOMA : MATHEMATICS FOR DATA SCIENCE 2"}
+
+\textbf{ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.}
+
+\textbf{(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)}
+
+Options :
+
+\begin{itemize}
+    \item 6406531182223. $\checkmark$ Yes
+    \item 6406531182224. $\ast$ No
+\end{itemize}
+
+Sub-Section Number : 2
+
+Sub-Section Id : 64065351668
+
+Question Shuffling Allowed : No
+
+Question Id : 640653356595 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (145 to 146)
+
+Question Label : Comprehension
+```

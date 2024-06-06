@@ -1,0 +1,43 @@
+```python
+6406531891545. 
+\[
+\beta = \{(0, 1, 1), (1, 1, 0), (-1, 0, 1)\}
+\]
+
+6406531891546. 
+\[
+\beta = \{(0, 1, 1), (0, 1, -1)\}
+\]
+
+Question Number : 7 Question Id : 640653565967 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+If \(\gamma\) is the orthonormal basis of \(W\) obtained from \(\beta\)
+(from the previous question)
+by using the Gram Schmidt process with respect to the usual inner product, and 
+\((a, b, c)\) is the projection of \((1, 0, 1)\) onto \(W\),
+then what is \(6(a + b + c)\)?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+8
+
+Question Id : 640653565972 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (8 to 11)
+```

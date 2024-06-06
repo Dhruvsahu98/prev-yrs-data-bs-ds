@@ -1,0 +1,44 @@
+```python
+x(t) = \frac{\pi}{2} - \frac{t}{\sqrt{2}}, \quad y(t) = \frac{\pi}{2} + \frac{t}{\sqrt{2}}, \quad z(t) = \frac{t}{\sqrt{2}}
+```
+
+```python
+6406532033204.
+```
+
+**Sub-Section Number:** 8
+
+**Sub-Section Id:** 64065387415
+
+**Question Shuffling Allowed:** No
+
+**Is Section Default?:** null
+
+**Question Id:** 640653608655 **Question Type:** COMPREHENSION **Sub Question Shuffling Allowed:** No **Group Comprehension Questions:** No **Question Pattern Type:** NonMatrix **Calculator:** None **Response Time:** N.A **Think Time:** N.A **Minimum Instruction Time:** 0
+
+**Question Numbers:** (21 to 25)
+
+**Question Label:** Comprehension
+
+```latex
+Let T: \mathbb{R}^3 \rightarrow \mathbb{R}^3 \text{ and } A = \begin{pmatrix} 0 & 1 & -1 \\ 0 & 0 & 0 \\ 0 & 0 & 1 \end{pmatrix} \text{ be the matrix corresponding to the linear transformation } T \text{ with respect to the bases } \beta = \{(1, 0, 0), (0, 1, 0), (0, 0, 1)\} \text{ and } \gamma = \{(1, 1, 0), (0, 1, 1), (1, 0, 1)\}. \text{ Using the above information answer the given subquestions.}
+```
+
+**Sub questions**
+
+**Question Number:** 21 **Question Id:** 640653608656 **Question Type:** MCQ **Is Question Mandatory:** No **Calculator:** None **Response Time:** N.A **Think Time:** N.A **Minimum Instruction Time:** 0
+
+**Correct Marks:** 3
+
+**Question Label:** Multiple Choice Question
+
+Choose the appropriate linear transformation T for the matrix A.
+
+**Options:**
+
+```python
+6406532033143.
+```
+
+\( T(x, y, z) = (x + y, y + z, z - x) \)
+```

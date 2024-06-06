@@ -1,0 +1,41 @@
+```python
+"""
+Time : 0
+
+Correct Marks : 2 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statement(s) is/are true for an $n \times n$ matrix $A$?
+
+Options :
+
+1. Let $\det(A) \neq 0$. Then determinant of $A$ is unaltered by swapping any two rows of $A$.
+
+2. Determinant of $A$ is unaltered when a multiple of a row is added to another row.
+
+3. For any real number $t$, $\det(tA) = t^{n} \det(A)$
+
+4. If $D = P^{-1}AP$, then $D = A$.
+"""
+
+"""
+Question Number : 4 Question Id : 640653608652 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statement(s) is/are true for a system of linear equations $Ax=b$?
+
+Options :
+
+1. If $x_1$ and $x_2$ are solutions of the system, then for any $\alpha, \beta \in \mathbb{R}$, $\alpha x_1 + \beta x_2$ is also a solution if and only if $b=0$.
+
+2. If $x_1$ and $x_2$ are solutions of the linear equation, then $\alpha x_1 + \beta x_2$ is also a solution for any $b$ in the column space of $A$.
+
+3. The system $Ax=0$ has a unique solution when the number of equations is less than the number of variables.
+
+4. If the system $Ax=0$ has a unique solution, then the columns of $A$ are linearly independent.
+"""
+```

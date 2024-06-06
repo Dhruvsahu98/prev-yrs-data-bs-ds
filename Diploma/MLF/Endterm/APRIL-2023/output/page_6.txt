@@ -1,0 +1,35 @@
+```python
+Options :
+
+\textcolor{green}{6406531891539. \quad A \text{ is similar to } B.}
+
+\textcolor{red}{6406531891540. \quad \text{Rank of } B \text{ is 1.}}
+
+\textcolor{green}{6406531891541. \quad \text{Nullity of } B \text{ is 0.}}
+
+\textcolor{red}{6406531891542. \quad A \text{ is not similar to } B.}
+
+Question Id : 640653565965 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (6 to 7)
+
+Question Label : Comprehension
+
+Consider the subspace $W = \{(x, y, z) | x - y + z = 0, x, y, z \in \mathbb{R} \}$ of $\mathbb{R}^3$. Answer the given subquestions based on the given information.
+
+Sub questions
+
+Question Number : 6 Question Id : 640653565966 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following is a basis $\beta$ for $W$?
+
+Options :
+
+\textcolor{green}{6406531891543. \quad \beta = \{(1, 0, 1), (-1, 0, 1)\}}
+
+\textcolor{red}{6406531891544. \quad \beta = \{(1, 0, 1), (0, 1, -1)\}}
+```
