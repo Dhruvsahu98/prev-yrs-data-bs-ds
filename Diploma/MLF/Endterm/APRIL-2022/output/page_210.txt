@@ -1,0 +1,117 @@
+```plaintext
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+
+4.78 to 4.86
+
+Question Type : COMPREHENSION
+
+Question Numbers : (318 to 319)
+Question Label : Comprehension
+Consider the data points \( x_1, x_2, x_3 \) to answer the given subquestions.
+
+\[ x_1 = \begin{bmatrix}
+0 \\
+2
+\end{bmatrix}, \quad x_2 = \begin{bmatrix}
+1 \\
+1
+\end{bmatrix}, \quad x_3 = \begin{bmatrix}
+2 \\
+0
+\end{bmatrix} \]
+
+Sub questions
+
+Question Number : 318 Question Type : MCQ
+
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The covariance matrix
+
+\[ C = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(x_i - \bar{x})^T \]
+
+for the data points \( x_1, x_2, x_3 \) is
+
+Options :
+
+\[ \text{A.} \quad \begin{bmatrix}
+0 & 0 & 0 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{bmatrix} \]
+
+\[ \text{B.} \quad \begin{bmatrix}
+0.5 & 0.5 & 0.5 \\
+0.5 & 0.5 & 0.5 \\
+0.5 & 0.5 & 0.5
+\end{bmatrix} \]
+```
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+\begin{document}
+
+Answers Type : Range \\
+Text Areas : PlainText \\
+Possible Answers : \\
+
+4.78 to 4.86 \\
+
+Question Type : COMPREHENSION \\
+
+Question Numbers : (318 to 319) \\
+Question Label : Comprehension \\
+Consider the data points \( x_1, x_2, x_3 \) to answer the given subquestions.
+
+\[
+x_1 = \begin{bmatrix}
+0 \\
+2
+\end{bmatrix}, \quad x_2 = \begin{bmatrix}
+1 \\
+1
+\end{bmatrix}, \quad x_3 = \begin{bmatrix}
+2 \\
+0
+\end{bmatrix}
+\]
+
+Sub questions \\
+
+Question Number : 318 Question Type : MCQ \\
+
+Correct Marks : 2 \\
+Question Label : Multiple Choice Question \\
+The covariance matrix
+
+\[
+C = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(x_i - \bar{x})^T
+\]
+
+for the data points \( x_1, x_2, x_3 \) is
+
+Options :
+
+\[
+\text{A.} \quad \begin{bmatrix}
+0 & 0 & 0 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{bmatrix}
+\]
+
+\[
+\text{B.} \quad \begin{bmatrix}
+0.5 & 0.5 & 0.5 \\
+0.5 & 0.5 & 0.5 \\
+0.5 & 0.5 & 0.5
+\end{bmatrix}
+\]
+
+\end{document}
+```

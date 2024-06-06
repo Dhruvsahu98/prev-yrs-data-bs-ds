@@ -1,0 +1,40 @@
+```python
+Question Number : 320 Question Type : MSQ
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Let A be a n x n real symmetric matrix with distinct eigen values $\lambda_i, 1 \leq i \leq n$ and corresponding eigen vectors are $u_i, 1 \leq i \leq n$, then which of the following statements is/are true?
+
+Options : 
+A. $\lambda_i u_i u_i^T$ is a symmetric matrix.
+
+B. $\lambda_i u_i u_i^T$ is not a symmetric matrix.
+
+C. $\sum_{i=1}^{n} \lambda_i u_i u_i^T = A$.
+
+D. $\sum_{i=1}^{n} \lambda_i u_i u_i^T \neq A$.
+
+
+Question Number : 321 Question Type : MSQ
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Let $U, V,$ and $D$ be three unitary matrices, then which of the following statements must be true always?
+
+Options :
+A. $UV D$ is an unitary matrix
+
+B. $UV$ is an unitary matrix
+
+C. $UV D$ is not an unitary matrix
+
+D. $UV D$ is a hermitian matrix
+
+
+Question Number : 322 Question Type : SA
+
+```

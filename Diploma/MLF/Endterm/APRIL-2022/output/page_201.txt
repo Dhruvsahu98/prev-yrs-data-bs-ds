@@ -1,0 +1,40 @@
+```python
+Compilation error at LINE 16 to LINE 23 because UnitSquare does not implement method getArea.
+
+Runtime error because a reference variable of interface Shape cannot refer to an object of class UnitSquare.
+
+The program generates the output: 16
+```
+
+```
+MLF
+
+Number of Questions :  20
+Section Marks :  50
+```
+
+```
+Question Number : 306 Question Type : MCQ
+
+Correct Marks : 0
+
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING FOUNDATIONS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+ A. YES
+ B. NO
+```
+
+```
+Question Number : 307 Question Type : MCQ
+```
+
+\[
+\text{Page 202 of 308}
+\]

@@ -1,0 +1,47 @@
+```plaintext
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+We need to find the optimal value of the objective function \( f(x, y, z) = \log(xyz) + xyz \).
+
+We start with \( X_0 = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} \). If \( X_1 = \begin{bmatrix} i \\ j \\ k \end{bmatrix} \) using the gradient descent algorithm and using \( \eta = 1 \), then what is the absolute value of \( |i + j + k| \)? Enter the answer up to 2 decimals accuracy.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+7.5 to 8.5
+
+Question Number : 323 Question Type : SA
+
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+While solving for the optimal weight vector (\(w\)) for a linear regression problem
+
+using gradient descent, we have \( y = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} \) and \( X = \begin{bmatrix} 0 & 1 \\ 2 & 3 \\ 3 & 4 \end{bmatrix} \). \( w^t = \begin{bmatrix} 1 \\ 2 \end{bmatrix} \) after \( t \) iterations.
+
+If the value of \( w^{t+1} = \begin{bmatrix} i \\ j \end{bmatrix} \) in next iteration using gradient descent method, then what is the absolute value of \( |i + j| \)? Assume \( \eta = 1 \).
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+```

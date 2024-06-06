@@ -1,0 +1,46 @@
+```python
+b) about the mean \( \mu = 80 \) for which the probability that \( X \) lies in the interval is at least 99 percent. 
+Calculate the value \( b - 2a \)
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+100
+
+Question Type : COMPREHENSION
+
+Question Numbers : (312 to 314)
+
+Question Label : Comprehension
+
+For the function \( f(x, y) = 3x^2 - 5y^2 \) and point \( P(2, -3) \), answer the given subquestions:
+
+Sub questions
+
+Question Number : 312 Question Type : SA
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+From the given point \( P \), in which direction will the derivative of \( f \) be maximal? (Provide the direction in the form of unit vector.) If the direction vector is \( (u_1, u_2) \), then provide the value of \( u_1 \).
+
+NOTE: Enter your answer in two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+```

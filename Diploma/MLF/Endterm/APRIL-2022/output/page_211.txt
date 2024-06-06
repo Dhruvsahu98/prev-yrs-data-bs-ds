@@ -1,0 +1,77 @@
+```plaintext
+Question Number : 319 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+The data points \(x_1\), \(x_2\), \(x_3\) are projected onto the one dimensional space using PCA as points \(z_1\), \(z_2\), \(z_3\) respectively.(Use eigenvector with maximum eigen values for this projection.)
+
+Options :
+
+\[
+z_1 = \begin{bmatrix}
+1 \\
+1 \\
+1
+\end{bmatrix}, z_2 = \begin{bmatrix}
+1 \\
+1 \\
+1
+\end{bmatrix}, z_3 = \begin{bmatrix}
+1 \\
+1 \\
+1
+\end{bmatrix}
+\]
+
+A. ❌
+
+\[
+z_1 = \begin{bmatrix}
+0.5 \\
+0.5
+\end{bmatrix}, z_2 = \begin{bmatrix}
+0 \\
+0
+\end{bmatrix}, z_3 = \begin{bmatrix}
+-0.5 \\
+-0.5
+\end{bmatrix}
+\]
+
+B. ❌
+
+\[
+z_1 = \begin{bmatrix}
+0 \\
+2
+\end{bmatrix}, z_2 = \begin{bmatrix}
+1 \\
+1
+\end{bmatrix}, z_3 = \begin{bmatrix}
+2 \\
+0
+\end{bmatrix}
+\]
+
+C. ❌
+
+\[
+z_1 = \begin{bmatrix}
+-1 \\
+0 \\
+1
+\end{bmatrix}, z_2 = \begin{bmatrix}
+0 \\
+0 \\
+0
+\end{bmatrix}, z_3 = \begin{bmatrix}
+1 \\
+0 \\
+-1
+\end{bmatrix}
+\]
+
+D. ✔️
+```

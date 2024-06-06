@@ -1,0 +1,57 @@
+```plaintext
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Stephen Fleming hired a ML team to predict whether CSK will be successful or not in winning IPL 2022 by using some classification models. Therefore the team collected presence/absence of various factors \( x = [x_1, x_2, x_3] \) from both successful and unsuccessful year in past. The data and the corresponding label is shown in the table below.
+
+\[
+\begin{array}{|c|c|}
+\hline
+x & y \\
+\hline
+[0, 1, 1] & 1 \\
+[1, 0, 0] & 1 \\
+[1, 1, 1] & 1 \\
+[1, 1, 1] & 1 \\
+\hline
+\end{array}
+\]
+
+Compute the zero-one error of the model if they have used
+
+\[
+u(z) = \begin{cases} 
+1, & \text{for } z \geq 0 \\
+0, & \text{otherwise}
+\end{cases}
+\]
+
+and \( z = 0.5x_1 - 0.8x_2 + 0.4x_3 \)
+
+NOTE: Enter your answer in two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.25
+```
+
+```plaintext
+Question Number : 309 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+If the characteristic polynomial of a \(3 \times 3\) matrix \( M \) is \( \lambda^3 - \lambda^2 + a\lambda + 24 \), \( a \in R \) and one eigenvalue of \( M \) is 2, then the largest among the absolute values of eigenvalues of \( M \) is ______
+```

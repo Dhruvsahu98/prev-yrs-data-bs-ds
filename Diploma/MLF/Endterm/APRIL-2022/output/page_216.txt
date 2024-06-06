@@ -1,0 +1,31 @@
+```plaintext
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.64 to 0.70
+```
+
+```plaintext
+Question Number : 328
+Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+A pack of 5 items is known to contain 2 items that are defective. The items are checked one at a time (without replacement) until the defective ones are identified. Let \(X\) denote the number of tests made until the first defective item is found and let \(Y\) denote the additional number of tests until the second defective item is found. Find the value of \(P(X = 2, Y = 3)\).
+
+NOTE: Enter your answer in one decimal place.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.1
+```
+
+```plaintext
+Question Number : 329
+Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+The probability density function of the time \(X\) (in minutes) between calls at a customer care center is given by
+```

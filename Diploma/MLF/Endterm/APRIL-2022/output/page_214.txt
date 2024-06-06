@@ -1,0 +1,39 @@
+```python
+Possible Answers :
+82 to 86
+
+Question Number : 324 Question Type : MCQ
+
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+\[
+\text{Given } A = \begin{bmatrix}
+-3 & 0 & 0 \\
+0 & -2 & 0 \\
+0 & 0 & -1
+\end{bmatrix}
+\]
+
+Options :
+A. \text{ } \det[A] \text{ is positive}
+B. \text{ } A \text{ is positive definite}
+C. \text{ } A \text{ is positive semidefinite}
+D. \text{ } \checkmark \text{ A is negative definite}
+E. \text{ } A \text{ is indefinite}
+
+Question Number : 325 Question Type : MCQ
+
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+What is the boundary value of \( y \) so that the function \( \sqrt{1 - y^2} \) to remain concave?
+
+Options :
+A. \text{ } y \ge 1 \text{ and } y \le -1
+B. \text{ } \checkmark \text{ } y \le 1 \text{ and } y \ge -1
+C. \text{ } for any value of y function will remain convex.
+D. \text{ } None of these
+
+Question Number : 326 Question Type : SA
+```

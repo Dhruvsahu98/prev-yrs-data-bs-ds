@@ -1,0 +1,43 @@
+```plaintext
+Correct Marks : 3
+Question Label : Short Answer Question
+What is the maximum value possible for the function \( f(x, y) = e^{xy} \) subject to the conditions \( x \ge 0 \), \( y \ge 0 \), and \( x^2 + y^2 = 2 \)
+
+NOTE: Enter your answer in one decimal place.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+2.0 to 3.5
+```
+
+```plaintext
+Question Number : 327 Question Type : SA
+
+Correct Marks : 3
+Question Label : Short Answer Question
+Each throw of an unfair die lands on the odd numbers with probability \(p\) and lands on the even numbers with probability \(2p\). Let
+
+\[
+X = \begin{cases} 
+1, & \text{if the throw results in an even number} \\
+0, & \text{otherwise} 
+\end{cases}
+\]
+
+and
+
+\[
+Y = \begin{cases} 
+1, & \text{if the throw results in an odd number} \\
+0, & \text{otherwise} 
+\end{cases}
+\]
+
+Find the value of \(f_{XY}(1, 0)\). Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+```
