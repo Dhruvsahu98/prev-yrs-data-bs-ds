@@ -1,0 +1,32 @@
+```python
+Question Number : 79 Question Id : 640653770488 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Let \(X_1, X_2, \ldots, X_{100}\) be i.i.d. samples with mean 150 and variance 100. Find the mean and variance of \(\overline{X}\), where \(\overline{X} = \frac{X_1 + X_2 + \cdots + X_{100}}{100}\) is the sample mean.
+
+Options :
+
+6406532577327. \(\textbf{*}\)
+\[ E[\overline{X}] = 150, \text{Var}(\overline{X}) = 100\]
+
+6406532577328. \(\textbf{*}\)
+\[ E[\overline{X}] = 150, \text{Var}(\overline{X}) = 10\]
+
+6406532577329. \(\textbf{✔}\)
+\[ E[\overline{X}] = 150, \text{Var}(\overline{X}) = 1\]
+
+6406532577330. \(\textbf{*}\)
+\[ E[\overline{X}] = 1500, \text{Var}(\overline{X}) = 10\]
+
+Sub-Section Number : 4
+Sub-Section Id : 640653112585
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 80 Question Id : 640653770486 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+```

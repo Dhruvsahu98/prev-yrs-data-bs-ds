@@ -1,0 +1,25 @@
+```python
+Sub questions
+
+Question Number : 85 Question Id : 640653770496 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following inequalities result from Chebyshev’s inequality?
+Options :
+
+6406532577341. $\displaystyle P\left(\left|X-\mu\right|\leq 5\right)\geq 1-\frac{25}{n}$ ✔
+
+6406532577342. $\displaystyle P\left(\left|X-\mu\right|\leq 5\right)\geq 1-\frac{1}{n}$ ✘
+
+6406532577343. $\displaystyle P\left(\left|X-\mu\right|\geq 5\right)\leq \frac{25}{n}$ ✔
+
+6406532577344. $\displaystyle P\left(\left|X-\mu\right|\geq 5\right)\leq \frac{1}{n}$ ✘
+
+
+Question Number : 86 Question Id : 640653770497 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the minimum value of n such that the sample mean lies in $\displaystyle \left[\mu -5,\mu +5\right]$ with probability more than 0.95 using Chebyshev’s inequality.
+Response Type : Numeric
+```

@@ -1,0 +1,34 @@
+```python
+6406532577336. ※ 𝑋 ~ Bernoulli(0.5)
+
+6406532577337. ※ 𝑋 ~ Bernoulli(0.2)
+
+6406532577338. ✔ 𝑋 ~ Binomial(400, 0.8)
+
+6406532577339. ※ 𝑋 ~ Binomial(400, 0.2)
+
+Question Number : 84 Question Id : 640653770494 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Using the Central Limit Theorem, find an approximate probability that at least 80 students in the selected random sample own a laptop. Enter the answer correct to one decimal place.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.5
+
+Question Id : 640653770495 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (85 to 86)
+Question Label : Comprehension
+\[
+\text{A random sample of size } n \text{ is taken from a population with mean } \mu \text{ and standard deviation } 25.\\
+\]
+\[
+\text{The sample mean is } \overline{X} = \frac{X_1 + X_2 + \cdots + X_n}{n}
+\]
+
+Based on the above data, answer the given subquestions.
+```

@@ -1,0 +1,38 @@
+```python
+Question Number : 88 
+Question Id : 640653770500 
+Question Type : MCQ 
+Is Question Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+What is the value of 
+\[ P \left( X < \frac{1}{2}, Y < \frac{1}{2} \right) ? \]
+
+Options :
+
+\[
+\begin{array}{ll}
+6406532577347. & \frac{1}{16} \\
+6406532577348. & \frac{1}{8} \\
+6406532577349. & \frac{1}{2} \\
+6406532577350. & \frac{1}{4} \\
+\end{array}
+\]
+
+Question Id : 640653770501 
+Question Type : COMPREHENSION 
+Sub Question Shuffling Allowed : No 
+Group Comprehension Questions : No 
+Question Pattern Type : NonMatrix 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0 
+Question Numbers : (89 to 90)
+Question Label : Comprehension
+```

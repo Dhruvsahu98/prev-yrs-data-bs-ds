@@ -1,0 +1,45 @@
+```plaintext
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+What is the value of E[X]? Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.8
+
+---
+
+Question Id : 640653770492 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (83 to 84)
+
+Question Label : Comprehension
+
+In a large town, it is estimated that 20% of students own a laptop. A random sample of 400 students is selected from the town.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 83 Question Id : 640653770493 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Let a random variable \(X\) denote the total number of students without laptops in the selected sample. Which of the following options is a good model for \(X\)?
+
+Options :
+```

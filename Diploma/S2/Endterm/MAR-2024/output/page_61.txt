@@ -1,0 +1,83 @@
+```python
+# Question Label: Multiple Choice Question
+
+# Discrete random variables:
+
+# LaTeX Table
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Distribution} & \textbf{PMF} $(f_X(k))$ & \textbf{CDF} $(F_X(x))$ & $\mathbb{E}[X]$ & \textbf{Var}(X) \\
+\hline
+\text{Uniform}(A) & $\frac{1}{n}, \quad x = k$ & 
+$\left\{
+\begin{array}{ll}
+0 & x < 0 \\
+\frac{k-a+1}{n} & k \leq x < k+1 \\
+ & k = a, a+1, \ldots, b-1, b \\
+1 & x \geq n 
+\end{array}
+\right.$ & 
+$\frac{a+b}{2}$ & 
+$\frac{n^2 - 1}{12}$ \\
+$A = \{a, a+1, \ldots, b\}$ & $n = b-a+1$ & & & \\
+\hline
+\text{Bernoulli}(p) & 
+$\left\{
+\begin{array}{ll}
+p & x = 1 \\
+1 - p & x = 0 
+\end{array}
+\right.$ & 
+$\left\{
+\begin{array}{ll}
+0 & x < 0 \\
+1 - p & 0 \leq x < 1 \\
+1 & x \geq 1 
+\end{array}
+\right.$ & 
+$p$ & 
+$p(1 - p)$ \\
+\hline
+\text{Binomial}(n, p) & 
+$\binom{n}{k} p^k (1 - p)^{n-k}, \quad k = 0,1, \ldots, n$ & 
+$\left\{
+\begin{array}{ll}
+0 & x < 0 \\
+\sum_{i=0}^k \binom{n}{i} p^i (1-p)^{n-i} & k \leq x < k+1 \\
+ & k = 0,1, \ldots, n \\
+1 & x \geq n 
+\end{array}
+\right.$ & 
+$np$ & 
+$np(1 - p)$ \\
+\hline
+\text{Geometric}(p) & 
+$(1 - p)^{k-1} p, \quad k = 1, \ldots, \infty$ & 
+$\left\{
+\begin{array}{ll}
+0 & x < 0 \\
+1 - (1 - p)^k & k \leq x < k+1 \\
+ & k = 1, \ldots, \infty 
+\end{array}
+\right.$ & 
+$\frac{1}{p}$ & 
+$\frac{1 - p}{p^2}$ \\
+\hline
+\text{Poisson}(\lambda) & 
+$\frac{e^{-\lambda} \lambda^k}{k!}, \quad k = 0,1, \ldots, \infty$ & 
+$\left\{
+\begin{array}{ll}
+0 & x < 0 \\
+e^{-\lambda} \sum_{i=0}^k \frac{\lambda^i}{i!} & k \leq x < k+1 \\
+ & k = 0,1, \ldots, \infty 
+\end{array}
+\right.$ & 
+$\lambda$ & 
+$\lambda$ \\
+\hline
+\end{tabular}
+\caption{Discrete random variables}
+\end{table}
+```

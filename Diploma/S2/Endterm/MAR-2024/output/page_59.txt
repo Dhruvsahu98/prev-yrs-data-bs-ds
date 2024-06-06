@@ -1,0 +1,37 @@
+```plaintext
+Is Section Default? : null
+
+Question Number : 73 Question Id : 640653770478 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Choose the correct option(s) from the following:
+
+Options :
+
+6406532577307. ✔
+If $A$ and $B$ are orthogonal matrices, then $AB$ is also orthogonal.
+
+6406532577308. ✔
+If $A$ is orthogonal, then $A^{-1}$ is also an orthogonal matrix.
+
+6406532577309. ✘
+Let $A$ be an $n \times n$ orthogonal matrix. Let $R$ be the set of rows of $A$, thought of as a subset of $\mathbb{R}^n$. Similarly, let $C$ be the set of columns of $A$. Then exactly one of $R$ or $C$ is an orthogonal subset of vectors.
+
+6406532577310. ✔
+If $A$ is an $n \times n$ orthogonal matrix, then $\|Ax\| = \|x\|$ for any $x \in \mathbb{R}^n$.
+
+Statistics2
+
+Section Id : 64065353261
+Section Number : 5
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 12
+Number of Questions to be attempted : 12
+Section Marks : 40
+Display Number Panel : Yes
+```

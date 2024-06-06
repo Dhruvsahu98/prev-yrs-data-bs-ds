@@ -1,0 +1,41 @@
+```python
+# Document converted to text
+
+The joint PMF table of two discrete random variable \(X_1\) and \(X_2\) is given as
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{c|c|c}
+  & \(X_1\) & \\
+\(X_2\) & 1 & 2 \\
+\hline
+1 & \(\frac{1}{3}\) & \(\frac{1}{6}\) \\
+2 & 1 & \(k\) \\
+\end{tabular}
+\end{table}
+
+Which of the following option(s) is(are) true?
+
+Options :
+
+\begin{itemize}
+    \item 6406532577319. \(\checkmark\) \(f_{X_1}(2) = f_{X_2}(2)\)
+    \item 6406532577320. \(\times\) \(f_{X_1}(1) \neq f_{X_2}(1)\)
+    \item 6406532577321. \(\times\) \(X_1\) and \(X_2\) are independent.
+    \item 6406532577322. \(\checkmark\) \(X_1\) and \(X_2\) are not independent.
+\end{itemize}
+
+Sub-Section Number : 5
+
+Sub-Section Id : 640653112586
+
+Question Shuffling Allowed : No
+
+Is Section Default? : null
+
+Question Id : 640653770489 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (81 to 82)
+
+Question Label : Comprehension
+```

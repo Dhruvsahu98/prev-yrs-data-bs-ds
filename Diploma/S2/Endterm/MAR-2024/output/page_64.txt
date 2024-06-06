@@ -1,0 +1,49 @@
+```plaintext
+Possible Answers :
+
+1.5
+
+Sub-Section Number : 3
+
+Sub-Section Id : 640653112584
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 78 Question Id : 640653770487 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Suppose \( X \) and \( Y \) are two independent random variables with probability density functions as
+
+\[
+g(x) = \begin{cases} 
+8/x^3, & x > 2, \\
+0, & \text{otherwise}.
+\end{cases}
+\]
+
+and
+
+\[
+h(y) = \begin{cases} 
+2y, & 0 < y < 1, \\
+0, & \text{otherwise}.
+\end{cases}
+\]
+
+Calculate the value of \( E[XY] \).
+
+Options :
+
+6406532577323. 2
+
+6406532577324. \(\frac{2}{3}\)
+
+6406532577325. \(\frac{8}{3}\)
+
+6406532577326. Insufficient information
+```
