@@ -1,0 +1,40 @@
+```python
+Question Number : 25
+Question Id : 640653608660
+Question Type : MSQ Is Question
+Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 2 
+Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statement(s) about \( T \) is/are true?
+
+Options :
+
+6406532033153. ❌ \( T \) is one-one but not onto
+
+6406532033154. ✔ \( T \) is neither one-one nor onto.
+
+6406532033155. ✔ Matrices corresponding to \( T \) with respect to any basis has determinant zero.
+
+6406532033156. ❌ There exists a basis \( \beta \) of \( \mathbb{R}^3 \) such that the matrix corresponding to \( T \) with respect to \( \beta \) for both domain and codomain is invertible.
+```
+
+```latex
+\section*{Statistics2}
+\begin{itemize}
+    \item \textbf{Section Id} : 64065341230
+    \item \textbf{Section Number} : 2
+    \item \textbf{Section type} : Online
+    \item \textbf{Mandatory or Optional} : Mandatory
+    \item \textbf{Number of Questions} : 12
+    \item \textbf{Number of Questions to be attempted} : 12
+    \item \textbf{Section Marks} : 40
+\end{itemize}
+```

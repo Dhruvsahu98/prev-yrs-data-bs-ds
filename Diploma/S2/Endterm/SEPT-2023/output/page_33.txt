@@ -1,0 +1,79 @@
+```plaintext
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.4
+
+Question Id : 640653608695 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (40 to 41)
+
+Question Label : Comprehension
+
+The number of tosses required to get the first head on tossing a coin follows the Geometric(θ) distribution. The number of tosses observed to get the first head in 5 different i.i.d. repetitions are 2, 4, 5, 1, 3. Assume prior distribution of θ to be Beta(3, 4).
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 40 Question Id : 640653608696 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Find the posterior distribution of θ.
+
+Options :
+
+6406532033236. ❌ Gamma(8, 14)
+
+6406532033237. ❌ Beta(7, 13)
+
+6406532033238. ✔ Beta(8, 14)
+```
+
+```latex
+The number of tosses required to get the first head on tossing a coin follows the Geometric($\theta$) distribution. The number of tosses observed to get the first head in 5 different i.i.d. repetitions are 2, 4, 5, 1, 3. Assume prior distribution of $\theta$ to be Beta(3, 4).
+
+Based on the above data, answer the given subquestions.
+
+\textbf{Sub questions}
+
+\textbf{Question Number : 40}
+
+\textbf{Question Id : 640653608696}
+
+\textbf{Question Type : MCQ}
+
+\textbf{Is Question Mandatory : No}
+
+\textbf{Calculator : None}
+
+\textbf{Response Time : N.A}
+
+\textbf{Think Time : N.A}
+
+\textbf{Minimum Instruction Time : 0}
+
+\textbf{Correct Marks : 3}
+
+\textbf{Question Label : Multiple Choice Question}
+
+Find the posterior distribution of $\theta$.
+
+\textbf{Options :}
+
+\begin{itemize}
+    \item 6406532033236. ❌ Gamma(8, 14)
+    \item 6406532033237. ❌ Beta(7, 13)
+    \item 6406532033238. ✔ Beta(8, 14)
+\end{itemize}
+```

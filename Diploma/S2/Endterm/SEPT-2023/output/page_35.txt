@@ -1,0 +1,31 @@
+```python
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Define null hypothesis and alternative hypothesis.
+
+Options :
+
+6406532033241. \( H_0: \mu = 98.5, H_A: \mu \ne 98.5 \)
+6406532033242. \( H_0: \mu = 98.5, H_A: \mu > 98.5 \)
+6406532033243. \( H_0: \mu = 98.5, H_A: \mu < 98.5 \)
+6406532033244. \( H_0: \mu \ne 98.5, H_A: \mu = 98.5 \)
+
+Question Number : 43 Question Id : 640653608700 Question Type : MSQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Choose the set of correct options.
+
+Options :
+
+6406532033245. \( \text{Reject } H_0 \text{ at significance level } \alpha = 0.05. \)
+6406532033246. \( \text{Accept } H_0 \text{ at significance level } \alpha = 0.01. \)
+6406532033247. \( \text{Accept } H_0 \text{ at significance level } \alpha = 0.05. \)
+6406532033248. \( \text{Reject } H_0 \text{ at significance level } \alpha = 0.01. \)
+```

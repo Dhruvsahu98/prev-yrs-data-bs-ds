@@ -1,0 +1,31 @@
+```python
+6406532033208. ❋ This data attachment is just for a reference & not for an evaluation.
+
+Sub-Section Number : 2
+Sub-Section Id : 64065387417
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 28 Question Id : 640653608680 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Let \( X_1, X_2, X_3, X_4 \sim \text{i.i.d. Binomial}\left(5, \frac{1}{2}\right) \). Define another random variable 
+\( Z = \max(X_1, X_2, X_3, X_4) \). Find \( 4P(Z \le 2) \). Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.23 to 0.27
+
+Question Number : 29 Question Id : 640653608682 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Let \( X \) be a discrete random variable taking values \(\{0, 1, 2\}\) with respective probabilities \(\left\{\frac{p}{3}, (1-p), \frac{2p}{3}\right\}\), where \(0 \le p \le 1\) is a parameter. Consider the samples \(\{2, 1, 1, 0, 2, 1, 2, 0, 2\}\) from \(X\). Using a Uniform[0,1] prior, find the posterior mean of \(p\). Enter the answer correct to two decimal places.
+```

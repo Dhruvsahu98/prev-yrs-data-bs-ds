@@ -1,0 +1,50 @@
+```plaintext
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.64 to 0.70
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065387418
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 30 Question Id : 640653608681 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Let \( X_1, X_2, \ldots, X_{100} \sim \text{Uniform}(0, \theta) \). Which of the following is an unbiased estimator for '\(\theta\)'?
+
+Options :
+
+\[
+\hat{\theta} = \frac{X_1 + X_3 + X_5 + \cdots + X_{99}}{100}
+\]
+6406532033210.  
+
+\[
+\hat{\theta} = \frac{X_1 + X_2 + X_3 + \cdots + X_{100}}{100}
+\]
+6406532033211.  
+
+\[
+\hat{\theta} = \frac{X_1 + X_2 + X_3 + \cdots + X_{100}}{50}
+\]
+6406532033212.  
+
+\[
+\hat{\theta} = X_1 + X_2 + X_3 + \cdots + X_{100}
+\]
+6406532033213.
+```

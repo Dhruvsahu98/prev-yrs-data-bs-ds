@@ -1,0 +1,39 @@
+```plaintext
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+
+0.625
+
+Question Number : 37 Question Id : 640653608691 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the expected value of X.
+Options :
+
+\[
+\frac{5}{12}
+\]
+6406532033230. ✔
+
+\[
+\frac{3}{8}
+\]
+6406532033231. ❋
+
+\[
+\frac{5}{8}
+\]
+6406532033232. ❋
+
+\[
+\frac{1}{2}
+\]
+6406532033233. ❋
+
+Question Id : 640653608692 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (38 to 39)
+Question Label : Comprehension
+```

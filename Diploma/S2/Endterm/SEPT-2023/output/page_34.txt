@@ -1,0 +1,55 @@
+```python
+6406532033239. * Beta(8, 19)
+
+Question Number : 41 Question Id : 640653608697 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the posterior mean. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.33 to 0.39
+
+Question Id : 640653608698 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (42 to 43)
+Question Label : Comprehension
+A factory has a machine that dispenses 98.5 ml of liquid in a bottle. An employee believes that the average amount of liquid in a bottle is less than 98.5 ml. He took a sample of 100 random bottles from the factory and found out that the average amount of liquid in a bottle is 98.29 ml with a standard deviation of 1.2 ml.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 42 Question Id : 640653608699 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+```
+
+Mathematical expressions in LaTeX:
+- Posterior mean: $\text{Posterior Mean}$
+- Average amount of liquid: $\overline{X} = 98.29 \, \text{ml}$
+- Standard deviation: $\sigma = 1.2 \, \text{ml}$
+
+Tables and diagrams in LaTeX:
+```latex
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Parameter} & \textbf{Value} \\
+\hline
+Dispensed amount & 98.5 ml \\
+\hline
+Sample mean & 98.29 ml \\
+\hline
+Sample standard deviation & 1.2 ml \\
+\hline
+Sample size & 100 \\
+\hline
+\end{tabular}
+\caption{Summary of the factory's liquid dispensing data}
+\label{table:factory_data}
+\end{table}
+```

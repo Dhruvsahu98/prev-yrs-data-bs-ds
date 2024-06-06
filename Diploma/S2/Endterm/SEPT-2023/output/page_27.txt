@@ -1,0 +1,30 @@
+```plaintext
+Question Number : 31 Question Id : 640653608684 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following situation and match it with suitable test statistic and hypothesis test:
+Suppose we observe samples from a normal distribution, where the variance is unknown. 
+We want to check whether the mean is greater than \(\mu\). What test statistic and test can be applied for this situation?
+Options :
+
+6406532033219. 
+
+Test Statistic: \( T = \) Sample mean, Hypothesis test: Z-test.
+
+6406532033220. 
+
+Test Statistic: \( T = \) Sample mean, Hypothesis test: \(\chi^2\)-test.
+
+6406532033221. 
+
+Test Statistic: \( T = \) Sample variance, Hypothesis test: \(\chi^2\)-test.
+
+6406532033222. 
+
+Test Statistic: \( T = \) Sample mean, Hypothesis test: t-test.
+...
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following statement(s) is (are) correct?
+```

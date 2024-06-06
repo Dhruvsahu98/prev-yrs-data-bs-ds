@@ -1,0 +1,39 @@
+```python
+The probability mass function of a discrete random variable \( X \) is given by
+
+\[
+\begin{array}{c|ccc}
+x & 0 & 1 & 2 \\
+\hline
+f_X(x) & p & p & 1 - 2p \\
+\end{array}
+\]
+
+Table 1
+
+Consider 100 i.i.d. samples of \( X \) in which 0, 1, and 2 occur 30, 50, and 20 times, respectively.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 38 Question Id : 640653608693 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the method of moments estimate of \( p \). Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.34 to 0.40
+
+Question Number : 39 Question Id : 640653608694 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find the maximum likelihood estimate of \( p \). Enter the answer correct to one decimal place.
+Response Type : Numeric
+```

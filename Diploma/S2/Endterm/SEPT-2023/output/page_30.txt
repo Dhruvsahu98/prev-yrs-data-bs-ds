@@ -1,0 +1,54 @@
+```python
+The density function of a continuous random variable \(X\) is given by
+\[
+f_X(x) = 
+\begin{cases} 
+k - x, & 0 < x < 1, \\
+0, & \text{otherwise}.
+\end{cases}
+\]
+
+Based on the above data, answer the given subquestions.
+
+### Sub questions
+
+**Question Number : 35** 
+- **Question Id : 640653608689**
+- **Question Type : SA**
+- **Calculator : None**
+- **Response Time : N.A**
+- **Think Time : N.A**
+- **Minimum Instruction Time : 0**
+- **Correct Marks : 1**
+- **Question Label : Short Answer Question**
+
+Find the value of \(k\).
+
+Enter the answer correct to one decimal place.
+
+- **Response Type : Numeric**
+- **Evaluation Required For SA : Yes**
+- **Show Word Count : Yes**
+- **Answers Type : Equal**
+- **Text Areas : PlainText**
+
+**Possible Answers** :
+```
+1.5
+```
+**Question Number : 36**
+- **Question Id : 640653608690**
+- **Question Type : SA**
+- **Calculator : None**
+- **Response Time : N.A**
+- **Think Time : N.A**
+- **Minimum Instruction Time : 0**
+- **Correct Marks : 2**
+- **Question Label : Short Answer Question**
+
+Let \(F_X(x)\) be the CDF of \(X\).
+Calculate the value of \(F_X(0.5)\).
+Enter the answer correct to three decimal places.
+
+- **Response Type : Numeric**
+```
