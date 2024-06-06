@@ -1,0 +1,45 @@
+```python
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+A consumer wants to maximize his utility subject to some constraints. He consumes two goods x and y and the utility function is the product of x and y. His budget is Rs.200. The per unit price of goods x and y are Rs.3 and Rs.4 respectively. Choose the correct optimization problem.
+
+Options :
+
+6406531892986. ❌ maximize x + y subject to 3x + 4y = 200
+
+6406531892987. ❌ maximize xy subject to 3x + 4y = 200
+
+6406531892988. ✔ maximize xy subject to 3x − 4y = 200
+
+6406531892989. ❌ maximize x + y subject to 3x − 4y = 200
+
+
+Question Number : 426 Question Id : 640653566411 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+The joint density function of random variables \(X\) and \(Y\) is given by
+\[ 
+f_{XY}(x, y) = 
+\begin{cases} 
+\frac{(x^3 + y^3)}{16}, & 0 < x < 2, 0 < y < 2 \\ 
+0, & \text{otherwise} 
+\end{cases} 
+\]
+
+What is the value of \(P(0 < X < 1, 0 < Y < 1)\)?
+
+Options :
+
+6406531892994. ❌ \(\frac{1}{16}\)
+
+6406531892995. ❌ \(\frac{1}{2}\)
+
+6406531892996.
+```

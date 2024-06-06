@@ -1,0 +1,25 @@
+```plaintext
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+Let \( p \) denote the proportion of voters who support Candidate A for the post of college president. Randomly \( n \) selected voters are interviewed, and the fraction who are in favour of candidate A is recorded. Using Chebyshev inequality, find the minimum number of voters who should be interviewed such that the probability that sample mean is within 0.01 of \( p \) with probability at least 0.95. Enter the answer as integer.
+
+Hint: If \( X \in [a, b] \), population variance \( \leq \frac{(b - a)^2}{4} \).
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+50000
+```

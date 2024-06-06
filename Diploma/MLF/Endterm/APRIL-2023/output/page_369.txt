@@ -1,0 +1,38 @@
+```python
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+6406531892953. ✔ YES
+
+6406531892954. ✖ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065381011
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 413
+Question Id : 640653566399
+Question Type : MSQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 2
+Selectable Option : 0
+Question Label : Multiple Select Question
+
+Which of the following statements regarding classification and regression models are correct?
+
+Options :
+
+6406531892955. ✔ The task of the regression algorithm is to map the input value (x) with the continuous output variable (y) but the task of the classification algorithm is to map the input value(x) with the discrete output variable(y).
+
+6406531892956. ✔ In Classification, we try to find the decision boundary, which can divide the dataset into different classes but In Regression, we try to find the best fit line, which can predict the output more accurately.
+
+6406531892957. ✖ The Classification Algorithm can be further divided into Linear and Non-linear classifier and the regression algorithms can be divided into Binary regression and Multi-class regression.
+
+6406531892958. ✖ The task of the regression algorithm is to map the input value (x) with the discrete output variable (y) but the task of the classification algorithm is to map the input value(x) with the continuous output variable(y).
+```

@@ -1,0 +1,33 @@
+```python
+6406531892964. *
+For every $ b \in \mathbb{R}^{10} $, the system $ Ax = b $ has infinite number of solutions.
+
+6406531892965. ✔
+There exists at least one $ b \in \mathbb{R}^{10} $ for which the system $ Ax = b $ has a unique solution.
+
+6406531892966. *
+For every $ b \in \mathbb{R}^{10} $, the system $ Ax = b $ has a unique solution.
+
+Question Number : 416 Question Id : 640653566407 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which among the following is a convex function?
+Options :
+
+6406531892981. ✔
+$ x \in \mathbb{R} $
+
+6406531892982. *
+$ e^{-x}, x \in \mathbb{R} $
+
+6406531892983. *
+$ -x^2, x \in \mathbb{R} $
+
+6406531892984. *
+$ \log(1 + x), x > -1 $
+
+Question Number : 417 Question Id : 640653566412 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+```

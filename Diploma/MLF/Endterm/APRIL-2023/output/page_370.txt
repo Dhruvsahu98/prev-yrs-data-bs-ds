@@ -1,0 +1,30 @@
+```python
+Sub-Section Number : 3
+Sub-Section Id : 64065381012
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 414 Question Id : 640653566400 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+If \( f(x, y, z) = (e^{x+y+z})^2 \), Use the linear approximation of \( f \) around \( (0, 0, 1) \).
+Evaluate linear approximation at \( (1, 1, 1) \).
+
+Options :
+6406531892959. ✔ 3e
+6406531892960. ❋ 2e
+6406531892961. ❋ 4e
+6406531892962. ❋ 5e
+
+Question Number : 415 Question Id : 640653566401 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+If \(A\) is a \(10 \times 8\) real matrix with rank 8, then which among the following is true?
+
+Options :
+6406531892963. ❋ There exists at least one \( b \in \mathbb{R}^{10} \) for which the system \( Ax = b \) has infinite number of solutions.
+```

@@ -1,0 +1,29 @@
+```plaintext
+\begin{itemize}
+    \item $Q^T AQ$ is a diagonal matrix.
+\end{itemize}
+
+6406531892976. $\checkmark$ $Q^T AQ$ is symmetric positive definite.
+
+6406531892977. $\checkmark$ $Q^T AQ$ has the same eigenvalues as A.
+
+6406531892978. $\checkmark$ $e^{-A}$ is symmetric positive definite.
+
+\textbf{Question Number : 421 Question Id : 640653566410 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0}
+
+\textbf{Correct Marks : 3 Selectable Option : 0}
+
+\textbf{Question Label : Multiple Select Question}
+
+A student wants to purchase a snack from a bakery to meet certain dietary requirements by chossing the best combination of brownies and cheesecake. The student is following some new diet trend which requires her to eat maximum of 6 brownies and maximum of 10 cakes. Also total number of brownies and cakes together the student eats should be greater than 12. The cost of 1 piece of brownie($x_1$) and 1 piece of cake($x_2$) is 50 units and 80 units respectively. Her goal is to satisfy these requirements at minimal cost.
+
+\textbf{Options :}
+
+6406531892990. $\checkmark$ In primal linear program, the function to be minimized is $50x_1 + 80x_2$
+
+6406531892991. $\checkmark$ Constraints are $x_1 + x_2 > 12$, $x_1 \leq 6$, and $x_2 \leq 10$
+
+6406531892992. $\times$ In primal linear program, the function to be minimized is $6x_1 + 10x_2$
+
+6406531892993. $\times$ Constraints are $x_1 + x_2 < 12$, $x_1 \leq 6$, and $x_2 \geq 10$
+```

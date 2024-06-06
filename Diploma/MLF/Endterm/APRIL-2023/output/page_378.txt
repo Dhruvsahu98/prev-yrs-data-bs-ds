@@ -1,0 +1,36 @@
+```python
+1
+\frac{1}{12}
+1
+\frac{1}{32}
+```
+
+\textbf{Question Number : 427 Question Id : 640653566413 Question Type : MCQ Is Question}
+\textbf{Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0}
+
+\textbf{Correct Marks : 4}
+
+\textbf{Question Label : Multiple Choice Question}
+
+Let \( X = \left( \begin{array}{c} X_1 \\ X_2 \end{array} \right) \sim \text{Normal}(\mu, \Sigma) \), where \( \mu = \left( \begin{array}{c} 5 \\ 10 \end{array} \right) \) and \( \Sigma = \left( \begin{array}{cc} 1 & 2 \\ 2 & 4 \end{array} \right) \). What will be the distribution of \( Y = 2X_1 + X_2 \)?
+
+\textbf{Options :}
+
+\[
+\begin{itemize}
+  \item 6406531893003. \quad Y \sim \text{Normal}(20, 4)
+  \item 6406531893004. \quad Y \sim \text{Normal}(20, 8)
+  \item 6406531893005. \quad Y \sim \text{Normal}(20, 16) \quad \checkmark
+  \item 6406531893006. \quad Y \sim \text{Normal}(20, 32)
+\end{itemize}
+\]
+
+\textbf{Sub-Section Number :} 8
+
+\textbf{Sub-Section Id :} 64065381017
+
+\textbf{Question Shuffling Allowed :} Yes
+
+\textbf{Is Section Default? :} null
+
+\textbf{Question Number : 428 Question Id : 640653566414 Question Type : SA Calculator : None}
