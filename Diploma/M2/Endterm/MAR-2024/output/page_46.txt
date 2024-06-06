@@ -1,0 +1,30 @@
+```plaintext
+6406532577250. ✳ 70
+
+6406532577251. ✔ 80
+
+6406532577252. ✳ 90
+
+6406532577253. ✳ 85
+
+Maths2
+
+Section Id : 64065353260
+Section Number : 4
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 9
+Number of Questions to be attempted : 9
+Section Marks : 25
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653112576
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 54 Question Id : 640653770456 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+```

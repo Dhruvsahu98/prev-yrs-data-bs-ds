@@ -1,0 +1,36 @@
+```python
+Options :
+
+6406532033125. ✔ YES
+
+6406532033126. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065387409
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 2 Question Id : 640653608671 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+A skier is on a mountain with equation \( z = 20 - 0.4x^2 - 0.3y^2 \) where \( z \) denotes the height. The skier is located at the point with \( xy \)-coordinates \( (1, -1) \), and wants to ski downhill along the steepest possible path. In which direction should the skier begin skiing?
+
+Options :
+
+6406532033187. ❌ (0.8, 0.6)
+
+6406532033188. ✔ (-0.8, 0.6)
+
+6406532033189. ❌ (-0.8, -0.6)
+
+6406532033190. ❌ (0.8, -0.6)
+
+Sub-Section Number : 3
+Sub-Section Id : 64065387410
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 3 Question Id : 640653608651 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+```

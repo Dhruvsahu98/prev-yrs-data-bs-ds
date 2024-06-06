@@ -1,0 +1,59 @@
+```python
+Consider the function \( f(x, y) = 2x^3 + 6xy^2 - 3y^3 - 150x \).
+
+Answer the given subquestions:
+
+**Sub questions**
+
+**Question Number : 157**
+Question Id : 640653356609
+Question Type : SA
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+Find the number of local maxima using the Hessian test.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1
+
+**Question Number : 158**
+Question Id : 640653356610
+Question Type : SA
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+Find the number of local minima using the Hessian test.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1
+```

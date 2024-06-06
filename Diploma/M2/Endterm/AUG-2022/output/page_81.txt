@@ -1,0 +1,36 @@
+```plaintext
+6406531182281. ✔A is not similar to B.
+
+Sub-Section Number: 6
+Sub-Section Id: 64065351672
+Question Shuffling Allowed: Yes
+
+Question Number: 156 Question Id: 640653356607 Question Type: SA Calculator: None 
+Response Time: N.A Think Time: N.A Minimum Instruction Time: 0 
+Correct Marks: 2
+Question Label: Short Answer Question
+
+If \( a, b \) and \( c \) are three positive numbers which satisfy the following two properties:
+\begin{itemize}
+    \item The sum of \( a, b \) and \( c \) is 12.
+    \item The sum of the squares of \( a, b \) and \( c \) is minimum among the sum of squares of any such positive numbers which sum up to 12.
+\end{itemize}
+Find the value of \( a - 2b + c \).
+
+Response Type: Numeric
+Evaluation Required For SA: Yes
+Show Word Count: Yes
+Answers Type: Equal
+Text Areas: PlainText
+Possible Answers: 
+-6
+
+Sub-Section Number: 7
+Sub-Section Id: 64065351673
+Question Shuffling Allowed: No
+
+Question Id: 640653356608 Question Type: COMPREHENSION Sub Question Shuffling Allowed: No Group Comprehension Questions: No Calculator: None Response Time: N.A Think Time: N.A Minimum Instruction Time: 0
+
+Question Numbers: (157 to 160)
+Question Label: Comprehension
+```

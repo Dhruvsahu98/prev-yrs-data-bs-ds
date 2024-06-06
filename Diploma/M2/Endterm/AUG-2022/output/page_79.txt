@@ -1,0 +1,40 @@
+```python
+Sub-Section Number : 5
+Sub-Section Id : 64065351671
+Question Shuffling Allowed : Yes
+
+Question Number : 153 Question Id : 640653356606 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+An inner product on a vector space \( V \) is a function \(\langle \cdot, \cdot \rangle : V \times V \rightarrow \mathbb{R}\) satisfying the following conditions:
+Condition 1: \(\langle v, v \rangle > 0\) for all \( v \in V \setminus \{0\} \); \(\langle v, v \rangle = 0\) if and only if \( v = 0 \).
+Condition 2: \(\langle v_1 + v_2, v_3 \rangle = \langle v_1, v_3 \rangle + \langle v_2, v_3 \rangle\).
+Condition 3: \(\langle v_1, v_2 \rangle = \langle v_2, v_1 \rangle\).
+Condition 4: \(\langle c v_1, v_2 \rangle = c \langle v_1, v_2 \rangle\).
+
+Let \( V = \mathbb{R}^2 \) and consider the function defined as:
+
+\[
+\langle \cdot, \cdot \rangle : V \times V \rightarrow \mathbb{R}
+\]
+\[
+((x_1, x_2), (y_1, y_2)) = x_1 y_1 - 2x_2 y_2
+\]
+
+Which of the following are satisfied by the above function?
+
+Options :
+6406531182242. ❌ Condition 1 is satisfied.
+6406531182243. ✔ Condition 2 is satisfied.
+6406531182244. ✔ Condition 3 is satisfied.
+6406531182245. ✔ Condition 4 is satisfied.
+
+Question Number : 154 Question Id : 640653356613 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+```

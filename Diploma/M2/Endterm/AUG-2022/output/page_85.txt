@@ -1,0 +1,45 @@
+```python
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+
+Which of the following statements are true?
+
+Options : 
+
+6406531182286. ❌
+
+\( f(x, y) \) is a linear function in its domain.
+
+6406531182287. ✔
+
+\( f(cx, cy) = c^3 f(x, y) \) for any real number \( c \), if \( x \neq y \).
+
+6406531182288. ✔
+
+\( f(x, y) \) is continuous at \( (0, 0) \).
+
+6406531182289. ✔
+
+If the price of raw material and transportation of the product approaches 3 and 2 respectively, then the price of the product approaches 15.
+
+6406531182290. ❌
+
+If the price of raw material and transportation of the product approaches 3 and 2 respectively, then the price of the product approaches 5.
+
+Question Number : 163 Question Id : 640653356629 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+If the rate of change of the price of the product along the direction of the vector \( (1, 1) \) is 
+\[
+\frac{1}{\sqrt{2}}[ka^2 + lab + mb^2],
+\]
+when the price of raw material is \( a \) and the price of transportation of the product to the market is \( b \) (where \( a \neq b \)), then find the value of \( k - l + m \).
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+```
