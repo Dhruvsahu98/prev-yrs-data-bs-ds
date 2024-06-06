@@ -1,0 +1,48 @@
+```python
+Continuous random variables:
+
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Distribution & PDF \(f_X(x)\) & CDF \(F_X(x)\) & \(\mathbb{E}[X]\) & \(\mathrm{Var}(X)\) \\
+\hline
+Uniform\([a, b]\) & \(\frac{1}{b-a}, a \leq x \leq b\) & \(\begin{cases} 
+0 & x \leq a \\
+\frac{x-a}{b-a} & a < x < b \\
+1 & x \geq b 
+\end{cases}\) & \(\frac{a + b}{2}\) & \(\frac{(b-a)^2}{12}\) \\
+\hline
+Exp\((\lambda)\) & \(\lambda e^{-\lambda x}, x > 0\) & \(\begin{cases} 
+0 & x \leq 0 \\
+1 - e^{-\lambda x} & x > 0 
+\end{cases}\) & \(\frac{1}{\lambda}\) & \(\frac{1}{\lambda^2}\) \\
+\hline
+Normal\((\mu, \sigma^2)\) & \(\frac{1}{\sigma\sqrt{2\pi}} \exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right), -\infty < x < \infty\) & No closed form & \(\mu\) & \(\sigma^2\) \\
+\hline
+Gamma\((\alpha, \beta)\) & \(\frac{\beta^\alpha}{\Gamma(\alpha)} x^{\alpha-1} e^{-\beta x}, x > 0\) & & \(\frac{\alpha}{\beta}\) & \(\frac{\alpha}{\beta^2}\) \\
+\hline
+Beta\((\alpha, \beta)\) & \(\frac{\Gamma(\alpha+\beta)}{\Gamma(\alpha)\Gamma(\beta)} x^{\alpha-1} (1-x)^{\beta-1}, 0 < x < 1\) & & \(\frac{\alpha}{\alpha + \beta}\) & \(\frac{\alpha \beta}{(\alpha + \beta)^2 (\alpha + \beta + 1)}\) \\
+\hline
+\end{tabular}
+
+1. Markov's inequality: Let \(X\) be a discrete random variable taking non-negative values with a finite mean \(\mu\). Then,
+\[
+P(X \geq c) \leq \frac{\mu}{c}
+\]
+
+2. Chebyshev's inequality: Let \(X\) be a discrete random variable with a finite mean \(\mu\) and a finite variance \(\sigma^2\). Then,
+\[
+P(|X - \mu| \geq k\sigma) \leq \frac{1}{k^2}
+\]
+
+3. Weak Law of Large numbers: Let \(X_1, X_2, \ldots, X_n \sim \text{iid } X\) with \(\mathbb{E}[X] = \mu\), \(\mathrm{Var}(X) = \sigma^2\).
+Define sample mean \(\overline{X} = \frac{X_1 + X_2 + \ldots + X_n}{n}\). Then,
+\[
+P(|\overline{X} - \mu| > \delta) \leq \frac{\sigma^2}{n\delta^2}
+\]
+
+4. Using CLT to approximate probability: Let \(X_1, X_2, \ldots, X_n \sim \text{iid } X\) with \(\mathbb{E}[X] = \mu\), \(\mathrm{Var}(X) = \sigma^2\).
+Define \(Y = X_1 + X_2 + \ldots + X_n\). Then,
+\[
+\frac{Y - n\mu}{\sqrt{n}\sigma} \approx \text{Normal}(0, 1).
+\]
+```

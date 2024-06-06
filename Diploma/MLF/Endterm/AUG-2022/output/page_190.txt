@@ -1,0 +1,44 @@
+```python
+Let \( X \) and \( Y \) be two random variables of an experiment such that \( Y = 8X + 4 \).
+If \( E[Y] = 44 \). What is the value of \( E[7X + 10] \).
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+45
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065351829
+
+Question Shuffling Allowed : No
+
+Question Id : 640653357225 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (217 to 219)
+
+Question Label : Comprehension
+
+Consider the function \( f(x, y) = \sqrt{41 - 4x^2 - y^2} \).
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 217 Question Id : 640653357226 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Compute the equation of the function’s linear approximation at point (2,3). If the equation of the
+```

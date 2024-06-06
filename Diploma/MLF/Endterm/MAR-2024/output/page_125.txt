@@ -1,0 +1,35 @@
+```python
+Sub-Section Number : 4
+Sub-Section Id : 640653112615
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653770564 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (147 to 148)
+Question Label : Comprehension
+
+Consider a quadratic function
+$$
+f_1(x_1, x_2) = (x_1 \ x_2) A \begin{pmatrix} x_1 \\ x_2 \end{pmatrix} = 2x_1^2 + 12x_1x_2 + 7x_2^2, \text{ where A is a matrix.}
+$$
+Use the above information to answer the given sub-questions.
+
+Sub questions
+
+Question Number : 147 Question Id : 640653770565 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Which of the following options represents matrix A?
+
+Options :
+$$
+\begin{pmatrix} 2 & 6 \\ 6 & 7 \end{pmatrix} \quad 6406532577548. \checkmark
+$$
+$$
+\begin{pmatrix} 2 & -6 \\ -6 & 7 \end{pmatrix} \quad 6406532577549. \times
+$$
+$$
+\begin{pmatrix} -2 & 6 \\ 6 & -7 \end{pmatrix} \quad 6406532577550. \times
+$$
+```

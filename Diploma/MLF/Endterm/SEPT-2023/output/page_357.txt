@@ -1,0 +1,48 @@
+```plaintext
+Time : 0
+
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Let \(A, B \in \mathbb{R}^{n \times n}\) be two orthogonal matrices, then which among the following statements are correct?
+
+Options :
+
+6406532034449. ❌ \(A - I\) (where \(I\) is the identity matrix of the same size) is also orthogonal.
+
+6406532034450. ✔ Both \(AB\) and \(BA\) are orthogonal.
+
+6406532034451. ✔ \(A^n\) and \(B^n\) are orthogonal for every \(n > 1\).
+
+6406532034452. ❌ \(A\) and \(B\) are also symmetric matrices.
+
+Question Number : 397 Question Id : 640653609069 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statements is/are true for a real symmetric matrix \(A\)?
+
+Options :
+
+6406532034457. ✔ \(A^T A\) and \(AA^T\) have the same rank.
+
+6406532034458. ✔ \(A^T A\) and \(AA^T\) have the same eigenvalues.
+
+6406532034459. ❌ \(A^T A\) and \(AA^T\) have the same eigenvectors.
+
+6406532034460. ✔ \(A^T A\) and \(AA^T\) have the same singular values.
+
+Sub-Section Number : 6
+
+Sub-Section Id : 64065387528
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 398 Question Id : 640653609068 Question Type : MSQ Is Question
+```

@@ -1,0 +1,52 @@
+```plaintext
+Question Label : Short Answer Question
+
+While solving for the optimal weight vector (w) for a linear regression problem
+
+\[
+y = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} \quad \text{and} \quad X = \begin{bmatrix} 0 & 1 \\ 1 & 1 \\ 1 & 2 \end{bmatrix} \quad \text{.} \quad w^t = \begin{bmatrix} 1 \\ 2 \end{bmatrix} \quad \text{after t iterations.}
+\]
+
+If the value of \(w^{t+1} = \begin{bmatrix} i \\ j \end{bmatrix}\) in next iteration using gradient descent method, then what is the absolute value of \(|i + j|\)? Assume \(\eta = 1\).
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+5 to 7
+
+
+Question Number : 232 Question Id : 640653357239 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+What is the maximum value possible for the function \(f(x, y) = e^{2xy}\) subject to the conditions \(x \ge 0, y \ge 0, \text{ and } x^2 + y^2 = 2\)
+
+NOTE: Enter your answer upto one decimal.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+```

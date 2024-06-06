@@ -1,0 +1,35 @@
+```python
+The matrix \( A = \begin{bmatrix} 4 & 1 & -1 \\ 1 & 2 & 1 \\ -1 & 1 & 2 \end{bmatrix} \) is
+
+Options :
+- 6406531184147. ✔️ positive definite
+- 6406531184148. ❌ positive semi-definite
+- 6406531184149. ❌ negative definite
+- 6406531184150. ❌ negative semi-definite
+- 6406531184151. ❌ None of these
+
+Sub-Section Number : 6
+Sub-Section Id : 64065351832
+Question Shuffling Allowed : Yes
+
+Question Number : 226 
+Question Id : 640653357232 
+Question Type : MSQ Is Question
+Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0 
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+
+Consider the following matrix
+\[ A = \begin{bmatrix} 1 & 1 & 2 \\ 1 & 2 & 1 \\ 2 & 1 & 1 \end{bmatrix} \]
+Which of the following are the eigenvector of this matrix ?
+
+Options :
+- 6406531184152. ✔️ \(\begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}\)
+- 6406531184153. ✔️ \(\begin{bmatrix} 1 \\ -2 \\ 1 \end{bmatrix}\)
+- 6406531184154. ✔️
+```

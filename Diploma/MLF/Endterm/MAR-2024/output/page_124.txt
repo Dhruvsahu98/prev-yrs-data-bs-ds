@@ -1,0 +1,55 @@
+```python
+Orthonormalized eigenvectors of \(A^{T}A\)
+
+\[
+\begin{pmatrix}
+\frac{2\sqrt{5}}{5} \\
+\frac{\sqrt{5}}{5}
+\end{pmatrix}
+\quad \text{and} \quad
+\begin{pmatrix}
+-\frac{\sqrt{5}}{5} \\
+\frac{2\sqrt{5}}{5}
+\end{pmatrix}
+\]
+
+Question Number : 146
+Question Id : 640653770563
+Question Type : MSQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 3
+Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following options is/are true?
+
+Options :
+
+1. \(\Sigma = \begin{pmatrix}
+\sqrt{6} & 0 & 0 \\
+0 & \sqrt{2} & 0 \\
+0 & 0 & 0
+\end{pmatrix}\) 640653257544.
+
+2. \(\Sigma = \begin{pmatrix}
+\sqrt{6} & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 0
+\end{pmatrix}\) 640653257545. ✔
+
+3. \(Q_{2} = \begin{pmatrix}
+\frac{2\sqrt{5}}{5} & \frac{\sqrt{5}}{5} \\
+\frac{\sqrt{5}}{5} & \frac{2\sqrt{5}}{5}
+\end{pmatrix}\) 640653257546.
+
+4. \(Q_{2} = \begin{pmatrix}
+\frac{2\sqrt{5}}{5} & \frac{\sqrt{5}}{5} \\
+\frac{\sqrt{5}}{5} & \frac{2\sqrt{5}}{5} \\
+\frac{\sqrt{5}}{5} & \frac{2\sqrt{5}}{5}
+\end{pmatrix}\) 640653257547.
+```

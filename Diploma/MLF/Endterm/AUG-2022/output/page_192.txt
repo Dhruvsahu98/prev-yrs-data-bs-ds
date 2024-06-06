@@ -1,0 +1,53 @@
+```plaintext
+Compute the equation of the function’s linear approximation at point (2,3). If the equation of the linear approximation is \( L = ax + by + c \), then provide the value of \( c \).
+
+NOTE: Enter your answer up to two decimal.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+10.0 to 10.5
+```
+
+```plaintext
+Question Id : 640653357241 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (220 to 221)
+
+Question Label : Comprehension
+
+\[
+\text{Probability density function of a random variable } X \text{ is given by}
+\]
+
+\[
+f(x) = 
+\begin{cases} 
+|a|x| & \text{if } |x| \leq 2 \\
+0 & \text{otherwise}
+\end{cases}
+\]
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+```
+
+```plaintext
+Question Number : 220 Question Id : 640653357242 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Calculate the value of \( \alpha \)
+
+NOTE: Enter your answer up to two decimal.
+```

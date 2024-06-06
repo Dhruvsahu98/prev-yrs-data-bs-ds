@@ -1,0 +1,50 @@
+```python
+variance of the dataset is maximized.
+
+6406532034462. ❋ The first principal component represents the direction along which the variance of the dataset is minimized.
+
+6406532034463. ❋ The first principal component is the eigenvector corresponding to the smallest eigenvalue of the covariance matrix.
+
+6406532034464. ✔ The first principal component is the eigenvector corresponding to the largest eigenvalue of the covariance matrix.
+
+
+\section{Question}
+\textbf{Question Number : 400} \\
+\textbf{Question Id : 640653609072} \\
+\textbf{Question Type : MSQ} \\
+\textbf{Is Question Mandatory : No} \\
+\textbf{Calculator : None} \\
+\textbf{Response Time : N.A} \\
+\textbf{Think Time : N.A} \\
+\textbf{Minimum Instruction Time : 0} \\
+
+\textbf{Correct Marks : 3} \\
+\textbf{Max. Selectable Options : 0} \\
+
+\textbf{Question Label : Multiple Select Question}
+
+Which of the following statements regarding gradient descent is/are correct?
+
+\textbf{Options :}
+
+6406532034466. ✔ If the step size is chosen as 1, we may “not always” arrive as close to the optimal solution even after many number of iterations.
+
+6406532034467. ✔ Solution obtained for optimization problem is the local minimum of its objective function.
+
+6406532034468. ❋ Solution obtained for optimization problem is the global minimum of its objective function.
+
+6406532034469. ✔ Gradient descent converges to the global optimum in the case of convex functions.
+
+6406532034470. ❋ Gradient descent does not converge to the global optimum in the case of convex functions.
+
+
+\section{Question}
+\textbf{Question Number : 401} \\
+\textbf{Question Id : 640653609076} \\
+\textbf{Question Type : MSQ} \\
+\textbf{Is Question Mandatory : No} \\
+\textbf{Calculator : None} \\
+\textbf{Response Time : N.A} \\
+\textbf{Think Time : N.A} \\
+\textbf{Minimum Instruction Time : 0} \\
+```

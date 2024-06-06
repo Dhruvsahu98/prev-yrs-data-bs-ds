@@ -1,0 +1,44 @@
+```python
+The pdf of the variables \( X \) and \( Y \) is
+
+\[
+f(x, y) = \begin{cases} 
+\frac{1}{2} xe^{-y} & \text{if } 0 < x < 2, y > 0 \\ 
+0 & \text{otherwise} 
+\end{cases}
+\]
+
+Consider the transformation \( U = X + Y \) and \( V = X \).
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 234 Question Id : 640653357247 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Calculate the \( |J| \), (J represents the Jacobian of the transform \( U, V \rightarrow X, Y \))
+
+Options :
+
+6406531184180. ✔ 1
+
+6406531184181. ✶ \(\frac{1}{2}\)
+
+6406531184182. ✶ \(u\)
+
+6406531184183. ✶ \(v\)
+
+Question Number : 235 Question Id : 640653357248 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+```

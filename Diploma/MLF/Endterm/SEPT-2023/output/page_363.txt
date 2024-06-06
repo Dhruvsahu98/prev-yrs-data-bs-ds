@@ -1,0 +1,43 @@
+```python
+Question Label : Multiple Choice Question
+
+Using Karush-Kuhn-Tucker conditions, solve the following problem.
+minimize \( f(x, y) = 3x + 2y \)
+subject to \( x - y + 3 \leq 0, -5x + 3y + 7 \leq 0, \& x, y \geq 0 \)
+
+The global minimum is at 
+
+Options :
+
+6406532034476. \(\ast\) \((9, 13)\)
+
+6406532034477. \(\ast\) \((0, 3)\)
+
+6406532034478. \(\checkmark\) \((8, 11)\)
+
+6406532034479. \(\ast\) \(\left(\frac{7}{5}, 0\right)\)
+
+6406532034480. \(\ast\) None of these
+
+Question Number : 407 Question Id : 640653609077 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Let \( X_1, X_2 \sim \text{i.i.d. Exponential}(2) \). Consider the transformations \( Y_1 = X_1 + X_2 \) and \( Y_2 = X_2 \).
+Find the joint PDF of \( Y_1 \) and \( Y_2 \).
+
+Options :
+
+6406532034485. \(\checkmark\) 
+\[
+g_{Y_1, Y_2}(y_1, y_2) = 
+\begin{cases} 
+4e^{-2y_1}, & y_1 > y_2 > 0 \\
+0, & \text{otherwise}
+\end{cases}
+\]
+
+6406532034486. \(\ast\) 
+```

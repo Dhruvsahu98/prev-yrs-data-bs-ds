@@ -1,0 +1,37 @@
+```python
+6406532034442. ✔️ In regression, the commonly used loss function is mean squared error, while 
+in classification, 0 -1 loss is typically employed.
+
+Sub-Section Number : 3
+Sub-Section Id : 64065387525
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653609063 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (392 to 393)
+Question Label : Comprehension
+
+Consider the function \( f(x, y, z) = x^2 + 2y^2 - 3z^2 \).
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 392 Question Id : 640653609064 Question Type : SA Calculator : None 
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+Find the directional derivative of \( f \) at 
+\( P_0 = (1, 1, 1) \) in the direction of
+\( \vec{v} = \frac{1}{\sqrt{3}} \hat{i} + \frac{1}{\sqrt{3}} \hat{j} - \frac{1}{\sqrt{3}} \hat{k} \).
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+```

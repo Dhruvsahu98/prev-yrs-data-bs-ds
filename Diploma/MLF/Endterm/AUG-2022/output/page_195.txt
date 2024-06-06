@@ -1,0 +1,31 @@
+```python
+6406531184169. ✸ None of these
+
+Question Number : 224 Question Id : 640653357240 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Each set of a 3-set badminton match between P.V. Sindhu and Tai Tzu Ying
+is won with equal probability by either player. Let A be the event that all the three sets are won by one player. Let C be the event that at least two sets are won by Tai Tzu Ying, and let B denote the event that at most two sets are won by Tai Tzu Ying.
+Which of the two events are independent?
+
+Options :
+
+6406531184172. ✸ \( A \) and \( B \) are independent.
+
+6406531184173. ✔ \( A \) and \( C \) are independent.
+
+6406531184174. ✸ \( B \) and \( C \) are independent.
+
+6406531184175. ✸ \( A \), \( B \) and \( C \) are independent to each other.
+
+Sub-Section Number : 5
+Sub-Section Id : 64065351831
+Question Shuffling Allowed : Yes
+
+Question Number : 225 Question Id : 640653357231 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+```

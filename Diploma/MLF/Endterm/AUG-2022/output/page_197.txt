@@ -1,0 +1,26 @@
+```plaintext
+\left[ \begin{array}{cc} -1 \\ 0 \\ 1 \end{array} \right]
+
+\left[ \begin{array}{cc} 1 \\ 0 \\ 1 \end{array} \right]
+
+6406531184155. *
+
+Sub-Section Number : 7
+Sub-Section Id : 64065351833
+Question Shuffling Allowed : No
+
+Question Id : 640653357233 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (227 to 228)
+Question Label : Comprehension
+A manufacturing company makes two types of television sets; one is smart led and the other is normal led. The company has resources to make at most 300 sets a week. It takes Rs 1800 to make a smart led set and Rs 2700 to make a normal led set. The company can spend not more than Rs 648000 a week to make television sets. If it makes a profit of Rs 510 per smart led and Rs 675 per normal led.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 227 Question Id : 640653357234 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The objective function to maximise the profit for the given problem is
+Options :
+```

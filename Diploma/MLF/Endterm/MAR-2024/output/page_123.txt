@@ -1,0 +1,60 @@
+```python
+# A is not diagonalizable.
+
+Question Id : 640653770561
+Question Type : COMPREHENSION
+Sub Question Shuffling Allowed : No
+Group Comprehension Questions : No
+Question Pattern Type : NonMatrix
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Question Numbers : (145 to 146)
+Question Label : Comprehension
+
+Consider a matrix \( A = \begin{pmatrix} 2 & 1 \\ 0 & 0 \end{pmatrix} \). Let \( A = Q_1 \Sigma Q_2^T \) be the SVD form of \( A \).
+
+Use this matrix to answer the given sub-questions.
+
+Sub questions
+
+Question Number : 145
+Question Id : 640653770562
+Question Type : MSQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+
+Correct Marks : 3
+Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Which of the following options is/are true?
+
+Options :
+
+1. \( A^T A = \begin{pmatrix} 5 & 2 \\ 3 & 2 \end{pmatrix} \)
+2. Eigenvalues of \( A^T A \) are 6 and 2.
+3. An eigenvector of \( A^T A \) corresponding to eigenvalue 6 is \( \begin{pmatrix} 2 \\ 1 \end{pmatrix} \)
+4. \( \begin{pmatrix} 2 \\ 1 \end{pmatrix} \)
+
+\[
+\begin{array}{|c|c|}
+\hline
+Option Number & Correct/Incorrect \\
+\hline
+6406532577540 & \text{Incorrect} \\
+\hline
+6406532577541 & \text{Incorrect} \\
+\hline
+6406532577542 & \text{Correct} \\
+\hline
+6406532577543 & \text{Correct} \\
+\hline
+\end{array}
+\]
+```

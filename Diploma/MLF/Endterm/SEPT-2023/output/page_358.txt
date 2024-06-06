@@ -1,0 +1,55 @@
+```plaintext
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following matrices is/are Unitary but not Hermitian?
+
+Options :
+
+\[
+\begin{pmatrix}
+0 & i \\
+i & 0
+\end{pmatrix}
+\]
+6406532034453. ✔
+
+\[
+\begin{pmatrix}
+\frac{i}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\
+\frac{1}{\sqrt{2}} & -\frac{i}{\sqrt{2}}
+\end{pmatrix}
+\]
+6406532034454. ✖
+
+\[
+\begin{pmatrix}
+\frac{1}{\sqrt{2}} & \frac{i}{\sqrt{2}} \\
+\frac{i}{\sqrt{2}} & \frac{1}{\sqrt{2}}
+\end{pmatrix}
+\]
+6406532034455. ✖
+
+\[
+\begin{pmatrix}
+\frac{i}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\
+\frac{1}{\sqrt{2}} & \frac{i}{\sqrt{2}}
+\end{pmatrix}
+\]
+6406532034456. ✔
+
+Question Number : 399 Question Id : 640653609070 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which among the following is true for PCA?
+
+Options :
+
+6406532034461. ✔ The first principal component represents the direction along which the
+```

@@ -1,0 +1,52 @@
+```python
+6406531184130. ✔
+Ram booked 1 ticket
+Ravi booked 1 ticket
+
+6406531184131. ✔
+Ram cannot book 1 ticket
+Ravi booked 1 ticket
+```
+
+# MLF
+
+**Section Id** : 64065322344
+
+**Section Number** : 9
+
+**Section type** : Online
+
+**Mandatory or Optional** : Mandatory
+
+**Number of Questions** : 17
+
+**Number of Questions to be attempted** : 17
+
+**Section Marks** : 50
+
+**Display Number Panel** : Yes
+
+**Group All Questions** : No
+
+**Enable Mark as Answered Mark for Review and Clear Response** : Yes
+
+**Maximum Instruction Time** : 0
+
+**Sub-Section Number** : 1
+
+**Sub-Section Id** : 64065351827
+
+**Question Shuffling Allowed** : No
+
+**Question Number** : 214
+**Question Id** : 640653357223
+**Question Type** : MCQ Is
+**Question Mandatory** : No
+**Calculator** : None
+**Response Time** : N.A
+**Think Time** : N.A
+**Minimum Instruction Time** : 0
+**Correct Marks** : 0
+
+**Question Label** : Multiple Choice Question
+```

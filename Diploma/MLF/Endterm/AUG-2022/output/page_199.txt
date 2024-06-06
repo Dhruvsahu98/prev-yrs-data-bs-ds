@@ -1,0 +1,50 @@
+```plaintext
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+4
+```
+
+Question Number : 230 Question Id : 640653357236 Question Type : SA Calculator : None  
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  
+Question Label : Short Answer Question
+
+```latex
+Equation of plane \mathbf{r} \cdot \mathbf{n} = d, \text{ Here } \mathbf{n} \text{ is the unit vector } \frac{6\mathbf{i} + 4\mathbf{j} - 2\mathbf{k}}{\sqrt{56}} \text{ and } d \text{ is} \\
+\text{the distance of the plane from origin i.e. } \frac{40}{\sqrt{56}} \text{ here. Then the Minimum distance of the} \\
+\text{plane } \mathbf{r} \cdot \mathbf{n} = d \text{ from point } (1, 2, 1) \text{ is } \_\_\_.
+```
+
+```plaintext
+NOTE: Enter your answer in one decimal place.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+3.5 to 4.0
+```
+
+Question Number : 231 Question Id : 640653357238 Question Type : SA Calculator : None  
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0  
+Correct Marks : 3  

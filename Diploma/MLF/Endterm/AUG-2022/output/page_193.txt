@@ -1,0 +1,63 @@
+```python
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+0.23 to 0.27
+```
+```python
+Question Number : 221 
+Question Id : 640653357243 
+Question Type : SA 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+```
+\[
+\text{Find the } P(X \geq \frac{1}{2})
+\]
+```python
+NOTE: Enter your answer upto two decimal.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+0.42 to 0.48
+```
+```python
+Sub-Section Number : 4
+Sub-Section Id : 64065351830
+Question Shuffling Allowed : Yes
+```
+```python
+Question Number : 222 
+Question Id : 640653357230 
+Question Type : MCQ 
+Is Question Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+
+Correct Marks : 3
+```

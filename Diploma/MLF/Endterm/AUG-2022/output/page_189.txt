@@ -1,0 +1,46 @@
+```python
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING FOUNDATIONS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406531184136. ✔ Yes
+6406531184137. ❋ No
+
+Sub-Section Number : 2
+Sub-Section Id : 64065351828
+Question Shuffling Allowed : Yes
+
+Question Number : 215 Question Id : 640653357229 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Suppose that eigenvalues of matrix A are 1, 0.5, 0.25. The determinant of $(A^{-1})^T$ is
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+8
+
+Question Number : 216 Question Id : 640653357244 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+```
+
+Mathematical expressions in LaTeX format:
+
+```latex
+(A^{-1})^T
+```
+
+There are no tables or diagrams in the provided document.

@@ -1,0 +1,51 @@
+```plaintext
+0
+
+Question Number : 393 Question Id : 640653609065 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+\[
+\text{Find the rate of change in the direction where } f \text{ increases most rapidly at } P_0. \text{ Enter the answer correct to two decimal places.}
+\]
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+7.44 to 7.52
+
+Sub-Section Number : 4
+
+Sub-Section Id : 64065387526
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 394 Question Id : 640653609066 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+\[
+\text{Let } A = \begin{bmatrix} 1 & 2 & 0 \\ 2 & 1 & 0 \\ 0 & 2 & 3 \end{bmatrix}. \text{ Find the condition on } b_1, b_2, b_3 \text{ such that } A \begin{bmatrix} b_1 \\ b_2 \\ b_3 \end{bmatrix} \text{ has a solution.}
+\]
+
+Options :
+
+6406532034445. ** \( b_1 - b_2 + b_3 = 0 \)
+```

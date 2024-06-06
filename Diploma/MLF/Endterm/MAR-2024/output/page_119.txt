@@ -1,0 +1,43 @@
+```python
+If we run the command: `curl http://127.0.0.1:5000/api/user -X GET` on a new terminal; it will return;
+
+{
+    "name": "mad1_admin",
+    "role": "admin"
+}
+
+The endpoint, `/admin` is mapped with GET HTTP method.
+
+If we run the command: `curl http://127.0.0.1:5000/user-data -X POST` on a new terminal; it will return;
+
+{
+    "message": "user added successfully"
+}
+```
+
+\[
+\text{6406532577524.}
+\]
+
+\[
+\text{6406532577525.}
+\]
+
+\begin{center}
+    \textbf{MLF}
+\end{center}
+
+\begin{tabular}{|l|l|}
+    \hline
+    \textbf{Section Id} & 64065353265 \\ \hline
+    \textbf{Section Number} & 9 \\ \hline
+    \textbf{Section type} & Online \\ \hline
+    \textbf{Mandatory or Optional} & Mandatory \\ \hline
+    \textbf{Number of Questions} & 10 \\ \hline
+    \textbf{Number of Questions to be attempted} & 10 \\ \hline
+    \textbf{Section Marks} & 40 \\ \hline
+    \textbf{Display Number Panel} & Yes \\ \hline
+    \textbf{Section Negative Marks} & 0 \\ \hline
+    \textbf{Group All Questions} & No \\ \hline
+    \textbf{Enable Mark as Answered Mark for Review and Clear Response} & Yes \\ \hline
+\end{tabular}

@@ -1,0 +1,87 @@
+```python
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which is the principal direction that is chosen for performing PCA?
+
+Options :
+
+\[
+\left(\begin{matrix}
+-\frac{1}{\sqrt{2}} \\
+\frac{1}{\sqrt{2}}
+\end{matrix}\right)
+\]
+
+6406532577561. 
+
+\[
+\left(\begin{matrix}
+\frac{1}{\sqrt{2}} \\
+\frac{1}{\sqrt{2}}
+\end{matrix}\right)
+\]
+
+6406532577562. 
+
+\[
+\left(\begin{matrix}
+1 \\
+0
+\end{matrix}\right)
+\]
+
+6406532577563. 
+
+\[
+\left(\begin{matrix}
+0 \\
+1
+\end{matrix}\right)
+\]
+
+6406532577564. 
+
+---
+
+Question Number : 151 Question Id : 640653770570 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+If \(\vec{x}_1, \vec{x}_2\) and \(\vec{x}_3\) are the projections of the data points onto the first principal component, then which among the following are true?
+
+Options :
+
+\[
+\vec{x}_1 = \left(\begin{matrix}
+-1 \\
+1
+\end{matrix}\right), \quad \vec{x}_2 = \left(\begin{matrix}
+1 \\
+1
+\end{matrix}\right), \quad \vec{x}_3 = \left(\begin{matrix}
+3 \\
+1
+\end{matrix}\right)
+\]
+
+6406532577565. 
+
+\[
+\vec{x}_1 = \left(\begin{matrix}
+1 \\
+1
+\end{matrix}\right), \quad \vec{x}_2 = \left(\begin{matrix}
+1 \\
+1
+\end{matrix}\right), \quad \vec{x}_3 = \left(\begin{matrix}
+3 \\
+1
+\end{matrix}\right)
+\]
+
+6406532577566. 
+```

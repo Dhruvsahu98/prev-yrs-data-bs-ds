@@ -1,0 +1,63 @@
+```python
+# Question Label : Multiple Choice Question
+# If two complex vectors v1 and v2 have lengths l1 and l2 and v1.v2 = l1l2, then which of the following statements is/are true?
+# Options :
+# 6406531184143. ✔ v1 and v2 vectors are parallel to each other.
+# 6406531184144. ✖ v1 and v2 vectors are conjugate to each other.
+# 6406531184145. ✖ v1 and v2 vectors are perpendicular to each other.
+# 6406531184146. ✖ v1 and v2 can be any two vectors.
+
+# Question Number : 223 Question Id : 640653357237 Question Type : MCQ Is Question
+# Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+# Correct Marks : 3
+# Question Label : Multiple Choice Question
+# Compute the Hessian matrix at the point (0,1,π) of the following 3 variable function: f{x,y,z}=e^{-x} . cos (yz)
+# Options :
+
+# 6406531184165. ✖ 
+```
+
+\[
+\begin{bmatrix}
+0 & \pi & 1 \\
+\pi & 0 & -1 \\
+1 & 0 & 1
+\end{bmatrix}
+\]
+
+```python
+# 6406531184166. ✖ 
+```
+
+\[
+\begin{bmatrix}
+1 & 0 & 1 \\
+\pi & 0 & -1 \\
+1 & -1 & 0
+\end{bmatrix}
+\]
+
+```python
+# 6406531184167. ✖ 
+```
+
+\[
+\begin{bmatrix}
+0 & \pi & 1 \\
+\pi & 0 & -1 \\
+1 & -1 & 0
+\end{bmatrix}
+\]
+
+```python
+# 6406531184168. ✔ 
+```
+
+\[
+\begin{bmatrix}
+-1 & 0 & 0 \\
+0 & \pi^2 & \pi \\
+0 & \pi & 1
+\end{bmatrix}
+\]
+```
