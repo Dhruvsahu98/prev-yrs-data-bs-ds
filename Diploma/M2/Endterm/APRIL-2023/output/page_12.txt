@@ -1,0 +1,51 @@
+```plaintext
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1314161719
+```
+```plaintext
+Question Number : 15 Question Id : 640653565982 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Some of the conditions that need to be checked to identify a vector space V are: ____________
+(Enter 5 best possible options. Enter only the serial numbers of those options in increasing order without adding any comma or space in between them.) [Suppose your answer is 7, 14, 11, 15 and 17, then you should enter 714111517]
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+45679
+```
+```plaintext
+Sub-Section Number : 4
+
+Sub-Section Id : 64065380909
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+```
+```plaintext
+Question Number : 16 Question Id : 640653565968 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+What is the minimum sum of three non-negative numbers whose product is 27?
+```

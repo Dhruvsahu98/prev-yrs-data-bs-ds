@@ -1,0 +1,50 @@
+```python
+# Mathematical expressions
+option_1 = r"\{(x, y, z) \mid x, y \in \mathbb{R}\}"
+option_2 = r"\{(x, x, 2) \mid x \in \mathbb{R}\}"
+option_3 = r"\{(1, 1, 2)\}"
+option_4 = r"\{(x, y, 0) \mid x, y \in \mathbb{R}\}"
+option_5 = r"\{(x, -x, 0) \mid x \in \mathbb{R}\}"
+option_6 = r"\{(x, x, 0) \mid x \in \mathbb{R}\}"
+option_7 = r"\{(0, 0, 0)\}"
+```
+
+```latex
+% Question Text
+Question Number : 24
+Question Id : 640653565987
+Question Type : MCQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 2
+
+% Question Label
+Question Label : Multiple Choice Question
+
+% Question content
+Which of the following sets denotes \textit{nullspace}(A)?
+
+% Options
+\begin{itemize}
+    \item \textbf{6406531891576.} \(\{(x, y, z) \mid x, y \in \mathbb{R}\}\)
+    \item \textbf{6406531891577.} \(\{(x, x, 2) \mid x \in \mathbb{R}\}\)
+    \item \textbf{6406531891578.} \(\{(1, 1, 2)\}\)
+    \item \textbf{6406531891579.} \(\{(x, y, 0) \mid x, y \in \mathbb{R}\}\)
+    \item \textbf{6406531891580.} \(\{(x, -x, 0) \mid x \in \mathbb{R}\}\)
+    \item \textbf{6406531891581.} \(\{(x, x, 0) \mid x \in \mathbb{R}\}\)
+    \item \textbf{6406531891582.} \(\{(0, 0, 0)\}\)
+\end{itemize}
+
+% Sub-Section Information
+Sub-Section Number : 11
+Sub-Section Id : 64065380916
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+% Next Question Information
+Question Id : 640653565988
+Question Type : COMPREHENSION Sub Question Shuffling
+```

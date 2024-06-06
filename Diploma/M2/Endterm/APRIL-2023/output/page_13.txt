@@ -1,0 +1,55 @@
+```plaintext
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+9
+```
+
+```plaintext
+Question Number : 17 Question Id : 640653565971 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Let \( V_1, V_2 \) and \( V_3 \) represent the subspaces \(\{ (x,y,z) : 2x + 3y + 4z = 0 \}\), \(\{ (x,y,z) : x + 2y + z = 0 \}\) and \(\{ (x,y,z) : x + y + 2z = 0 \}\), respectively of \(\mathbb{R}^3\). Let \( A_i, i = 1, 2, 3 \) be the affine spaces corresponding to \( V_i, i = 1, 2, 3 \). Suppose \( A_1 \) contains \( (1, 1, -2) \), \( A_2 \) contains \((-2, 1, 1) \) and \( A_3 \) contains \( (1, -2, 1) \). If \((x_1, x_2, x_3) \) is the point of intersection of \( A_1, A_2 \) and \( A_3 \), find \( x_1 + 2x_2 + x_3 \).
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1
+
+Sub-Section Number : 5
+
+Sub-Section Id : 64065380910
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+```
+
+```plaintext
+Question Number : 18 Question Id : 640653565969 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+```

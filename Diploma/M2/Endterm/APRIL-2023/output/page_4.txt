@@ -1,0 +1,38 @@
+```python
+Question Label : Comprehension
+
+Let \( D \) denote the set of all \( 2 \times 2 \) diagonal matrices.
+Consider an ordered basis \( \beta = \left\{ \begin{pmatrix} 1 & 0 \\ 0 & 0 \end{pmatrix}, \begin{pmatrix} 0 & 0 \\ 0 & 2 \end{pmatrix} \right\} \).
+
+Let \( T : U \rightarrow \mathbb{R}^2 \) be a linear transformation defined as
+\[ T \left( \begin{pmatrix} a & 0 \\ 0 & b \end{pmatrix} \right) = (a + b, 4a - 5b). \]
+Let matrix \( A \) be the matrix representation of \( T \) with respect to the ordered basis \( \beta \) for \( D \) and the standard ordered basis for the co-domain \( \mathbb{R}^2 \).
+Answer the given subquestions.
+
+Sub questions
+
+Question Number : 3 Question Id : 640653565962 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Which of the following matrix is \( A \)?
+
+Options :
+
+\[
+\begin{pmatrix} 1 & 4 \\ 2 & -10 \end{pmatrix}
+\]
+
+\[
+\begin{pmatrix} 1 & 4 \\ 1 & -5 \end{pmatrix}
+\]
+
+\[
+\begin{pmatrix} 1 & 2 \\ 4 & -10 \end{pmatrix}
+\]
+
+\[
+\begin{pmatrix} 1 & 4 \\ 1 & -5 \end{pmatrix}
+\]
+```
