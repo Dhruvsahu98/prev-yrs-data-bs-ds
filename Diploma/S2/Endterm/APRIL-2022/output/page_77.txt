@@ -1,0 +1,51 @@
+```plaintext
+B. \( H_0 : p = 0.6, H_A : p > 0.6 \)
+
+C. \( H_0 : p = 0.6, H_A : p < 0.6 \)
+
+D. \( H_0 : p \neq 0.6, H_A : p = 0.6 \)
+```
+
+Question Number : 77 Question Type : SA
+
+```plaintext
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+Find the P-value of the test. Write your answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.29 to 0.31
+```
+
+Question Number : 78 Question Type : MCQ
+
+```plaintext
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Can you reject the null hypothesis at a significance level of 5%?
+
+Options :
+
+A. 🌺 YES
+
+B. ✅ NO
+```
+
+```plaintext
+Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group
+```

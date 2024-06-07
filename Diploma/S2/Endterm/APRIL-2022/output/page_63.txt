@@ -1,0 +1,83 @@
+```plaintext
+Text Areas : PlainText
+
+Possible Answers :
+
+3
+
+Sem2 Stats2
+
+Number of Questions : 11
+Section Marks : 40
+
+Question Number : 63 Question Type : MCQ
+
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "FOUNDATION LEVEL: SEMESTER 2: STATISTICS FOR DATA SCIENCE 2"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+A. ✅ YES
+B. ❌ NO
+
+Question Number : 64 Question Type : MCQ
+
+Correct Marks : 0
+Question Label : Multiple Choice Question
+```
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\begin{document}
+
+Text Areas : PlainText
+
+Possible Answers :
+
+3
+
+\section*{Sem2 Stats2}
+
+\begin{itemize}
+  \item Number of Questions : 11
+  \item Section Marks : 40
+\end{itemize}
+
+\section*{Question Number : 63 Question Type : MCQ}
+
+\begin{itemize}
+  \item Correct Marks : 0
+  \item Question Label : Multiple Choice Question
+\end{itemize}
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "FOUNDATION LEVEL: SEMESTER 2: STATISTICS FOR DATA SCIENCE 2"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? \\
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+\subsection*{Options}
+\begin{itemize}
+  \item[A.] \checkmark YES
+  \item[B.] \texttimes NO
+\end{itemize}
+
+\section*{Question Number : 64 Question Type : MCQ}
+
+\begin{itemize}
+  \item Correct Marks : 0
+  \item Question Label : Multiple Choice Question
+\end{itemize}
+
+\end{document}
+```

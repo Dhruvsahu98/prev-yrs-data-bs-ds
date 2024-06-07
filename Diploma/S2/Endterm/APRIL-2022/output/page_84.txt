@@ -1,0 +1,29 @@
+```python
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+0.6
+
+Question Number : 89 Question Type : SA
+
+Correct Marks : 2
+Question Label : Short Answer Question
+Using a Uniform[0, 1] prior, find the posterior mean of the given sample. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+
+0.42 to 0.43
+
+App dev1
+
+Number of Questions : 33
+Section Marks : 100
+
+Question Number : 90 Question Type : MCQ
+```

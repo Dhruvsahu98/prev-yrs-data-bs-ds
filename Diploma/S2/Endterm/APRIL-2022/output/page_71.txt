@@ -1,0 +1,55 @@
+```python
+Let \( X \) be a discrete random variable with the following probability mass function
+
+\[
+P(X = k) =
+\begin{cases}
+0.4 & \text{if } k = 1 \\
+0.15 & \text{if } k = 2 \\
+0.35 & \text{if } k = 3 \\
+0.10 & \text{if } k = 4 \\
+\end{cases}
+\]
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+### Question Number : 68 Question Type : SA
+
+**Correct Marks : 1**
+
+**Question Label : Short Answer Question**
+
+Find \(P(X > 2)\). Enter the answer correct to two decimal places.
+
+**Response Type** : Numeric
+
+**Evaluation Required For SA** : Yes
+
+**Show Word Count** : Yes
+
+**Answers Type** : Equal
+
+**Text Areas** : PlainText
+
+**Possible Answers** :
+
+```
+0.45
+```
+
+### Question Number : 69 Question Type : SA
+
+**Correct Marks : 1**
+
+**Question Label : Short Answer Question**
+
+Find \(F_X(2)\), where \(F_X(x)\) is the CDF of \(X\). Enter the answer correct to two decimal places.
+
+**Response Type** : Numeric
+
+**Evaluation Required For SA** : Yes
+
+**Show Word Count** : Yes
+```

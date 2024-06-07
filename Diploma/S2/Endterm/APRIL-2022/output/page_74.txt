@@ -1,0 +1,38 @@
+```python
+Question Label : Multiple Choice Question
+
+What is \(P(X_1 + \ldots + X_{30} > 50)\)? Use Normal approximation and express your answer in terms of \(F_Z\), where \(F_Z\) is the CDF of standard normal distribution.
+
+Options :
+
+A. \(1 - F_Z\left(\frac{50}{\sqrt{15}}\right)\)
+
+B. \(F_Z\left(\frac{50}{\sqrt{15}}\right)\)
+
+C. \(F_Z\left(\frac{50}{15}\right)\)
+
+D. \(1 - F_Z\left(\frac{50}{15}\right)\)
+
+Question Type : COMPREHENSION
+
+Question Numbers : (74 to 75)
+Question Label : Comprehension
+
+Consider the given situations and match them with suitable test statistics and hypothesis tests:
+
+Sub questions
+
+Question Number : 74 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Suppose we observe samples from a normal distribution whose variance is unknown. We want to check whether the mean is greater than \(\mu_0\). What test statistic and test can be applied for this situation?
+
+Options :
+
+A. 
+Test Statistic: \(T = \text{Sample mean}\),
+Hypothesis test: Z-test.
+```

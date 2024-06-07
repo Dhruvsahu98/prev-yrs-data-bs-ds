@@ -1,0 +1,45 @@
+```plaintext
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.025
+
+
+Question Number : 86 Question Type : SA
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+Find the posterior mean of λ using a Gamma(10, 5) prior. Enter the answer correct to three decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.072 to 0.074
+
+
+Question Type : COMPREHENSION
+
+Question Numbers : (87 to 89)
+
+Question Label : Comprehension
+```

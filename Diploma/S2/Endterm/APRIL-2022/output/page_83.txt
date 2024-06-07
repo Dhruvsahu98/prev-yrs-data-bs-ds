@@ -1,0 +1,51 @@
+```python
+Let \( X \) be a discrete random variable with the following PMF:
+
+\[
+\begin{array}{c|cccc}
+X & -1 & 0 & 1 & 2 \\
+\hline
+f_X(x) & (1 - p)/2 & p/2 & (1 - p)/2 & p/2 \\
+\end{array}
+\]
+
+where \( 0 \leq p \leq 1 \). Consider the estimation of \( p \) from the samples: \(-1, 0, 1, 0, 2\).
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number : 87 Question Type : SA**
+
+**Correct Marks : 2**
+
+Question Label : Short Answer Question
+
+Find the method of moment estimate of \( p \) for the given sample. Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.4
+
+**Question Number : 88 Question Type : SA**
+
+**Correct Marks : 2**
+
+Question Label : Short Answer Question
+
+Find the maximum likelihood estimate of \( p \) for the given sample. Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+```

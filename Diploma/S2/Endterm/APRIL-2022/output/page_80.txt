@@ -1,0 +1,45 @@
+```plaintext
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 82 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Identify the null and alternative hypothesis.
+
+Options :
+
+A. \( H_0 : \mu = 1.3, \ H_A : \mu > 1.3 \) ✅
+
+B. \( H_0 : \bar{X} = 1.3, \ H_A : \mu > 1.3 \) ❌
+
+C. \( H_0 : \mu = 1.3, \ H_A : \mu < 1.3 \) ❌
+
+D. \( H_0 : \bar{X} = 1.3, \ H_A : \bar{X} < 1.3 \) ❌
+
+Question Number : 83 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+What sample size do you need for a test at a significance level 0.05 and power 0.95?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+14
+```

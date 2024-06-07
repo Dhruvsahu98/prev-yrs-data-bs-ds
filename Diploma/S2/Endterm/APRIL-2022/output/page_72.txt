@@ -1,0 +1,54 @@
+```plaintext
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.55
+```
+
+```plaintext
+Question Number : 70 Question Type : SA
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Find the expected value of X. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+2.15
+```
+
+```plaintext
+Question Type : COMPREHENSION
+
+Question Numbers : (71 to 73)
+
+Question Label : Comprehension
+
+Let \( X_1, \ldots, X_{30} \sim \text{i.i.d. } X \), where \( X \) has the following PMF:
+
+\[ P(X = k) = \begin{cases} 
+\frac{1}{4} & \text{if } k = -1 \\
+\frac{2}{4} & \text{if } k = 0 \\
+\frac{1}{4} & \text{if } k = 1 \\
+0 & \text{otherwise}
+\end{cases} \]
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+```

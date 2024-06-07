@@ -1,0 +1,65 @@
+```python
+# Table in LaTeX format
+\begin{table}[h!]
+\centering
+\caption{Discrete random variables}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Distribution} & \textbf{PMF} \( f_X(k) \) & \textbf{CDF} \( F_X(x) \) & \textbf{E[X]} & \textbf{Var(X)} \\
+\hline
+Uniform(A) & 
+\( \frac{1}{b-a+1}, \ k = a,a+1,\ldots,b \) & 
+\( \begin{cases} 
+0 & x < a \\
+\frac{k - a + 1}{n} & k \leq x < k+1 \\
+1 & x \geq n 
+\end{cases} \) & 
+\( \frac{a + b}{2} \) & 
+\( \frac{n^2 - 1}{12} \) \\
+\hline
+Bernoulli(p) & 
+\( \begin{cases} 
+p & x = 1 \\
+1 - p & x = 0 
+\end{cases} \) & 
+\( \begin{cases} 
+0 & x < 0 \\
+1 - p & 0 \leq x < 1 \\
+1 & x \geq 1 
+\end{cases} \) & 
+\( p \) & 
+\( p(1 - p) \) \\
+\hline
+Binomial(n,p) & 
+\( ^nC_k p^k (1 - p)^{n - k}, \ k = 0,1,\ldots,n \) & 
+\( \begin{cases} 
+0 & x < 0 \\
+\sum_{i = 0}^{k} ^nC_i p^i (1 - p)^{n - i} & k \leq x < k + 1 \\
+1 & x \geq n 
+\end{cases} \) & 
+\( np \) & 
+\( np(1 - p) \) \\
+\hline
+Geometric(p) & 
+\( (1 - p)^{k - 1} p, \ k = 1,\ldots,\infty \) & 
+\( \begin{cases} 
+0 & x < 0 \\
+1 - (1 - p)^k & k \leq x < k + 1 \\
+1 & k = 1,\ldots,\infty 
+\end{cases} \) & 
+\( \frac{1}{p} \) & 
+\( \frac{1 - p}{p^2} \) \\
+\hline
+Poisson(\(\lambda\)) & 
+\( \frac{e^{-\lambda} \lambda^k}{k!}, \ k = 0,1,\ldots,\infty \) & 
+\( \begin{cases} 
+0 & x < 0 \\
+e^{-\lambda} \sum_{i = 0}^{k} \frac{\lambda^i}{i!} & k \leq x < k + 1 \\
+1 & k = 0,1,\ldots,\infty 
+\end{cases} \) & 
+\( \lambda \) & 
+\( \lambda \) \\
+\hline
+\end{tabular}
+\end{table}
+```

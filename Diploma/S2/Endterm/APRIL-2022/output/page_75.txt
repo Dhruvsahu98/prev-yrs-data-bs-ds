@@ -1,0 +1,99 @@
+```python
+Test Statistic: \( T = \text{Sample mean} \),
+Hypothesis test: \( t\text{-test} \).
+
+Test Statistic: \( T = \text{Sample mean} \),
+Hypothesis test: \( \chi^2\text{-test} \).
+
+Test Statistic: \( T = \text{Sample variance} \),
+Hypothesis test: \( \chi^2\text{-test} \).
+```
+
+```python
+Question Number : 75 
+Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider two samples, one from 
+Normal(\(\mu_1, \sigma_1^2\)) and another from 
+Normal(\(\mu_2, \sigma_2^2\)), where \(\sigma_1, \sigma_2\) are 
+known. Suppose we want to test 
+whether the means of the two 
+distributions are equal. What 
+test statistic and test can be 
+applied for this situation? Let 
+\(\bar{X}\) and \(\bar{Y}\) be the sample means. 
+Let \( S^2_X \) and \( S^2_Y \) be the sample 
+variances.
+
+Options :
+
+Test Statistic: \( T = \bar{X} - \bar{Y} \),
+Hypothesis test: Z-test.
+
+A. ✅
+
+Test Statistic: \( T = \bar{X} - \bar{Y} \),
+Hypothesis test: t-test.
+
+B. ❌
+```
+
+```latex
+\begin{equation}
+\text{Test Statistic: } T = \text{Sample mean},
+\end{equation}
+\begin{equation}
+\text{Hypothesis test: } t\text{-test}.
+\end{equation}
+
+\begin{equation}
+\text{Test Statistic: } T = \text{Sample mean},
+\end{equation}
+\begin{equation}
+\text{Hypothesis test: } \chi^2\text{-test}.
+\end{equation}
+
+\begin{equation}
+\text{Test Statistic: } T = \text{Sample variance},
+\end{equation}
+\begin{equation}
+\text{Hypothesis test: } \chi^2\text{-test}.
+\end{equation}
+```
+
+```latex
+\textbf{Question Number : 75} \\
+\textbf{Question Type : MCQ} \\
+
+\textbf{Correct Marks : 2} \\
+
+\textbf{Question Label : Multiple Choice Question} \\
+
+Consider two samples, one from 
+Normal(\(\mu_1, \sigma_1^2\)) and another from 
+Normal(\(\mu_2, \sigma_2^2\)), where \(\sigma_1, \sigma_2\) are 
+known. Suppose we want to test 
+whether the means of the two 
+distributions are equal. What 
+test statistic and test can be 
+applied for this situation? Let 
+\(\bar{X}\) and \(\bar{Y}\) be the sample means. 
+Let \( S^2_X \) and \( S^2_Y \) be the sample 
+variances.
+
+\textbf{Options :}
+
+\text{Test Statistic: } \( T = \bar{X} - \bar{Y} \),
+\text{Hypothesis test: Z-test.}
+
+A. \checkmark
+
+\text{Test Statistic: } \( T = \bar{X} - \bar{Y} \),
+\text{Hypothesis test: t-test.}
+
+B. \times
+```

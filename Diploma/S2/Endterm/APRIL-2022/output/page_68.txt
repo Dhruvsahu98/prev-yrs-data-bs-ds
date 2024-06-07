@@ -1,0 +1,53 @@
+```python
+# Two samples z-test for means:
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Test       & \(H_0\)       & \(H_A\)       & Test statistic                                           & Rejection region            \\ \hline
+right-tailed & \(\mu_1 = \mu_2\) & \(\mu_1 > \mu_2\) & \(T = \overline{X} - \overline{Y}\) \(\sim Normal\left(0, \frac{\sigma_1^2}{n_1} + \frac{\sigma_2^2}{n_2}\right)\) if \(H_0\) is true & \(\overline{X} - \overline{Y} > c\) \\ \hline
+left-tailed  & \(\mu_1 = \mu_2\) & \(\mu_1 < \mu_2\) & \(T = \overline{X} - \overline{Y}\) \(\sim Normal\left(0, \frac{\sigma_1^2}{n_1} + \frac{\sigma_2^2}{n_2}\right)\) if \(H_0\) is true & \(\overline{Y} - \overline{X} > c\) \\ \hline
+two-tailed   & \(\mu_1 = \mu_2\) & \(\mu_1 \neq \mu_2\) & \(T = \overline{X} - \overline{Y}\) \(\sim Normal\left(0, \frac{\sigma_1^2}{n_1} + \frac{\sigma_2^2}{n_2}\right)\) if \(H_0\) is true & \(|\overline{X} - \overline{Y}| > c\) \\ \hline
+\end{tabular}
+\end{table}
+
+# Two samples F-test for variances
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Test       & \(H_0\)       & \(H_A\)       & Test statistic                                  & Rejection region \\ \hline
+one-tailed & \(\sigma_1 = \sigma_2\) & \(\sigma_1 > \sigma_2\) & \(T = \frac{S_1^2}{S_2^2} \sim F_{(n_1-1,n_2-1)}\) & \(\frac{S_1^2}{S_2^2} > 1 + c\) \\ \hline
+one-tailed & \(\sigma_1 = \sigma_2\) & \(\sigma_1 < \sigma_2\) & \(T = \frac{S_1^2}{S_2^2} \sim F_{(n_1-1,n_2-1)}\) & \(\frac{S_1^2}{S_2^2} < 1 - c\) \\ \hline
+two-tailed & \(\sigma_1 = \sigma_2\) & \(\sigma_1 \neq \sigma_2\) & \(T = \frac{S_1^2}{S_2^2} \sim F_{(n_1-1,n_2-1)}\) & \(\frac{S_1^2}{S_2^2} \geq 1 + c_R \text{ where } \frac{\alpha}{2} = P(T > 1 + c_R)\) or \(\frac{S_1^2}{S_2^2} \leq 1 - c_L \text{ where } \frac{\alpha}{2} = P(T < 1 - c_L)\) \\ \hline
+\end{tabular}
+\end{table}
+
+# Use the following values if required:
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|}
+\hline
+\(F_{99}(-1.66) = 0.05\) \\ \hline
+\(F_{99}(-2.22) = 0.0143\) \\ \hline
+\(F_Z(-1.0206) = 0.15386\) \\ \hline
+\(F_Z(1.0206) = 0.84614\) \\ \hline
+\(F_Z(-1.96) = 0.025\) \\ \hline
+\(F_Z(1.64) = 0.95\) \\ \hline
+\(F_Z(-1.64) = 0.05\) \\ \hline
+\(F_Z(1.96) = 0.975\) \\ \hline
+\end{tabular}
+\caption{Table : Useful values}
+\end{table}
+
+# Options :
+
+A. ✅ Useful Data has been mentioned above
+
+B. ❌ This data attachment is just for a reference & not for an evaluation.
+
+# Question Type : COMPREHENSION
+```

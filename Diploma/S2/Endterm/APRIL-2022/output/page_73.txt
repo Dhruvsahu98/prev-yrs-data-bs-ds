@@ -1,0 +1,49 @@
+```python
+Question Number : 71 Question Type : SA
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+What is \(E[X_1 + \ldots + X_{30}]\)?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0
+
+Question Number : 72 Question Type : SA
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+What is \(\text{Var}[X_1 + \ldots +X_{30}]\)?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+15
+
+Question Number : 73 Question Type : MCQ
+
+Correct Marks : 2
+```

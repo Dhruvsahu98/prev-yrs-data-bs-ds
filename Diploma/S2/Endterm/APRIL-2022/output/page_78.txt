@@ -1,0 +1,54 @@
+```plaintext
+Comprehension Questions : No
+
+Question Numbers : (79 to 81)
+
+Question Label : Comprehension
+
+Rapid antigen testing for Covid-19 fails to detect the presence of virus in 40% of the patients from prior experience. A new random sample of 100 patients with similar symptoms is also tested using rapid antigen. Out of these 100 patients, rapid antigen failed to detect the presence of the virus in 40 cases.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 79 Question Type : SA
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Find the ML estimate of the failure fraction. Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.4
+
+Question Number : 80 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+In the Bayesian estimate of the failure fraction with a Beta(2, b) prior, what value of b will you choose?
+```
+
+Mathematical expressions in LaTeX format:
+```latex
+In the Bayesian estimate of the failure fraction with a \text{Beta}(2, b) prior, what value of \( b \) will you choose?
+```
+
+Tables and diagrams in LaTeX format:
+```latex
+% No tables or diagrams were present in the provided document.
+```
+

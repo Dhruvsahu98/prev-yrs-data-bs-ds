@@ -1,0 +1,47 @@
+```plaintext
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+3
+
+Question Number : 81 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Find the Bayesian estimate of the failure fraction with given prior. Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.4
+
+Question Type : COMPREHENSION
+
+Question Numbers : (82 to 84)
+
+Question Label : Comprehension
+
+The mean resistance of resistors manufactured by a firm is found to be 1.3 ohm with a variance of 0.05 ohm^2. You suspect that the average may be higher, possibly 1.5 ohm, and decide to sample resistors to find the resistance.
+
+Page 80 of 340
+```

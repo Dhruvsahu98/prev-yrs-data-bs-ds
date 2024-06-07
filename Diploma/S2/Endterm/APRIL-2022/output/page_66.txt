@@ -1,0 +1,34 @@
+```python
+5. Bias of an estimator: 
+\[ \text{Bias}(\hat{\theta}, \theta) = E[\hat{\theta}] - \theta. \]
+
+6. Method of moments: Sample moments, \( M_k(X_1, X_2, \ldots, X_n) = \frac{1}{n} \sum_{i=1}^n X_i^k \)
+   Procedure: For one parameter \( \theta \)
+   \begin{itemize}
+      \item Sample moment: \( m_1 \)
+      \item Distribution moment: \( E(X) = f(\theta) \)
+      \item Solve for \( \theta \) from \( f(\theta) = m_1 \) in terms of \( m_1 \).
+      \item \( \theta \): replace \( m_1 \) by \( M_1 \) in the above solution.
+   \end{itemize}
+
+7. Likelihood of i.i.d. samples: Likelihood of a sampling \( x_1, x_2, \ldots, x_n \), denoted
+   \[ L(x_1, \ldots, x_n) = \prod_{i=1}^n f_X(x_i; \theta_1, \theta_2, \ldots) \]
+
+8. Maximum likelihood (ML) estimation:
+   \[ \hat{\theta}_1^*, \hat{\theta}_2^*, \ldots = \arg \max_{\theta_1, \theta_2, \ldots} \prod_{i=1}^n f_X(x_i; \theta_1, \theta_2, \ldots) \]
+
+9. Bayesian estimation: Let \( X_1, \ldots, X_n \sim \text{i.i.d.} X \), parameter \( \Theta \).
+   Prior distribution of \( \Theta \): \( \Theta \sim f_\Theta(\theta) \).
+   Samples, \( S \): \( (X_1 = x_1, \ldots, X_n = x_n) \).
+   Posterior: \( \Theta \mid (X_1 = x_1, \ldots, X_n = x_n) \)
+   Bayes' rule: Posterior \(\propto\) Prior \(\times\) Likelihood
+   Posterior density \(\propto f_\Theta(\theta) \times P(X_1 = x_1, \ldots, X_n = x_n \mid \Theta = \theta) \)
+
+10. Normal samples with unknown mean and known variance:
+    \( X_1, \ldots, X_n \sim \text{i.i.d. Normal}(M, \sigma^2) \).
+    Prior \( M \sim \text{Normal}(\mu_0, \sigma_0^2) \).
+    Posterior mean:
+    \[
+    \hat{\mu} = \bar{X} \left( \frac{\sigma_0^2}{n\sigma_0^2 + \sigma^2} \right) + \mu_0 \left( \frac{\sigma^2}{n\sigma_0^2 + \sigma^2} \right)
+    \]
+```

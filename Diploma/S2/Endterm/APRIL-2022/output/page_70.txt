@@ -1,0 +1,53 @@
+```plaintext
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Find \(P(Y = 3)\). Enter the answer correct to three decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.125
+```
+
+```plaintext
+Question Number : 67 Question Type : SA
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Find \(P(X= 1 | Y = 3)\).
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0
+```
+
+```plaintext
+Question Type : COMPREHENSION
+
+Question Numbers : (68 to 70)
+
+Question Label : Comprehension
+```

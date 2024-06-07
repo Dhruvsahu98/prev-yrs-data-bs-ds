@@ -1,0 +1,37 @@
+```plaintext
+C. 
+
+\[ \text{Test Statistic: } T = \frac{S_X^2}{S_Y^2}, \]
+\[ \text{Hypothesis test: } F\text{-test}. \]
+
+D. 
+
+\[ \text{Test Statistic: } T = \frac{S_X^2}{S_Y^2}, \]
+\[ \text{Hypothesis test: } Z\text{-test}. \]
+
+Question Type : COMPREHENSION
+
+Question Numbers : (76 to 78)
+
+Question Label : Comprehension
+
+A statistics course instructor believes that 60% of students in the class would take part in the extra activities provided for bonus marks in the subject. She performs a hypothesis test to determine if the percentage is the same or different from 60%. The instructor samples 100 students and found that 55 students took part in the extra activity.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 76 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+State the null and alternative hypotheses. Assume \( p \) denotes the proportion of students who participate in the extra activity.
+
+Options :
+
+A. \(\checkmark\)
+
+\[ H_0: p = 0.6, \ H_A: p \ne 0.6 \]
+```
