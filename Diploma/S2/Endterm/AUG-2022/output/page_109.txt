@@ -1,0 +1,41 @@
+```plaintext
+Question Label : Comprehension
+
+Suppose a principal states that the students studying in her school have an average IQ score equal to 98.5. A reporter suspects that the average may be lower, possibly 98 and took a sample of 100 random students from the school and observed the average IQ score to be 98.29. Assume the IQ scores of the students are normally distributed with standard deviation 1.2.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 189 Question Id : 640653356647 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+Define null hypothesis and alternative hypothesis.
+
+Options :
+
+6406531182317. 
+
+\[ H_0: \mu = 98.5, H_A: \mu \neq 98.5 \]
+
+6406531182318. 
+
+\[ H_0: \mu = 98.5, H_A: \mu > 98.5 \]
+
+6406531182319. 
+
+\[ H_0: \mu = 98.5, H_A: \mu < 98.5 \]
+
+6406531182320. 
+
+\[ H_0: \mu \neq 98.5, H_A: \mu = 98.5 \]
+
+Question Number : 190 Question Id : 640653356648 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+Find the \( P \)-value. Enter the answer correct to two decimal places.
+```

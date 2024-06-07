@@ -1,0 +1,53 @@
+```python
+Use the following values if required:
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+$F_Z(-2.33)$ & 0.01 \\
+\hline
+$F_Z(2.33)$ & 0.99 \\
+\hline
+$F_Z(-1.96)$ & 0.025 \\
+\hline
+$F_Z(1.64)$ & 0.95 \\
+\hline
+$F_Z(-1.75)$ & 0.04 \\
+\hline
+$F_Z(-1.095)$ & 0.13786 \\
+\hline
+$F_{\chi^2_{39}}^{-1}(0.05)$ & 77.046 \\
+\hline
+$F_{\chi^2_{39}}^{-1}(0.95)$ & 123.22 \\
+\hline
+$F_Z(1.095)$ & 0.86214 \\
+\hline
+$F_Z(-0.036)$ & 0.48405 \\
+\hline
+$F_Z(0.036)$ & 0.51595 \\
+\hline
+$F_Z(-1.64)$ & 0.05 \\
+\hline
+$F_Z(1.96)$ & 0.975 \\
+\hline
+$F_Z(-1.88)$ & 0.03 \\
+\hline
+$F_Z(-1.55)$ & 0.06057 \\
+\hline
+\end{tabular}
+\caption{Useful values}
+\end{table}
+
+Options :
+
+6406531182294. ✔️ Useful Data has been mentioned above.
+
+6406531182295. ❌ This data attachment is just for a reference & not for an evaluation.
+
+Sub-Section Number : 2
+
+Sub-Section Id : 64065351678
+
+Question Shuffling Allowed : Yes
+```

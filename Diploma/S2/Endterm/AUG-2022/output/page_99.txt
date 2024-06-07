@@ -1,0 +1,43 @@
+```plaintext
+Question Number : 175 Question Id : 640653356639 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Let \(X_1, X_2, \ldots, X_n \sim i.i.d. \ \text{Uniform}[-a,a]\), where \(a\) is unknown. An estimator \(\hat{a}\) for \(a\) is given as 
+\[
+\hat{a} = \frac{3}{n}(X_1^2 + X_2^2 + \ldots + X_n^2)
+\]
+Is \(\hat{a}\) an unbiased estimator of \(a\)?
+
+Options :
+
+6406531182307. ❌ Yes
+
+6406531182308. ✔ No
+
+Sub-Section Number : 3
+Sub-Section Id : 64065351679
+Question Shuffling Allowed : Yes
+
+Question Number : 176 Question Id : 640653356640 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Consider the null and alternative hypothesis \(H_0 : \mu = 0, H_A : \mu > 0\). In which of the following cases can we reject the null hypothesis?
+
+Options :
+
+6406531182309. ✔ \(P\text{-value} \leq \ \text{significance level} \ (\alpha).\)
+
+6406531182310. ❌ \(P\text{-value} > \ \text{significance level} \ (\alpha).\)
+
+6406531182311. ✔ \(\text{Test statistic} \ (T) > \ \text{critical value} \ (c).\)
+
+6406531182312. ❌ \(\text{Test statistic} \ (T) < \ \text{critical value} \ (c).\)
+```

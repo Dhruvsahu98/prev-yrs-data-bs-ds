@@ -1,0 +1,35 @@
+```plaintext
+11. Hypothesis Testing
+* Test for mean
+Case (1): When population variance \(\sigma^2\) is known (\(z\)-test)
+
+\[
+\begin{array}{|c|c|c|c|c|}
+\hline
+\text{Test} & H_0 & H_A & \text{Test statistic} & \text{Rejection region} \\
+\hline
+\text{right-tailed} & \mu = \mu_0 & \mu > \mu_0 & T = \overline{X} & Z = \frac{\overline{X} - \mu_0}{\sigma / \sqrt{n}} & \overline{X} > c \\
+\hline
+\text{left-tailed} & \mu = \mu_0 & \mu < \mu_0 & T = \overline{X} & Z = \frac{\overline{X} - \mu_0}{\sigma / \sqrt{n}} & \overline{X} < c \\
+\hline
+\text{two-tailed} & \mu = \mu_0 & \mu \neq \mu_0 & T = \overline{X} & Z = \frac{\overline{X} - \mu_0}{\sigma / \sqrt{n}} & |\overline{X} - \mu_0| > c \\
+\hline
+\end{array}
+\]
+
+Case (2): When population variance \(\sigma^2\) is unknown (\(t\)-test)
+
+\[
+\begin{array}{|c|c|c|c|c|}
+\hline
+\text{Test} & H_0 & H_A & \text{Test statistic} & \text{Rejection region} \\
+\hline
+\text{right-tailed} & \mu = \mu_0 & \mu > \mu_0 & T = \overline{X} & t_{n-1} = \frac{\overline{X} - \mu_0}{s / \sqrt{n}} & \overline{X} > c \\
+\hline
+\text{left-tailed} & \mu = \mu_0 & \mu < \mu_0 & T = \overline{X} & t_{n-1} = \frac{\overline{X} - \mu_0}{s / \sqrt{n}} & \overline{X} < c \\
+\hline
+\text{two-tailed} & \mu = \mu_0 & \mu \neq \mu_0 & T = \overline{X} & t_{n-1} = \frac{\overline{X} - \mu_0}{s / \sqrt{n}} & |\overline{X} - \mu_0| > c \\
+\hline
+\end{array}
+\]
+```

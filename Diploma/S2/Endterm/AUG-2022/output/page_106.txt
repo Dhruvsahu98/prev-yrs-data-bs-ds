@@ -1,0 +1,54 @@
+```python
+that matches his prior mean and standard deviation. The number of deceased people recorded 
+over the next 10 weeks are: 3, 5, 7, 0, 1, 7, 4, 9, 6, 4.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 184 Question Id : 640653356652 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Find the value of \(\alpha\) and \(\beta\).
+
+Options :
+\[
+\begin{array}{l}
+6406531182338. \ \alpha = 3, \ \beta = 3 \\
+6406531182339. \ \alpha = 9, \ \beta = 9 \\
+6406531182340. \ \alpha = 3, \ \beta = 9 \\
+6406531182341. \ \alpha = 9, \ \beta = 3 \\
+\end{array}
+\]
+
+Question Number : 185 Question Id : 640653356653 Question Type : SA Calculator : None 
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+Find the posterior mean of \(\lambda\) for the given sample. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+\[
+4.21 \ \text{to} \ 4.25
+\]
+
+Sub-Section Number : 8
+```

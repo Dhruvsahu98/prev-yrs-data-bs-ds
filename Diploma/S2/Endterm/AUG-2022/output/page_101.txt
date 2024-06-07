@@ -1,0 +1,38 @@
+```plaintext
+6406531182333. ❌ Test Statistic used is Sample mean.
+
+6406531182334. ✔️ Test Statistic used is Sample variance.
+
+6406531182335. ❌ Test Statistic used is population variance.
+
+6406531182336. ❌ Accept $H_0$ at a significance level of 0.05.
+
+6406531182337. ✔️ Reject $H_0$ at a significance level of 0.05.
+```
+
+```plaintext
+Sub-Section Number : 5
+Sub-Section Id : 64065351681
+Question Shuffling Allowed : Yes
+```
+
+```plaintext
+Question Number : 178 Question Id : 640653356641 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+
+The average life of a battery is 4 years, with a standard deviation of 1 year. Assuming that the lives of the batteries follow approximately a normal distribution, find the probability that the mean life of a random sample of 30 such batteries falls between 3.8 and 4.2 years. Enter your answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+0.70 to 0.74
+```
+
+```plaintext
+Sub-Section Number : 6
+```

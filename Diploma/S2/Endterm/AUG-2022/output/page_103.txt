@@ -1,0 +1,50 @@
+```python
+6406531182299. \# Range of \(X_2 \mid X_1 = 0, X_3 = 1\) is \(\{1\}\).
+
+Question Number : 180
+Question Id : 640653356634
+Question Type : SA
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+
+Calculate \(P(X_1 = 0, X_2 = 1 \mid X_3 = 1)\).
+
+Note: Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+
+Possible Answers :
+
+0.5
+
+Sub-Section Number : 7
+Sub-Section Id : 64065351683
+Question Shuffling Allowed : No
+
+Question Id : 64065356635
+Question Type : COMPREHENSION
+Sub Question Shuffling Allowed : No
+Group Comprehension Questions : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Question Numbers : (181 to 183)
+Question Label : Comprehension
+
+Let the random variables \(X\) and \(Y\) have the following joint PDF:
+\[
+f_{XY}(x, y) = \begin{cases}
+4xy, & 0 < x, y < 1 \\
+0, & \text{otherwise}
+\end{cases}
+\]
+```

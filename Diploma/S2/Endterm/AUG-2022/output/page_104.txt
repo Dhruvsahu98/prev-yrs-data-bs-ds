@@ -1,0 +1,53 @@
+```python
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 181 Question Id : 640653356636 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the marginal distribution of \(Y\).
+
+Options :
+
+\[
+\begin{cases} 
+2y, & 0 < x < 1 \\
+0, & \text{otherwise} 
+\end{cases}
+\]
+6406531182301. *
+
+\[
+\begin{cases} 
+2x, & 0 < x < 1 \\
+0, & \text{otherwise} 
+\end{cases}
+\]
+6406531182302. *
+
+\[
+\begin{cases} 
+2y, & 0 < y < 1 \\
+0, & \text{otherwise} 
+\end{cases}
+\]
+6406531182303. ✓
+
+\[
+\begin{cases} 
+2x, & 0 < y < 1 \\
+0, & \text{otherwise} 
+\end{cases}
+\]
+6406531182304. *
+
+Question Number : 182 Question Id : 640653356637 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Compute \(E[Y]\).
+
+Note: Enter the answer correct to two decimal places.
+```

@@ -1,0 +1,41 @@
+```python
+Question Numbers : (192 to 193)
+Question Label : Comprehension
+Answer the given subquestions.
+
+Sub questions
+
+Question Number : 192
+Question Id : 640653356655
+Question Type : SA
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+
+Suppose \( X_1, X_2, \ldots, X_{15} \) is an i.i.d sample from a distribution Normal(\( \mu_1, 4^2 \)). Suppose \( Y_1, Y_2, \ldots, Y_{15} \) is an i.i.d sample from a distribution Normal(\( \mu_2, 3^2 \)). Let \( \bar{X} \) and \( \bar{Y} \) be 40 and 43, respectively. Suppose we want to check if the distribution means are different. Find the \( P \)-value of the test. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+
+0.015 to 0.025
+
+Question Number : 193
+Question Id : 640653356656
+Question Type : MSQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Select Question
+
+Select the steps from the following options, that you will use for finding the \( P \)-value in the previous question.
+```

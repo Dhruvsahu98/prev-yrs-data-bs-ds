@@ -1,0 +1,41 @@
+```plaintext
+Note: This question is optional. We will check your answer to this question if you make a mistake in the previous one.
+
+Options :
+
+6406531182344. ✔
+Null hypothesis, \( H_0 : \mu_1 = \mu_2 \).
+
+6406531182345. ✖
+Null hypothesis, \( H_0 : \mu_1 \ne \mu_2 \).
+
+6406531182346. ✖
+Right tailed test is used.
+
+6406531182347. ✖
+Left tailed test is used.
+
+6406531182348. ✔
+Two tailed test is used.
+
+6406531182349. ✖
+t-test is used.
+
+6406531182350. ✔
+z-test is used.
+
+6406531182351. ✔
+\[ \overline{Y} - \overline{X} \sim \text{Normal} \left( \mu_2 - \mu_1, \left( \frac{16}{15} + \frac{9}{15} \right) \right) \]
+
+6406531182352. ✖
+\[ \overline{Y} - \overline{X} \sim \text{Normal} (\mu_2 - \mu_1, 25) \]
+
+6406531182353. ✖
+\[ \overline{Y} - \overline{X} \sim \text{Normal} \left( 0, \left( \frac{16}{15} + \frac{9}{15} \right) \right) \]
+
+6406531182354. ✖
+Test: Reject \( H_0 \), if \( \left| \overline{Y} - \overline{X} \right| < c \).
+
+6406531182355. ✔
+Test: Reject \( H_0 \), if \( \left| \overline{Y} - \overline{X} \right| > c \).
+```
