@@ -1,0 +1,43 @@
+```python
+Question Type : COMPREHENSION
+
+Question Numbers : (352 to 354)
+Question Label : Comprehension
+
+Specification
+
+• This is a binary classification problem with two features (excluding the dummy feature), with labels 1 and 0 for the positive and negative classes. There are 12 points in the dataset, six in each class.
+• A logistic regression model is being trained using SGD with a learning rate of 2. x₀ = 1 is the dummy feature and w₀ is the weight corresponding to it. w₁ and w₂ are the weights corresponding to the two features x₁ and x₂ respectively.
+
+This is a snapshot of all the training datapoints and the decision boundary at some intermediate stage of the training process, just before processing point A. Note that the image is drawn to scale. So, assume that the grid lines are equally spaced with unit distance between successive lines in both axes.
+
+\[
+\begin{tikzpicture}
+\begin{axis}[
+    axis lines = middle,
+    xlabel = $x_1$,
+    ylabel = $x_2$,
+    xtick={0,1,...,5},
+    ytick={0,1,...,5},
+    xmin=0, xmax=5,
+    ymin=0, ymax=5,
+    grid=major,
+    grid style={dashed, gray!30}
+]
+\addplot[domain=0:5, samples=2, color=black] {x};
+\addlegendentry{Decision Boundary}
+\addplot[only marks, mark=+, blue] coordinates {(4,4) (3,4) (4,3) (3,3) (2,4) (4,2)};
+\addlegendentry{Positive}
+\addplot[only marks, mark=o, blue] coordinates {(0,0) (1,0) (0,1) (2,2) (1,2) (2,1)};
+\addlegendentry{Negative}
+\addplot[only marks, mark=*, red] coordinates {(1,1)};
+\node at (axis cs:1,1) [anchor=south east]{A = (1,1)};
+\end{axis}
+\end{tikzpicture}
+\]
+
+At this stage:
+\[
+|w_1| = |w_2| = 1
+\]
+```

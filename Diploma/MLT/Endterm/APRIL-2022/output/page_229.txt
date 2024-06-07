@@ -1,0 +1,51 @@
+```python
+C. ✔️ Bagging can help make robust classifiers from unstable classifiers
+D. ✔️ In bagging, majority voting is one way of combining outputs from various classifiers which are being bagged
+E. ✔️ In Random forest, an individual tree is trained on subset of features and subset of all samples.
+
+Question Number : 349 Question Type : MSQ
+
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+While training a logistic regression model for a toy-problem that has 2 features (excluding the dummy feature), a data scientist forgets to include the dummy feature and the weight corresponding to it. Which of the following could be the decision boundary obtained by him?
+
+Focus only on the position of the decision boundary and forget about the distribution of the datapoints. This could be different for different options. Assume that the threshold for inference is 0.5 for the model. Multiple options could be correct.
+
+Options :
+
+\[
+\begin{tikzpicture}
+\begin{axis}[
+axis lines = middle,
+xlabel = $x$,
+ylabel = {$y$},
+]
+%Below the red parabola is defined
+\addplot [
+    domain=-10:10, 
+    samples=100, 
+    color=red,
+]
+{0};
+\addplot [
+    domain=-10:10, 
+    samples=100, 
+    color=black,
+]
+{x};
+\addplot [
+    domain=-10:10, 
+    samples=100, 
+    color=black,
+]
+{-x};
+\node at (axis cs:0,0) [anchor=north east] {(0, 0)};
+\end{axis}
+\end{tikzpicture}
+\]
+
+A. ✔️
+
+B. ✷
+```

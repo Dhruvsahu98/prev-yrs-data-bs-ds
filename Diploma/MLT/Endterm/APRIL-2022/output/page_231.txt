@@ -1,0 +1,52 @@
+```python
+Question Label : Multiple Select Question
+
+We wish to classify a set of data-points in 2D space. Unfortunately, we don’t have access to the 
+labels. Though not very accurate, one approach is to first cluster the points using K-means 
+algorithm and then build a Naive Bayes classifier using the cluster labels as the class labels.
+
+Let us use \( k = 2 \) for K-means. Upon execution, the algorithm gives us two clusters with labels 1 and 
+2, and centroids \( \alpha_1 \) and \( \alpha_2 \) respectively. Both are vectors of length 2. A Gaussian NB model is fit on 
+this data. If \( \mu_1 \) and \( \mu_2 \) are the estimated means of the bi-variate Gaussian distribution for classes 1 
+and 2, which of the following statements are true?
+
+Options :
+A. \(\mu_1 = \alpha_1\)
+B. \(\mu_2 = \alpha_2\)
+C. \(\mu_1 = \mu_2 = \alpha_1 + \alpha_2\)
+D. \(\mu_1 = \mu_2 = \frac{\alpha_1 + \alpha_2}{2}\)
+E. \(\mu_1 = \frac{\alpha_1}{2}\)
+F. \(\mu_2 = \frac{\alpha_2}{2}\)
+
+\begin{equation}
+A. \quad \mu_1 = \alpha_1
+\end{equation}
+
+\begin{equation}
+B. \quad \mu_2 = \alpha_2
+\end{equation}
+
+\begin{equation}
+C. \quad \mu_1 = \mu_2 = \alpha_1 + \alpha_2
+\end{equation}
+
+\begin{equation}
+D. \quad \mu_1 = \mu_2 = \frac{\alpha_1 + \alpha_2}{2}
+\end{equation}
+
+\begin{equation}
+E. \quad \mu_1 = \frac{\alpha_1}{2}
+\end{equation}
+
+\begin{equation}
+F. \quad \mu_2 = \frac{\alpha_2}{2}
+\end{equation}
+
+Question Number : 351 Question Type : MSQ
+
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+
+Consider a training dataset with three features A, B and C and label Y as shown in the table below.
+```

@@ -1,0 +1,48 @@
+```python
+Instructions:
+
+1. Always add dummy feature in the beginning of feature matrix where necessary.
+2. Do NOT write your answers as percentages. E.g. if your answer is computed to be 12%, then type 0.12.
+3. Answers are case sensitive.
+4. Do NOT include single or double quotes in your typed answers.
+
+Useful Data
+
+Logistic Regression
+Inference using logistic regression happens as follows. \( T \) is called the threshold and is some real number in the interval (0,1). \(\hat{y}\) stands for the predicted label.
+
+\[
+\hat{y} =
+\begin{cases} 
+1, & P(y = 1 \mid x) \geq T \\
+0, & \text{otherwise}
+\end{cases}
+\]
+
+The threshold is usually set to 0.5 unless otherwise specified.
+
+Multivariate Gaussian Distribution
+\( x \) is a vector of size \( m \). \( \mu \) is the mean vector of size \( m \). \( \Sigma \) is the covariance matrix of size \( m \times m \). The PDF is given by:
+
+\[
+p(x) = \frac{1}{\sqrt{(2\pi)^m |\Sigma|}} \exp \left( -\frac{1}{2} (x - \mu)^T \Sigma^{-1} (x - \mu) \right)
+\]
+
+If \( m = 2 \), then this is called a bi-variate Gaussian distribution.
+
+Options :
+
+A. \checkmark Useful Data has been mentioned above.
+B. \text{* This data attachment is just for a reference \& not for an evaluation.}
+
+Question Number : 333 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following statements are true regarding discriminative models?
+
+1. They use probability distributions for modeling the underlying data generation process.
+2. They learn separators between classes, instead of learning the underlying data generation process.
+```

@@ -1,0 +1,62 @@
+```python
+A  B  C  Y
+0  0  0  T
+1  0  0  T
+1  1  0  T
+1  1  1  F
+0  1  1  T
+0  0  1  T
+```
+
+Which of the following trees will give the zero mis-classification error on the training dataset?
+
+\[
+\begin{array}{ccccc}
+A & B & C & Y \\
+0 & 0 & 0 & T \\
+1 & 0 & 0 & T \\
+1 & 1 & 0 & T \\
+1 & 1 & 1 & F \\
+0 & 1 & 1 & T \\
+0 & 0 & 1 & T \\
+\end{array}
+\]
+
+\begin{figure}[h!]
+    \centering
+    \begin{minipage}{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{T1.png} % first figure itself
+        \caption*{T1}
+    \end{minipage}\hfill
+    \begin{minipage}{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{T2.png} % second figure itself
+        \caption*{T2}
+    \end{minipage}
+    \begin{minipage}{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{T3.png} % third figure itself
+        \caption*{T3}
+    \end{minipage}\hfill
+    \begin{minipage}{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{T4.png} % fourth figure itself
+        \caption*{T4}
+    \end{minipage}
+\end{figure}
+
+Note: In the trees, predictions are mentioned in the leaf nodes and in other nodes, the attribute along which the node is split is mentioned.
+
+Options :
+
+A. ✵ T1
+
+B. ✔ T2
+
+C. ✵ T3
+
+D. ✔ T4
+
+Page 233 of 308
+```

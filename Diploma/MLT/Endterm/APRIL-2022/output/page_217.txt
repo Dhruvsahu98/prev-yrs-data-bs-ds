@@ -1,0 +1,49 @@
+```python
+f(x) = 
+\begin{cases} 
+\frac{1}{4} e^{- \frac{x}{4}} & \text{if } 0 \le x < \infty \\
+0 & \text{otherwise}
+\end{cases}
+```
+
+Find the probability that time between calls not exceeds the mean time. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+0.58 to 0.70
+
+
+Question Number : 330 Question Type : SA
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+Suppose that the lifetime of light bulbs is modeled by an exponential distribution with unknown parameter \(\lambda\). We test 5 bulbs and find that they have lifetimes of 3, 4, 2, 5 and 6 years respectively. What is the Maximum likelihood estimate for \(\lambda\)? Enter your answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+0.23 to 0.27
+
+
+MLT
+Page 218 of 308
+```

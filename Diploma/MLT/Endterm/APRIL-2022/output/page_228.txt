@@ -1,0 +1,36 @@
+```plaintext
+Select the suitable kernel(s) for the SVM model to classify the datapoints.
+
+Options :
+A. ✵ Linear kernel
+B. ✵ Quadratic kernel
+C. ✔ Cubic kernel
+D. ✔ Radial basis function kernel
+E. ✵ None of these
+
+Question Number : 347 Question Type : MSQ
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Which among the following are some of the differences between bagging and boosting?
+
+Options :
+A. ✵ In bagging we use the same classification algorithm for training on each sample of the data, whereas in boosting, we use different classification algorithms on the different training data samples
+B. ✔ Bagging is easy to parallelise whereas boosting is inherently a sequential process
+C. ✔ In bagging we typically use sampling with replacement whereas in boosting, we typically use weighted sampling techniques
+D. ✔ In comparison with the performance of a base classifier on a particular data set, bagging will generally not increase the error whereas boosting may lead to an increase in the error
+
+Question Number : 348 Question Type : MSQ
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Which of the following statements are true?
+
+Options :
+A. ✔ Bagging reduces variance of the classifier
+B. ✵ Bagging increases the variance of the classifier
+```

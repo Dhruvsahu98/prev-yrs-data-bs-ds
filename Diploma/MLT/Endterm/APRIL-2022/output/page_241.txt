@@ -1,0 +1,77 @@
+```python
+negative class. Charu trains a k-NN model on the entire dataset with k = 43. She computes
+classification metrics. Which of the following is likely to be output of her training:
+
+Options :
+A. ❌ Accuracy will be 0.
+B. ✔ Accuracy will be 0.9895.
+C. ✔ F1 score will be 0.
+D. ❌ F1 score will be low but greater than 0.
+E. ❌ Recall will be low but greater than 0.
+F. ✔ Recall score will be 0.
+
+Question Type : COMPREHENSION
+
+Question Numbers : (362 to 363)
+Question Label : Comprehension
+You have a non-linear dataset with two classes and want to use a support vector machine classifier
+to this dataset. Assume that you are using soft margin SVM. The dataset on which you are training
+is given below:
+
+\[
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[
+    title={Data points},
+    xlabel={$x1$},
+    ylabel={$x2$},
+    xmin=-6, xmax=6,
+    ymin=-3, ymax=9,
+    axis lines=middle,
+    legend pos=north west,
+    ymajorgrids=true,
+    grid style=dashed,
+]
+\addplot[
+    scatter,
+    only marks,
+    scatter src=explicit symbolic
+]
+table[meta=label] {
+x y label
+1 2 A
+2 3 A
+3 4 A
+4 5 A
+5 6 A
+6 7 A
+7 8 A
+-1 2 B
+-2 3 B
+-3 4 B
+-4 5 B
+-5 6 B
+-6 7 B
+-7 8 B
+1 -2 A
+2 -3 A
+3 -4 A
+4 -5 A
+5 -6 A
+6 -7 A
+7 -8 A
+-1 -2 B
+-2 -3 B
+-3 -4 B
+-4 -5 B
+-5 -6 B
+-6 -7 B
+-7 -8 B
+};
+\addlegendentry{Class A}
+\addlegendentry{Class B}
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\]
+```

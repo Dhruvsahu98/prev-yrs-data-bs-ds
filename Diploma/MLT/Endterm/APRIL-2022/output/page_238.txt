@@ -1,0 +1,58 @@
+```python
+# Table in LaTeX format
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+$x_1$ & $x_2$ & $Y$ \\ \hline
+1     & 90.5  & 55  \\ \hline
+2     & 95    & 81  \\ \hline
+2     & 70.5  & 45  \\ \hline
+1     & 92    & 72  \\ \hline
+3     & 83.5  & 66  \\ \hline
+3     & 88    & 58  \\ \hline
+2     & 91    & 96  \\ \hline
+2     & 78    & 42  \\ \hline
+3     & 60    & 57  \\ \hline
+3     & 91    & 86  \\ \hline
+\end{tabular}
+\end{table}
+
+# Regression Tree Diagram in LaTeX format
+\begin{figure}[h!]
+\centering
+\begin{tikzpicture}[sibling distance=10em,
+  every node/.style = {shape=rectangle, rounded corners,
+    draw, align=center,
+    top color=white, bottom color=blue!20}]]
+  \node {dataset}
+    child { node {node1}
+      child { node {node3} }
+      child { node {node4} }
+    }
+    child { node {node2} };
+\end{tikzpicture}
+\caption{Regression Tree}
+\end{figure}
+
+# Provided question as plain text
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 357 Question Type : SA
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+If a student has opted 2 courses and his average score of graded assignments is 83, What will be the predicted final exam’s score for him as per the given tree? Enter your answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+```
