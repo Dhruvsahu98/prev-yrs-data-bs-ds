@@ -1,0 +1,36 @@
+```plaintext
+Sub-Section Number : 5
+Sub-Section Id : 64065380921
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653565998 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix 
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (34 to 35)
+Question Label : Comprehension
+
+Suppose \( X \sim \text{Binomial}(6, p) \), then
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 34 Question Id : 640653565999 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Find the value of \( p \) for which \( 9P(X = 4) = P(X = 2) \).
+
+Options :
+
+\[
+\begin{itemize}
+  \item 6406531891606. \(\frac{1}{4}\) 
+  \item 6406531891607. \(\frac{1}{2}\) 
+  \item 6406531891608. \(\frac{3}{4}\) 
+\end{itemize}
+\]
+```

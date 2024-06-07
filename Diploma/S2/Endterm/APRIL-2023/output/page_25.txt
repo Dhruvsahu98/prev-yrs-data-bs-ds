@@ -1,0 +1,29 @@
+```python
+9. Bayesian estimation: Let \(X_1, \ldots, X_n \sim \text{i.i.d.} X\), parameter \(\Theta\).
+   Prior distribution of \(\Theta\): \(\Theta \sim f_{\theta}(\theta)\).
+   Samples, \(S : (X_1 = x_1, \ldots, X_n = x_n)\)
+   Posterior: \(\Theta | (X_1 = x_1, \ldots, X_n = x_n)\)
+   Bayes' rule: Posterior \(\propto\) Prior \(\times\) Likelihood
+   Posterior density \(\propto f_{\theta}(\theta) \times P(X_1 = x_1, \ldots, X_n = x_n | \Theta = \theta)\)
+
+10. Normal samples with unknown mean and known variance:
+    \(X_1, \ldots, X_n \sim \text{i.i.d. Normal}(M, \sigma^2)\).
+    Prior \(M \sim \text{Normal}(\mu_0, \sigma_0^2)\).
+    Posterior mean: \(\mu = \overline{X} \left( \frac{\frac{\sigma_0^2}{n}}{\frac{\sigma_0^2}{n} + \sigma^2} \right) + \mu_0 \left( \frac{\sigma^2}{\frac{\sigma_0^2}{n} + \sigma^2} \right)\)
+
+11. Hypothesis Testing
+    * Test for mean
+    Case (1): When population variance \(\sigma^2\) is known (\(z\)-test)
+
+    \[
+    \begin{array}{|c|c|c|c|c|}
+    \hline
+    \text{Test} & H_0 & H_A & \text{Test statistic} & \text{Rejection region} \\
+    \hline
+    \text{right-tailed} & \mu = \mu_0 & \mu > \mu_0 & T = \frac{\overline{X} - \mu_0}{\sigma / \sqrt{n}} & \overline{X} > c \\
+    \text{left-tailed} & \mu = \mu_0 & \mu < \mu_0 & T = \frac{\overline{X} - \mu_0}{\sigma / \sqrt{n}} & \overline{X} < c \\
+    \text{two-tailed} & \mu = \mu_0 & \mu \neq \mu_0 & T = \frac{\overline{X} - \mu_0}{\sigma / \sqrt{n}} & |\overline{X} - \mu_0| > c \\
+    \hline
+    \end{array}
+    \]
+```

@@ -1,0 +1,45 @@
+```python
+0.1
+
+Question Id : 640653566004 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (38 to 39)
+
+Question Label : Comprehension
+
+The density function of a continuous random variable \( X \) is given by
+\[
+f_X(x) = 
+\begin{cases} 
+\frac{1 + \theta x}{2}, & -1 < x < 1, \\
+0, & \text{otherwise},
+\end{cases}
+\]
+where \( -1 < \theta < 1 \).
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 38 Question Id : 640653566005 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Consider a random sample (–0.2, 0.3, 0.7, –0.6, 0.1). Find the method of moments estimate of \( \theta \) for the given sample. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.16 to 0.20
+
+Question Number : 39 Question Id : 640653566006 Question Type : SA Calculator : None
+```

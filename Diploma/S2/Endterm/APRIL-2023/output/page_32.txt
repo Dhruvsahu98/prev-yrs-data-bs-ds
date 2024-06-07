@@ -1,0 +1,44 @@
+```plaintext
+1
+8
+
+6406531891609. 🌼 0
+
+Question Number : 35 Question Id : 640653566000 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+Find \(E[X^2]\). Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+3.35 to 3.41
+
+Question Id : 640653566001 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (36 to 37)
+
+Question Label : Comprehension
+
+Let \(X\) and \(Y\) be two random variables having joint density function:
+\[ f_{XY}(x, y) = \begin{cases} 
+k x^2 y, & \text{if } 0 < x < 1, 0 < y < 1, \\
+0, & \text{otherwise}.
+\end{cases} \]
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+```

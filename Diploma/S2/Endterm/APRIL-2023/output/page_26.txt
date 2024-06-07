@@ -1,0 +1,40 @@
+```python
+Case (2): When population variance $\sigma^2$ is unknown (t-test)
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Test & $H_0$ & $H_A$ & Test statistic & Rejection region \\ \hline
+right-tailed & $\mu = \mu_0$ & $\mu > \mu_0$ & $T = \frac{\bar{X} - \mu_0}{S/\sqrt{n}} \sim t_{n-1}$ & $\bar{X} > c$ \\ \hline
+left-tailed & $\mu = \mu_0$ & $\mu < \mu_0$ & $T = \frac{\bar{X} - \mu_0}{S/\sqrt{n}} \sim t_{n-1}$ & $\bar{X} < c$ \\ \hline
+two-tailed & $\mu = \mu_0$ & $\mu \neq \mu_0$ & $T = \frac{\bar{X} - \mu_0}{S/\sqrt{n}} \sim t_{n-1}$ & $|\bar{X} - \mu_0| > c$ \\ \hline
+\end{tabular}
+\end{table}
+
+$\chi^2$-test for variance:
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Test & $H_0$ & $H_A$ & Test statistic & Rejection region \\ \hline
+right-tailed & $\sigma = \sigma_0$ & $\sigma > \sigma_0$ & $T = \frac{(n-1)S^2}{\sigma_0^2} \sim \chi^2_{n-1}$ & $S^2 > c^2$ \\ \hline
+left-tailed & $\sigma = \sigma_0$ & $\sigma < \sigma_0$ & $T = \frac{(n-1)S^2}{\sigma_0^2} \sim \chi^2_{n-1}$ & $S^2 < c^2$ \\ \hline
+two-tailed & $\sigma = \sigma_0$ & $\sigma \neq \sigma_0$ & $T = \frac{(n-1)S^2}{\sigma_0^2} \sim \chi^2_{n-1}$ & $S^2 > c^2$ where $\frac{\alpha}{2} = P(S^2 > c^2)$ or $S^2 < c^2$ where $\frac{\alpha}{2} = P(S^2 < c^2)$ \\ \hline
+\end{tabular}
+\end{table}
+
+Two samples z-test for means:
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Test & $H_0$ & $H_A$ & Test statistic & Rejection region \\ \hline
+right-tailed & $\mu_1 = \mu_2$ & $\mu_1 > \mu_2$ & $T = \bar{X} - \bar{Y} \\ \bar{X} - \bar{Y} \sim \text{Normal}\left(0, \frac{\sigma_1^2}{n_1} + \frac{\sigma_2^2}{n_2}\right)$ if $H_0$ is true & $\bar{X} - \bar{Y} > c$ \\ \hline
+left-tailed & $\mu_1 = \mu_2$ & $\mu_1 < \mu_2$ & $T = \bar{Y} - \bar{X} \\ \bar{Y} - \bar{X} \sim \text{Normal}\left(0, \frac{\sigma_2^2}{n_2} + \frac{\sigma_1^2}{n_1}\right)$ if $H_0$ is true & $\bar{Y} - \bar{X} > c$ \\ \hline
+two-tailed & $\mu_1 = \mu_2$ & $\mu_1 \neq \mu_2$ & $T = \bar{X} - \bar{Y} \\ \bar{X} - \bar{Y} \sim \text{Normal}\left(0, \frac{\sigma_1^2}{n_1} + \frac{\sigma_2^2}{n_2}\right)$ if $H_0$ is true & $|\bar{X} - \bar{Y}| > c$ \\ \hline
+\end{tabular}
+\end{table}
+```

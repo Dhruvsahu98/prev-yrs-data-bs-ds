@@ -1,0 +1,54 @@
+```plaintext
+Text Areas : PlainText
+
+Possible Answers :
+
+0.310 to 0.316
+```
+
+```plaintext
+Question Number : 30 Question Id : 640653565995 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+\[
+\text{Suppose } X \sim \text{Uniform}[0, \theta], \text{ where } \theta \text{ is an unknown constant. Consider a sample } (4, 7, 8, 11, 5). \text{ Let } \hat{\theta}_{MME} \text{ and } \hat{\theta}_{ML} \text{ be the method of moments estimator and the maximum likelihood estimator of } \theta, \text{ respectively. Find } |\hat{\theta}_{MME} - \hat{\theta}_{ML}|.
+\]
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+3
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065380919
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+```
+
+```plaintext
+Question Number : 31 Question Id : 640653565996 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statement(s) is/are correct?
+
+Options :
+```

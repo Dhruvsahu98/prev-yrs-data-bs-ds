@@ -1,0 +1,135 @@
+```python
+# Discrete random variables:
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Distribution & PMF \( f_X(k) \) & CDF \( F_X(x) \) & \( \mathbb{E}[X] \) & \( \text{Var}(X) \) \\
+\hline
+Uniform(A) \\
+\( A = \{a, a+1, \ldots, b\} \) & 
+\(
+\begin{cases}
+\frac{1}{b-a+1} & k = a, a+1, \ldots, b \\
+0 & \text{otherwise}
+\end{cases}
+\) &
+\(
+\begin{cases}
+0 & x < 0 \\
+\frac{k-a+1}{n} & k \leq x < k+1 \\
+1 & x \geq n
+\end{cases}
+\) &
+\( \frac{a+b}{2} \) &
+\( \frac{(b-a+1)^2 - 1}{12} \) \\
+\hline
+Bernoulli(p) & 
+\(
+\begin{cases}
+p & x = 1 \\
+1-p & x = 0
+\end{cases}
+\) &
+\(
+\begin{cases}
+0 & x < 0 \\
+1 - p & 0 \leq x < 1 \\
+1 & x \geq 1
+\end{cases}
+\) &
+\( p \) &
+\( p(1-p) \) \\
+\hline
+Binomial(n, p) & 
+\( \binom{n}{k}p^k(1-p)^{n-k}, \, k=0,1,\ldots,n \) &
+\(
+\begin{cases}
+0 & x < 0 \\
+\sum_{i=0}^k \binom{n}{i}p^i(1-p)^{n-i} & k \leq x < k+1 \\
+1 & x \geq n
+\end{cases}
+\) &
+\( np \) &
+\( np(1-p) \) \\
+\hline
+Geometric(p) & 
+\( (1-p)^{k-1}p, \, k=1,\ldots,\infty \) &
+\(
+\begin{cases}
+0 & x < 0 \\
+1 - (1-p)^k & k \leq x < k+1 \\
+1 & x \geq \infty
+\end{cases}
+\) &
+\( \frac{1}{p} \) &
+\( \frac{1-p}{p^2} \) \\
+\hline
+Poisson(\(\lambda\)) & 
+\( \frac{e^{-\lambda}\lambda^k}{k!}, \, k=0,1,\ldots,\infty \) &
+\(
+\begin{cases}
+0 & x < 0 \\
+e^{-\lambda} \sum_{i=0}^k \frac{\lambda^i}{i!} & k \leq x < k+1 \\
+1 & x \geq \infty
+\end{cases}
+\) &
+\( \lambda \) &
+\( \lambda \) \\
+\hline
+\end{tabular}
+\caption{Discrete random variables}
+\end{table}
+
+# Continuous random variables:
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Distribution & PDF \( f_X(x) \) & CDF \( F_X(x) \) & \( \mathbb{E}[X] \) & \( \text{Var}(X) \) \\
+\hline
+Uniform[a, b] & 
+\( \frac{1}{b-a}, \, a \leq x \leq b \) &
+\(
+\begin{cases}
+0 & x \leq a \\
+\frac{x-a}{b-a} & a < x < b \\
+1 & x \geq b
+\end{cases}
+\) &
+\( \frac{a+b}{2} \) &
+\( \frac{(b-a)^2}{12} \) \\
+\hline
+Exp(\(\lambda\)) & 
+\( \lambda e^{-\lambda x}, \, x > 0 \) &
+\(
+\begin{cases}
+0 & x \leq 0 \\
+1 - e^{-\lambda x} & x > 0
+\end{cases}
+\) &
+\( \frac{1}{\lambda} \) &
+\( \frac{1}{\lambda^2} \) \\
+\hline
+Normal(\(\mu, \sigma^2\)) &
+\( \frac{1}{\sqrt{2\pi\sigma^2}} \exp\left( -\frac{(x-\mu)^2}{2\sigma^2} \right), \, -\infty < x < \infty \) &
+No closed form &
+\( \mu \) &
+\( \sigma^2 \) \\
+\hline
+Gamma(\(\alpha, \beta\)) & 
+\( \frac{\beta^\alpha}{\Gamma(\alpha)} x^{\alpha-1} e^{-\beta x}, \, x > 0 \) &
+- &
+\( \frac{\alpha}{\beta} \) &
+\( \frac{\alpha}{\beta^2} \) \\
+\hline
+Beta(\(\alpha, \beta\)) & 
+\( \frac{\Gamma(\alpha+\beta)}{\Gamma(\alpha)\Gamma(\beta)} x^{\alpha-1} (1-x)^{\beta-1}, \, 0 < x < 1 \) &
+- &
+\( \frac{\alpha}{\alpha+\beta} \) &
+\( \frac{\alpha\beta}{(\alpha+\beta)^2(\alpha+\beta+1)} \) \\
+\hline
+\end{tabular}
+\caption{Continuous random variables}
+\end{table}
+```

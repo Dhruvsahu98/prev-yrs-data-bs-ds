@@ -1,0 +1,43 @@
+```plaintext
+3
+
+Question Number : 26 Question Id : 640653565990 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Which of the following denotes the column space of A? (More than one option may be correct)
+
+Options :
+
+6406531891584. ✔
+\( \mathbb{R}^3 \)
+
+6406531891585. ✖
+\[
+Span\{(-1, -1, 1)\}
+\]
+
+6406531891586. ✖
+\[
+Span\{(3, 6, 2), (3, -2, 2)\}
+\]
+
+6406531891587. ✔
+\[
+Span\{(3, 6, 2), (3, -2, 2), (-1, -1, 1)\}
+\]
+
+
+Statistics2
+
+Section Id : 64065338399
+Section Number : 2
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 12
+Number of Questions to be attempted : 12
+Section Marks : 40
+Display Number Panel : Yes
+Group All Questions : No
+```

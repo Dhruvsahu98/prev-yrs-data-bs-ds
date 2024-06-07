@@ -1,0 +1,44 @@
+```python
+Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Find the posterior distribution of \( p \).
+
+Options :
+
+1. 6406531891618. * \(\mathrm{Uniform}[0, 1]\)
+
+2. 6406531891619. * \(\mathrm{Beta}(2, 6)\)
+
+3. 6406531891620. ✔ \(\mathrm{Beta}(3, 7)\)
+
+4. 6406531891621. * \(\frac{1}{4}\) with probability 1
+
+Question Number : 41 Question Id : 640653566009 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Find the posterior mean. Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.3
+
+Question Id : 640653566010 Question Type : COMPREHENSION Sub Question Shuffling
+```

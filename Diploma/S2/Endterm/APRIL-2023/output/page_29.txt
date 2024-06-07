@@ -1,0 +1,49 @@
+```python
+6406531891598. ✔
+
+If the P-value of a test is 0.025, then the corresponding test will reject the null hypothesis at the significance level of 0.03.
+
+6406531891599. ❌
+
+\[ \alpha + \beta = 1 \] for all statistical tests, where \(\alpha\) is the significance level and \(\beta\) is the probability of correctly rejecting the null hypothesis.
+
+6406531891600. ❌
+
+The probability of accepting the null hypothesis when it is false is equal to the power of the test.
+
+6406531891601. ✔
+
+The probability of rejecting the Null hypothesis when it is true is called the level of significance.
+
+Sub-Section Number : 4
+
+Sub-Section Id : 64065380920
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 32 Question Id : 640653565994 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Suppose \(X_1, X_2, X_3\) are i.i.d. samples from a distribution \(X\) with an unknown mean \(\mu\) and variance \(\sigma^2\). Let 
+\[
+\hat{\mu}_1 = X_1 + X_2 - X_3, \quad \hat{\mu}_2 = 3X_1 + 2X_2 - 4X_3 \quad \text{and} \quad \hat{\mu}_3 = \frac{X_1}{2} + \frac{X_2}{2} - \frac{X_3}{2} 
+\]
+be three unbiased estimators of \(\mu\). Which of the following is true?
+
+Options :
+
+6406531891593. ❌
+
+\[ Var(\hat{\mu}_1) < Var(\hat{\mu}_3) < Var(\hat{\mu}_2) \]
+
+6406531891594. ❌
+
+\[ Var(\hat{\mu}_2) > Var(\hat{\mu}_3) > Var(\hat{\mu}_1) \]
+```
