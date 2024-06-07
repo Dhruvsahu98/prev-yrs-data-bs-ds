@@ -1,0 +1,56 @@
+```plaintext
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+60
+```
+
+```plaintext
+Question Number : 298 Question Id : 640653357322 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+```
+
+```plaintext
+Consider the following network architecture:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Layer & Number of Neurons \\
+\hline
+Input & 10 \\
+Hidden layer-1 & 20 \\
+Hidden layer-2 & 30 \\
+Output layer & 3 \\
+\hline
+\end{tabular}
+\end{table}
+```
+
+```plaintext
+How many parameters (weights + biases) does this network have?
+```
+
+```plaintext
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+943
+```
+
+```plaintext
+Question Number : 299 Question Id : 640653357327 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+```
+
+```plaintext
+The MNIST digit classification problem has 10 classes. The training dataset has \(n\) data points, with an equal number of points from each of the 10 classes. Consider a dummy classifier that does prediction as follows: for each input data-point, it picks one of the 10 classes at random (uniformly) and outputs that as its prediction. What is the accuracy of the model on the training dataset as \(n\)
+```

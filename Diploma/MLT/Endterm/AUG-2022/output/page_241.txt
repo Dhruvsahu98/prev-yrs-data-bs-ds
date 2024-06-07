@@ -1,0 +1,60 @@
+```python
+Question Shuffling Allowed : Yes
+
+Question Number : 285 Question Id : 640653357298 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+Consider feature matrix \( \mathbf{X} = \begin{bmatrix}
+1 & 2 \\
+2 & 1 \\
+2 & 3 
+\end{bmatrix} \), label vector \( \mathbf{y} = \begin{bmatrix}
+4 \\
+5 \\
+2 
+\end{bmatrix} \) and the weight vector is \( \mathbf{w} = \begin{bmatrix}
+1 \\
+-2 \\
+3 
+\end{bmatrix} \). Add a dummy feature to \( \mathbf{X} \).
+
+What will be the value of the loss function if a regression model without regularization is fitted?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+20.5 to 21.5
+
+Question Number : 286 Question Id : 640653357329 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+```
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+Consider feature matrix \( \mathbf{X} = \begin{bmatrix}
+1 & 2 \\
+2 & 1 \\
+2 & 3 
+\end{bmatrix} \), label vector \( \mathbf{y} = \begin{bmatrix}
+4 \\
+5 \\
+2 
+\end{bmatrix} \) and the weight vector is \( \mathbf{w} = \begin{bmatrix}
+1 \\
+-2 \\
+3 
+\end{bmatrix} \). Add a dummy feature to \( \mathbf{X} \).
+
+What will be the value of the loss function if a regression model without regularization is fitted?
+\end{document}
+```

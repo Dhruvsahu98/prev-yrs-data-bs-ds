@@ -1,0 +1,32 @@
+```python
+Options :
+
+\[
+\sum_{i=1}^{n} r_i ( \mathbf{w}^T \mathbf{X}_i - y_i ) \mathbf{X}_i
+\]
+6406531184367. ✔
+
+\[
+\sum_{i=1}^{n} r_i ( \mathbf{w}^T \mathbf{X}_i - y_i )
+\]
+6406531184368. ✖
+
+\[
+\sum_{i=1}^{n} ( \mathbf{w}^T \mathbf{X}_i - y_i ) \mathbf{X}_i
+\]
+6406531184369. ✖
+
+\[
+\sum_{i=1}^{n} r_i ( \mathbf{w}^T \mathbf{X}_i - y_i )^2 \mathbf{X}_i
+\]
+6406531184370. ✖
+
+Question Number : 288 Question Id : 640653357320 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider unlabeled data with two features \(X_1\) and \(X_2\) as shown in the figure.
+```

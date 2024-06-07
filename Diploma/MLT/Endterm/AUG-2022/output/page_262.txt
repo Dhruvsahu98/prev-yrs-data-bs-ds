@@ -1,0 +1,59 @@
+```python
+# Text from the provided document image:
+
+Consider that the AdaBoost model is trained on the following binary classification dataset.
+
+\[
+\begin{array}{|c|c|c|}
+\hline
+X_1 & X_2 & \text{Label (y)} \\
+\hline
+2 & 5 & \text{true} \\
+2.5 & 6 & \text{false} \\
+3 & 5 & \text{true} \\
+4 & 3 & \text{false} \\
+4 & 4 & \text{false} \\
+\hline
+\end{array}
+\]
+
+The data-set is split according to the feature \( X_1 \) to create the first stump. Equal sample weights are assigned to each example to create the first stump and the Gini-index measure is used to split the data.
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number : 310 Question Id : 640653357317 Question Type : SA Calculator : None**
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+What will be the performance of the first stump? Enter your answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.67 to 0.72
+
+**Question Number : 311 Question Id : 640653357318 Question Type : SA Calculator : None**
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+What sample weight will be assigned to the first example to create the next stump? Don’t
+```

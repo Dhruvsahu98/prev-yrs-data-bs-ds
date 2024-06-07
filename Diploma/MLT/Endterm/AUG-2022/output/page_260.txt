@@ -1,0 +1,50 @@
+```plaintext
+Consider the following training data-set with three features:
+\(X_1\) = Present price of the car (values are given in lac)
+\(X_2\) = Age (How many years the car has been driven)
+\(X_3\) = Fuel-type (diesel or LPG)
+
+\[
+\begin{array}{cccc}
+X_1 & X_2 & X_3 & \text{Selling price } (y) \\
+\hline
+7.7 & 5 & \text{Diesel} & 4.5 \\
+6.5 & 6 & \text{Diesel} & 2.0 \\
+11.2 & 5 & \text{LPG} & 7.0 \\
+8.4 & 3 & \text{Diesel} & 6.0 \\
+5.0 & 4 & \text{LPG} & 2.5 \\
+7.5 & 3 & \text{LPG} & 4.5 \\
+10.0 & 5 & \text{LPG} & 6.5 \\
+18.0 & 5 & \text{Diesel} & 12.0 \\
+12.1 & 8 & \text{Diesel} & 6.0 \\
+7.5 & 6 & \text{Diesel} & 3.0 \\
+\end{array}
+\]
+
+Its regression tree is given below. In the tree, each node is denoted by the feature along which it is split.
+
+\[
+\begin{array}{c}
+  & X_1 \\
+  & \leq 7.5 & \quad & > 7.5 \\
+  & / & \quad & \backslash \\
+X_2 \leq 5 & \quad & X_2 > 5 & \quad & X_3 \\
+/ & \quad & \backslash & \quad & / & \quad & \backslash \\
+\text{Leaf 1} & \quad & X_1 \leq 6.5 & \quad & X_1 > 6.5 & \quad & \text{Diesel} & \quad & \text{LPG} \\
+& \quad & / & \quad & \backslash & \quad & \text{Leaf 4} & \quad & \text{Leaf 5} \\
+& \quad & \text{Leaf 2} & \quad & \text{Leaf 3} \\
+\end{array}
+\]
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 308 Question Id : 640653357313 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks: 2
+Question Label: Short Answer Question
+How many samples of the training data-set belong to Leaf 1?
+
+Response Type: Numeric
+```

@@ -1,0 +1,33 @@
+```plaintext
+Question Label : Multiple Choice Question
+
+Consider a neural network for a multi-class, image classification problem. When the network is trained on the images as they are, it does a good job on the test data. Call the dataset (train + test) for this setup \(D_1\) and the network \(N_1\). Assume that we now turn all images upside down, in both the training and test dataset. Now, the network with the same architecture is trained from scratch on this modified dataset. Call the dataset (train + test) for this setup \(D_2\) and network \(N_2\). Select the most appropriate option.
+
+Options :
+1. 6406531184408. ❋ The network \(N_2\) will not be able to learn anything from \(D_2\). Its test accuracy on \(D_2\) will be very low.
+
+2. 6406531184409. ✔ The network \(N_2\) will be able to learn useful patterns from \(D_2\). In fact, the performance of network \(N_2\) on \(D_2\) will be similar to \(N_1\) on \(D_1\).
+
+3. 6406531184410. ❋ The network \(N_2\) will be able to learn somewhat useful patterns from \(D_2\). But the performance of \(N_1\) on \(D_1\) will be much better than \(N_2\) on \(D_2\).
+
+Question Number : 290 Question Id : 640653357328 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Two classifiers are trained on a dataset for a binary classification problem. They are then tested on the same dataset. The \(F_1\) scores of both classifiers are the same. \((p_1, r_1)\) and \((p_2, r_2)\) are the precision-recall scores for the two classifiers.
+
+Consider the following statements:
+
+Statement-1
+If \(p_1 > p_2\), then \(r_1 < r_2\)
+
+Statement-2
+If \(p_1 = p_2\), then \(r_1 = r_2\)
+
+Select the most appropriate option.
+
+Options :
+1. 6406531184421. ❋ Statement-1 is correct, statement-2 is incorrect
+```

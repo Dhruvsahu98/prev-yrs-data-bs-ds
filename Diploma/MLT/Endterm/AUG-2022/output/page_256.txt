@@ -1,0 +1,46 @@
+```python
+Inference using logistic regression happens as follows. \( T \) is called the threshold
+and is some real number in the interval (0, 1). \( \hat{y} \) stands for the predicted label.
+
+\[
+\hat{y} = 
+\begin{cases} 
+1, & P(y=1|x) \geq T \\
+0, & \text{otherwise}
+\end{cases}
+\]
+
+Given this setup, the equation of the decision boundary is given below:
+
+\[
+w^T x - u = 0
+\]
+
+\( w \) has the same dimensions as \( x \). The dummy feature is included in \( x \)
+and the corresponding weight is included in \( w \). If \( T = \frac{e}{1+e} \), what is the value
+of the unknown quantity \( u \)? Here, \( e \) is Euler's number that is associated with the
+natural logarithm and is the same one found on your calculator. Enter the closest
+integer as your answer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1
+
+Question Number : 305 Question Id : 640653357310 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Short Answer Question
+```
