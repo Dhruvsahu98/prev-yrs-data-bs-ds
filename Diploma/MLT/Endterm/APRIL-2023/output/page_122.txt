@@ -1,0 +1,42 @@
+```plaintext
+Correct Marks : 5
+
+Question Label : Short Answer Question
+
+Consider the \( K \)-means algorithm was run on the following two-dimensional dataset with \( K = 3 \). The initial cluster centroids are points A, B, and D as shown in the figure.
+
+\[
+\begin{array}{c|c|c|c|c|c|c|c}
+   &  &  &  &  &  &  &  \\
+   &  &  &  &  &  &  &  \\
+   &  &  &  &  &  &  &  \\
+   &  &  &  &  &  &  &  \\
+   &  &  &  &  &  &  &  \\
+   &  &  &  &  &  &  &  \\
+\end{array}
+\]
+
+How many cluster centroids in the final clusters will be the same as the initial cluster centroids? Use Euclidean distance to calculate the distance.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+2
+
+Question Number : 115 Question Id : 640653566086 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5
+
+Question Label : Short Answer Question
+```

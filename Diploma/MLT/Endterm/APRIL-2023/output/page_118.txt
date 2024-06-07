@@ -1,0 +1,25 @@
+```python
+6406531891873. $\begin{bmatrix} -1 \\ -1 \\ 2 \end{bmatrix}, -1$
+
+6406531891874. $\begin{bmatrix} 1 \\ 1 \\ -2 \end{bmatrix}, 1$
+
+Question Number : 109 Question Id : 640653566082 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Let $\mathcal{L}$ be the set of loss functions:
+$$\mathcal{L} = \{ \text{Hinge loss, Logistic loss, Squared loss, 0-1 loss} \}$$
+
+All the loss functions mentioned are evaluated for a single data-point $(x, y)$ and weight vector $\mathbf{w}$. Select all true statements.
+
+Options :
+
+6406531891883. ❌ The hinge loss is always greater than the logistic loss.
+
+6406531891884. ✔️ If $(\mathbf{w}^T \mathbf{x}) y = 1$, then the logistic loss is greater than the following losses: squared loss, hinge loss, 0-1 loss
+
+6406531891885. ❌ The 0-1 loss is convex
+
+6406531891886. ✔️ The squared loss has the maximum value among all the loss functions in $\mathcal{L}$ when $(\mathbf{w}^T \mathbf{x}) y$ is a very large number.
+```

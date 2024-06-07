@@ -1,0 +1,46 @@
+```plaintext
+Question Label: Comprehension
+
+Consider the following two-dimensional dataset with two classes:
++1 for blue points and -1 for red points. An AdaBoost algorithm
+was run on this dataset using decision stumps as weak learners.
+
+\[
+\begin{array}{cc}
+X_2 & \\
+4 & \\
+3 & \\
+2 & \\
+1 & \\
+0 & 1 \quad 2 \quad 3 \quad 4 \quad 5 \quad X_1
+\end{array}
+\]
+
+When training the new weak learner \( h_t(x) \) (decision stump at \( t^{th} \) iteration),
+we choose the split that minimizes the weighted misclassification error with
+respect to current weights \( D_t \) i.e. choose \( h_t \) that minimizes
+
+\[
+\sum_{i=1}^{n} D_t(i) 1(h_t(x_i) \neq y_i)
+\]
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number: 120
+Question Id: 640653566093
+Question Type: SA
+Calculator: None
+Response Time: N.A
+Think Time: N.A
+Minimum Instruction Time: 0
+Correct Marks: 3
+Question Label: Short Answer Question
+
+What will be the misclassification error incurred by the first decision stump?
+
+Response Type: Numeric
+
+Evaluation Required For SA: Yes
+```

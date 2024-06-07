@@ -1,0 +1,38 @@
+```plaintext
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.2
+```
+
+```plaintext
+Question Number : 121 Question Id : 640653566094 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+To train the second decision stump, which pair of points will be assigned equal weights to create the training dataset?
+Options :
+
+\[
+6406531891905. \begin{bmatrix} 2 \\ 2 \end{bmatrix}^T, \begin{bmatrix} 2 \\ 4 \end{bmatrix}^T
+\]
+
+\[
+6406531891906. \begin{bmatrix} 2 \\ 2 \end{bmatrix}^T, \begin{bmatrix} 1 \\ 4 \end{bmatrix}^T
+\]
+
+\[
+6406531891907. \begin{bmatrix} 1 \\ 1 \end{bmatrix}^T, \begin{bmatrix} 1 \\ 4 \end{bmatrix}^T
+\]
+
+\[
+6406531891908. \begin{bmatrix} 3 \\ 1 \end{bmatrix}^T, \begin{bmatrix} 1 \\ 4 \end{bmatrix}^T
+\]
+```
+
+```plaintext
+Question Number : 122 Question Id : 640653566095 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+What weight will be assigned to the point \([1, 1]^T\) when training the second decision stump, assuming the weights are not normalized to add up to one? Please enter your answer rounded to
+```

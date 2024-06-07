@@ -1,0 +1,62 @@
+```python
+two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0.11 to 0.15
+```
+
+```python
+AppDev1
+
+Section Id : 64065338403
+
+Section Number : 6
+
+Section type : Online
+
+Mandatory or Optional : Mandatory
+
+Number of Questions : 31
+
+Number of Questions to be attempted : 31
+
+Section Marks : 100
+
+Display Number Panel : Yes
+
+Group All Questions : No
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+
+Maximum Instruction Time : 0
+
+Sub-Section Number : 1
+
+Sub-Section Id : 64065380944
+
+Question Shuffling Allowed : No
+
+Is Section Default? : null
+```
+
+```python
+Question Number : 123
+Question Id : 640653566096
+Question Type : MCQ
+Is Question Mandatory : No
+Calculator : None
+Response Time : N.A
+Think Time : N.A
+Minimum Instruction Time : N.A
+```

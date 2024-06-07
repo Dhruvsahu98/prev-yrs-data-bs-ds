@@ -1,0 +1,39 @@
+```python
+The Gaussian Naive Bayes algorithm was run on the following dataset:
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \textbf{feature 1 ($f_1$)} & \textbf{feature 2 ($f_2$)} & \textbf{Label} \\ \hline
+        1.5 & 1.6 & 1 \\ \hline
+        2.2 & 2.4 & 1 \\ \hline
+        2.9 & 1.5 & 0 \\ \hline
+        1.7 & 0.8 & 1 \\ \hline
+    \end{tabular}
+\end{table}
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 117 Question Id : 640653566089 Question Type : SA Calculator : None 
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 1 
+Question Label : Short Answer Question 
+What will be the value of $\hat{p}$? 
+Enter your answer correct to two decimal places.
+
+Response Type : Numeric 
+Evaluation Required For SA : Yes 
+Show Word Count : Yes 
+Answers Type : Range 
+Text Areas : PlainText 
+Possible Answers : 
+0.74 to 0.76
+
+Question Number : 118 Question Id : 640653566090 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0 
+Correct Marks : 2
+```

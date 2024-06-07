@@ -1,0 +1,52 @@
+```plaintext
+Question Number : 110 Question Id : 640653566083 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Consider a supervised ML problem that has a training dataset and a validation dataset. A ML model is being trained on the training dataset using gradient descent and its performance is monitored on the validation dataset. The loss function \( L(t) \) at time step \( t \) is plotted against \( t \).
+
+\[
+\begin{tikzpicture}
+\begin{axis}[
+    xlabel={$t$},
+    ylabel={$L(t)$},
+    ymin=0, ymax=120,
+    xmin=0, xmax=10,
+    ytick={0,20,40,60,80,100},
+    xtick={0,2,4,6,8,10}
+]
+\addplot[
+    domain=0:10, 
+    samples=100, 
+    color=black,
+]
+{100 / (x + 1)};
+\addlegendentry{(1)}
+
+\addplot[
+    domain=0:10, 
+    samples=100, 
+    color=black,
+    dashed
+]
+{50 / (x + 1)};
+\addlegendentry{(2)}
+
+\end{axis}
+\end{tikzpicture}
+\]
+
+One of these curves corresponds to the model’s loss on the training dataset and the other corresponds to the model’s loss on the validation dataset. Identify the two curves. Consider a general scenario and not an extreme instance while answering this problem. Exactly two options are correct.
+
+Options :
+6406531891887. ✔ (1) is the loss on the validation dataset
+6406531891888. ✔ (2) is the loss on the training dataset
+6406531891889. ✖ (1) is the loss on the training dataset
+6406531891890. ✖ (2) is the loss on the validation dataset
+
+Sub-Section Number : 4
+Sub-Section Id : 64065380940
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+```

@@ -1,0 +1,43 @@
+```plaintext
+Consider a logistic regression model that has been trained for a binary classification problem on a dataset in $ \mathbb{R}^2 $. Consider two data-points from the training set: $(x_1, y_1)$ and $(x_2, y_2)$. The model's weight vector and these two data-points (along with their labels) are drawn in the diagram given below. The symbol $ + $ corresponds to label 1 and $ - $ corresponds to label 0.
+
+\begin{center}
+\begin{tikzpicture}
+    \draw[->] (-4,0) -- (4,0) node[right] {$x_1$};
+    \draw[->] (0,-4) -- (0,4) node[above] {$x_2$};
+    \draw (-3,-3) -- (3,3);
+    \node at (2, 2.5) {$x_1$};
+    \node at (-2, -2.5) {$x_2$};
+    \node at (1, 1.5) {$w$};
+    \node at (2, 3) {$-$};
+    \node at (-2, -3) {$+$};
+\end{tikzpicture}
+\end{center}
+
+$ \sigma_1 $ and $ \sigma_2 $ are the probabilities output by the model for the two data-points. If $ |\sigma_1 - y_1| $ and $ |\sigma_2 - y_2| $ are treated as the errors in prediction for the two data-points, compute the following quantity:
+
+\[
+\frac{|\sigma_1 - y_1|}{|\sigma_2 - y_2|}
+\]
+
+Note that the probability output by a logistic regression model is $ P(y = 1 \mid x) $. The figure is drawn to scale and you can use it to get the required values. Enter the nearest positive integer as your answer
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1
+
+
+Question Number : 116 Question Id : 640653566087 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+```

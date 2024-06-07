@@ -1,0 +1,52 @@
+```python
+Question Label : Short Answer Question
+
+Consider the following architecture for a neural network:
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Layer & Neurons \\
+\hline
+Input & 5 \\
+\hline
+Hidden Layer-1 & 30 \\
+\hline
+Hidden layer-2 & 10 \\
+\hline
+Output layer & 1 \\
+\hline
+\end{tabular}
+\end{table}
+
+How many weights does this network have? Assume that there is no bias associated with any neuron.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers : 
+
+460
+
+Sub-Section Number : 6
+
+Sub-Section Id : 64065380942
+
+Question Shuffling Allowed : No
+
+Is Section Default? : null
+
+Question Id : 640653566088 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (117 to 119)
+
+Question Label : Comprehension
+```

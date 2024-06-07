@@ -1,0 +1,36 @@
+```python
+Question Number : 100 
+Question Id : 640653566071 
+Question Type : MCQ Is Question 
+Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0 
+Correct Marks : 5 
+
+Question Label : Multiple Choice Question
+
+Consider a Bayesian estimation problem for a dataset of six observations, where each observation is either one or zero. The prior (green) and posterior (blue) distributions are shown below. Recall that both are Beta distributions in this case. \( p \) denotes the parameter and \( f(p) \) denotes its pdf. Also recall that the observations are sampled from a Bernoulli distribution with parameter \( p \).
+
+\[
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.5\textwidth]{bayesian_estimation.png}
+\caption{Prior and Posterior Distributions}
+\end{figure}
+\]
+
+What can you say about the number of ones in the dataset? Choose the most appropriate option.
+
+Options :
+\begin{itemize}
+    \item 6406531891846. \textbf{1}
+    \item 6406531891847. \textbf{3}
+    \item 6406531891848. \textbf{5}
+\end{itemize}
+
+Question Number : 101 
+Question Id : 640653566072 
+Question Type : MCQ Is Question 
+```

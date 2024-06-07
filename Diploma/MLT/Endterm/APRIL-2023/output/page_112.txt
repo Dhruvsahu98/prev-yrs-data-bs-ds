@@ -1,0 +1,37 @@
+```plaintext
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5
+
+Question Label : Multiple Choice Question
+
+In LASSO, a higher value of the regularization parameter \(\lambda\) leads to more sparse weights.
+
+Options :
+
+6406531891849. TRUE
+
+6406531891850. FALSE
+
+Question Number : 102 Question Id : 640653566073 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5
+
+Question Label : Multiple Choice Question
+
+Consider a decision stump. The information gain for the question at the parent is zero. If the entropy of the left-child is equal to the entropy of the parent, what is the entropy of the right child? Assume that each child has at least one data-point in it and that the entropy of the parent is non-zero.
+
+Options :
+
+6406531891851. The entropy of the right-child is equal to half the entropy of the left-child.
+
+6406531891852. The entropy of the right-child is equal to twice the entropy of the left-child.
+
+6406531891853. The entropy of the right-child is equal to the entropy of the parent.
+
+6406531891854. The entropy of the right-child is the sum of the entropies of the parent and the left-child.
+
+Question Number : 103 Question Id : 640653566074 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5
+```

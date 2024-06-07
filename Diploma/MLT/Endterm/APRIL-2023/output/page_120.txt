@@ -1,0 +1,43 @@
+```python
+Question Number : 111
+Question Id : 640653566080
+Question Type : MSQ Is Question
+Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+Correct Marks : 3
+Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Let \\( w^*, \xi^* \\) be the optimal primal solutions, and \\( \alpha^*, \beta^* \\) be the optimal dual solutions of the soft-margin SVM problem. If \\( \alpha_i^* = 0 \\), select the correct options.
+
+Options :
+
+1. 6406531891875. \\( \text{The bribe paid by the } i^{th} \text{ data point is equal to } C. \\) 
+2. 6406531891876. \\( \text{The bribe paid by the } i^{th} \text{ data point is equal to 0.} \\) 
+3. 6406531891877. \\( i^{th} \text{ data point lies on the supporting hyper-planes.} \\) 
+4. 6406531891878. \\( w^* \text{ classifies the } i^{th} \text{ data point correctly.} \\)
+
+Question Number : 112
+Question Id : 640653566081
+Question Type : MSQ Is Question
+Mandatory : No 
+Calculator : None 
+Response Time : N.A 
+Think Time : N.A 
+Minimum Instruction Time : 0
+Correct Marks : 3
+Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Choose the correct statements.
+
+Options :
+
+1. 6406531891879. \\( \text{If the performance of each estimator in the bagging algorithm is almost identical, the benefit of using bagging to combine them may be minimal or insignificant.} \\) 
+2. 6406531891880. \\( \text{Weak learners have low bias and high variance.} \\)
+```

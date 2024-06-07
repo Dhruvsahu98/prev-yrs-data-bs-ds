@@ -1,0 +1,40 @@
+```python
+Options :
+
+6406531891859. 1
+
+6406531891860. -1
+
+Since \( 0 < w^T x_{test} < 1 \), this point violates the primal constraint and therefore cannot be classified.
+
+6406531891861. 
+
+Since \( -1 < w^T x_{test} < 0 \), this point violates the primal constraint and therefore cannot be classified.
+
+6406531891862.
+
+Question Number : 106 Question Id : 640653566077 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5
+
+Question Label : Multiple Choice Question
+
+Consider a hard-margin, linear-SVM trained for a linearly separable dataset in a binary classification problem in \( \mathbb{R}^7 \). The training dataset has 5 points. If the optimal weight vector is some non-zero vector in \( \mathbb{R}^7 \), which of the following could be the optimal \( \alpha^* \), the optimal dual solution? Select the most appropriate answer.
+
+Options :
+
+\[
+\begin{pmatrix}
+1 \\
+-1 \\
+0 \\
+0 \\
+1 \\
+\end{pmatrix}
+\]
+
+6406531891863.
+
+6406531891864.
+```
