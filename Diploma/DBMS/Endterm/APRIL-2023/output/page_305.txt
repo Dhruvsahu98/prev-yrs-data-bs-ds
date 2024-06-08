@@ -1,0 +1,26 @@
+```python
+CREATE table schedule (match_id varchar(255) primary key, venue varchar(255), date varchar(255), team_1 varchar(255), team_2 varchar(255) check(team_1 <> team_2), foreign key (team_1) references teams(team_id), foreign key (team_2) references teams(team_id))
+```
+6406531892659. ✅
+
+```python
+CREATE table schedule (match_id varchar(255), venue varchar(255), date varchar(255), team_1 varchar(255), team_2 varchar(255) check(team_1 <> team_2), foreign key (team_1) references teams(team_id), foreign key (team_2) references teams(team_id), primary key (match_id,foreign key (team_1)))
+```
+6406531892660. ✅
+
+```python
+CREATE table schedule (match_id varchar(255) primary key, venue varchar(255), date varchar(255), team_1 varchar(255), team_2 varchar(255), UNIQUE (team_1) < > UNIQUE (team_2), foreign key (team_1) references teams(team_id), foreign key (team_2) references teams(team_id))
+```
+6406531892661. ❌
+
+Question Number : 344 Question Id : 640653566305 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Consider a scenario where a match having match id 'M009' scheduled on '30-04-2023' has shifted to 'Chinnaswamy Stadium' from 'Chepauk Stadium'.
+Which of the following SQL query is used to update the venue to 'Chinnaswamy Stadium'?
+Options :
+```python
+update schedule set venue = 'Chinnaswamy Stadium' where match_id = 'M009'
+```
+6406531892662. ✅

@@ -1,0 +1,27 @@
+6406531892698. ✅ If $T_{15}$ requests a data item held by $T_{10}$, then $T_{15}$ will "wait"
+6406531892699. ❌ If $T_{10}$ requests a data item held by $T_{15}$, then $T_{10}$ will "wait"
+
+Question Number : 326 Question Id : 640653566318 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+The snapshot of a database at a point of time is provided below. Which of the following statements are correct with respect to the procedure followed after a system crash?
+\begin{tabular}{|c|c|c|c|}
+\hline
+Sl.no. & T1 & T2 & T3 \\ \hline
+1. & start &  &  \\ \hline
+2. & Read (B) &  &  \\ \hline
+3. & Write (B) &  &  \\ \hline
+4. &  &  &  \\ \hline
+5. &  & Start &  \\ \hline
+6. & Commit & Read (A) &  \\ \hline
+7. &  & Commit &  \\ \hline
+8. &  &  & start \\ \hline
+9. &  &  & Write (C) \\ \hline
+10. & System Crash & System Crash & System Crash \\ \hline
+\end{tabular}
+Figure 3: Log records at a point of time
+Options :
+6406531892705. ❌ Transaction T1 and T2 must roll back.
+6406531892706. ✅ Transaction T3 must be undone.
+6406531892707. ✅ Redo transaction T1 and T2
+6406531892708. ❌ Redo transaction T1, T2, and T3

@@ -1,0 +1,24 @@
+Correct Marks : 2
+Question Label : Multiple Choice Question
+According to the figure disk-4 has crashed. What data is present in the two blocks of disk-4?
+Note: Assume block size is 4 bits
+Options :
+6406531892725. ❌ block A: 0101, block B: 0101
+6406531892726. ❌ block A: 1110, block B: 0100
+6406531892727. ✅ block A: 1111, block B: 0110
+6406531892728. ❌ block A: 0001, block B: 0001
+
+Question Number : 346 Question Id : 640653566325 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Assume that the binary values represent 8-bit ASCII code. What is the data word present inside this RAID-5 storage system?
+Note: The ASCII value of 'A' is 65 and 'a' is 97.
+Options :
+6406531892729. ❌ POST
+6406531892730. ✅ PORT
+6406531892731. ❌ PART
+6406531892732. ❌ PLUM
+
+Business Analytics

@@ -1,0 +1,61 @@
+Question Number : 327 Question Id : 640653566328 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Consider the E-R diagram given in Figure 7.
+
+\begin{tikzpicture}[scale=0.8, every node/.style={draw, circle, minimum size=0.8cm}]
+  \node (first_name) at (0,0) {first\_name};
+  \node (last_name) at (2,2) {last\_name};
+  \node (gender) at (4,2) {gender};
+  \node (patient_id) at (0,-2) {patient\_id};
+  \node (phone_no) at (0,-4) {phone\_no};
+  \node[rectangle, minimum width=2cm, minimum height=1cm] (patient) at (2,-1) {Patient};
+  \node[diamond, double, minimum width=1cm, minimum height=1cm] (has_booked) at (5,-1) {has\_booked};
+  \node[rectangle, minimum width=2cm, minimum height=1cm] (appointment) at (8,-1) {Appointment};
+  \node[diamond, double, minimum width=1cm, minimum height=1cm] (appointed_by) at (11,-1) {Appointed\_by};
+  \node[rectangle, minimum width=2cm, minimum height=1cm] (doctor) at (14,-1) {Doctor};
+  \node (appt_id) at (8,1) {appt\_id};
+  \node (date_time) at (10,1) {date\_time};
+  \node (doctor_id) at (14,1) {doctor\_id};
+  \node (first_name_doctor) at (16,1) {first\_name};
+  \node (last_name_doctor) at (16,-2) {last\_name};
+  \node (email) at (14,-3) {email};
+  \node (phone_no_doctor) at (14,-5) {phone\_no};
+  
+  \draw[->] (first_name) -- (patient);
+  \draw[->] (last_name) -- (patient);
+  \draw[->] (gender) -- (patient);
+  \draw[->] (patient_id) -- (patient);
+  \draw[->] (phone_no) -- (patient);
+  \draw[->] (patient) -- (has_booked);
+  \draw[->] (has_booked) -- (appointment);
+  \draw[->] (appointment) -- (appointed_by);
+  \draw[->] (appointed_by) -- (doctor);
+  \draw[->] (appt_id) -- (appointment);
+  \draw[->] (date_time) -- (appointment);
+  \draw[->] (doctor_id) -- (doctor);
+  \draw[->] (first_name_doctor) -- (doctor);
+  \draw[->] (last_name_doctor) -- (doctor);
+  \draw[->] (email) -- (doctor);
+  \draw[->] (phone_no_doctor) -- (doctor);
+\end{tikzpicture}
+
+Figure 7: E-R diagram
+
+According to the given E-R diagram, which of the following statements is/are correct?
+
+**Options :**
+
+6406531892742. ❌ The minimum number of tables required to represent the entity sets and relationship sets is 2.
+
+6406531892743. ❌ Appointed\_by is a many-to-many relationship set between Doctor and Appointment.
+
+6406531892744. ✅ has\_booked is a one-to-many relationship set between Patient and Appointment.
+
+6406531892745. ✅ The set of attributes for table Appointment is (appt\_id, patient\_id, doctor\_id, date\_time).
+
+Sub-Section Number : 3
+Sub-Section Id : 64065380988
+Question Shuffling Allowed : Yes
+Is Section Default? : null

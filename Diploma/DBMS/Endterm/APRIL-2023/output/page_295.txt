@@ -1,0 +1,40 @@
+```python
+# This is a code block
+print("Hello, World!")
+```
+
+\begin{tikzpicture}[scale=0.8, transform shape]
+  \tikzstyle{every node}=[draw,shape=circle];
+  \node (T1) at (0,0) {T1};
+  \node (T2) at (2,1) {T2};
+  \node (T4) at (2,-1) {T4};
+  \draw[->] (T1) -- (T2);
+  \draw[->] (T1) -- (T4);
+  \draw[->] (T4) -- (T2);
+\end{tikzpicture}
+
+6406531892688. ❌
+
+\begin{tikzpicture}[scale=0.8, transform shape]
+  \tikzstyle{every node}=[draw,shape=circle];
+  \node (T1) at (0,0) {T1};
+  \node (T2) at (0,-1) {T2};
+  \draw[->] (T1) -- (T2);
+\end{tikzpicture}
+
+6406531892689. ❌
+
+\begin{tikzpicture}[scale=0.8, transform shape]
+  \tikzstyle{every node}=[draw,shape=circle];
+  \node (T1) at (0,0) {T1};
+  \node (T2) at (0,-1) {T2};
+  \node (T3) at (1,-0.5) {T3};
+  \draw[->] (T1) -- (T2);
+  \draw[->] (T3) -- (T1);
+  \draw[->] (T2) -- (T3);
+\end{tikzpicture}
+
+6406531892690. ✅
+
+Question Number : 333 Question Id : 640653566317 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

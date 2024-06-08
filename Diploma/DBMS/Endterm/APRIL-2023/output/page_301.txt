@@ -1,0 +1,50 @@
+Consider the given instance of a B-tree of order 3 as shown in Figure 4.
+
+\begin{tikzpicture}[scale=0.8, transform shape]
+\tikzstyle{every node} = [draw, circle, inner sep=1pt, minimum size=10pt]
+\node (n1) at (0,0) {20};
+\node (n2) at (2,0) {50};
+\node (n3) at (4,0) {90};
+\node (n4) at (2,2) {40};
+\node (n5) at (4,2) {80};
+\draw (n1) -- (n2) -- (n3);
+\draw (n2) -- (n4) -- (n5);
+\end{tikzpicture}
+
+Figure 4: B-tree
+
+Perform the following operations (in the given order) in the instance given in Figure 4.
+
+- Insert key 10
+- Insert key 30
+- Insert key 70
+
+Identify the correct set of keys in the root node of the resultant B-tree.
+
+**Options :**
+
+6406531892713. $\times$ {40, 80}
+
+6406531892714. $\checkmark$ {40}
+
+6406531892715. $\times$ {10, 30}
+
+6406531892716. $\times$ {40, 20}
+
+Sub-Section Number : 7
+
+Sub-Section Id : 6406538092
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 340 Question Id : 640653566311 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Consider a magnetic disk with 16 platters, 2 surfaces/platter, 1024 tracks/surface, 2048

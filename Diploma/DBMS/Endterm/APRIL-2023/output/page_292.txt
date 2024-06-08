@@ -1,0 +1,20 @@
+Question Number : 328 Question Id : 640653566314 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 3 Selectable Option : 0 
+Question Label : Multiple Select Question 
+Consider the given schedule S. 
+$S:W_3(A), R_2(A), W_2(B), W_3(C), W_1(C)$ 
+Which of the following options is/are correct? 
+Options : 
+6406531892692.  ✔ Schedule S is conflict serializable. 
+6406531892693.  ✔ Schedule S can be two-phase lockable. 
+6406531892694.  ✔ Two phase lockable schedules are always serializable schedules. 
+6406531892695.  ✖ None of these 
+
+Question Number : 329 Question Id : 640653566327 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 3 Selectable Option : 0 
+Question Label : Multiple Select Question 
+Consider a relation $A(P, Q, R, S, T)$ with the following set of functional dependencies. 
+$\mathcal{F} = \{PQ \rightarrow S, P \rightarrow R, PQR \rightarrow T, ST \rightarrow Q\}$ 
+If we decomposed A into A1 and A2, such that A1(P, R) and A2 (P, Q, S, T). 
+Which of the following statements is/are correct? 
+Options : 

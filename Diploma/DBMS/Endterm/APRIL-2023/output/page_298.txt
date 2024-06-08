@@ -1,0 +1,44 @@
+Consider a B-tree based index with an order $p=25$. Assume that each node in the B-tree is 80% full. What is the minimum number of keys that the B-tree can have?
+
+Options :
+
+6406531892709. $\times$ 19,880
+
+6406531892710. $\times$ 19,800
+
+6406531892711. $\times$ 18,000
+
+6406531892712. $\checkmark$ 19,999
+
+Question Number : 337 Question Id : 640653566321 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider the table given in the figure 5 along with the record numbers indicated as $REC\_NO.$ for each record in the table.
+
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+$REC\_NO.$ & user\_id & username & email\_id & gender & age & country & created\_on \\
+\hline
+REC\_NO. 1 & 3765 & Steve & steve@outlook.com & M & 34 & USA & 2000-03-19 \\
+\hline
+REC\_NO. 2 & 4135 & Marco & marcos@ymail.com & M & 55 & Australia & 1995-10-20 \\
+\hline
+REC\_NO. 3 & 8762 & Joshua & josh9@gmail.com & F & 49 & Canada & 2002-06-18 \\
+\hline
+REC\_NO. 4 & 1289 & Dreamy & dreamy@rediffmail.com & F & 18 & UK & 2020-12-08 \\
+\hline
+REC\_NO. 5 & 2359 & Jacob & jacoster@gmail.com & M & 29 & Russia & 2014-08-24 \\
+\hline
+\end{tabular}
+
+Figure 5: Table Users
+
+The associated ordered index file has consecutive entries with record pointers pointing to the record numbers: 4, 5, 1, 3, 2. Identify the attribute on which the index is built.
+
+Options :
+
+6406531892717. $\times$ username
+
+6406531892718. $\times$ user\_id

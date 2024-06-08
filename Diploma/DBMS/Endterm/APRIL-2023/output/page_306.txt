@@ -1,0 +1,33 @@
+6406531892663. update schedule
+set venue = 'Chinnaswamy Stadium'
+where date = '30-04-2023'
+
+6406531892664. update schedule
+set venue = 'Chinnaswamy Stadium'
+where venue = 'Chepauk Stadium'
+
+6406531892665. update schedule
+set venue = 'Chepauk Stadium'
+where venue = 'Chinnaswamy Stadium'
+
+Question Id : 640653566323 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (345 to 346)
+Question Label : Comprehension
+
+Answer the subquestions on the basis of the given data.
+
+Consider a RAID-5 system with 5 disks which stores the following data shown in Figure 6.
+
+| DISK - 1 | DISK - 2 | DISK - 3 | DISK - 4 | DISK - 5 |
+|---|---|---|---|---|
+| 0101 | 0000 | 0100 | XXXX | 1110 | BLOCK A
+| 0101 | 0010 | 0101 | XXXX | 0100 | BLOCK B
+
+Figure 6: RAID-5 data
+
+Sub questions
+
+Question Number : 345 Question Id : 640653566324 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

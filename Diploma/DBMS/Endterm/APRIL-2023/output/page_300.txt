@@ -1,0 +1,39 @@
+Consider the table score as shown below.
+
+| roll\_no | m1 | m2 | m3 | s1 | s2 |
+|:---|:---|:---|:---|:---|:---|
+| 21f1 | 34 | 45 | 67 | 78 | 33 |
+| 21f2 | 34 | 44 | 62 | 78 | 33 |
+| 21f3 | 34 | 35 | 67 | 83 | 33 |
+| 21f4 | 34 | 45 | 17 | 78 | 23 |
+| 21f5 | 14 | 45 | 27 | 78 | 33 |
+| 21f9 | 23 | 45 | 66 | 78 | NULL |
+| 21f7 | 23 | 45 | 78 | NULL | NULL |
+
+Table: Score
+
+Match the below SQL queries with the correct output.
+
+SQL queries:
+A: SELECT count(s1) FROM score
+B: SELECT count(distinct s2) FROM score
+C: SELECT count(*) FROM score
+D: SELECT avg(s2) FROM score
+
+Output:
+1. 7
+2. 6
+3. 31
+4. 22.14
+5. 2
+6. 3
+
+Options :
+6406531892666. ❌ A-1, B-6, C-1, D-4
+6406531892667. ❌ A-1, B-6, C-2, D-3
+6406531892668. ✅ A-2, B-5, C-1, D-3
+6406531892669. ❌ A-2, B-5, C-2, D-4
+
+Question Number : 339 Question Id : 640653566320 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

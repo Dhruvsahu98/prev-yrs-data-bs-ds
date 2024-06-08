@@ -1,0 +1,24 @@
+Question Number : 331 Question Id : 640653566309 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Consider the relational algebra expression given below:
+$\Pi_{player\_id}(\Pi_{player\_id,name,dob}(player))$
+Choose the equivalent relational algebra expression.
+
+Options :
+6406531892678. $\times$ $\Pi_{dob}(\Pi_{player\_id,name}(player))$
+6406531892679. $\times$ $\Pi_{name}(player)$
+6406531892680. $\times$ $\Pi_{dob}(player)$
+6406531892681. $\checkmark$ $\Pi_{player\_id}(\Pi_{name}(player))$
+
+Question Number : 332 Question Id : 640653566312 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Which of the following precedence graphs represents a schedule that is not conflict serializable?
+
+Options :
+6406531892687. $\times$

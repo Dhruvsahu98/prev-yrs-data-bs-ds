@@ -1,0 +1,22 @@
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following backup strategies provides the most comprehensive protection against data loss?
+Options :
+6406531892701. ❌ Incremental backup
+6406531892702. ✅ Full backup
+6406531892703. ❌ Differential backup
+6406531892704. ❌ All of these
+
+Question Number : 334 Question Id : 640653566322 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Consider the relation sales(sales\_id, customer\_id, product\_id, sale\_date, quantity, price).
+Choose correct SQL statement from the options to create an index with the name sales\_indx on the combination of the attributes (customer\_id, product\_id, sale\_date).
+Options :
+6406531892721. ❌ CREATE INDEX sales\_indx ON (customer\_id, product\_id, sale\_date);
+6406531892722. ❌ CREATE INDEX sales\_indx AS sales(customer\_id, product\_id, sale\_date);
+6406531892723. ✅ CREATE INDEX sales\_indx ON sales(customer\_id, product\_id, sale\_date);
+6406531892724. ❌ CREATE INDEX sales\_indx AS sales(customer\_id);
+CREATE INDEX sales\_indx AS sales(product\_id);
+CREATE INDEX sales\_indx AS sales(sale\_date);

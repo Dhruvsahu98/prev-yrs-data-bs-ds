@@ -1,0 +1,22 @@
+Question Number : 342 Question Id : 640653566316 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider the relation $R(U,V,W,X)$ with the following functional dependencies:
+$\mathcal{F} = \{U \rightarrow V, V \rightarrow W, W \rightarrow X, X \rightarrow U\}$
+Find the total number of super keys of R.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+15
+Sub-Section Number : 9
+Sub-Section Id : 6406538094
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653566303 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (343 to 344)
+Question Label : Comprehension
+Consider the following schema diagram of IPLt20 and answer the given subquestions 

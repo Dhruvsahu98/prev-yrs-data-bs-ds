@@ -1,0 +1,51 @@
+## schedule
+| match\_id | varchar(255) |
+|---|---|
+| venue | varchar(255) |
+| date | varchar(255) |
+| team\_1 | varchar(255) |
+| team\_2 | varchar(255) |
+
+## teams
+| team\_id | varchar(255) |
+|---|---|
+| team\_name | varchar(255) |
+| captain | varchar(255) |
+
+## points\_table
+| team\_id | varchar(255) |
+|---|---|
+| team\_name | varchar(255) |
+| matches | integer |
+| won | integer(255) |
+| lost | integer(255) |
+| points | integer(255) |
+
+## results
+| match\_id | varchar(255) |
+|---|---|
+| team\_1\_runs | integer(255) |
+| team\_1\_wickets | integer(255) |
+| team\_2\_runs | integer(255) |
+| team\_2\_wickets | integer(255) |
+| player\_of\_the\_match | varchar(255) |
+
+Figure 1: IPLt20
+
+Sub questions
+
+Question Number : 343 Question Id : 640653566304 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Choose the correct SQL code which is used to create a table schedule and ensure that attribute team\_1 and team\_2 should not have the same input.
+
+Options :
+
+```python
+CREATE table schedule (match_id varchar(255) primary key, venue varchar(255), date varchar(255), team_1 varchar(255), team_2 varchar(255) check(team_1 = team_2), foreign key (team_1) references teams(team_id), foreign key (team_2) references teams(team_id))
+```
+
+6406531892658.

@@ -1,0 +1,22 @@
+Question Number : 335 Question Id : 640653566326 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Consider the relation $R(A, B, C, D, E, F)$ with the following set of functional dependencies.
+$\mathcal{F} = \{AB \rightarrow CD, E \rightarrow F, CD \rightarrow E, BF \rightarrow A\}$ 
+Which among the following option is correct for $BE \rightarrow A$ to hold in $\mathcal{F}$?
+Options :
+6406531892733. ❌ By reflexivity $B$ to $E \rightarrow F$ for $BE \rightarrow BF$, and transitivity with $BF \rightarrow A$.
+6406531892734. ❌ By reflexivity $B$ to $E \rightarrow F$ for $BE \rightarrow BF$, and augmenting with $BF \rightarrow A$.
+6406531892735. ❌ By augmenting $B$ to $E \rightarrow F$ for $BE \rightarrow BF$, and reflexivity with $BF \rightarrow A$.
+6406531892736. ✅ By augmenting $B$ to $E \rightarrow F$ for $BE \rightarrow BF$, and transitivity with $BF \rightarrow A$.
+
+Sub-Section Number : 5
+Sub-Section Id : 64065380990
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 336 Question Id : 640653566319 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question

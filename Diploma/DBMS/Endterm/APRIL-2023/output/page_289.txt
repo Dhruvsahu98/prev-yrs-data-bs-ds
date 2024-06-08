@@ -1,0 +1,59 @@
+Consider the Binary Search Tree (BST) shown in Figure 2.
+
+```python
+# code block
+```
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+[scale=0.6, every node/.style={circle,draw}]
+\node (8) at (0,0) {8};
+\node (6) at (-4, -1) {6};
+\node (9) at (4, -1) {9};
+\node (15) at (4, -2) {15};
+\node (22) at (5, -3) {22};
+\node (45) at (2, 1) {45};
+\node (46) at (4, -4) {46};
+\node (48) at (6, -3) {48};
+\node (65) at (8, 0) {65};
+\node (95) at (12, 0) {95};
+\draw (8) -- (6);
+\draw (8) -- (9);
+\draw (9) -- (15);
+\draw (15) -- (22);
+\draw (8) -- (45);
+\draw (45) -- (65);
+\draw (9) -- (46);
+\draw (46) -- (48);
+\draw (65) -- (95);
+\end{tikzpicture}
+\caption{Binary Search Tree (BST)}
+\label{fig:bst}
+\end{figure}
+
+Which of the following is/are the correct insertion order(s) which will result in the given BST?
+
+**Options :**
+
+6406531892682.  ✅ 45, 65, 8, 9, 15, 11, 22, 48, 95, 46, 6
+
+6406531892683. ❌ 45, 65, 6, 9, 15, 22, 11, 48, 95, 46, 8
+
+6406531892684. ❌ 45, 65, 9, 8, 15, 22, 11, 48, 95, 46, 6
+
+6406531892685.  ✅ 45, 65, 8, 9, 15, 11, 22, 48, 95, 46, 6
+
+Question Number : 325 Question Id : 640653566315 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Consider three transaction $T_5$, $T_{10}$ and $T_{15}$ having time-stamps 5, 10 and 15 respectively. Which of the following options is/are correct according to deadlock prevention Wound-Wait Scheme.
+
+**Options :**
+
+6406531892696. ✅ If $T_5$ requests a data item held by $T_{10}$, then it will be preempted from $T_{10}$ and $T_{10}$ will be suspended ("wounded")
+
+6406531892697. ❌ If $T_{10}$ requests a data item held by $T_5$, then it will be preempted from $T_5$ and $T_5$ will be suspended ("wounded")

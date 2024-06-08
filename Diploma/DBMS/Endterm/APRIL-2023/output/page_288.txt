@@ -1,0 +1,28 @@
+```python
+select department, count(*) from student 
+group by department having age > 21
+```
+
+Question Number : 323 Question Id : 640653566308 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Consider a Block nested loop join for the two relations instructor and department:
+
+| Relation | instructor | department |
+|---|---|---|
+| Number of tuples(n) | 1000 | 200 |
+| Number of blocks(b) | 500 | 60 |
+
+Assuming the worst-case memory availability and considering instructor as the outer relation, which of the following options is/are correct?
+
+Options :
+6406531892674.  ✓ Number of block transfers = 30500
+6406531892675.  ✗ Number of block transfers = 30070
+6406531892676.  ✗ Number of seeks = 120
+6406531892677.  ✓ Number of seeks = 1000
+
+Question Number : 324 Question Id : 640653566310 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question

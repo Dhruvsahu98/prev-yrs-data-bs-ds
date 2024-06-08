@@ -1,0 +1,36 @@
+sectors/track, and 1024 bytes/sector. The disk rotates with 6000 revolutions per minute. What is the minimum number of bits required for addressing all the sectors?
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+26
+
+**Sub-Section Number :** 8
+**Sub-Section Id :** 64065380993
+**Question Shuffling Allowed :** Yes
+**Is Section Default? :** null
+
+**Question Number :** 341 **Question Id :** 640653566313 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+
+**Question Label :** Short Answer Question
+
+Consider the following schedule S with four transactions T1, T2, T3, T4:
+
+S: R1(A); W1(A); R1(C)R4(A); W4(A); W2(C); W2(B); W1(C); W3(D)
+
+Where, Ri(A) denotes a read operation by transaction Ti on a data item A, Wi(A) denotes a write operation by transaction Ti on a data item A.
+
+What is the possible number of conflict serializable schedule of the above schedule S?
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+4
