@@ -1,0 +1,39 @@
+Sub-Section Id : 64065387503
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653608979 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (315 to 316)
+Question Label : Comprehension
+
+Consider the tables: vendor and component as shown in Figure 3. Table component has attribute *vendor\_num* which is a foreign key and refers to table vendor(*vendor\_num*).
+Using the given information answer the given subquestions:
+
+| vendor | vendor\_num | vendor\_name | vendor\_location |
+|---|---|---|---|
+| 10 | 10 | YADAV | CHENNAI |
+| 11 | 11 | AKHTAR | KOLKATA |
+| 12 | 12 | PRASAD | TRICHY |
+| 13 | 13 | SHARMA | BENGALURU |
+
+| component | item\_num | name | cost | vendor\_num |
+|---|---|---|---|---|
+| 1011 | RAM | 2500.00 | 11 |
+| 1012 | CPU | 8000.50 | 12 |
+| 1013 | MONITOR | 5000.00 | 10 |
+| 1014 | KEYBOARD | 500.50 | 13 |
+| 1013 | MONITOR | 2250.00 | 13 |
+| 1014 | KEYBOARD | 450.50 | 11 |
+| 1011 | RAM | 3300.00 | 10 |
+
+Figure 3: Tables vendor and component
+
+Sub questions
+
+Question Number : 315 Question Id : 640653608980 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Identify the appropriate "CREATE TABLE" statement for table component.
+
+Options :

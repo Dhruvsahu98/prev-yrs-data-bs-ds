@@ -1,0 +1,29 @@
+6406532034176. ❌ {AB → C, CD → B, C → D, BD → AC}
+
+Question Number : 305 Question Id : 640653608966 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Consider a relation schema R(A,B,C,D,E,F) and the set of functional dependencies,
+F' = {B → D, E → F, D → E, D → B, F → BD}. This schema is decomposed into two relations R1 (A,B,D,E) and R2(B,C,D,F).
+Consider the following statements given below regarding the decomposition of R1 and R2.
+Choose the correct option(s).
+
+Options :
+
+6406532034177. ✅ The decomposition of R into R1 and R2 is dependency preserving.
+
+6406532034178. ❌ The decomposition of R into R1 and R2 is lossless.
+
+6406532034179. ✅ The schema R1 is in 2NF.
+
+6406532034180. ✅ The schema R2 is in 3NF.
+
+Sub-Section Number : 6
+Sub-Section Id : 64065387498
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 306 Question Id : 640653608967 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction

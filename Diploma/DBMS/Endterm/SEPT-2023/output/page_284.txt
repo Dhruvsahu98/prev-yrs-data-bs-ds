@@ -1,0 +1,35 @@
+Using the SQL query shown below, a view named best3 is created.
+
+```python
+CREATE VIEW best3 AS
+SELECT player_id, name
+FROM players
+WHERE ranking < 3;
+```
+
+Which among the following SQL query will display the table shown below?
+
+| player\_id | name |
+|---|---|
+| BCCI-11 | Virat |
+| PCB-22 | Azam |
+| ECB-82 | Ben |
+
+Options :
+
+6406532034225. ❌  `VIEW * FROM best3;`
+
+6406532034226. ❌  `SELECT player_id, name FROM players where ranking < 4;`
+
+6406532034227. ❌  `SELECT * FROM best3 WHERE player_id like '%2';`
+
+6406532034228. ✅  `SELECT * FROM best3;`
+
+Sub-Section Number : 13
+Sub-Section Id : 64065387505
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 319 Question Id : 640653608985 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question

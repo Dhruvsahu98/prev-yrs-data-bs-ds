@@ -1,0 +1,33 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the data given in previous question. Suppose, block-4 of disk-3 contains '0101'. Assume that the binary values represent 8-bit ASCII code. What is the data word present inside this RAID-5 storage system?
+
+The ASCII code for A to Z is given below:
+
+| Character | A | B | C | D | E | F | G | H | I |
+|---|---|---|---|---|---|---|---|---|---|
+| ASCII Code | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 |
+
+| Character | J | K | L | M | N | O | P | Q | R |
+|---|---|---|---|---|---|---|---|---|---|
+| ASCII Code | 74 | 75 | 76 | 77 | 78 | 79 | 80 | 81 | 82 |
+
+| Character | S | T | U | V | W | X | Y | Z |
+|---|---|---|---|---|---|---|---|---|
+| ASCII Code | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 |
+
+Options :
+6406532034197. ❌ EXCUSE
+6406532034198. ✅ EXPECT
+6406532034199. ❌ EXPORT
+6406532034200. ❌ Cannot store any data
+
+Sub-Section Number : 8
+Sub-Section Id : 64065387500
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 310 Question Id : 640653608973 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question

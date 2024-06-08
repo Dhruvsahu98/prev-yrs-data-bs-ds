@@ -1,0 +1,45 @@
+```python
+CREATE TABLE component (
+item_num int NOT NULL,
+name varchar(20),
+cost numeric(6, 2) NOT NULL,
+vendor_num int NOT NULL,
+PRIMARY KEY (item_num),
+FOREIGN KEY (vendor_num) REFERENCES vendor(vendor_num)
+);
+```
+6406532034213. 
+```python
+CREATE TABLE component (
+item_num int NOT NULL,
+name varchar(20),
+cost numeric(6, 2) NOT NULL,
+vendor_num int NOT NULL,
+PRIMARY KEY (item_num, name),
+FOREIGN KEY (vendor_num) REFERENCES vendor(vendor_num)
+);
+```
+6406532034214. 
+```python
+CREATE TABLE component (
+item_num int NOT NULL,
+name varchar(20),
+cost numeric(6, 2) NOT NULL,
+vendor_num int NOT NULL,
+PRIMARY KEY (item_num, vendor_num),
+FOREIGN KEY (vendor_num) REFERENCES vendor(item_num, vendor_num)
+);
+```
+6406532034215. 
+```python
+CREATE TABLE component (
+item_num int NOT NULL,
+name varchar(20),
+cost numeric(6, 2) NOT NULL,
+vendor_num int NOT NULL,
+PRIMARY KEY (item_num, vendor_num),
+FOREIGN KEY (vendor_num) REFERENCES vendor(vendor_num)
+);
+```
+6406532034216. 
+Question Number : 316 Question Id : 640653608981 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2 Max. Selectable Options : 0 Question Label : Multiple Select Question

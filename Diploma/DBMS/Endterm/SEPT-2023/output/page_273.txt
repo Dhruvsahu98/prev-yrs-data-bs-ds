@@ -1,0 +1,86 @@
+6406532034190. ❌ Only $S_2$ 
+6406532034191. ✅ Both $S_1$ and $S_2$ 
+6406532034192. ❌ Neither $S_1$ nor $S_2$ 
+
+Sub-Section Number : 7
+Sub-Section Id : 64065387499
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653608970 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (308 to 309)
+Question Label : Comprehension
+Consider the following RAID architecture to answer the given subquestions.
+
+RAID 5
+
+\begin{tabular}{cccc}
+\begin{tabular}{c}
+\begin{tabular}{c}
+\begin{tabular}{c}
+A1
+\end{tabular}
+\end{tabular}
+\end{tabular}
+\begin{tabular}{c}
+B1
+\end{tabular}
+\begin{tabular}{c}
+C1
+\end{tabular}
+\begin{tabular}{c}
+D1
+\end{tabular}
+\end{tabular} & \begin{tabular}{c}
+\begin{tabular}{c}
+\begin{tabular}{c}
+A2
+\end{tabular}
+\end{tabular}
+\end{tabular}
+\begin{tabular}{c}
+B2
+\end{tabular}
+\begin{tabular}{c}
+C2
+\end{tabular}
+\begin{tabular}{c}
+D2
+\end{tabular}
+\end{tabular} & \begin{tabular}{c}
+\begin{tabular}{c}
+\begin{tabular}{c}
+A3
+\end{tabular}
+\end{tabular}
+\end{tabular}
+\begin{tabular}{c}
+B3
+\end{tabular}
+\begin{tabular}{c}
+C3
+\end{tabular}
+\begin{tabular}{c}
+D3
+\end{tabular}
+\end{tabular} & \begin{tabular}{c}
+\begin{tabular}{c}
+\begin{tabular}{c}
+Ap
+\end{tabular}
+\end{tabular}
+\end{tabular}
+\begin{tabular}{c}
+B3
+\end{tabular}
+\begin{tabular}{c}
+C3
+\end{tabular}
+\begin{tabular}{c}
+D3
+\end{tabular}
+\end{tabular} \\
+\multicolumn{1}{c}{Disk 0} & \multicolumn{1}{c}{Disk 1} & \multicolumn{1}{c}{Disk 2} & \multicolumn{1}{c}{Disk 3}
+\end{tabular}
+
+Figure 1: RAID 5 System

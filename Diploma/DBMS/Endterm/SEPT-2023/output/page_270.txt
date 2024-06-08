@@ -1,0 +1,33 @@
+| Roll\_no | name |
+|---|---|
+| 2 | Rakesh |
+
+Sub-Section Number : 5
+Sub-Section Id : 64065387497
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 304 Question Id : 640653608965 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Consider the instance of a relation **R** given in Table 1.
+Which among the following functional dependencies set can be inferred from the given information?
+
+| A | B | C | D |
+|---|---|---|---|
+| a1 | b1 | c2 | d4 |
+| a2 | b1 | c6 | d3 |
+| a1 | b2 | c2 | d3 |
+| a3 | b4 | c7 | d3 |
+| a3 | b1 | c7 | d1 |
+| a4 | b2 | c6 | d4 |
+| a1 | b7 | c2 | d2 |
+| a3 | b4 | c7 | d3 |
+
+Table 1: Relation **R**
+
+Options : 
+6406532034173. ❌  $\{A \rightarrow C, C \rightarrow AB, AB \rightarrow D, CD \rightarrow AB\}$
+6406532034174. ❌  $\{D \rightarrow C, CD \rightarrow B, AB \rightarrow D, CD \rightarrow A\}$
+6406532034175. ✅  $\{AB \rightarrow C, CD \rightarrow B, BC \rightarrow D, CD \rightarrow A\}$

@@ -1,0 +1,35 @@
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Consider a schedule $S$ given below where $W_i(a)$ means that transaction $T_i$ is performing a write operation on data item $(a)$ and similarly $R_i(a)$ means that transaction $T_i$ is performing a read operation on data item $(a)$. 
+
+$S: R_1(B), R_4(A), W_2(A), W_3(A), W_4(D), R_2(D)$
+
+Identify the appropriate time stamp ordering for transactions $T_1, T_2, T_3$ and $T_4$ that allows to execute the given schedule $S$ using the basic time stamp protocol.
+
+Options :
+6406532034181.  * 15, 25, 20, 10
+6406532034182.  * 10, 15, 20, 25
+6406532034183.  * 15, 20, 25, 10
+6406532034184.  * 15, 20, 10, 25
+
+Question Number : 307 Question Id : 640653608969 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : Minimum Instruction
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Consider the given schedules $S_1$ and $S_2$ given below and the following assumptions :
+
+$W_i(a)$ means that transaction $T_i$ is performing a write operation on data item $(a)$.
+$R_i(a)$ means that transaction $T_i$ is performing a read operation on data item $(a)$.
+$Com_i$ means that transaction $T_i$ has committed.
+
+$S_1 : R_1(A), R_3(C), W_2(B), R_2(A), W_1(B), W_3(C)$,
+$S_2 : R_1(A), R_2(B), W_1(C), R_3(B), R_3(C), W_2(B), W_3(A)$,
+
+Which of the above schedules can be two-phase lockable?
+
+Options :
+6406532034189.  * Only $S_1$

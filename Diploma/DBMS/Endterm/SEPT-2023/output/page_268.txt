@@ -1,0 +1,58 @@
+Choose the correct output obtained on running the given SQL statements on Table Employee.
+
+| EID | EName |
+|---|---|
+| E01 | Arthur |
+| E02 | Raina |
+| E03 | Meena |
+| E04 | Arthur |
+| E06 | Joey |
+Table Employee
+
+```python
+SQL> SAVEPOINT SP1;
+SQL> UPDATE Employee SET EName='Jainie'
+WHERE EID='E06';
+SQL> SAVEPOINT SP2;
+SQL> DELETE FROM Employee WHERE EID='E02';
+SQL> COMMIT;
+SQL> SAVEPOINT SP3;
+SQL> UPDATE Employee SET EName='Raina'
+WHERE EID='E04';
+SQL> ROLLBACK TO SP1;
+```
+Options :
+
+6406532034185.  
+| EID | EName |
+|---|---|
+| E01 | Arthur |
+| E02 | Raina |
+| E03 | Meena |
+| E04 | Arthur |
+| E06 | Jainie |
+
+6406532034186.  ✔
+| EID | EName |
+|---|---|
+| E01 | Arthur |
+| E03 | Meena |
+| E04 | Arthur |
+| E06 | Jainie |
+
+6406532034187.  
+| EID | EName |
+|---|---|
+| E01 | Arthur |
+| E03 | Meena |
+| E04 | Raina |
+| E06 | Jainie |
+
+6406532034188.  
+| EID | EName |
+|---|---|
+| E01 | Arthur |
+| E02 | Raina |
+| E03 | Meena |
+| E04 | Arthur |
+| E06 | Joey |

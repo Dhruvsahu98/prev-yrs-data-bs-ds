@@ -1,0 +1,36 @@
+In Suggestion 1, no need to join the component table twice, directly we can join vendor and component table once and apply the required conditions. 
+
+Sub-Section Number : 12
+Sub-Section Id : 640653387504
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653608982 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (317 to 318)
+Question Label : Comprehension
+
+Consider the tables 5 and 6 and answer the given subquestions. 
+
+Table 5: Relation team
+
+| team\_id | name | ranking | country |
+|---|---|---|---|
+| Cric-1 | BCCI | 1 | India |
+| Cric-2 | ACB | 3 | Australia |
+| Cric-3 | PCB | 10 | Pakistan |
+| Cric-4 | NCB | 9 | Nepal |
+| Cric-5 | ECB | 4 | England |
+
+Table 6: Relation players
+
+| team\_id | player\_id | name | ranking |
+|---|---|---|---|
+| Cric-1 | BCCI-11 | Virat | 1 |
+| Cric-1 | BCCI-23 | Rohit | 3 |
+| Cric-3 | PCB-22 | Azan | 2 |
+| Cric-2 | ACB-12 | David | 6 |
+| Cric-2 | ACB-29 | Smith | 3 |
+| Cric-5 | ECB-88 | Chris | 4 |
+| Cric-5 | ECB-82 | Ben | 1 |
+
+Sub questions

@@ -1,0 +1,41 @@
+Consider the definition of table STUDENTS.
+
+```python
+CREATE TABLE STUDENTS (SID CHAR(20),
+                        NAME CHAR(30),
+                        LOGIN CHAR(30),
+                        AGE INTEGER,
+                        GPA Numeric(2, 1),
+                        UNIQUE (NAME, AGE),
+                        PRIMARY KEY (SID))
+```
+
+The sequence of queries is executed on this table.
+
+1. INSERT INTO STUDENTS VALUES (30000, 'Jones', 'jones@cs', 18, 3.4)
+2. INSERT INTO STUDENTS VALUES (35670, 'Smith', 'Smith@ee', 18, 7.2)
+3. INSERT INTO STUDENTS VALUES (56780, 'Jones', 'jones@ece', 28, 10)
+
+Which of the following results in an invalid operation to the table STUDENTS?
+
+Options :
+
+6406532034157.  ✅ INSERT INTO STUDENTS VALUES (NULL, 'Mike', 'mike@xyz', 17, 6.0)
+
+6406532034158.  ✅ UPDATE STUDENTS SET SID = 30000 WHERE SID = 56780
+
+6406532034159.  ❌ INSERT INTO STUDENTS VALUES (34637, 'Joseph', 'joseph@xyz', 21, 9.8)
+
+6406532034160.  ✅ INSERT INTO STUDENTS VALUES (35672, 'Jones', 'jones@ece', 28, 5.9)
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065387495
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 299 Question Id : 640653608962 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Max. Selectable Options : 0

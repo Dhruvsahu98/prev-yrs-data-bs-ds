@@ -1,0 +1,30 @@
+Question Label : Multiple Select Question
+
+A relation $R$ is decomposed into $R_1$, $R_2$, $R_3$, ..., $R_n$. Choose the incorrect statements from among the following.
+
+Options :
+6406532034161. ❌ The decomposition is lossy if $R \subset (R_1 \bowtie R_2 \bowtie R_3 ... \bowtie R_n)$.
+6406532034162. ✅ The decomposition is lossless if $R \subset (R_1 \bowtie R_2 \bowtie R_3 ... \bowtie R_n)$.
+6406532034163. ✅ The decomposition is lossy if $R = (R_1 \bowtie R_2 \bowtie R_3 ... \bowtie R_n)$.
+6406532034164. ❌ The decomposition is lossless if $R = (R_1 \bowtie R_2 \bowtie R_3 ... \bowtie R_n)$.
+
+Sub-Section Number : 4
+Sub-Section Id : 64065387496
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 300 Question Id : 640653608963 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+What is the highest normal form that can be achieved for the relation School (Code, Name, Affiliation, Strength, City, State) having functional dependencies set:
+
+F = {Name, Code -> Affiliation
+Code -> Strength
+Name -> City, State
+City -> State }.
+
+Options :
+6406532034165. ✅ 1 NF

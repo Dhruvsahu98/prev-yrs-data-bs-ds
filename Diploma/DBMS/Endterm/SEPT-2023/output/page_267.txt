@@ -1,0 +1,22 @@
+6406532034166. ✖ 2 NF
+6406532034167. ✖ 3 NF
+6406532034168. ✖ BCNF
+
+**Question Number : 301 Question Id : 640653608964 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**
+
+Consider the relational schema R(A, B, C, D, E, F, G, H) and the functional dependency set $F_{FD} = \{H \rightarrow GD, E \rightarrow D, HD \rightarrow CE, BD \rightarrow A\}$. Identify the minimal cover of the given $F_{FD}$.
+
+**Options :**
+
+6406532034169. ✖ $\{H \rightarrow GCE, BD \rightarrow A\}$
+6406532034170. ✖ $\{H \rightarrow GCE, E \rightarrow D, D \rightarrow A\}$
+6406532034171. ✅ $\{H \rightarrow GCE, E \rightarrow D, BD \rightarrow A\}$
+6406532034172. ✖ $\{H \rightarrow GCE, E \rightarrow D, B \rightarrow A\}$
+
+**Question Number : 302 Question Id : 640653608968 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**

@@ -1,0 +1,36 @@
+We need to write the SQL query to find the name of the vendors whose component cost is less than half the cost of the MONITOR component by vendor number 13. We asked this question to ChatGPT and the following are the two suggestions given by ChatGPT:
+
+**Suggestion 1:**
+```python
+SELECT v.vendor_name
+FROM vendor v
+JOIN component c ON v.vendor_num = c.vendor_num
+JOIN component m ON m.name = 'MONITOR' AND m.vendor_num = 13
+WHERE c.cost < m.cost/2;
+```
+
+**Suggestion 2:**
+```python
+SELECT v.vendor_name
+FROM vendor v
+JOIN component c ON v.vendor_num = c.vendor_num
+JOIN (
+    SELECT cost/2 AS half_monitor_cost
+    FROM component
+    WHERE name = 'MONITOR' AND vendor_id = 13
+) m ON c.cost < m.half_monitor_cost;
+```
+
+Choose the correct option(s).
+
+**Options :**
+
+6406532034217. ✅ Both the suggestions will give the same and required correct output.
+
+6406532034218. ❌ Suggestion 2 will give an error.
+
+In suggestion 1, the query will join the vendor table with the component table twice. The first join connects the vendor to their component, and the second join connects vendor number 13 with the MONITOR component.
+
+6406532034219. ✅ 
+
+6406532034220. 

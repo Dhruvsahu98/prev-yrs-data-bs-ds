@@ -1,0 +1,27 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+29
+
+DBMS
+Section Id : 64065341240
+Section Number : 12
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 20
+Number of Questions to be attempted : 20
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065387493
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Number : 297 Question Id : 640653608960 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

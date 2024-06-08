@@ -1,0 +1,30 @@
+Consider a relation schema student (**roll\_no**, name, mobile\_no)
+Consider a B+ tree index build on the roll\_no attribute, assuming student relation has 30000 records, and the order of the B+ tree is 30. Find out the maximum number of nodes to be accessed to search a key from the given B+ tree.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+
+Sub-Section Number : 10
+Sub-Section Id : 64065387502
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 314 Question Id : 640653608978 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Consider the given statements.
+Statement 1 If there are $n$ nodes in a binary tree, the maximum height of the binary tree is $n-1$.
+Statement 2 If a binary tree has height $h$, the maximum number of nodes in the tree will be $2^{h+1}$.
+
+Options :
+6406532034209. ❌ Both statements are correct.
+6406532034210. ❌ Both statements are wrong.
+6406532034211. ❌ Statement 1 is wrong, and statement 2 is correct.
+6406532034212. ✅ Statement 1 is correct, and statement 2 is wrong.
+
+Sub-Section Number : 11

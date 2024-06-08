@@ -1,0 +1,42 @@
+Consider the log records at an instance of time.
+
+Table 2: Log records
+
+|  |  |
+|---|---|
+|  |  $<T_0$ start $>$ |
+|  |  $<T_0$, D: 890, 600 $>$ |
+|  |  $<T_0$, A: 100, 350 $>$ |
+|  |  $<T_1$ start $>$ |
+|  |  $<T_1$, C: 790, 700 $>$ |
+|  |  $<T_1$, B: 1500, 2300 $>$ |
+|  |  $<T_0$, D: 600, 800 $>$ |
+|  |  $<Commit$ $T_1>$ |
+|  |  $<T_2$ start $>$ |
+|  |  $<Checkpoint$ L $>$ |
+|  |  $<T_2$, D: 890, 450 $>$ |
+|  |  $<Commit$ $T_2>$ |
+|  |  $<T_0$, E: 1000, 700 $>$ |
+
+
+Suppose there is a crash after the last log record shown in Table 2. The value of
+$A + D + E$ is ?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+1550
+
+Question Number : 311 Question Id : 640653608975 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Consider a B-tree with a block size of 2048 bytes, key size of 24 bytes, record pointer size of 32 bytes, and block pointer size of 16 bytes. Find out the maximum order possible for the B-tree from the given information.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes

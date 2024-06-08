@@ -1,0 +1,20 @@
+Question Number : 317 Question Id : 640653608983 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Consider the SQL query given below:
+```python
+SELECT *
+FROM players LEFT OUTER JOIN team
+ON players.team_id = team.team_id;
+```
+How many rows will be returned by the query?
+Options :
+6406532034221. ❌ 5
+6406532034222. ✅ 7
+6406532034223. ❌ 9
+6406532034224. ❌ 8
+Question Number : 318 Question Id : 640653608984 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question

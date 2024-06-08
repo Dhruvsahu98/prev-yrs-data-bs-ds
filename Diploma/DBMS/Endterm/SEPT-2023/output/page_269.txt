@@ -1,0 +1,44 @@
+Question Number : 303 Question Id : 640653608977 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider the two relations as shown below:
+
+| Roll\_no | name | sname |
+|---|---|---|
+| 1 | Ram | DBMS |
+| 2 | Rakesh | PDSA |
+| 1 | Ram | PDSA |
+| 4 | Pranav | DBMS |
+
+Table 3: student\_course
+
+| sname |
+|---|
+| DBMS |
+| PDSA |
+
+Table 4: course
+
+What will the output of the operation students\_course $\div$ course be?
+
+Options :
+
+6406532034205.  
+| Roll\_no | name |
+|---|---|
+| 1 | Ram |
+| 2 | Rakesh |
+
+6406532034206.  
+| Roll\_no | name |
+|---|---|
+| 1 | Ram |
+
+6406532034207.  
+| Roll\_no | name |
+|---|---|
+| 4 | Pranav |
+
+6406532034208.  

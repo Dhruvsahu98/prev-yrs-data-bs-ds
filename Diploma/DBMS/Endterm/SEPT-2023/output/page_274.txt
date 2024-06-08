@@ -1,0 +1,27 @@
+Sub questions
+
+Question Number : 308 Question Id : 640653608971 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+A RAID-5 storage system with a similar arrangement of parity blocks as described in Figure 1 is used for storing the following data:
+
+| Disk 1 | Disk 2 | Disk 3 | Disk 4 |   |
+| :----- | :----- | :----- | :----- | :-- |
+| 0100   | 0101   | 0101   | XXXX   | Block 1 row |
+| 1000   | 0101   | 1101   | XXXX   | Block 2 row |
+| 0100   | 0101   | 0101   | XXXX   | Block 3 row |
+| 0010   | 0011   | XXX   | XXXX   | Block 4 row |
+
+Figure 2: RAID 5 DATA
+
+According to Figure 2, disk-4 has crashed and disk-3 has been corrupted partially. What data is present in block-4 of disk-3?
+Note: Assume block size is 4 bits
+
+Options:
+6406532034193. ❌ 1101
+6406532034194. ❌ 1110
+6406532034195. ❌ 0101
+6406532034196. ✅ Cannot be recovered
+
+Question Number : 309 Question Id : 640653608972 Question Type : MCQ Is Question

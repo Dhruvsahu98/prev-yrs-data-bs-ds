@@ -1,0 +1,32 @@
+Consider the following relations:
+employee(emp\_id, emp\_name, dob, dept\_id, desg\_id)
+department(dept\_id, name, building)
+
+Choose the correct Relational Algebra expression(s) equivalent to the below expression.
+
+$\Pi_{emp\_id,name}(\sigma_{dob>'1996-06-09'\wedge desg\_id='HOD'}(employee\bowtie department))$
+
+Options :
+
+6406532034229. $\checkmark$ $\Pi_{emp\_id,name}(\sigma_{dob>'1996-06-09'\wedge desg\_id='HOD'}(employee))\bowtie department$
+
+6406532034230. $\times$ $\Pi_{emp\_id,name}(\sigma_{dob>'1996-06-09'}(employee))\bowtie (\sigma_{desg\_id='HOD'}(department))$
+
+6406532034231. $\checkmark$ $\Pi_{emp\_id,name}(\sigma_{dob>'1996-06-09'}(\sigma_{desg\_id='HOD'}(employee))\bowtie department))$
+
+6406532034232. $\times$ $\Pi_{emp\_id,name}(\sigma_{dob>'1996-06-09'\wedge desg\_id='HOD'}(department))\bowtie employee$
+
+
+## Business Analytics
+
+Section Id : 64065341241
+Section Number : 13
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 45
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Yes
