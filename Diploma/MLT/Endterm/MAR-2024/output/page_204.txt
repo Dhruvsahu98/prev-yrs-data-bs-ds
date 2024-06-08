@@ -1,0 +1,18 @@
+6406532577810. 	LabelEncoder helps in improving the score of RadiusNeighborsClassifier model 
+
+Question Number : 219 Question Id : 640653770641 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question 
+Which of the following is correct?
+Options :
+6406532577811. 	<img src="https://www.prepbytes.com/images/coding-question/correct.png"> SGDClassifier(loss= “perceptron”) is a stochastic version of a perceptron model 
+6406532577812. 	<img src="https://www.prepbytes.com/images/coding-question/wrong.png">  SGDClassifier(loss= “percept”) is a stochastic version of a perceptron model 
+6406532577813. 	<img src="https://www.prepbytes.com/images/coding-question/correct.png">  SGDClassifier(loss= “log_loss”) is a stochastic version of a logistic classifier model 
+6406532577814. 	<img src="https://www.prepbytes.com/images/coding-question/wrong.png">  SGDClassifier(loss= “sigmoid”) is a stochastic version of a logistic classifier model 
+
+Question Number : 220 Question Id : 640653770642 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question 
+Which of the following option(s) are correct for the precision-recall curve 
+Options :
+6406532577815. 	<img src="https://www.prepbytes.com/images/coding-question/correct.png"> A high area under the curve represents both high recall and high precision. 

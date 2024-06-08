@@ -1,0 +1,22 @@
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 229 Question Id : 640653770652 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Say a demand response curve is modelled as a constant elasticity curve. If Q1 is 2400 units, Q2 is 1500 units, P1 is Rs. 100 and P2 is Rs. 200, then what is the elasticity of the curve? 
+(Note: Enter the answer rounded to two decimal places. For example, if the answer is “1.234”, then enter it as “1.23”)
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+0.66 to 0.70 
+Sub-Section Number : 3
+Sub-Section Id : 640653112647
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653770653 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (230 to 233)
+Question Label : Comprehension
+A parts supplier must assign supply from 5 warehouses (W1, W2, W3, W4 and W5) to 3 customers (C1, C2 and C3), such that the total demand of 300 units for the three customers is satisfied. The warehouse capacities are 85, 55, 75, 65 and 40, for W1, W2, W3, W4 and W5 respectively. A 

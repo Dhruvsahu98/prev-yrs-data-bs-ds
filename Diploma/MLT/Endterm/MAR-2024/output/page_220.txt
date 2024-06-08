@@ -1,0 +1,29 @@
+Question Number : 236 Question Id : 640653770661 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the value of the "T-statistic" associated with the intercept in Model-3?
+(Note: Enter the answer rounded to two decimal places. For example, if the answer is "1.234", then enter it as "1.23")
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+9.30 to 9.40
+
+Question Number : 237 Question Id : 640653770662 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the adjusted R-Square value for Model-10?
+(Note: Enter the answer rounded to two decimal places. For example, if the answer is "1.234", then enter it as "1.23")
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.97 to 0.99
+
+Question Number : 238 Question Id : 640653770663 Question Type : SA Calculator : None

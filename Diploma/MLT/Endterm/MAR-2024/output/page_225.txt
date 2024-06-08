@@ -1,0 +1,31 @@
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0
+
+Question Number : 245 Question Id : 640653770671 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+
+At a threshold of 0.4, how many "True Negatives" is the AI engine predicting? 
+(Note: Enter the answer rounded to two decimal places. For example, if the answer is "1.234", then enter it as "1.23")
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+## System Commands
+
+Section Id : 64065353271
+Section Number : 15
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 15
+Number of Questions to be attempted : 15
+Section Marks : 100
+Display Number Panel : Yes

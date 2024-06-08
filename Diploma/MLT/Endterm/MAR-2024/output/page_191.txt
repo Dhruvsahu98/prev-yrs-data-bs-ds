@@ -1,0 +1,9 @@
+Which of the following statements are true?
+Options :
+640653257746. $0 < w^Tx_1 < w^Tx_2 < w^Tx_3$ 
+640653257747. $w^Tx_4 = 0$
+640653257748. $0 < w^Tx_2 < w^Tx_1 < w^Tx_3$
+640653257749. $w^Tx_5 < 0$
+640653257750. $w^Tx_3 < 0$
+
+Question Number : 204 Question Id : 640653770620 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 

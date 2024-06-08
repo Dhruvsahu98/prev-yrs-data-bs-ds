@@ -1,0 +1,85 @@
+\begin{table}[ht]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+ & Coefficients & Standard Error \\ \hline
+Intercept & 98.87754599 & 7.250193359 \\ \hline
+Charging Time in minutes & -0.170523674 & 0.051397297 \\ \hline
+\end{tabular}
+\end{table}
+
+Model-5: Partial output when regressing "Mileage" and "Charging Time in minutes"
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+ & Coefficients & Standard Error \\ \hline
+Intercept & -34.38432441 & 10.63536513 \\ \hline
+Mileage & 0.938871236 & 0.137128267 \\ \hline
+\end{tabular}
+\end{table}
+
+Model-6: Partial output when regressing "Storage Space" and "Mileage"
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+ & Coefficients & Standard Error \\ \hline
+Intercept & 222.6523985 & 22.52775312 \\ \hline
+Storage Space & -2.429330848 & 0.56102955 \\ \hline
+\end{tabular}
+\end{table}
+
+Model-7: Partial output when regressing "Charging time in minutes" and "Storage Space"
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+ & Coefficients & Standard Error \\ \hline
+Intercept & 535.322047 & 455.4019129 \\ \hline
+Storage Space & -17.4798574 & 11.34129661 \\ \hline
+\end{tabular}
+\end{table}
+
+Model-8: Partial output when regressing "Sales" and "Storage Space"
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+ & Coefficients & Standard Error \\ \hline
+Intercept & 2990.697485 & 250.4961952 \\ \hline
+Charging Time in Minutes & 12.95643851 & 1.775790898 \\ \hline
+\end{tabular}
+\end{table}
+
+Model-9: Partial output when regressing "Sales" and "Charging Time in minutes"
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+ANOVA &  &  &  &  \\ \hline
+ & df & SS & MS & $F$ \\ \hline
+Regression &  & 10266630.47 &  &  \\ \hline
+Residual &  &  & 9728.032 &  \\ \hline
+Total & 18 &  &  &  \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+ & Coefficients & Standard Error &  &  \\ \hline
+Intercept & -222.5640769 & 222.6565966 &  &  \\ \hline
+Mileage & 26.5571306 & 3.242212111 &  &  \\ \hline
+Storage space & 8.90325534 & 3.342287418 &  &  \\ \hline
+Charging time in minutes & 19.40962696 & 0.659759192 &  &  \\ \hline
+\end{tabular}
+\end{table}
+
+Model-10: Partial output when regression "Sales" with all the three explanatory variables 

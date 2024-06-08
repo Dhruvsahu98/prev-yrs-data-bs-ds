@@ -1,0 +1,29 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+37 to 39
+
+Question Number : 241 Question Id : 640653770667 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+At a threshold of 0.7, what is the precision for "Not Selected" category for the AI engine?
+(Note: Enter the answer in "%" rounded to two decimal places without the "%" symbol. For example, if the answer is "1.234%", then enter it as "1.23")
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+24 to 26
+
+Question Number : 242 Question Id : 640653770668 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+At a threshold of 0.7, what is the recall for "Selected" category for the AI engine?
+(Note: Enter the answer in "%" rounded to two decimal places without the "%" symbol. For example, if the answer is "1.234%", then enter it as "1.23")
+Response Type : Numeric
+Evaluation Required For SA : Yes

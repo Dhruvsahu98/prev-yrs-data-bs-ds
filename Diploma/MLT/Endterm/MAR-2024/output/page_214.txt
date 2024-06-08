@@ -1,0 +1,42 @@
+warehouse can supply any number of customers. The cost to supply a customer from a given warehouse is provided in Table-1.Given this information, answer the subquestions.
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\multirow{2}{*}{Customer} & \multicolumn{5}{c|}{Cost to supply a warehouse (Rs./ unit)} \\ \cline{2-6} 
+ & W1 & W2 & W3 & W4 & W5 \\ \hline
+C1 & 100 & 80 & 75 & 88 & 133 \\ \hline
+C2 & 50 & 85 & 120 & 112 & 94 \\ \hline
+C3 & 120 & 75 & 90 & 93 & 143 \\ \hline
+\end{tabular}
+\caption{Table-1}
+\end{table}
+
+Sub questions
+
+Question Number : 230 Question Id : 640653770654 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+
+How many decision variables are present in the standard primal formulation of the given problem? 
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Text Areas : PlainText
+Possible Answers : 
+1
+
+15
+
+
+Question Number : 231 Question Id : 640653770655 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+How many constraints are present in the standard primal formulation of the given problem?
+(Note: Exclude the count of non-negativity constraints when you input your answer)
+
+Response Type : Numeric 

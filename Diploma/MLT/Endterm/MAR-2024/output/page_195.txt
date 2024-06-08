@@ -1,0 +1,21 @@
+Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the following code snippet and assume all the dependencies are imported:
+```python
+from sklearn.linear_model import Perceptron
+clf = Perceptron(max_iter=100, random_state=1729)
+```
+He learnt that every time he calls fit() method on 'clf', the parameters learnt from the previous training session (i.e. previous call to 'fit()') are lost. What should he change in code so that this problem is removed?
+Options :
+640653257767. $\checkmark$ Set warm_start=True
+640653257768. $\times$ Combine training data from different training sessions
+640653257769. $\times$ Set retain_parameters=True
+640653257770. $\times$ This problem can not be solved.
+
+Question Number : 208 Question Id : 640653770631 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider a binary classification dataset with labeled as 98% negative samples and 2% positive samples. A model is trained on this data, which of the following evaluation metrics are suitable for measuring effectiveness of this model:
+Options :
+640653257771. $\times$ accuracy 

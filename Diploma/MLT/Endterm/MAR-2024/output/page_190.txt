@@ -1,0 +1,30 @@
+The training dataset for a binary classification problem is as follows:
+$$\{(\textbf{u}, 1), (-2\textbf{u}, 0), (3\textbf{u}, 1), (-4\textbf{u}, 0)\}$$
+where $\textbf{u} \in \mathbb{R}^d$ is a constant, and the labels belong to $0, 1$. Let $\textbf{w}$ be the weight vector of a linear classifier. What condition should the weight vector satisfy for the zero-one loss to be zero on this dataset?
+<br>
+Options :
+<br>
+640653257742. $\quad$ $\textbf{w}^T\textbf{u} < 0$
+<br>
+640653257743. $\quad \checkmark$ $\textbf{w}^T\textbf{u} > 0$
+<br>
+640653257744. $\quad$ $\textbf{w}^T\textbf{u} = 0$
+<br>
+640653257745. $\quad$ We can never find a $\textbf{w}$ for which the zero-one loss becomes zero on this dataset.
+<br>
+Sub-Section Number : $\quad$ 8
+<br>
+Sub-Section Id : $\quad$ 640653112638
+<br>
+Question Shuffling Allowed : $\quad$ Yes
+<br>
+Is Section Default? : $\quad$ null
+<br>
+Question Number : 203 Question Id : 640653770619 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+<br>
+Correct Marks : 4 Max Select Options : 0
+<br>
+Question Label : Multiple Select Question
+<br>
+Consider the following data-points in a binary classification problem. $\textbf{w}$ is the weight vector corresponding to a linear classifier. The labels are +1 and -1. 
+<br>

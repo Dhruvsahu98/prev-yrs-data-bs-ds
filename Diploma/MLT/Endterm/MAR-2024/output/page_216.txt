@@ -1,0 +1,7 @@
+Text Areas : PlainText
+Possible Answers :
+4
+Question Id : 640653770658 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (234 to 239)
+Question Label : Comprehension
+Milo's Motors (MM) is a motorcycle brand that manufactures electric two wheelers. MM wants to understand the relationship between "Mileage", "Storage space" and "Charging Time in Minutes" on "Sales volume". The owner of the company, Dr. Milo, only has half-baked knowledge of regression. Hence, several regression models (Model-1, Model-2, Model-3, Model-4, Model-5, Model-6, Model-7, Model-8, Model-9 and Model-10) which are given below were built on appropriate available data by Dr. Milo.Given this information, answer the subquestions. 

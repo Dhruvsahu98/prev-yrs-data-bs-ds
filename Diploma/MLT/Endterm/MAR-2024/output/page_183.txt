@@ -1,0 +1,20 @@
+Considering the specific context of predicting house prices based on square footage, which model is more likely to provide accurate predictions on the training dataset?
+Options :
+640653257718.  $\times$ Model $P$
+640653257719.  $\checkmark$ Model $Q$
+640653257720.  $\times$ Both models are equally likely to provide accurate predictions
+640653257721.  $\times$ It depends on the distribution of house prices in the dataset. 
+
+Question Number : 193 Question Id : 640653770611 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question 
+Identify the factors that could influence the model's performance on the training dataset in this housing price prediction scenario. Select all correct statements: 
+Options : 
+640653257722.  $\checkmark$ Model $P$ may struggle to capture non-linear relationships present in house price data. 
+640653257723.  $\checkmark$ Model $Q$ might be sensitive to outliers in the square footage variable.
+640653257724.  $\times$ The choice between Model $P$ and Model $Q$ depends on the budget constraints of potential homebuyers.
+640653257725.  $\times$ Model $Q$ will always perform well on the test dataset. 
+
+Question Id : 640653770622 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (194 to 195)
+Question Label : Comprehension 

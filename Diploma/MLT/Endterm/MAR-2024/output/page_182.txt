@@ -1,0 +1,25 @@
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+Sub-Section Number : 3
+Sub-Section Id : 64065311263
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653770609 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (192 to 193)
+Question Label : Comprehension
+Consider a regression problem where you are tasked with predicting the sale prices of houses based on their square footage. You decide to experiment with two different models:
+
+Model $P$ : $\hat{y_i} = w_0 + w_1 x$
+Model $Q$ : $\hat{y_i} = w_0 + w_1 x + w_2 x^2$
+
+The training dataset consists of information on 200 houses, and you use the models to make predictions on a test dataset of 50 houses. The Mean Squared Error (MSE) is chosen as the evaluation metric.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 192 Question Id : 640653770610 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

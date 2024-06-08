@@ -1,0 +1,30 @@
+ANOVA 
+
+|  | *df* | *SS* | *MS* | *F* | *Significance F* |
+| ------ | ------: | ------: | ------: | ------: | :------: |
+| Regression | 1 |  | 334383.3 |  |  |
+| Residual | 17 |  |  |  |  |
+| Total |  | 1041255 |  |  |  | 
+
+Model-1: Partial ANOVA output when regressing "Sales volume" and "Mileage" 
+
+|  | Coefficients | Standard Error |
+| ------ | ------: | ------: |
+| Intercept | 47.20077094 | 4.584182553 |
+| Storage Space | 0.781643656 | 0.114164154 | 
+
+Model-2: Partial output when regressing "Mileage" and "Storage Space" 
+
+|  | Coefficients | Standard Error |
+| ------ | ------: | ------: |
+| Intercept | 65.81368372 | 7.033106906 |
+| Charging Time in minutes | -0.215893138 | 0.049858351 | 
+
+Model-3: Partial output when regressing "Storage Space" and "Charging Time in minutes" 
+
+|  | Coefficients | Standard Error |
+| ------ | ------: | ------: |
+| Intercept | 308.0125132 | 53.87791105 |
+| Mileage | -2.304781359 | 0.69468086 | 
+
+Model-4: Partial output when regressing "Charging Time in minutes" and "Mileage" 

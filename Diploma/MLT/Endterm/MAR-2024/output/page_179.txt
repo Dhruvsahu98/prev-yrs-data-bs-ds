@@ -1,0 +1,28 @@
+For the endpoint, http://127.0.0.1:8080/#/records/2, The browser will render:
+640653257709. ✓ **Pianobind has 13 songs across 5 genres.**
+
+For the endpoint, http://127.0.0.1:8080/#/records, The browser will render:
+640653257710. ✓ **Unknown record!**
+
+For the endpoint, http://127.0.0.1:8080/#/records/3, The browser will render:
+640653257711. ✗ **Unknown record!**
+
+MLT
+
+Section Id :    64065335268
+Section Number :   12
+Section type : Online
+Mandatory or Optional :  Mandatory
+Number of Questions :  12
+Number of Questions to be attempted : 12
+Section Marks :   50
+Display Number Panel:   Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and  Yes
+Clear Response : 
+Maximum Instruction Time :  0
+Sub-Section Number : 1
+Sub-Section Id :  640653112631
+Question Shuffling Allowed : No
+Is Section Default? : null

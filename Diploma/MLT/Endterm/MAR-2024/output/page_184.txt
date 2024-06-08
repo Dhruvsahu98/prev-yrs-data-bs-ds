@@ -1,0 +1,32 @@
+Consider a naive Bayes model is trained on the following data matrix $X$ of shape $(d, n)$ and corresponding label vector $y$:
+$X = \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 1 \\ 0 & 1 & 1 & 0 \end{bmatrix} \qquad y = \begin{bmatrix} 1 & 0 & 1 & 1 \end{bmatrix}^T$
+
+Assume that $\hat{p}$ and $\hat{p}^{y_i}_{j}$ are estimates for $P(y=1)$ and $P(f_j = 1 | y = y_i)$, respectively. Here, $f_i, i = 1, 2, 3$ is the $i^{th}$ feature.
+These parameters are estimated using MLE.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 194 Question Id : 640653770623 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Calculate the value of $\hat{p}^{1}_{2}$
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+0.30 to 0.35
+
+Question Number : 195 Question Id : 640653770624 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Calculate the value of $\hat{p}^{1}_{1}$
+
+Response Type : Numeric
+Evaluation Required For SA : Yes 

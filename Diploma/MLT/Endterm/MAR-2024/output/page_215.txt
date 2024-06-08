@@ -1,0 +1,25 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Text Areas : PlainText
+Possible Answers :
+3
+7
+
+Question Number : 232 Question Id : 640653770656 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+To reduce risk, it is proposed to split the total demand evenly across all 5 warehouses. Then is it a feasible solution?
+Options :
+6406532577844. &#x2718; Yes
+6406532577845. &#x2714; No
+
+Question Number : 233 Question Id : 640653770657 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If W1 supplies 75 units, W2 supplies 55 units, W3 supplies 75 units, W4 supplies 60 units and W5 supplies 35 units, then how many decision variables in the dual will have a **non-zero** value?
+(Note: Enter your answer after you formulate the dual based on the standard form of the primal)
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

@@ -1,0 +1,40 @@
+Consider the following code snippet that employs LogisticRegression from sklearn on a feature matrix X and corresponding label vector y:
+```python
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression(C=0.8, multi_class='multinomial', max_iter=1000)
+model.fit(X, y)
+```
+Given the code above, which of the following statements is true?
+
+**Options :**
+
+6406532577827.  $\times$ The LogisticRegression model is set up for binary classification. 
+
+6406532577828. $\times$ The model does not use any regularization because the parameter C is set. 
+
+6406532577829. $\checkmark$ The model has been specifically set up to handle a multi-class classification problem using a softmax regression approach. 
+
+6406532577830. $\checkmark$  The model might iterate through the data multiple times, with a maximum limit set at 1000 iterations. 
+
+
+**Sub-Section Number :**  4
+
+**Sub-Section Id :** 640653112642
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+
+**Question Number :** 223 **Question Id :** 640653770644 **Question Type :** MSQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 2 **Max. Selectable Options :** 0
+
+**Question Label :** Multiple Select Question 
+
+Fill in the missing parameter value in the following estimator that can be used to classify the data
+```python
+from sklearn.svm import SVC
+clf = SVC(kernel = ______)
+clf.fit(X, y)
+```

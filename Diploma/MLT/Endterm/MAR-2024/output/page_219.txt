@@ -1,0 +1,34 @@
+Sub questions
+
+Question Number : 234 Question Id : 640653770659 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+How many observations (rows) are present in the data set used to build Model-1?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+
+Possible Answers :
+19
+
+Question Number : 235 Question Id : 640653770660 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+What is the total indirect effect of "Mileage" on "Sales Volume"?
+(Note: Enter the answer rounded to two decimal places. For example, if the answer is "1.234", then enter it as "1.23")
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+
+Possible Answers :
+-37.0 to -36.0

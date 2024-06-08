@@ -1,0 +1,34 @@
+Sub-Section Number : 6
+
+Sub-Section Id : 6406531126
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 200 Question Id : 640653770612 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Let $X$ be the data matrix of shape $(d, n)$ and $y$ be the corresponding label vector. A linear regression model of the form $\hat{y_i} = w^Tx_i$ is fit using the squared error on the same dataset. If the solution $w^*$ to the optimization problem is orthogonal to the subspace spanned of the data point (columns of matrix $X$), what will be the squated error?
+
+Options :
+
+640653257726. $\times$ 0
+
+640653257727. $\times$ 1
+
+640653257728. $\checkmark$ $||y||^2$
+
+640653257729. $\times$ Insufficient information to answer 
+
+Sub-Section Number : 7
+
+Sub-Section Id : 640653112637
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 201 Question Id : 640653770617 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 

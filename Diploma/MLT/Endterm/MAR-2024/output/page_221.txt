@@ -1,0 +1,25 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is F-statistic for Model-10? 
+(Note: Enter the answer rounded to two decimal places. For example, if the answer is "1.234", then enter it as "1.23")
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+351 to 352
+
+Question Number : 239 Question Id : 640653770664 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+For which of the following "Tabulated $F$" values, will the Null Hypothesis NOT BE REJECTED for Model-10?(Choose all that is applicable)
+Options : 
+6406532577852. $\times$ 240
+6406532577853. $\times$ 350
+6406532577854. $\checkmark$ 480
+6406532577855. $\checkmark$ 520
+
+Question Id : 640653770665 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix

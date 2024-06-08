@@ -1,0 +1,29 @@
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Given a design matrix $X \in \mathbb{R}^{d \times n}$ and a target vector $Y \in \mathbb{R}^{n \times 1}$, where $d$ represents the number of features, $n$ represents the number of data points, and the data is defined as:
+
+$X = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$
+
+$Y = \begin{bmatrix} 3 \\ 5 \end{bmatrix}$
+
+Calculate the coefficients $\beta$ for Ridge regression with $\lambda = 1$.
+
+Options :
+
+6406532577737. $\times$  $\beta = \begin{bmatrix} 0.5, 0.5 \end{bmatrix}$
+
+6406532577738. $\times$  $\beta = \begin{bmatrix} 1, 0.5 \end{bmatrix}$
+
+6406532577739. $\checkmark$ $\beta = \begin{bmatrix} 0.54, 0.88 \end{bmatrix}$
+
+6406532577740. $\times$  $\beta = \begin{bmatrix} 0.67, 0.33 \end{bmatrix}$
+
+6406532577741. $\times$  None of these
+
+Question Number : 202 Question Id : 640653770618 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question

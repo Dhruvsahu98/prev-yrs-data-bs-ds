@@ -1,0 +1,20 @@
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Select all true statements.
+Options :
+640653257751. $\checkmark$ In Decision tree, if a question $Q_1$ is "better" than question $Q_2$, then information gains for $Q_1$ is greater than information gains $Q_2$ always.
+640653257752. $\checkmark$ The training dataset is required while predicting the label of a test-point in the k-NN algorithm.
+640653257753. $\times$ A question of the form $f_k \leq \theta$ always partitions the dataset into two non-empty sets.
+640653257754. $\checkmark$ The depth of the tree is a hyperparameter and has to be chosen using cross validation.
+640653257755. $\times$ Decision trees are prone to overfit if the maximum depth is set too low.
+
+MLP
+Section Id : 6406535269
+Section Number : 13
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 23
+Number of Questions to be attempted : 23
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0

@@ -1,0 +1,31 @@
+Question Number : 198 Question Id : 640653770613 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Kernel regression with a polynomial kernel of degree three is applied on a data set $\{X, y\}$. Let the weight vector be given by 
+$w = \phi(X)[2.3, -1.0, 0.4, -0.7]^T$
+Here $\phi(X)$ is the transformed data matrix whose $i^{th}$ column is $\phi(x_i)$. What will be the prediction for the data point $[0, 0, 0, 0]^T$? 
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Number : 199 Question Id : 640653770621 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Suppose you have a five-class classification problem where class label $y \in \{0, 1, 2, 3, 4\}$ and each training example $x_i$ has binary features $f_1, f_2, f_3 \in \{0, 1\}$. How many parameters do we need to know to classify an example using Naive Bayes classifier?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+19 to 20

@@ -1,0 +1,33 @@
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+39 to 41
+
+Question Number : 243 Question Id : 640653770669 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+At a threshold of 0.4, how many "False Positives" is the AI engine predicting?
+(Note: Enter the answer rounded to two decimal places. For example, if the answer is "1.234", then enter it as "1.23")
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Number : 244 Question Id : 640653770670 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+At a threshold of 0.4, how many "False Negatives" is the AI engine predicting?
+(Note: Enter the answer rounded to two decimal places. For example, if the answer is "1.234", then enter it as "1.23")
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2

@@ -1,0 +1,38 @@
+Enter the value of $w_1$ obtained
+when the 3rd sample is used as
+the validation data point.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+
+Possible Answers : 
+
+1.65 to 1.70
+
+Question Number : 197 Question Id : 640653770616 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+What will be the predicted value for the left-out data point?
+
+Options :
+
+640653257732. 	 12
+
+640653257733. 	 13
+
+640653257734. 	 12.3
+
+640653257735. $\checkmark$ 11.3
+
+640653257736. 	 None of these
+
+Sub-Section Number : 	5
+Sub-Section Id : 	640653112635
+Question Shuffling Allowed : 	Yes
+Is Section Default? : 	null

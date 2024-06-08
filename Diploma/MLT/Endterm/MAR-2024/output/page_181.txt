@@ -1,0 +1,27 @@
+Based on the above data, answer the given subquestions.
+Sub questions
+
+**Question Number : 190 Question Id : 640653770626 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3**
+
+**Question Label : Short Answer Question**
+ What is the minimum number of misclassifications that can occur in the training dataset when using this k-NN algorithm? 
+
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Equal**
+**Text Areas : PlainText**
+**Possible Answers :**
+0
+
+
+**Question Number : 191 Question Id : 640653770627 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+
+**Question Label : Short Answer Question**
+ Assuming there are outliers, the decision boundary becomes smoother with increasing value of *k* in a k-NN algorithm (Fill in 1 for yes and 0 for no)
+
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
