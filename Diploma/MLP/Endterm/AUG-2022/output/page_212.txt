@@ -1,3 +1,4 @@
+Options: 
 ```python
 from sklearn.linear_model import SGDRegressor
 linear_regressor = SGDRegressor(shuffle=True)
@@ -10,7 +11,7 @@ linear_regressor = SGDRegressor(learning_rate='constant', eta0=1e-2)
 
 None of these
 ```
-6406531184242. *
+
 
 Question Number : 248 Question Id : 640653357265 Question Type : MCQ Is Question
 Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
