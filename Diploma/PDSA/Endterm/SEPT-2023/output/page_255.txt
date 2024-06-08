@@ -1,0 +1,30 @@
+6406532034143. ✖ T = 'aaaaaaaaaa' and P = 'bbba'
+
+Question Number : 285 Question Id : 640653608955 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+The Knuth-Morris-Pratt (KMP) algorithm is used for efficient string matching. Given the pattern
+`ababcabc`.
+Which of the following represents the correct fail function for the pattern? 
+
+Options :
+6406532034144. ✖ [0, 0, 1, 2, 1, 2, 3]
+6406532034145. ✔ [0, 0, 1, 1, 2, 0]
+6406532034146. ✖ [0, 0, 1, 2, 0, 1, 2]
+6406532034147. ✖ [0, 0, 1, 1, 0, 1, 2]
+Sub-Section Number : 
+Sub-Section Id : 
+Question Shuffling Allowed : 
+Is Section Default? : 
+5
+64065387490
+Yes
+null
+
+Question Number : 286 Question Id : 640653608939 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

@@ -1,0 +1,38 @@
+You're working with a dataset of customer purchase behavior, including attributes "Total Amount Spent" and "Number of Items Purchased." You decide to use K-means clustering to segment customers into groups based on these features. The following code snippet demonstrates the K-means clustering process:
+
+```python
+from sklearn.cluster import KMeans
+import numpy as np
+data = np.array([[150, 6], [300, 12], [50, 2], [250, 8], [80, 3]])
+# Initialize KMeans with 3 clusters
+kmeans = KMeans(n_clusters=3)
+kmeans.fit(data)
+# Predict cluster labels
+labels = kmeans.labels_
+# Centroid coordinates of clusters
+centroids = kmeans.cluster_centers_
+```
+
+Based on the given code and the nature of the dataset, what does the variable 'labels' represent?
+
+**Options :**
+
+6406532034064. ❌ The total amount spent by each customer. 
+
+6406532034065. ✅ The cluster assignments indicating which group each customer belongs to. 
+
+6406532034066. ❌ The number of items purchased by each customer. 
+
+6406532034067. ❌ The centroid coordinates of the clusters formed. 
+
+## PDSA
+
+**Section Id :** 64065341239
+
+**Section Number :** 11
+
+**Section type :** Online
+
+**Mandatory or Optional :** Mandatory
+
+**Number of Questions :** 27

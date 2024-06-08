@@ -1,0 +1,32 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+12
+
+Question Number : 291 Question Id : 640653608949 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+A message $M$ of 100 characters is composed by letters {a,b,c,d,e}. The probability of occurrence for each letter in message $M$ is given below
+
+| Letter | a | b | c | d | e |
+|---|---|---|---|---|---|
+| Probability | 0.18 | 0.39 | 0.07 | 0.26 | 0.10 |
+
+If message $M$ is encoded using Huffman coding, then the length of the encoded message in bits is ______.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+213
+
+Question Number : 292 Question Id : 640653608950 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

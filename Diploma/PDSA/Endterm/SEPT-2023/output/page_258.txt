@@ -1,0 +1,39 @@
+6
+Question Number : 289 Question Id : 640653608942 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the graph G given below.
+
+\begin{tikzpicture}[scale=0.8]
+\tikzstyle{every node}=[draw,circle,fill=white,minimum size=1cm]
+\node (a) at (0,2) {a};
+\node (b) at (2,3) {b};
+\node (c) at (2,1) {c};
+\node (d) at (6,3) {d};
+\node (e) at (6,1) {e};
+\node (f) at (8,2) {f};
+\draw (a) -- node[above] {1} (b);
+\draw (a) -- node[below] {2} (c);
+\draw (b) -- node[right] {3} (c);
+\draw (b) -- node[above] {4} (d);
+\draw (b) -- node[above] {5} (e);
+\draw (c) -- node[below] {4} (e);
+\draw (d) -- node[above] {3} (f);
+\draw (e) -- node[below] {2} (f);
+\end{tikzpicture}
+
+The number of minimum cost spanning tree for the given graph is \_\_\_.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Number : 290 Question Id : 640653608946 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+In a binary tree T of 25 nodes, if the number of nodes with two children is 6, then the number of nodes with one child is \_\_\_.

@@ -1,0 +1,21 @@
+Options :
+6406532034135. ❌ Expression1: $LCS[i-1,j-1]$
+Expression2: $max(LCS[i-1,j],LCS[i,j-1])$
+6406532034136. ❌ Expression1: $1+LCS[i-1,j-1]$
+Expression2: $min(LCS[i-1,j],LCS[i,j-1])$
+6406532034137. ❌ Expression1: $1+LCS[i-1,j-1]$
+Expression2: $1+max(LCS[i-1,j],LCS[i,j-1])$
+6406532034138. ✅ Expression1: $1+LCS[i-1,j-1]$
+Expression2: $max(LCS[i-1,j],LCS[i,j-1])$
+
+Question Number : 284 Question Id : 640653608954 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following combinations of input text $T$ and pattern $P$ will exhibit the worst case running
+time behavior for the Boyer-Moore skipping heuristic?
+Options :
+6406532034140. ❌ $T = 'baabaabaab'$ and $P = 'abba'$
+6406532034141. ✅ $T = 'aaaaaaaaaaaa'$ and $P = 'baaa'$
+6406532034142. ❌ $T = 'aaaaaaaaaaaa'$ and $P = 'abbb'$

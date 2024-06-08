@@ -1,0 +1,33 @@
+Which of the following statement(s) is/are true?
+
+**Options :**
+
+6406532034109.  ✔️ Finding the second smallest in a min-heap takes $O(1)$ time.
+
+6406532034110. ✔️ Inserting a new element in a min-heap takes $O(log \ n)$ time
+
+6406532034111. ✔️ Finding the largest value in a min-heap takes $O(n)$ time.
+
+6406532034112. ✖ Removing the minimum element from a min-heap takes $O(n)$ time
+
+Question Number : 273 Question Id : 640653608948 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Let `coins` be a list of $k$ coin denominations (positive integers) that are available in unlimited quantities. You want to pay a sum of Rupees $x$ using as few coins as possible from the coin denominations given in the list `coins`.
+
+Consider the following greedy strategy:
+
+Sort the coin denominations in descending order, and then repeatedly choose the largest coin denomination that is less than or equal to the remaining amount $x$. We subtract the chosen coin value from $x$ and continue this process until $x$ becomes zero.
+
+Which of the following are counter-examples which prove that the given greedy strategy is not optimum.
+
+**Options :**
+
+6406532034123. ✖ `coins` = [6, 1, 5, 7] and $x$ = 15
+
+6406532034124. ✖ `coins` = [10, 1, 2, 5] and $x$ = 25
+
+6406532034125. ✔️ `coins` = [1, 2, 8, 9, 5, 10] and $x$ = 17

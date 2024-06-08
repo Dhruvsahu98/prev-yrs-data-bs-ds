@@ -1,0 +1,20 @@
+6406532034114. ✖ 12
+6406532034115. ✔ 10
+6406532034116. ✖ 7
+6406532034117. ✖ 18
+
+**Question Number : 281 Question Id : 640653608947 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 4**
+**Question Label : Multiple Choice Question**
+
+If we do not maintain the height of subtrees at each node in an AVL tree, then what will be the upper bound of running time for inserting an element and balancing it if required?
+
+**Options :**
+6406532034119. ✖  $O(log n)$
+6406532034120. ✔  $O(n)$
+6406532034121. ✖  $O(n log n)$
+6406532034122. ✖  $O(n^2)$
+
+**Question Number : 282 Question Id : 640653608951 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 4**
+**Question Label : Multiple Choice Question**

@@ -1,0 +1,23 @@
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+19000
+
+**Question Number :** 294 **Question Id :** 640653608956 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+**Question Label :** Short Answer Question
+Consider the Rabin-Karp algorithm using modulo arithmetic to match the pattern in base 10. Taking modulo q = 11, how many false positives matches does the Rabin-Karp matcher encounter while searching pattern 17 in the text 7217837617?
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+3
+
+**Question Number :** 295 **Question Id :** 640653608957 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+**Question Label :** Short Answer Question

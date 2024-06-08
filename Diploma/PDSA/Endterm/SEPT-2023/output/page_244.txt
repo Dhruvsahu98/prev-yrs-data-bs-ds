@@ -1,0 +1,23 @@
+Question Shuffling Allowed : Yes
+Is Section Default : null
+
+Question Number : 271 Question Id : 640653608934 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the following growth functions
+(a) $f(n)=log^2n$
+(b) $g(n)=\sqrt{logn}$
+(c) $h(n)=loglogn$
+(d) $s(n)=nlogn$
+Choose all the correct option(s) among the following.
+Options :
+6406532034074. * $g(n)=O(h(n))$
+6406532034075. $\checkmark$ $h(n)=O(g(n))$
+6406532034076. $\checkmark$ $f(n)=O(s(n))$
+6406532034077. * $s(n)=O(f(n))$
+
+Question Number : 272 Question Id : 640653608944 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question

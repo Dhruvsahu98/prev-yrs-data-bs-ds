@@ -1,0 +1,18 @@
+#  
+If Dijkstra algorithm is used with A as the source vertex then what is the order in which all other vertices are visited?
+
+**Options :**
+
+6406532034105.  * A, B, E, D, F, C
+6406532034106.  * A, B, D, E, C, F
+6406532034107.  * A, B, E, D, C, F
+6406532034108.  * A, B, D, E, F, C
+
+
+**Question Number :** 280 **Question Id :** 640653608945 **Question Type :** MCQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0 **Correct Marks :** 4 **Question Label :** Multiple Choice Question
+
+The post-order traversal of a binary search tree with integer values produces the following sequence: 7, 5, 14, 12, 10, 20, 18, 25, 15. What is the value of the left child of the root of the tree?
+
+**Options :**
+
+6406532034113.  * 14

@@ -1,0 +1,37 @@
+Consider the following function MOM
+
+```python
+def MoM(L): # Median of medians
+    if len(L) <= 5:
+        L.sort()
+        return(L[len(L)//2])
+    # Construct list of block medians
+    M = []
+    for i in range(0,len(L),5):
+        X = L[i:i+5]
+        X.sort()
+        M.append(X[len(X)//2])
+    return(MoM(M))
+```
+
+What median value will be returned by the given MoM function for the following list?
+[34, 67, 12, 5, 45, 88, 125, -3, -22, 17, 66, 150, 71, 6, 9, -45, 200]
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+55
+
+Question Number : 293 Question Id : 640653608953 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Let $M_1$, $M_2$, $M_3$, $M_4$ be 4 matrices of dimensions $10 \times 100$, $100 \times 20$, $20 \times 5$, $5 \times 80$ respectively.
+What is the minimum number of scalar multiplications required to multiply $M_1$, $M_2$, $M_3$, $M_4$ using basic matrix multiplication ?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

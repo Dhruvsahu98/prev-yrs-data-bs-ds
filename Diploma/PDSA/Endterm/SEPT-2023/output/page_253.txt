@@ -1,0 +1,35 @@
+Consider the following recurrence relation for an algorithm:-
+
+$T(n) = 2T(n/3) + O(n^2)$
+
+Base Case: $T(1) = 1$
+
+The complexity of this algorithm is _ .
+
+Options :
+
+6406532034130. $\times$ $O(n)$
+
+6406532034131. $\times$ $O(log^2 n)$
+
+6406532034132. $\checkmark$ $O(n^2)$
+
+6406532034133. $\times$ $O(n^3)$
+
+6406532034134. $\times$ $O(n log n)$
+
+Question Number : 283 Question Id : 640653608952 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+In the Longest Common Subsequence problem we are given two sequences $a_1, a_2, ... a_m$ and $b_1, b_2, ... b_n$. To get the length of Longest Common Subsequence at $LCS[m][n]$, the recursion formula is given as follows to fill matrix $LCS[i][j]$ where $0 \leq i \leq m$ and $0 \leq j \leq n$.
+
+$LCS[i, j] = \begin{cases}
+0, & \text{if } i = 0 \text{ or } j = 0 \\
+Expression1, & \text{if } a_i = b_j \\
+Expression2, & \text{if } a_i \neq b_j
+\end{cases}$
+
+Which of the following represent the correct expression for $Expression1$ and $Expression2$?

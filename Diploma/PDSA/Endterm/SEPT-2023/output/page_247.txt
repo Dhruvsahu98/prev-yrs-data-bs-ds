@@ -1,0 +1,38 @@
+Question Label : Multiple Choice Question
+
+```python
+def selectionsort(L):
+  n = len(L)
+  if n < 1:
+    return(L)
+  for i in range(n):
+    mpos = i
+    for j in range(i+1,n):
+      if L[j] < L[mpos]:
+        mpos = j
+    (L[i], L[mpos]) = (L[mpos], L[i])
+  return(L)
+```
+
+Which of the following statement(s) is/are correct with regard to the given Selection Sort?
+
+1. Selection sort is stable sort.
+2. It sorts In-place.
+3. In Selection sort, after $m$ passes through the list, the first $m$ elements in the list are the $m$ smallest element of the list.
+
+Options :
+
+6406532034082.  ❌ Only statement 2 is true
+
+6406532034083.  ❌ Statement 1 and Statement 2 are true
+
+6406532034084.  ✅ Statement 2 and Statement 3 are true
+
+6406532034085.  ❌ Statement 1 and Statement 3 are true
+
+6406532034086.  ❌ All statements are true
+
+Question Number : 276 Question Id : 640653608937 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

@@ -1,0 +1,27 @@
+Select the most appropriate data structure for the following applications.
+
+| Application | Data Structure |
+|---|---|
+| 1. A sequence of food orders in a restaurant | a. Array |
+| 2. Matrix operations | b. Graph |
+| 3. Math expression evaluation with parentheses | c. Stack |
+| 4. Social media network | d. Queue |
+
+Options :
+6406532034095.  ✔️ 1-d, 2-a, 3-c, 4-b
+6406532034096.  ❌ 1-d, 2-b, 3-c, 4-a
+6406532034097.  ❌ 1-d, 2-a, 3-d, 4-c
+6406532034098.  ❌ 1-a, 2-d, 3-c, 4-b
+
+Question Number : 287 Question Id : 640653608959 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Let $\alpha$ be an NP-Complete problem, $\beta$ and $\gamma$ be two other problems. $\beta$ is polynomial time reducible to $\alpha$ and $\alpha$ is polynomial time reducible to $\gamma$.
+On the basis of the above information, what can be inferred ?
+
+Options :
+6406532034151.  ❌ $\beta$ belongs to NP hard class
+6406532034152.  ❌ $\beta$ belongs to NP complete class
+6406532034153.  ✔️ $\gamma$ belongs to NP hard class

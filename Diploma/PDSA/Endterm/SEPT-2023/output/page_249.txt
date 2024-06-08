@@ -1,0 +1,33 @@
+A hash table of size 10 uses open addressing with hash function $h(k) = k \mod 10$, and linear probing. After inserting 7 values into an empty hash table, the table is as shown below.
+
+| Index | Data |
+|---|---|
+| 0 | 25 |
+| 1 |  |
+| 2 | 22 |
+| 3 |  |
+| 4 |  |
+| 5 | 35 |
+| 6 | 16 |
+| 7 | 77 |
+| 8 | 15 |
+| 9 | 79 |
+
+Which of the following options give a possible order in which the key values could have been inserted in the hash table?
+
+**Options :**
+
+6406532034091. ❌ 79, 22, 35, 15, 16, 77, 25
+6406532034092. ❌ 22, 35, 77, 16, 25, 79, 15
+6406532034093. ❌ 35, 16, 77, 15, 22, 25, 79
+6406532034094. ✅ 77, 79, 16, 35, 15, 22, 25
+
+**Question Number : 278 Question Id : 640653608940 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+**Question Label : Multiple Choice Question**
+
+An airline serves 1000 cities and runs 4500 direct flights each day between these cities. Which of

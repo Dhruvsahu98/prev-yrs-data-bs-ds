@@ -1,0 +1,10 @@
+the following is a good data structure to get the list of cities where direct flight available from any particular cities?
+**Options :**
+6406532034099. ❌ A 1000 x 1000 2d-array A, where A[i][j] = 1 if there is a direct flight from city i to city j and 0 otherwise.
+6406532034100. ❌ A stack containing values (i, j) for each pair of cities i, j for which there is a direct flight from city i to city j.
+6406532034101. ❌ A queue containing values (i, j) for each pair of cities i, j for which there is a direct flight from city i to city j.
+6406532034102. ✅ An adjacency list containing values (i, j) for each pair of cities i, j for which there is a direct flight from city i to city j.
+Question Number : 279 Question Id : 640653608943 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following graph
