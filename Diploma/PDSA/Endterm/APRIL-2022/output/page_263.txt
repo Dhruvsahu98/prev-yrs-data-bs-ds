@@ -1,0 +1,42 @@
+**Correct Marks : 4**
+**Question Label : Multiple Choice Question**
+Consider a complete binary tree T with 15 nodes. Let distance of a node represent the number of edges from the root to that node. Let A be the distance of the 3rd visited node from the root by applying Breadth-First Search on T. Let B be the distance of the 7th visited node from the root by applying Depth-First Search on T. Both BFS and DFS start from the root node(1st visited node). The value of $|A-B|$ is ____
+**Options :**
+A. ❌ 0
+B. ❌ 1
+C. ✅ 2
+D. ❌ 3
+
+
+**Question Number : 393 Question Type : MCQ**
+**Correct Marks : 4**
+**Question Label : Multiple Choice Question**
+Consider the network given below with source *s* and sink *t*, with the numbers on the edges denoting maximum capacity across a particular edge
+\begin{tikzpicture}[shorten >=1pt, auto, node distance=3cm]
+    \node (s) [circle,draw] {s};
+    \node (a) [circle,draw, right of=s] {a};
+    \node (b) [circle,draw, below of=a] {b};
+    \node (c) [circle,draw, below of=b] {c};
+    \node (d) [circle,draw, right of=a] {d};
+    \node (e) [circle,draw, below of=d] {e};
+    \node (f) [circle,draw, below of=e] {f};
+    \node (t) [circle,draw, right of=e] {t};
+
+    \path[->] (s) edge node {8} (a);
+    \path[->] (s) edge node {7} (b);
+    \path[->] (a) edge node {2} (b);
+    \path[->] (a) edge node {3} (d);
+    \path[->] (a) edge node {9} (t);
+    \path[->] (b) edge node {6} (e);
+    \path[->] (b) edge node {5} (c);
+    \path[->] (c) edge node {2} (f);
+    \path[->] (c) edge node {7} (t);
+    \path[->] (d) edge node {9} (t);
+    \path[->] (e) edge node {3} (d);
+    \path[->] (e) edge node {5} (t);
+    \path[->] (f) edge node {8} (t);
+\end{tikzpicture}
+Which of the following edges form a valid min cut in the given network?
+**Options :**
+A. ✅ Edges {ad, ed, et, ef, cf}
+Page 264 of 308

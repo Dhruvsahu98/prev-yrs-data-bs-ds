@@ -1,0 +1,42 @@
+Question Label : Multiple Choice Question
+
+Which of the following statements is/are **true** about the Quicksort algorithm? Assume that the first element in the list selected as pivot for partitioning each time.
+
+I. The best case is when the pivot element always divides the list into two equal halves.
+
+II. The worst case is when the input list is arranged in either ascending or descending order.
+
+**Options :**
+
+A.  Only I
+B.  Only II
+C.  Both I and II
+D.  None
+
+Question Number : 376 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+```
+
+Consider an implementation of a singly linked list where each node is created using the given class `Node`. Suppose it has a `head` pointer that points to the first node of the linked list and a `tail` pointer that points to the last element of the linked list.
+
+Which of the following operation **can not** be implemented in O(1) time with given representation of the linked list?
+
+**Options :**
+
+A.  Insertion of the new node at the front of the linked list.
+B.  Insertion of the new node at the end of the linked list.
+C.  Deletion of the first node of the linked list.
+D.  Deletion of the last node of the linked list.
+
+Question Number : 377 Question Type : MCQ
+
+Page 253 of 308

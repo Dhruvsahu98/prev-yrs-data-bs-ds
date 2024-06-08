@@ -1,0 +1,41 @@
+C. ❌ The number of leaf nodes is always one more than the number of non-leaf nodes.
+D. ❌ If number of nodes in the tree is $n$, then the number of edges in the tree will be $n+1$.
+E. ✅ Maximum number of nodes at level $L$ will be $2^L$ (if level number starts from 0(root node)).
+
+Question Number : 398 Question Type : SA
+Correct Marks : 4
+Question Label : Short Answer Question
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw, circle] (A) at (3,8) {A};
+\node[draw, circle] (B) at (1,4) {B};
+\node[draw, circle] (C) at (6,4) {C};
+\node[draw, circle] (D) at (3,6) {D};
+\node[draw, circle] (E) at (3,2) {E};
+\node[draw, circle] (F) at (5,2) {F};
+\node[draw, circle] (G) at (3,0) {G};
+\node[draw, circle] (H) at (2,4) {H};
+
+\draw (A) -- node[left] {1} (B);
+\draw (A) -- node[right] {2} (C);
+\draw (A) -- node[right] {2} (D);
+\draw (B) -- node[left] {3} (E);
+\draw (B) -- node[right] {3} (G);
+\draw (C) -- node[left] {7} (E);
+\draw (C) -- node[right] {4} (F);
+\draw (D) -- node[left] {3} (E);
+\draw (D) -- node[right] {3} (H);
+\draw (E) -- node[right] {2} (G);
+\draw (H) -- node[right] {4} (E);
+\draw (H) -- node[right] {6} (F);
+\end{tikzpicture}
+
+What is the weight of the minimum spanning tree for the given graph?
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+
+Page 268 of 308

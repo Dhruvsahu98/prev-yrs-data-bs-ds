@@ -1,0 +1,23 @@
+Question Number : 385 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider $n$ matrices $M_0, M_1, M_2 ... M_{n-1}$ which need to be multiplied. Let $C(i, j)$ be the cost required to multiply matrices $M_i$ to $M_j$ in the sequence. We compute $C(0, n-1)$ to get the overall cost.
+Which of the following statement is true?
+Options :
+A. $\checkmark$ $C(i, j)$ depends on $C(i, k-1)$ and $C(k, j)$ for every $i < k \le j$
+B. $\times$ $C(i, j)$ depends on $C(i, k-1)$ and $C(k, j)$ for every $i \le k \le j$
+C. $\times$ $C(i, j)$ depends on $C(i, k)$ and $C(k, j)$ for every $i < k \le j$
+D. $\times$ $C(i, j)$ depends on $C(i, k)$ and $C(k+1, j)$ for every $i < k \le j$
+
+Question Number : 386 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the function `mystery()` that takes strings `x` and `y` as input. What will `mystery('ABRTCRT', 'ETAIBRC')` return? `LCS(x, y)` returns the length of the longest common subsequence of X and Y.
+```python
+def mystery(X, Y):
+  m = len(X)
+  n = len(Y)
+  l = LCS(X, Y)
+  return (m + n - l)
+```
+Page 258 of 308

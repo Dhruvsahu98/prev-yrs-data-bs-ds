@@ -1,0 +1,29 @@
+B. ✖ Edges {ad, ae, be, ce, cf}
+C. ✖ Edges {ad, ed, et, ft, cf}
+D. ✖ Edges {ad, ed, ef, cf}
+
+Question Number : 394 Question Type : MSQ
+Correct Marks : 4
+Question Label : Multiple Select Question
+A hash table of size 10 uses open addressing with hash function $h(k) = k \mod 10$, and linear probing. After inserting 6 values into an empty hash table, the table is as shown below.
+
+| Index | Data |
+|---|---|
+| 0 |  |
+| 1 |  |
+| 2 | 72 |
+| 3 | 23 |
+| 4 | 12 |
+| 5 | 54 |
+| 6 | 36 |
+| 7 | 83 |
+| 8 |  |
+| 9 |  |
+
+Which one of the following option(s) gives a possible order in which the key values could have been inserted in the table?
+
+Options :
+
+A. ✓ 23, 36, 72, 12, 54, 83
+
+Page 265 of 308

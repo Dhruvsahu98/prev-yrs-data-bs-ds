@@ -1,0 +1,27 @@
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+13
+
+**Question Number :** 399 **Question Type :** SA
+**Correct Marks :** 4
+**Question Label :** Short Answer Question
+What will be the minimum number of nodes in an AVL tree of height 8? Consider that the height of the empty tree is 0.
+
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+54
+
+**Question Number :** 400 **Question Type :** SA
+**Correct Marks :** 4
+**Question Label :** Short Answer Question
+For an activity $X$, $X_s$ is the starting time and $X_e$ is the ending time. The following are the starting time and ending time of activities A, B, C, D, E, F, G and H given in chronological order.
+$A_s$, $B_s$, $C_s$, $A_e$, $D_s$, $E_s$, $C_e$, $B_e$, $F_s$, $D_e$, $G_s$, $H_s$, $E_e$, $F_e$, $G_e$, $H_e$
+What is the minimum number of rooms required to schedule the activities in a set of rooms such that there are no conflicts?
+
+Page 269 of 308

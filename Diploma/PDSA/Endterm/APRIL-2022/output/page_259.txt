@@ -1,0 +1,25 @@
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+A company makes two kinds of leather belts, belt A and belt B. Belt A is a high quality belt and belt B is of lower quality. The respective profits are Rs 5 and Rs 6 per belt. The production of each of type A requires twice as much time as a belt of type B, and if all belts were of type B, the company could make 1,000 belts per day. The supply of leather is sufficient for only 800 belts per day (both A and B combined). Belt A requires a fancy buckle and only 300 of these are available per day. There are only 800 buckles a day available for belt B.
+
+The above problem is to be formulated as a linear programming problem. Let $x_1$ and $x_2$ be the number of belts of type A and B, respectively, manufactured each day. Which of the following is **not a valid** constraint?
+
+**Options :**
+
+A. $\times$ $x_1 \leq 300$
+
+B. $\times$ $x_2 \leq 800$
+
+C. $\checkmark$ $x_1 + 2x_2 \leq 1000$
+
+D. $\times$ $2x_1 + x_2 \leq 1000$
+
+**Question Number : 390 Question Type : MCQ**
+
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+Page 260 of 308

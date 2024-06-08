@@ -1,0 +1,24 @@
+Question Number : 373 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: PROGRAMMING DATA STRUCTURES AND ALGORITHMS USING PYTHON"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+A.  YES
+B.  NO
+
+Question Number : 374 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Let $g(n) = 10n^3 + 20n^3$ and $f(n) = 102n^4 \log n + 26n^2$. Which of the following is true?
+Options :
+A.  $f(n)$ is $O(g(n))$ and $g(n)$ is $O(f(n))$
+B.  $f(n)$ is $O(g(n))$, but $g(n)$ is not $O(f(n))$
+C.  $f(n)$ is not $O(g(n))$ and $g(n)$ is not $O(f(n))$
+D.  $g(n)$ is $O(f(n))$, but $f(n)$ is not $O(g(n))$
+
+Question Number : 375 Question Type : MCQ
+Correct Marks : 3
+Page 252 of 308

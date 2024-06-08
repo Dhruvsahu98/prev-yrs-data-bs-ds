@@ -1,0 +1,35 @@
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Suppose we run Prim's algorithm and Kruskal's algorithm on a graph $G$ which have edges with distinct weights and these two algorithms produce minimum-cost spanning trees $T_P$ and $T_K$, with total minimum cost $C_P$ and $C_K$ respectively. Which of the following is **true**?
+
+**Options :**
+
+A.  $T_P$ and $T_K$ are always the same but $C_P$ may not be equal to $C_K$
+
+B.  $T_P$ may be different to $T_K$ but $C_P$ is always equal to $C_K$
+
+C.  $T_P$ and $T_K$ are always the same and $C_P$ is always equal to $C_K$
+
+D.  $T_P$ may be different to $T_K$ and $C_P$ may not be equal to $C_K$
+
+**Question Number : 380 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+A Priority-Queue is implemented as a Max-Heap. Initially, the max-heap is $[20, 18, 15, 13, 12]$. Two new elements 10 and 17 are inserted in the given Max-Heap in that order. Max-Heap after the insertion of the elements is _______
+
+**Options :**
+
+A.  $[20, 18, 17, 15, 13, 12, 10]$
+
+B.  $[20, 18, 17, 12, 13, 10, 15]$
+
+C.  $[20, 18, 17, 10, 12, 13, 15]$
+
+D.  $[20, 18, 17, 13, 12, 10, 15]$
+
+Page 255 of 308

@@ -1,0 +1,51 @@
+```python
+def fib(n):
+  fiblist=[]
+  Q = Queue()
+  Q.enqueue(0)
+  Q.enqueue(1)
+  for i in range(1,n+1):
+    a = Q.dequeue()
+    b = Q.dequeue()
+    Q.enqueue(a + b)
+    Q.enqueue(b)
+    fiblist.append(a)
+  return fiblist
+```
+
+```python
+def fib(n):
+  fiblist=[]
+  Q = Queue()
+  Q.enqueue(0)
+  Q.enqueue(1)
+  for i in range(1,n+1):
+    a = Q.dequeue()
+    b = Q.dequeue()
+    Q.enqueue(a + b)
+    Q.enqueue(b)
+    fiblist.append(a)
+  return fiblist
+```
+
+```python
+def fib(n):
+  fiblist=[]
+  Q = Queue()
+  Q.enqueue(1)
+  Q.enqueue(0)
+  for i in range(1,n+1):
+    a = Q.dequeue()
+    b = Q.dequeue()
+    Q.enqueue(a + b)
+    Q.enqueue(a)
+    fiblist.append(b)
+  return fiblist
+```
+
+B. ✖
+C. ✔
+D. ✖
+
+Question Number : 392 Question Type : MCQ
+Page 263 of 308

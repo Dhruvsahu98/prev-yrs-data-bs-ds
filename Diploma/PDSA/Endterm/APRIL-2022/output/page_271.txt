@@ -1,0 +1,28 @@
+D. ✖ length of the longest contiguous strictly increasing sequence
+
+**Question Number : 403 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+What is the time complexity for function *mystery(O)*?
+
+**Options :**
+A.  ✔ *O(n^2)*
+B. ✖ *O(n log n)*
+C. ✖ *O(log n)*
+D. ✖ *O(n)*
+
+**System Commands**
+
+Number of Questions : 25
+Section Marks : 100
+
+**Question Number : 404 Question Type : MCQ**
+
+**Correct Marks : 0**
+
+**Question Label : Multiple Choice Question**
+
+Page 272 of 308

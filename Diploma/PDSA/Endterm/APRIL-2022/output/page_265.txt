@@ -1,0 +1,56 @@
+B. $\checkmark$ 36, 72, 23, 12, 54, 83
+C. $\times$ 36, 23, 72, 12, 83, 54
+D. $\checkmark$ 36, 23, 72, 12, 54, 83
+E. $\times$ 72, 23, 36, 54, 12, 83
+
+Question Number : 395 Question Type : MSQ
+
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+
+Suppose we obtain the following BFS tree rooted at node G for an undirected graph with vertices {A, B, C, D, E, F, G, H, I, J, K}.
+
+```python
+import networkx as nx
+
+G = nx.Graph()
+G.add_nodes_from(['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K'])
+G.add_edges_from([('G', 'K'), ('G', 'I'), ('K', 'F'), ('I', 'D'), ('I', 'B'), ('D', 'H'), ('B', 'J'), ('H', 'C'), ('J', 'E'), ('J', 'A')])
+
+nx.draw(G, with_labels=True)
+plt.show()
+```
+
+\begin{tikzpicture}[scale=0.8]
+\tikzstyle{every node}=[draw,circle,inner sep=2pt]
+\node (G) at (0,0) {G};
+\node (K) at (-3,-1) {K};
+\node (I) at (3,-1) {I};
+\node (F) at (-4,-2) {F};
+\node (D) at (-2,-2) {D};
+\node (B) at (4,-2) {B};
+\node (H) at (2,-3) {H};
+\node (J) at (3,-4) {J};
+\node (C) at (1,-4) {C};
+\node (E) at (2,-5) {E};
+\node (A) at (3,-5) {A};
+\draw (G)--(K);
+\draw (G)--(I);
+\draw (K)--(F);
+\draw (I)--(D);
+\draw (I)--(B);
+\draw (D)--(H);
+\draw (B)--(J);
+\draw (H)--(C);
+\draw (J)--(E);
+\draw (J)--(A);
+\end{tikzpicture}
+
+Which of the following can not be an edge/edges in the original graph?
+
+Options :
+A. $\checkmark$ (D, G)
+B. $\times$ (F, D)
+
+Page 266 of 308

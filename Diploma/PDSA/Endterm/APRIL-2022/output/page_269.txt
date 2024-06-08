@@ -1,0 +1,34 @@
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+Question Number : 401 Question Type : SA
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the following function MoM
+```python
+1 def MoM(L): # Median of medians
+2  if len(L) <= 5:
+3   L.sort()
+4   return(L[len(L)//2])
+5  # Construct list of block medians
+6  M = []
+7  for i in range(0,len(L),5):
+8   X = L[i:i+5]
+9   X.sort()
+10  M.append(X[len(X)//2])
+11 return(MoM(M))
+```
+What median value will be returned by the given MoM function for the following list?
+```python
+1 [4, 3, 5, 6, 2, 1, 8, 9, 12, 10, 19, 15, 18, 17, 11, 7, 21, 18, 25, 23]
+```
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Page 270 of 308

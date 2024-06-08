@@ -1,0 +1,39 @@
+Consider the following implementation for Queue
+
+```python
+class Queue:
+    def __init__(self):
+        self.queue = []
+    def enqueue(self,v):
+        self.queue.append(v)
+    def isempty(self):
+        return(self.queue == [])
+    def dequeue(self):
+        v = None
+        if not self.isempty():
+            v = self.queue[0]
+            self.queue = self.queue[1:]
+        return(v)
+```
+
+Which of the following function returns the correct list of the first $n$ Fibonacci numbers starting from 0?
+
+Options :
+
+```python
+def fib(n):
+    fiblist = []
+    Q = Queue()
+    Q.enqueue(1)
+    Q.enqueue(0)
+    for i in range(1,n+1):
+        a = Q.dequeue()
+        b = Q.dequeue()
+        Q.enqueue(a + b)
+        Q.enqueue(b)
+        fiblist.append(a)
+    return fiblist
+```
+
+A. **
+Page 262 of 308

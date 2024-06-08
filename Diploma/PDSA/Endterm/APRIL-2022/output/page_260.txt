@@ -1,0 +1,41 @@
+Consider the following implementation for Stack.
+
+```python
+class Stack:
+    def __init__(self):
+        self.stack = []
+    def Push(self,v):
+        self.stack.append(v)
+    def isempty(self):
+        return self.stack == []
+    def Pop(self):
+        v = None
+        if not self.isempty():
+            v = self.stack.pop()
+        return(v)
+```
+
+```python
+def fun(S):
+    if (not S.isempty()):
+        i = S.Pop()
+        fun(S)
+        S.Push(i)
+```
+
+What operation is performed by the above function fun(S)? S is a stack created using the given class Stack.
+
+**Options :**
+
+A.  Leaves the stack S unchanged
+B.  Reverses the order of elements in the stack S
+C.  Swaps the elements of the top and bottom positions in stack S, keeping the other elements in between in the same order
+D.  Empties the stack S
+
+**Question Number : 391 Question Type : MCQ**
+
+**Correct Marks : 4**
+
+**Question Label : Multiple Choice Question**
+
+Page 261 of 308

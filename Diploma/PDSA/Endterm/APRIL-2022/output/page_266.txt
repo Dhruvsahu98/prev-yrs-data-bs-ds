@@ -1,0 +1,23 @@
+C.  (A, I)
+D.  (C, B)
+E.  (E, H)
+
+Question Number : 396 Question Type : MSQ
+Correct Marks : 3
+Question Label : Multiple Select Question
+Which of the following statement is **true** about Dijkstra's algorithm to find shortest path? 
+Options :
+A.  ✔ Dijkstra's algorithm doesn't work for graphs with negative weights.
+B.  ✖ It returns the shortest path between all pair of nodes.
+C.  ✖ The shortest path returned by Dijkstra's algorithm always passes through the least number of vertices.
+D.  ✔ To decide which node to visit next, Dijkstra's algorithm selects the node with smallest known distance
+E.  ✖ It can find the shortest path for only acyclic graphs
+
+Question Number : 397 Question Type : MSQ
+Correct Marks : 3
+Question Label : Multiple Select Question
+Which of the following statements is **true** about binary trees? Assume that the height of the empty tree is 0.
+Options :
+A.  ✔ If the number of nodes in the tree is $n$, then the maximum height of the tree can be $n$.
+B.  ✔ If the number of nodes in the tree is $n$, then the minimum height of the tree will be $int(log(n))$ + 1.
+Page 267 of 308

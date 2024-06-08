@@ -1,0 +1,33 @@
+**Question Number : 383 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+In a list L, two elements L[i] and L[j] form a significant inversion if L[i] > 2 * L[j] and i < j. The total number of significant inversions for L = [4, 5, 2, 1, 3] is _____.
+
+**Options :**
+
+A.  2
+B.  3
+C.  4
+D.  5
+
+**Question Number : 384 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following recurrence relation for an algorithm - $T(n) = 3T(n/3) + n$. 
+
+The complexity of this algorithm is _____.
+
+**Options :**
+
+A.  $O(1)$
+B.  $O(logn)$
+C.  $O(n)$
+D.  $O(nlogn)$
+
+Page 257 of 308

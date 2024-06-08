@@ -1,0 +1,31 @@
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Consider a undirected connected graph G with 8 vertices. Which of the following is a possible listing of the degrees of vertices in graph G?
+
+**Options :**
+
+A.  $\times$ 2, 3, 1, 4, 3, 4, 3, 3
+B.  $\times$ 4, 2, 2, 3, 1, 3, 3, 5
+C.  $\checkmark$ 1, 2, 3, 1, 4, 2, 1, 2
+D.  $\times$ 1, 2, 2, 2, 2, 1, 3, 4
+
+**Question Number : 378 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Consider an undirected unweighted graph G. Let a breadth-first traversal of G be done starting from a node s. Let d(s, u) and d(s, v) be the lengths of the shortest paths from s to u and v respectively in terms of the number of edges in G. If u is visited before v during the breadth-first traversal, which of the following statements is correct?
+
+**Options :**
+
+A.  $\times$ d(s, u) < d(s, v)
+B.  $\times$ d(s, u) > d(s, v)
+C.  $\checkmark$ d(s, u) <= d(s, v)
+D.  $\times$ d(s, u) >= d(s, v)
+
+**Question Number : 379 Question Type : MCQ**
+
+Page 254 of 308

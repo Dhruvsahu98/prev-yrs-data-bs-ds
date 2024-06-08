@@ -1,0 +1,28 @@
+Options :
+A. ✖ 7
+B. ✖ 8
+C. ✖ 9
+D. ✔️ 10
+
+Question Number : 387 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following option represents the fail function (or prefix function) for pattern 'bonbon' in the Knuth-Morris-Pratt (KMP) algorithm?
+Options :
+A. ✖ [0, 0, 0, 1, 1, 2]
+B. ✔️ [0, 0, 0, 1, 2, 3]
+C. ✖ [0, 0, 1, 2, 3, 3]
+D. ✖ [0, 0, 0, 0, 1, 2]
+
+Question Number : 388 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A problem in NP is NP-complete if _______
+Options :
+A. ✖ It can be reduced to the 3-SAT problem in polynomial time
+B. ✖ It can be reduced to any other problem in NP in polynomial time
+C. ✖ some problem in NP can be reduced to it in polynomial time
+D. ✔️ The 3-SAT problem can be reduced to it in polynomial time
+
+Question Number : 389 Question Type : MCQ
+Page 259 of 308
