@@ -1,0 +1,42 @@
+level 2?
+
+Note : Consider that the root node is at level 0.
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+27
+
+Java
+
+Number of Questions : 23
+
+Section Marks : 100
+
+Question Number : 283 Question Type : MCQ
+
+Correct Marks : 0
+
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: JAVA"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+Page 165 of 308

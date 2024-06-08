@@ -1,0 +1,45 @@
+Question Label : Multiple Choice Question
+
+Which among the following layers provides a user interface to translate tasks and results to something that the user can understand?
+
+**Options :**
+A.  ✔ Presentation Layer
+B.  ✖ Data Layer
+C.  ✖ Logic Layer
+D.  ✖ Business Logic Layer
+
+Question Number : 262 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Choose the option that depicts the correct order of steps in Query Processing.
+
+**Options :**
+
+\begin{tikzpicture}[node distance=1.5cm]
+\node (query) [rectangle, draw, fill=cyan!20] {query};
+\node (optimizer) [diamond, draw, fill=cyan!20, right of=query] {optimizer};
+\node (relational-algebra-expression) [rectangle, draw, fill=cyan!20, right of=optimizer] {relational-algebra expression};
+\node (evaluation-engine) [diamond, draw, fill=cyan!20, below of=relational-algebra-expression] {evaluation engine};
+\node (execution-plan) [rectangle, draw, fill=cyan!20, below of=evaluation-engine] {execution plan};
+\node (query-output) [rectangle, draw, fill=cyan!20, left of=execution-plan] {query output};
+\node (parser-and-translator) [diamond, draw, fill=cyan!20, left of=query-output] {parser and translator};
+\node (data) [cylinder, draw, fill=cyan!20, below of=parser-and-translator] {data};
+\node (statistics-about-data) [cylinder, draw, fill=cyan!20, right of=execution-plan] {statistics about data};
+
+\draw[->] (query) -- (optimizer);
+\draw[->] (optimizer) -- (relational-algebra-expression);
+\draw[->] (relational-algebra-expression) -- (evaluation-engine);
+\draw[->] (evaluation-engine) -- (execution-plan);
+\draw[->] (execution-plan) -- (query-output);
+\draw[->] (query-output) -- (parser-and-translator);
+\draw[->] (parser-and-translator) -- (data);
+\draw[->] (parser-and-translator) -- (statistics-about-data);
+\end{tikzpicture}
+
+A.  ✖ 
+B.  ✖ 
+
+Page 148 of 308

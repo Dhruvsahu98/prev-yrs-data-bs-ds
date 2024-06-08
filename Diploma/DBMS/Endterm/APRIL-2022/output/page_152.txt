@@ -1,0 +1,41 @@
+If a primary (sparse index with an index entry for every block in the file) index is created on the data file, what is the minimum number of blocks required for the index file?
+
+**Options :**
+A. 64
+B. 128
+C. 256
+D. 512
+
+**Question Number : 267 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+Consider the relational schema as shown in Figure 1.
+
+| customers |  |
+|---|---|
+| cus\_id | varchar(10) |
+| cus\_name | varchar(10) |
+| mobile | integer |
+| credit\_score | integer |
+| pan | varchar(10) |
+
+| insurance |  |
+|---|---|
+| ins\_id | varchar(10) |
+| company\_name | varchar(10) |
+| ins\_type | varchar(10) |
+| ratings | int |
+| cus\_id | varchar(10) |
+
+| claims |  |
+|---|---|
+| ins\_id | varchar(10) |
+| claim\_date | date |
+| agent\_name | varchar(10) |
+| amount | integer |
+
+Figure 1: Insurance Policy
+
+Page 153 of 308

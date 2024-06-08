@@ -1,0 +1,17 @@
+Consider the following relations:
+```python
+mobile(imei, company_id, ram, price)
+manufacturer(company_id, name, location)
+```
+Choose the correct relational algebra query/queries to find the names of companies that manufacture mobile phones having 8 GB RAM and are located in INDIA.
+**Options :**
+A.  $\Pi_{name} (mobile \times manufacturer) \land \sigma_{ram=8 \land location='INDIA'}(mobile)$
+B.  $\Pi_{name} (\sigma_{ram=8}(mobile) \times (\sigma_{location='INDIA'}(manufacturer)))$
+C.  $\Pi_{name} (\sigma_{ram=8 \land location='INDIA'}(mobile \times manufacturer))$
+D.  $\Pi_{name} (\sigma_{ram=8 \land location='INDIA'}(mobile \times manufacturer))$
+
+**Question Number : 279 Question Type : MSQ**
+**Correct Marks : 3**
+Question Label : Multiple Select Question
+Consider a state of transactions as shown in Figure 5.
+Page 162 of 308

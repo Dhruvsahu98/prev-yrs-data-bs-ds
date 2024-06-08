@@ -1,0 +1,25 @@
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+77 to 82
+
+Question Number : 256 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+What is the conclusion from the given result?
+Options :
+A.  ❌ Accept the Null Hypothesis
+B.  ✅ Reject the Null Hypothesis
+C.  ❌ P-value cannot be found
+D.  ❌ Cannot say insufficient data
+
+DBMS
+Number of Questions : 26
+Section Marks : 50
+
+Question Number : 257 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+Page 145 of 308

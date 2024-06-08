@@ -1,0 +1,49 @@
+MUMBAI\_INDIANS
+
+| Player\_Name | Jersey\_No |
+|---|---|
+| RS | 45 |
+| SKY | 63 |
+| JB | 93 |
+| IK | 32 |
+| RC | 28 |
+| HP | 33 |
+| KP | 24 |
+
+Figure 2: Relations MUMBAI\_INDIANS and TEAM\_INDIA
+
+TEAM\_INDIA
+
+| Player\_Name | Jersey\_No |
+|---|---|
+| VK | 18 |
+| KLR | 1 |
+| SKY | 63 |
+| SI | 41 |
+| HP | 33 |
+| JB | 93 |
+| RC | 28 |
+
+Choose the correct expression(s) that return(s) the output shown in Figure 3.
+
+| Jersey\_No |
+|---|
+| 45 |
+| 32 |
+| 24 |
+
+Figure 3: Output
+
+Options:
+
+A. $\checkmark$  $\Pi_{Jersey\_No}(MUMBAI\_INDIANS) - \Pi_{Jersey\_No}(TEAM\_INDIA)$
+B. $\times$  $\Pi_{Jersey\_No}(TEAM\_INDIA) - \Pi_{Jersey\_No}(MUMBAI\_INDIANS)$
+C. $\times$  $\Pi_{Jersey\_No}(TEAM\_INDIA - MUMBAI\_INDIANS)$
+D. $\checkmark$  $\Pi_{Jersey\_No}(MUMBAI\_INDIANS - TEAM\_INDIA)$
+
+
+Question Number : 278 Question Type : MSQ
+Correct Marks : 2
+Question Label : Multiple Select Question
+
+Page 161 of 308

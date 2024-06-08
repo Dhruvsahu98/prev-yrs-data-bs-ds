@@ -1,0 +1,43 @@
+What does the following query return?
+
+```python
+SELECT cus_name FROM customers WHERE cus_id IN 
+(SELECT cus_id FROM insurance WHERE ins_id IN 
+  (SELECT ins_id FROM insurance WHERE ins_type = 'Health'
+  EXCEPT
+  (SELECT ins_id FROM claims )))
+```
+
+**Options :**
+
+A.  The names of customers who have taken at least one insurance policy of type 'Health', but have not claimed any policy.
+B.  The names of customers who have taken any 'Health' insurance policy.
+C.  The names of customers who have claimed any type of insurance policy.
+D.  None of these.
+
+**Question Number :** 268 **Question Type :** MCQ
+
+**Correct Marks :** 2
+
+**Question Label :** Multiple Choice Question
+Consider the relation R shown in Figure 4.
+
+| A | B | C | D |
+|---|---|---|---|
+| 2 | 3 | 4 | x |
+| 2 | 3 | 6 | 7 |
+| 2 | y | 6 | 5 |
+| 2 | y | 4 | 7 |
+
+Figure 4: Relation R
+
+Choose the correct value of x and y such that C $\rightarrow$ B and AB $\rightarrow \rightarrow$ D hold true.
+
+**Options :**
+
+A.  x = 7 and y = 3
+B.  x = 5 and y = 3
+C.  x = 3 and y = 6
+D.  x = 5 and y = 4
+
+Page 154 of 308

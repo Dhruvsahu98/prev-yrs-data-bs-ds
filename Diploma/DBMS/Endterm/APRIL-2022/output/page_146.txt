@@ -1,0 +1,34 @@
+Consider a transaction in which ₹200 is transferred from account P to account Q.
+
+Which among the following ACID properties ensure that the sum of the amounts in account P and account Q will be the same before and after the transaction?
+
+**Options :**
+A. ❌ Atomicity
+B. ✅ Consistency
+C. ❌ Isolation
+D. ❌ Durability
+
+Question Number : 260 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Which of the following statement(s) is/are correct regarding the third normal form in normalization?
+
+1. Non-prime attributes are not allowed to functionally determine non-prime attributes.
+2. The proper subset of any candidate key functionally determines non-prime attributes.
+3. Multivalued attributes are allowed in third normal form.
+4. Proper subset of any candidate key is not allowed to functionally determine the non-prime attributes.
+
+**Options :**
+A. ❌ Statements 1, 2 & 3 are correct.
+B. ❌ Statements 3 & 4 are correct.
+C. ✅ Statements 1 & 4 are correct.
+D. ❌ All the statements are correct.
+
+Question Number : 261 Question Type : MCQ
+
+Correct Marks : 1
+
+Page 147 of 308

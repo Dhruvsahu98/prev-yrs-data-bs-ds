@@ -1,0 +1,90 @@
+**Question Number : 269 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Consider a disk with 5 double-sided platters, 100 tracks/surface, 32 sectors/track, 60 bytes/sector.
+Find the capacity of each surface, and the number of cylinders that the disk has.
+
+**Options :**
+
+A. Capacity of surface = 960 KB, Number of cylinders = 100.
+B. Capacity of surface = 1920 KB, Number of cylinders = 500.
+C. Capacity of surface = 187.5 KB, Number of cylinders = 100.
+D. Capacity of surface = 1920 KB, Number of cylinders = 60.
+
+**Question Number : 270 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Choose the correct ER Diagram based on the given information.
+
+* Cricketers are identified by cricID. For each cricketer, name, team and age are recorded.
+* Cricket grounds are identified by ground\_ID. For each ground, name and location are recorded.
+* For each century scored, total runs and strike rate are recorded.
+* Assume that cricketers played the matches on several grounds and scored centuries.
+
+**Options :**
+
+\begin{tabular}{|c|c|}
+\hline
+ & \\
+\hline
+A. & \begin{tikzpicture}
+\node[ellipse,draw] (team) at (0,0) {team};
+\node[ellipse,draw] (name) at (-2,-1) {name};
+\node[ellipse,draw] (age) at (0,-1) {age};
+\node[ellipse,draw] (cricID) at (-3,-2) {cricID};
+\node[rectangle,draw] (cricketers) at (-1,-2) {cricketers};
+\node[diamond,draw] (centuries) at (1,-2) {centuries};
+\node[ellipse,draw] (groundID) at (2,-1) {ground\_ID};
+\node[ellipse,draw] (nameg) at (4,-1) {name};
+\node[ellipse,draw] (location) at (5,-1) {location};
+\node[rectangle,draw] (grounds) at (3,-2) {grounds};
+\node[ellipse,draw] (totalruns) at (0,-3) {total\_runs};
+\node[ellipse,draw] (strikerate) at (2,-3) {strike\_rate};
+\draw (team) -- (cricketers);
+\draw (name) -- (cricketers);
+\draw (age) -- (cricketers);
+\draw (cricID) -- (cricketers);
+\draw (cricketers) -- (centuries);
+\draw (centuries) -- (grounds);
+\draw (groundID) -- (grounds);
+\draw (nameg) -- (grounds);
+\draw (location) -- (grounds);
+\draw (centuries) -- (totalruns);
+\draw (centuries) -- (strikerate);
+\end{tikzpicture} \\
+\hline
+B. & \begin{tikzpicture}
+\node[ellipse,draw] (team) at (0,0) {team};
+\node[ellipse,draw] (name) at (-2,-1) {name};
+\node[ellipse,draw] (age) at (0,-1) {age};
+\node[ellipse,draw] (cricID) at (-3,-2) {cricID};
+\node[rectangle,draw] (cricketers) at (-1,-2) {cricketers};
+\node[diamond,draw] (centuries) at (1,-2) {centuries};
+\node[ellipse,draw] (groundID) at (2,-1) {ground\_ID};
+\node[ellipse,draw] (nameg) at (4,-1) {name};
+\node[ellipse,draw] (location) at (5,-1) {location};
+\node[rectangle,draw] (grounds) at (3,-2) {grounds};
+\node[ellipse,draw] (totalruns) at (0,-3) {total\_runs};
+\node[ellipse,draw] (strikerate) at (2,-3) {strike\_rate};
+\draw (team) -- (cricketers);
+\draw (name) -- (cricketers);
+\draw (age) -- (cricketers);
+\draw (cricID) -- (cricketers);
+\draw (cricketers) -- (centuries);
+\draw (centuries) -- (grounds);
+\draw (groundID) -- (grounds);
+\draw (nameg) -- (grounds);
+\draw (location) -- (grounds);
+\draw (centuries) -- (totalruns);
+\draw (centuries) -- (strikerate);
+\end{tikzpicture} \\
+\hline
+\end{tabular}
+
+Page 155 of 308

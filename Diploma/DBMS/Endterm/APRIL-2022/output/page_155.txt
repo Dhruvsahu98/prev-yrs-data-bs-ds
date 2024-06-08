@@ -1,0 +1,50 @@
+team
+name
+cricID
+age
+cricketers
+centuries
+total\_runs
+strike\_rate
+ground\_ID
+grounds
+name
+location
+
+team
+name
+cricID
+age
+cricketers
+centuries
+total\_runs
+strike\_rate
+ground\_ID
+grounds
+name
+location
+
+team
+name
+cricID
+age
+cricketers
+centuries
+ground\_ID
+grounds
+name
+location
+
+**C**.  ✔ 
+
+**D**.  ✖ 
+
+**Question Number : 271 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Consider the relational schema **R(A,B,C,D,E)** and the set of functional dependencies 
+
+Page 156 of 308

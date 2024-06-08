@@ -1,0 +1,36 @@
+**Question Label : Multiple Choice Question**
+
+Consider the information provided about relations **employee** and **project** in Table 3.
+
+| Relation | Number of records | Number of blocks |
+|---|---|---|
+| **employee** | 2,000 | 200 |
+| **project** | 6,000 | 600 |
+
+Table 3: Information about relations **employee** and **project**
+
+Consider worst-case memory availability and assume **project** as the outer relation.
+
+Let A be the number of block transfers for nested-loop join of **employee** and **project**, and B be the number of block transfers for **block nested-loop join** of **employee** and **project**.
+
+Choose the correct values of A and B.
+
+**Options :**
+
+A. $\times$ A: 120,600 & B: 1,200,600
+
+B. $\times$ A: 1,200,200 & B: 120,200
+
+C. $\times$ A: 120,200 & B: 1,200,200
+
+D. $\checkmark$ A: 1,200,600 & B: 120,600
+
+**Question Number : 277 Question Type : MSQ**
+
+**Correct Marks : 1**
+
+**Question Label : Multiple Select Question**
+
+Consider the relations shown in Figure 2.
+
+Page 160 of 308

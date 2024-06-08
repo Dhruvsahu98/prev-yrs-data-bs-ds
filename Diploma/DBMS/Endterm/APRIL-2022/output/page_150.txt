@@ -1,0 +1,22 @@
+## Question Number : 265 Question Type : MCQ
+## Correct Marks : 2
+Question Label : Multiple Choice Question
+
+In a college database named **student**, there exists a table named **marks**, the content of which is shown in Table 2:
+
+| Student\_id | Name | Mathematics | Science |
+|---|---|---|---|
+| 1 | Sheena | 40 | 50 |
+| 2 | John | 60 | 43 |
+| 3 | Jack | 66 | 66 |
+| 4 | Danny | 70 | 80 |
+
+Table 2: marks
+
+Based on the table, what will the output of the below given Python code be?
+
+```python
+# Please write your code here
+```
+
+Page 151 of 308

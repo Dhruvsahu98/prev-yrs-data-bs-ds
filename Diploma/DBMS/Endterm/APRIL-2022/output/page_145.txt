@@ -1,0 +1,37 @@
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: DATABASE MANAGEMENT SYSTEMS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+A.  YES
+B.  NO
+
+Question Number : 258 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+Consider a relation R(W, X, Y, Z) that holds the following functional dependencies:
+
+$F = \{ X \rightarrow Y, W \rightarrow X \}$
+
+Which among the Armstrong's axioms is/are applied to $F$, in order to obtain the following functional dependency?
+
+$WZ \rightarrow YZ$
+
+Options :
+A.  Reflexivity
+B.  Reflexivity and Augmentation
+C.  Augmentation and Transitivity
+D.  Union and Reflexivity
+
+Question Number : 259 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Page 146 of 308

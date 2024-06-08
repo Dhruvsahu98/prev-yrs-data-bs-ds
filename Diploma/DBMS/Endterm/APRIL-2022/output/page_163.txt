@@ -1,0 +1,30 @@
+Text Areas : PlainText
+Possible Answers :
+6
+
+Question Number : 281 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+Consider the following relations.
+```python
+order(o_id, c_id, amount)
+customer(c_id, c_name, address, mail_id)
+```
+In table order, ($o\_id$, $c\_id$) is the primary key, $c\_id$ is the foreign key referencing $c\_id$ in table customer.
+Table order contains 68 tuples and table customer contains 96 tuples.
+What is the maximum number of tuples possible in the natural join customer $\bowtie$ order?
+
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+68
+
+Question Number : 282 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider a B+ tree of order 3, having 4 levels. What is the maximum number of block pointers at 
+Page 164 of 308

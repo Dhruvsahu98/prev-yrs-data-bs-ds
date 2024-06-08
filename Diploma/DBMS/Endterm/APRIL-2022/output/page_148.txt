@@ -1,0 +1,19 @@
+query  $\longrightarrow$ evaluation engine $\longrightarrow$ relational-algebra expression $\longrightarrow$ optimizer $\longrightarrow$ execution plan $\longrightarrow$ statistics about data
+data
+query  $\longrightarrow$ parser and translator $\longrightarrow$ relational-algebra expression $\longrightarrow$ optimizer $\longrightarrow$ execution plan $\longrightarrow$ statistics about data
+data
+
+C. $\checkmark$
+D. $\times$ None of these.
+
+Question Number : 263 Question Type : MCQ
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Consider a RAID-0 and a RAID-1 system, both having 12 data disks in total. What is the storage efficiency (or effective space utilization) for these two systems?
+
+Options :
+
+Page 149 of 308

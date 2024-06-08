@@ -1,0 +1,38 @@
+# Import library
+import psycopg2
+
+# Define function
+def connectDb(dbname, username, pwd, address, portnum):
+  try:
+    connection = psycopg2.connect(database = dbname,
+                                  user = username,
+                                  password = pwd,
+                                  host = address,
+                                  port = portnum)
+    cursor = connection.cursor()
+    query = "select * from marks;"
+    cursor.execute(query)
+    result = cursor.fetchmany(2)
+    print(cursor.rowcount)
+    cursor.close()
+  except (Exception, psycopg2.DatabaseError) as error:
+    print(error)
+  finally:
+    connection.close()
+
+#function call
+connectDb("student", "postgres", "root", "127.0.0.1", "5432")
+
+Options :
+A. 1
+B. 2
+C. 3
+D. 4
+
+Question Number : 266 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+A telecom company has $2^{16}$ customer records in a table **T** in their database. These records are sorted in ascending order of the attribute *customer\_id*, which is also the primary key of **T**. The data file is stored in a disk with a block size of 512 bytes. Assume that, in each block, the records are unspanned and are of fixed-length. Each record is of size 32 bytes, the size of the primary key field is 10 bytes and the size of the block pointer is 6 bytes.
+
+Page 152 of 308

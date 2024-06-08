@@ -1,0 +1,43 @@
+**Question Number : 273 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following two schedules $S1$ and $S2$ and three transactions $T_1$, $T_2$, $T_3$:
+
+$S1$: $R_1(X)$; $R_3(Y)$; $W_1(X)$; $R_2(X)$; $W_2(X)$; $R_1(Y)$; $W_1(Y)$; $C_1$; $C_2$; $C_3$.
+
+$S2$: $R_3(Y)$; $R_1(X)$; $W_1(X)$; $R_2(Y)$; $W_1(Y)$; $W_2(X)$; $C_3$; $C_1$; $C_2$.
+
+Where $R_i(X)$ denotes a read operation by transaction $T_i$ on a data item $X$, $W_i(X)$ denotes a write operation by transaction $T_i$ on a data item $X$, $C_i$ denotes a commit by $T_i$, and $A_i$ denotes an abort by $T_i$.
+
+Consider the following statements:
+
+1. $S1$ and $S2$ are not conflict equivalent.
+
+2. $S1$ and $S2$ are conflict equivalent.
+
+3. $S1$ and $S2$ are view equivalent.
+
+4. $S1$ and $S2$ are not view equivalent.
+
+Which among the following statements is/are correct?
+
+**Options :**
+
+A. ❌ Statements 1 and 4 are correct.
+
+B. ❌ Statements 1 and 3 are correct.
+
+C. ✅ Statements 2 and 3 are correct.
+
+D. ❌ Statements 2 and 4 are correct.
+
+**Question Number : 274 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Page 158 of 308

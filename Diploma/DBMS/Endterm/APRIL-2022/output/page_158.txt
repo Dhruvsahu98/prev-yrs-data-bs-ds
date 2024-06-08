@@ -1,0 +1,44 @@
+Consider the relational schema $R(P, Q, S, T)$ and the set of functional dependencies $F = \{PQ \rightarrow T, SQ \rightarrow T, P \rightarrow Q,  T \rightarrow S\}$.
+
+Identify the correct statement about $R$.
+
+**Options :**
+
+A. $\checkmark$ $R$ is in 2NF, but not in 3NF.
+
+B. $\times$ $R$ is in 3NF, but not in BCNF.
+
+C. $\times$ $R$ is in 1NF, but not in 2NF.
+
+D. $\times$ $R$ is in BCNF.
+
+**Question Number : 275 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following statements and assume that you have to back up some files from Monday to Thursday.
+
+* **Monday:** You have 100 files and perform a full backup. 100 files were backed up.
+* **Tuesday:** You have made no changes. No files are backed up.
+* **Wednesday:** You have added 100 new files, and 200 files are backed up.
+* **Thursday:** You have made no changes, and 200 files are backed up.
+
+Which among the following types of backups take place on Wednesday and Thursday?
+
+**Options :**
+
+A. $\times$ **Wednesday:** Differential Backup, **Thursday:** Incremental Backup.
+
+B. $\times$ **Wednesday:** Full Backup, **Thursday:** Incremental Backup.
+
+C. $\times$ **Wednesday:** Incremental Backup, **Thursday:** Differential Backup.
+
+D. $\checkmark$ **Wednesday:** Full Backup, **Thursday:** Full Backup.
+
+**Question Number : 276 Question Type : MCQ**
+
+**Correct Marks : 3**
+
+Page 159 of 308
