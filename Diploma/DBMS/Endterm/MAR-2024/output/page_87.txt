@@ -1,0 +1,33 @@
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following decompositions will help to achieve 2 NF?
+Options :
+6406532577402. ✅ Table 1: Drivers (Driver\_ID, Driver\_Name)
+Table 2: Races (Driver\_ID, Race, Points)
+Table 3: Teams (Driver\_ID, Team\_Name, Team\_Budget)
+6406532577403. ❌ Table 1: Drivers (Driver\_ID, Driver\_Name)
+Table 2: Races (Driver\_ID, Race, Points, Team\_Name)
+Table 3: Teams (Team\_Name, Team\_Budget)
+6406532577404. ❌ Table 1: Drivers (Driver\_ID, Driver\_Name, Points)
+Table 2: Races (Driver\_ID, Race, Points)
+Table 3: Teams (Team\_Name, Team\_Budget)
+6406532577405. ❌ Table 1: Drivers (Driver\_ID, Driver\_Name)
+Table 2: Races (Driver\_ID, Race, Points)
+Table 3: Teams (Team\_Name, Team\_Budget, Driver\_Name)
+## PDSA
+64065353263
+Section Id :
+Section Number :
+Section type :
+Mandatory or Optional :
+Number of Questions :
+Number of Questions to be attempted :
+Section Marks :
+Display Number Panel :
+7
+Online
+Mandatory
+17
+17
+50
+Yes

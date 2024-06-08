@@ -1,0 +1,22 @@
+Sub-Section Number : 8
+Sub-Section Id : 640653112594
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 101 Question Id : 640653770513 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider a string of pending block references in the given order: 4, 5, 2, 5, 3, 4, 2, 5, 3, 4. The system has a buffer with 3 slots. Assume that initially the buffer is empty. If LRU buffer replacement policy is used, then how many misses will occur while referencing all the requested blocks ?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9
+
+Question Number : 102 Question Id : 640653770515 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

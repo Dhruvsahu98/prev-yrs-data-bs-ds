@@ -1,0 +1,20 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "**DIPLOMA LEVEL : DATABASE MANAGEMENT SYSTEMS (COMPUTER BASED EXAM)**"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+6406532577356.  YES
+6406532577357.  NO
+Sub-Section Number : 2
+Sub-Section Id : 640653112588
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 92 Question Id : 640653770505 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Let P and Q be two relations. Let D(P) be a decomposition of P based on a set M of functional dependencies. Let D(Q) be a decomposition of Q based on a set N of functional dependencies. It is known that one among D(P) and D(Q) is in 3NF and the other is in 2NF. In order to correctly classify D(P) and D(Q) as being in 3NF or 2NF, what is the MINIMAL test needed?
+Options :

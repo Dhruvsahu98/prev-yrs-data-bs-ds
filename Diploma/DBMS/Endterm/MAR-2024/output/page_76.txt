@@ -1,0 +1,27 @@
+6406532577358. ✖ Test whether both are in 3NF
+6406532577359. ✖ Test whether both are in 2NF
+6406532577360. ✖ Test whether one of them is in 2NF
+6406532577361. ✔ Test whether one of them is in 3NF
+
+Question Number : 93 Question Id : 640653770506 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Let $R_1(X,Y,Z)$ be a relation. Let $R_2(P,Q,R,S,Z)$ be another relation with the following functional dependencies:
+$F = P \rightarrow QR, R \rightarrow S, Z \rightarrow P$
+$R_1$ contains 60 tuples and $R_2$ contains 100 tuples. What are the maximum and minimum number of tuples possible as output of $R_1 \bowtie R_2$?
+
+Options :
+6406532577362. ✔ Maximum= 60, Minimum= 0
+6406532577363. ✖ Maximum= 100, Minimum= 60
+6406532577364. ✖ Maximum= 100, Minimum= 0
+6406532577365. ✖ Maximum= 60, Minimum= 40
+
+Sub-Section Number : 3
+Sub-Section Id : 640653112589
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 94 Question Id : 640653770507 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

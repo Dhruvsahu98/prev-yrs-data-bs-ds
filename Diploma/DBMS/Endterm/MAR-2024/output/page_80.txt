@@ -1,0 +1,54 @@
+**Question Number : 98 Question Id : 640653770510 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4 Max. Selectable Options : 0**
+
+**Question Label : Multiple Select Question**
+
+Consider the Binary Search Tree (BST) shown in figure 1
+
+\begin{tikzpicture}[scale=0.8, every node/.style={circle, draw}]
+  \node {21}
+    child {node {11}
+      child {node {16}}
+    }
+    child {node {35}
+      child {node {26}}
+      child {node {41}}
+    }
+    child {node {46}
+      child {node {51}}
+    }
+    child {node {71}
+      child {node {59}
+        child {node {65}}
+      }
+      child {node {82}
+        child {node {93}}
+      }
+    };
+\end{tikzpicture}
+
+Figure 1: Binary Search Tree (BST)
+
+Which of the following **is/are** the correct insertion order that will result in the given BST?
+
+**Options :**
+
+6406532577378.  ✔ 46,71,21,11,35,26,16,82,93,59,65,41,51
+
+6406532577379.  ✖ 46,71,21,11,26,35,82,93,16,59,65,41,51
+
+6406532577380.  ✔ 46,21,71,35,11,26,16,82,93,59,65,41,51
+
+6406532577381.  ✖ 46,21,71,35,11,16,26,82,93,41,65,59,51
+
+
+**Sub-Section Number : 6**
+
+**Sub-Section Id : 640653112592**
+
+**Question Shuffling Allowed : Yes**
+
+**Is Section Default? : null**
+
+**Question Number : 99 Question Id : 640653770512 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
