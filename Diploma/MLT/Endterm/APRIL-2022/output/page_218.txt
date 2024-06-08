@@ -1,0 +1,19 @@
+Number of Questions : 30
+Section Marks : 100
+
+Question Number : 331 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING TECHNIQUES"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+A.  ✔ YES
+B. ✖ NO
+
+Question Number : 332 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+Page 219 of 308

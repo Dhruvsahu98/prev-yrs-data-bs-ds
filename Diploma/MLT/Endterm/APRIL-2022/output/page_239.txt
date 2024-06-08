@@ -1,55 +1,26 @@
-```plaintext
 Text Areas : PlainText
-
 Possible Answers :
-
 47.31 to 47.35
-```
 
-```plaintext
 Question Number : 358 Question Type : SA
-```
-
-```plaintext
 Correct Marks : 2
-
 Question Label : Short Answer Question
-
 If one student is predicted to be in node4, how many courses he has opted?
-
 Response Type : Numeric
-
 Evaluation Required For SA : Yes
-
 Show Word Count : Yes
-
 Answers Type : Equal
-
 Text Areas : PlainText
-
 Possible Answers :
-
 3
-```
 
-```plaintext
 Question Type : COMPREHENSION
-```
 
-```plaintext
 Question Numbers : (359 to 360)
-
 Question Label : Comprehension
-
-Consider a multi-class classification problem with \( m \) classes. The feature vector is of size \( m \). You don’t need to add any dummy feature as we will be working with a neural network.
-
-The network has \( h \) hidden layers, each having \( m \) neurons. So, the network architecture would be a list of size \( h+2 \), where all the elements are equal to \( m \): \([m, \cdots, m]\)
-
+Consider a multi-class classification problem with $m$ classes. The feature vector is of size $m$. You don't need to add any dummy feature as we will be working with a neural network.
+The network has $h$ hidden layers, each having $m$ neurons. So, the network architecture would be a list of size $h + 2$, where all the elements are equal to $m$: $[m, ..., m]$
 Based on the above data, answer the given subquestions.
-
 Sub questions
-```
 
-```plaintext
 Page 240 of 308
-```

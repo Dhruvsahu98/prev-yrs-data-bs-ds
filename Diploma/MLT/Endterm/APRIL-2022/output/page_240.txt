@@ -1,48 +1,27 @@
-```python
 Question Number : 359 Question Type : MCQ
-
 Correct Marks : 3
-
 Question Label : Multiple Choice Question
-
 How many parameters (weights + biases) does the network have?
-
 Options :
-A. ✅ (h + 1) · m · (m + 1)
-
-B. ❇ h · m · (m + 1)
-
-C. ❇ (h + 1) · m^2
-
-D. ❇ h · m^2
+A. $\checkmark$ (h + 1) . m . (m + 1)
+B. $\times$ h . m . (m + 1)
+C. $\times$ (h + 1) . $m^2$
+D. $\times$ h . $m^2$
 
 Question Number : 360 Question Type : SA
-
 Correct Marks : 2
-
 Question Label : Short Answer Question
-
-If \( m = 10 \) and the network has 550 parameters (weights + biases), how many hidden layers does it have?
-
+If m = 10 and the network has 550 parameters (weights + biases), how many hidden layers does it have?
 Response Type : Numeric
-
 Evaluation Required For SA : Yes
-
 Show Word Count : Yes
-
 Answers Type : Equal
-
 Text Areas : PlainText
-
 Possible Answers :
-
 4
 
 Question Number : 361 Question Type : MSQ
-
 Correct Marks : 4
-
 Question Label : Multiple Select Question
-
-There is a dataset with 2000 samples. 21 samples belong to positive class and rest belong to
-```
+There is a dataset with 2000 samples. 21 samples belong to positive class and rest belong to 
+Page 241 of 308

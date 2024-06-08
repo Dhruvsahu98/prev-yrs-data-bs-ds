@@ -1,31 +1,37 @@
-```python
-D. ✵ 
+D. $\times$  $(1 - p_{12}) \cdot (1 - p_{22})$
 
-\( (1 - p12) \cdot (1 - p22) \)
+**Question Number : 356 Question Type : MCQ**
 
-Question Number : 356 Question Type : MCQ
+**Correct Marks : 3**
 
-Correct Marks : 3
-Question Label : Multiple Choice Question
+**Question Label : Multiple Choice Question**
+
 Consider the following expression:
 
-\[
-\frac{p_{12} \cdot (1 - p_{22})}{p_{12} \cdot (1 - p_{22}) + p_{11} \cdot (1 - p_{21})}
-\]
+$\frac{p_{12}\cdot (1 - p_{22})}{p_{12}\cdot (1 - p_{22}) + p_{11}\cdot (1 - p_{21})}$
 
 What is this equal to? You can assume that the prior probability is equal to 0.5 for both the classes.
 
-Options :
-A. ✵ It is the probability that the label is 1, given that the data-point is (1, 0).
-B. ✔ It is the probability that the label is 2, given that the data-point is (1, 0).
-C. ✵ It is the probability of observing the data-point (1, 0), given the label 1.
-D. ✵ It is the probability of observing the data-point (0, 1), given the label 2.
-E. ✵ It is the probability that the label is 1, given that the data-point is (0, 1).
-F. ✵ It is the probability that the label is 2, given that the data-point is (0, 1).
+**Options :**
 
-Question Type : COMPREHENSION
+A. $\times$ It is the probability that the label is 1, given that the data-point is (1, 0).
 
-Question Numbers : (357 to 358)
-Question Label : Comprehension
-Consider the following training dataset with two features: no. of courses opted (\(x_1\)) and graded assignments’ average score (\(x_2\)) and the target is final exam’s score (\(Y\)).
-```
+B. $\checkmark$ It is the probability that the label is 2, given that the data-point is (1, 0).
+
+C. $\times$ It is the probability of observing the data-point (1, 0), given the label 1.
+
+D. $\times$ It is the probability of observing the data-point (0, 1), given the label 2.
+
+E. $\times$ It is the probability that the label is 1, given that the data-point is (0, 1).
+
+F. $\times$ It is the probability that the label is 2, given that the data-point is (0, 1).
+
+**Question Type : COMPREHENSION**
+
+**Question Numbers : (357 to 358)**
+
+**Question Label : Comprehension**
+
+Consider the following training dataset with two features: no. of courses opted ($x_1$) and graded assignments' average score ($x_2$) and the target is final exam's score (Y).
+
+Page 238 of 308

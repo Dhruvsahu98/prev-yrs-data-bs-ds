@@ -1,7 +1,6 @@
-```python
-C. ✔️ $-x_1 - 11x_2 = 7$
+C. $\checkmark$  -x1 - 11x2 = 7
 
-D. ❌ Can not be determined using the given information.
+D. $\times$ Can not be determined using the given information.
 
 Question Number : 341 Question Type : MCQ
 
@@ -11,40 +10,35 @@ Question Label : Multiple Choice Question
 
 Given the following training set:
 
-\[
-\begin{array}{|c|c|c|}
-\hline
-\text{Point} & x & y \\
-\hline
-\text{A.} & (-8,20) & 0.4 \\
-\text{B.} & (-12, 11) & 0.6 \\
-\text{C.} & (0, 26) & 0.1 \\
-\text{D.} & (-5, 5) & 1.0 \\
-\text{E.} & (-1, 22) & 0.8 \\
-\text{F.} & (-7, 1) & -0.3 \\
-\hline
-\end{array}
-\]
+| Point | X | y |
+|---|---|---|
+| A. | (-8,20) | 0.4 |
+| B. | (-12, 11) | 0.6 |
+| C. | (0, 26) | 0.1 |
+| D. | (-5, 5) | 1.0 |
+| E. | (-1, 22) | 0.8 |
+| F. | (-7, 1) | -0.3 |
 
 Then the target value of the test point (-10,0) obtained by performing 1-nearest neighbor regression using the Euclidean metric will be:
 
 Options :
 
-A. ❌ 0.4
+A. $\times$ 0.4
 
-B. ❌ 0.6
+B. $\times$ 0.6
 
-C. ❌ 0.1
+C. $\times$ 0.1
 
-D. ❌ 1.0
+D. $\times$ 1.0
 
-E. ✔️ -0.3
+E. $\checkmark$ -0.3
 
-F. ❌ 0.8
+F. $\times$ 0.8
 
 Question Number : 342 Question Type : SA
 
 Correct Marks : 4
 
 Question Label : Short Answer Question
-```
+
+Page 225 of 308

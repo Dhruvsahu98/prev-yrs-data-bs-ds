@@ -1,58 +1,31 @@
-```python
 Question Number : 338 Question Type : SA
-
 Correct Marks : 2
-
 Question Label : Short Answer Question
 Rajesh wants to train a polynomial regression model. But he is not sure which is the best value for degree. He has following table for training and validation error. Can you help him find the most appropriate value of degree?
 
-\begin{table}[h!]
-    \centering
-    \begin{tabular}{|c|c|c|}
-        \hline
-        Degree & Training Error & Validation Error \\
-        \hline
-        1 & 22.34 & 33.89 \\
-        \hline
-        2 & 14.66 & 25.28 \\
-        \hline
-        3 & 12.30 & 19.12 \\
-        \hline
-        4 & 10.84 & 12.23 \\
-        \hline
-        5 & 8.56 & 8.65 \\
-        \hline
-        6 & 7.32 & 9.77 \\
-        \hline
-        7 & 6.94 & 11.89 \\
-        \hline
-        8 & 5.37 & 15.83 \\
-        \hline
-        9 & 4.54 & 20.19 \\
-        \hline
-    \end{tabular}
-\end{table}
+| Degree | Training Error | Validation Error |
+|---|---|---|
+| 1 | 22.34 | 33.89 |
+| 2 | 14.66 | 25.28 |
+| 3 | 12.30 | 19.12 |
+| 4 | 10.84 | 12.23 |
+| 5 | 8.56 | 8.65 |
+| 6 | 7.32 | 9.77 |
+| 7 | 6.94 | 11.89 |
+| 8 | 5.37 | 15.83 |
+| 9 | 4.54 | 20.19 |
 
 Response Type : Numeric
-
 Evaluation Required For SA : Yes
-
 Show Word Count : Yes
-
 Answers Type : Equal
-
 Text Areas : PlainText
-
 Possible Answers :
-
 5
-```
 
-```python
 Question Number : 339 Question Type : MCQ
-
 Correct Marks : 3
-
 Question Label : Multiple Choice Question
 What is the output of the following snippet of code?
-```
+
+Page 223 of 308

@@ -1,54 +1,35 @@
-```plaintext
-Consider a binary classification problem, where the feature vector \( \mathbf{x} = (x_1, x_2) \) is a two-dimensional binary vector, i.e., each feature is binary. The class label \( y \) is indexed using 1 and 2. A sample feature matrix and label vector is given below:
+Consider a binary classification problem, where the feature vector $x = (x_1, x_2)$ is a two-dimensional binary vector, i.e., each feature is binary. The class label $y$ is indexed using 1 and 2. A sample feature matrix and label vector is given below:
 
-\[
-X = \begin{bmatrix}
-1 & 0 \\
-0 & 0 \\
-1 & 1 \\
-\end{bmatrix}, \quad y = \begin{bmatrix}
-2 \\
-2 \\
-1
-\end{bmatrix}
-\]
+$X = \begin{bmatrix} 1 & 0 \\ 0 & 0 \\ 0 & 1 \\ 1 & 0 \end{bmatrix}$, $y = \begin{bmatrix} 1 \\ 2 \\ 2 \\ 1 \end{bmatrix}$.
 
 A Bernoulli Naive-Bayes classifier is trained for this data and the following parameter matrix is estimated:
 
-\[
-P = \begin{bmatrix}
-p_{11} & p_{12} \\
-p_{21} & p_{22}
-\end{bmatrix}
-\]
+$P = \begin{bmatrix} p_{11} & p_{12} \\ p_{21} & p_{22} \end{bmatrix}$.
 
-This matrix is to be understood as follows. For features \( x_1 \) and \( x_2 \):
+This matrix is to be understood as follows. For features $x_1$ and $x_2$:
 
-\[
-p_{ij} = P(x_i = 1 \mid y = j)
-\]
+$p_{ij} = P(x_i = 1 | y = j)$.
 
 Based on the above data, answer the given subquestions.
 
-Sub questions
+## Sub questions
 
-Question Number : 355 Question Type : MCQ
+**Question Number : 355 Question Type : MCQ**
 
-Correct Marks : 2
+**Correct Marks : 2**
 
-Question Label : Multiple Choice Question
+**Question Label : Multiple Choice Question**
 
 What is the value of the following probability?
 
-\[
-P(\mathbf{x} = (0, 0) \mid y = 1)
-\]
+$P(x = (0, 0) | y = 1)$
 
-Options :
+**Options :**
 
-A. ✔ \( (1 - p_{11}) \cdot (1 - p_{21}) \)
+**A.** $\checkmark$ $(1 - p_{11}) \cdot (1 - p_{21})$
 
-B. \( p_{11} \cdot p_{21} \)
+**B.** $\times$ $p_{11} \cdot p_{21}$
 
-C. \( p_{12} \cdot p_{22} \)
-```
+**C.** $\times$ $p_{12} \cdot p_{22}$
+
+Page 237 of 308

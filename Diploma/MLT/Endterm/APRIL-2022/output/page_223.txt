@@ -1,0 +1,43 @@
+```python
+from itertools import combinations_with_replacement
+from functools import reduce
+import numpy as np
+
+def polynomial_transform(x, degree):
+    if x.ndim == 1:
+        x = x[:, None]
+    x_t = x.transpose()
+    features = np.ones((len(x)))[:, None]
+    for degree in range(1, degree + 1):
+        for items in combinations_with_replacement(x_t, degree):
+            features.append(reduce(lambda x, y: x * y, items))
+    return np.asarray(features).transpose()
+
+polynomial_transform(np.array([[2, 3]]), 2)
+```
+
+Options :
+
+A. $\checkmark$ array([[1, 2, 3, 4, 6, 9]])
+
+B. $\times$ array([[2, 3, 4, 6, 9]])
+
+C. $\times$ array([[1, 2, 3, 4, 9]])
+
+D. $\times$ array([[1, 2, 3, 6]])
+
+Question Number : 340 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider training examples with two features ($x_1$ and $x_2$), each belonging to one of the two classes (1 and -1), are perfectly linearly separable. A perceptron model is trained on this data. At the $i^{th}$ iteration of the weights update procedure, the decision boundary is given as $x_1 + x_2 - 5 = 0$. At this iteration, only one sample (1, 6) (true label is -1) is mis-classified as class 1. What will be the decision boundary at ($i + 1)^{th}$ iteration? (Consider the learning rate to be 1.)
+
+Options :
+
+A. $\times$ $3x_1 + 11x_2 = 15$
+
+B. $\times$ $-11x_1 - x_2 = 7$
+
+Page 224 of 308

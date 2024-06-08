@@ -1,0 +1,25 @@
+<font color="green">50</font>
+Question Number : 365 Question Type : SA
+Correct Marks : 1
+Question Label : Short Answer Question
+If majority of examples in node1 belongs to class 1, how many examples in node1 belong to class 0?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+<font color="green">12</font>
+Question Number : 366 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+What will be the gini index of node2? Write your answer correct to three decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+<font color="green">0.08 to 0.10</font>
+Question Number : 367 Question Type : SA
+Page 246 of 308

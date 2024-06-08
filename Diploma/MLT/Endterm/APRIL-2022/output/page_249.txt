@@ -1,0 +1,23 @@
+Question Number : 371 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+This network is tested on a dataset of 100 points, with 50 points in each class. Additionally you are given the following information:
+* All the points lie in the first quadrant: $x_1, x_2 > 0$ for all datapoints.
+* All the parameters of the network are positive.
+* $\hat{y} \neq 0.5$ for any point in this dataset.
+The threshold for classification is set to 0.5. What will be the classification accuracy?
+
+NOTE: The answer is between [0, 1]. Enter your answer correct to one decimal place.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.5
+
+Question Number : 372 Question Type : MSQ
+Correct Marks : 3
+Question Label : Multiple Select Question
+Consider a variant of this network in which the hidden layer activation is changed from ReLU to 
+Page 230 of 306

@@ -1,41 +1,45 @@
+| $x_1$ | $x_2$ | Y |
+|---|---|---|
+| 1 | 90.5 | 55 |
+| 2 | 95 | 81 |
+| 2 | 70.5 | 45 |
+| 1 | 92 | 72 |
+| 3 | 83.5 | 66 |
+| 3 | 88 | 58 |
+| 2 | 91 | 96 |
+| 2 | 78 | 42 |
+| 3 | 60 | 57 |
+| 3 | 91 | 86 |
+
+Its regression tree is given as:
+
 ```python
-# Table in LaTeX format
-\begin{table}[h!]
-\centering
-\begin{tabular}{|c|c|c|}
-\hline
-$x_1$ & $x_2$ & $Y$ \\ \hline
-1     & 90.5  & 55  \\ \hline
-2     & 95    & 81  \\ \hline
-2     & 70.5  & 45  \\ \hline
-1     & 92    & 72  \\ \hline
-3     & 83.5  & 66  \\ \hline
-3     & 88    & 58  \\ \hline
-2     & 91    & 96  \\ \hline
-2     & 78    & 42  \\ \hline
-3     & 60    & 57  \\ \hline
-3     & 91    & 86  \\ \hline
-\end{tabular}
-\end{table}
+import graphviz 
+dot_data = '''
+digraph tree {
+node [shape=box, style="rounded", fontname="helvetica"];
+edge [fontname="helvetica"];
+0 [label="dataset"];
+1 [label="$x_2 \leq 90.5$"];
+2 [label="$x_2 > 90.5$"];
+3 [label="$x_1 \leq 2$"];
+4 [label="$x_1 > 2$"];
+5 [label="node1"];
+6 [label="node2"];
+7 [label="node3"];
+8 [label="node4"];
+0 -> 1;
+0 -> 2;
+1 -> 5;
+1 -> 6;
+5 -> 7;
+5 -> 8;
+}
+'''
+graph = graphviz.Source(dot_data)
+graph.render('tree', view=True)
+```
 
-# Regression Tree Diagram in LaTeX format
-\begin{figure}[h!]
-\centering
-\begin{tikzpicture}[sibling distance=10em,
-  every node/.style = {shape=rectangle, rounded corners,
-    draw, align=center,
-    top color=white, bottom color=blue!20}]]
-  \node {dataset}
-    child { node {node1}
-      child { node {node3} }
-      child { node {node4} }
-    }
-    child { node {node2} };
-\end{tikzpicture}
-\caption{Regression Tree}
-\end{figure}
-
-# Provided question as plain text
 Based on the above data, answer the given subquestions.
 
 Sub questions
@@ -46,7 +50,7 @@ Correct Marks : 3
 
 Question Label : Short Answer Question
 
-If a student has opted 2 courses and his average score of graded assignments is 83, What will be the predicted final exam’s score for him as per the given tree? Enter your answer correct to two decimal places.
+If a student has opted 2 courses and his average score of graded assignments is 83, What will be the predicted final exam's score for him as per the given tree? Enter your answer correct to two decimal places.
 
 Response Type : Numeric
 
@@ -55,4 +59,5 @@ Evaluation Required For SA : Yes
 Show Word Count : Yes
 
 Answers Type : Range
-```
+
+Page 239 of 308

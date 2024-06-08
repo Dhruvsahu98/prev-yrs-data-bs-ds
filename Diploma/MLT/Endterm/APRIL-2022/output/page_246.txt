@@ -1,0 +1,27 @@
+: N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the information gain (using gini index) of the split. Write your answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.25 to 0.29
+
+Question Number : 368 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following data points
+$\begin{pmatrix} 1, 2 \\ \end{pmatrix}$
+$\begin{pmatrix} 2, 3 \\ \end{pmatrix}$
+$\begin{pmatrix} 2, 4 \\ \end{pmatrix}$
+$\begin{pmatrix} 3, 1 \\ \end{pmatrix}$
+We perform k-means clustering on the above data, with $k=2$, using Manhattan distance as the distance measure. We choose $(1, 2)$ as centroid for cluster-1 and $(3, 1)$ as the centroid for cluster-2. After performing one iteration the point $(2, 4)$ will belong to 
+Options :
+A. $\checkmark$ cluster-1
+B. $\times$ cluster-2
+C. $\times$ can not be determined
+
+Page 247 of 308

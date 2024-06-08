@@ -1,0 +1,44 @@
+**Comprehension Questions : No**
+
+**Question Numbers : (364 to 367)**
+
+**Question Label : Comprehension**
+
+100 examples
+gini index = 0.5
+
+\begin{tikzpicture}[node distance=1.5cm]
+\node (root) [rectangle, draw, text centered, text width=2cm] {100 examples \\ gini index = 0.5};
+\node (node1) [rectangle, draw, text centered, below left of=root, text width=2cm] {node1 \\ 60 examples \\ gini index = 0.32};
+\node (node2) [rectangle, draw, text centered, below right of=root, text width=2cm] {node2};
+\draw (root) -- (node1);
+\draw (root) -- (node2);
+\end{tikzpicture}
+
+Consider a classification tree with two classes (0 and 1) as shown in the above image. Gini index of the root node(entire dataset) is 0.5 and there are 100 examples in the root node. This root node is split into two child nodes node1 and node2 such that node1 has 60 examples and gini index of 0.32.
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number : 364 Question Type : SA**
+
+**Correct Marks : 1**
+
+**Question Label : Short Answer Question**
+
+How many examples in the root node belong to class 1?
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+Page 245 of 308

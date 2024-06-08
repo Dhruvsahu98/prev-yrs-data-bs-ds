@@ -1,0 +1,41 @@
+process
+
+3. Logistic regression is an example of a discriminative model.
+
+**Options :**
+
+A. 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. 1 and 3
+
+**Question Number : 334 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+Abhinandan is a Lionel Messi fan. He wants to predict the number of goals Messi will score in **each** of the next 4 matches of coming champions league based on the goals scored by him in previous tournaments. This problem can be classified as a:
+
+**Options :**
+
+A. Single label Regression
+B. Single label Classification
+C. Multi label Regression
+D. Multi label classification
+
+**Question Number : 335 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+The loss function used in the case of softmax classification is:
+
+**Options :**
+
+A. binary cross entropy
+B. categorical cross entropy
+C. negative log likelihood
+
+Page 221 of 308

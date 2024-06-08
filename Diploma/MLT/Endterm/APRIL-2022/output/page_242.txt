@@ -1,40 +1,49 @@
-```python
-• Red colored points represent positive class.
-• Yellow colored points represent negative class.
+- Red colored points represent positive class.
+- Yellow colored points represent negative class.
 
 Consider the following four plots where the black line is the decision boundary and the dotted green lines are the bounding planes.
 
-\begin{figure}[h!]
-    \centering
-    \begin{minipage}[b]{0.45\textwidth}
-        \includegraphics[width=\textwidth]{fig1.png}
-        \caption{Fig.1}
-    \end{minipage}
-    \hfill
-    \begin{minipage}[b]{0.45\textwidth}
-        \includegraphics[width=\textwidth]{fig2.png}
-        \caption{Fig.2}
-    \end{minipage}
-    \vfill
-    \begin{minipage}[b]{0.45\textwidth}
-        \includegraphics[width=\textwidth]{fig3.png}
-        \caption{Fig.3}
-    \end{minipage}
-    \hfill
-    \begin{minipage}[b]{0.45\textwidth}
-        \includegraphics[width=\textwidth]{fig4.png}
-        \caption{Fig.4}
-    \end{minipage}
+\begin{figure}[H]
+\centering
+\begin{subfigure}[b]{0.45\textwidth}
+\centering
+\includegraphics[width=\textwidth]{fig1.png}
+\caption{Fig. 1.}
+\label{fig:fig1}
+\end{subfigure}
+\begin{subfigure}[b]{0.45\textwidth}
+\centering
+\includegraphics[width=\textwidth]{fig2.png}
+\caption{Fig. 2.}
+\label{fig:fig2}
+\end{subfigure}
+\begin{subfigure}[b]{0.45\textwidth}
+\centering
+\includegraphics[width=\textwidth]{fig3.png}
+\caption{Fig. 3.}
+\label{fig:fig3}
+\end{subfigure}
+\begin{subfigure}[b]{0.45\textwidth}
+\centering
+\includegraphics[width=\textwidth]{fig4.png}
+\caption{Fig. 4.}
+\label{fig:fig4}
+\end{subfigure}
+
 \end{figure}
 
-A list of C values that are used for soft SVM classification to penalize slack variable are given as follows:
+A list of $C$ values that are used for soft SVM classification to penalize slack variable are given as follows:
 
-(i) \( C = 100 \)
-(ii) \( C = 10 \)
-(iii) \( C = 1000 \)
-(iv) \( C = 500 \)
+(i) $C = 100$
+
+(ii) $C = 10$
+
+(iii) $C = 1000$
+
+(iv) $C = 500$
 
 Based on the above data, answer the given subquestions.
 
-Sub questions
-```
+**Sub questions**
+
+Page 243 of 308

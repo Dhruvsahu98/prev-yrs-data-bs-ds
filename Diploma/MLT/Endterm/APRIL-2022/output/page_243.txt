@@ -1,0 +1,24 @@
+Question Number : 362 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Choose the correct match of decision boundaries shown in the figures with the C values based on qualitative assessment of the plots.
+
+Match the data plots with its correct C value.
+Options :
+A.  (Fig.1 - (ii)), (Fig.2 - (i)), (Fig.3 - (iii)), (Fig.4 - (iv))
+B.  (Fig.1 - (iii)), (Fig.2 - (i)), (Fig.3 - (iv)), (Fig.4 - (ii))
+C.  (Fig.1 - (iii)), (Fig.2 - (iii)), (Fig.3 - (iv)), (Fig.4 - (i))
+D.  (Fig.1 - (i)), (Fig.2 - (iv)), (Fig.3 - (iii)), (Fig.4 - (ii))
+
+Question Number : 363 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Now assume that you have split this dataset into training and test sets with 80:20 ratio. You have used kernel SVM with polynomial kernel of degree 2 instead of soft margin SVM and have obtained 100 percentage accuracy for both training and testing. What would you think will happen, if you increase model complexity by increasing the degree of the polynomial kernel to 9 and perform training and testing once again? Choose the correct statement from the following:
+Options :
+A.  The new model will underfit the data.
+B.  The new model will overfit the data.
+C.  The new model will give same result as previous model.
+D.  Can't determine.
+
+Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group
+Page 244 of 308

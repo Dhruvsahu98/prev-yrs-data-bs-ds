@@ -1,34 +1,8 @@
-```python
+C. ✖
+D. ✔
+
 Question Number : 350 Question Type : MSQ
 
 Correct Marks : 3
-```
 
-```latex
-\begin{figure}[H]
-    \centering
-    \begin{minipage}[b]{0.3\textwidth}
-        \centering
-        \includegraphics[width=0.8\textwidth]{image1.png}
-        \caption*{(0,0)}
-    \end{minipage}
-    \hspace{0.5cm}
-    \begin{minipage}[b]{0.3\textwidth}
-        \centering
-        \includegraphics[width=0.8\textwidth]{image2.png}
-        \caption*{(0,0)}
-        \caption*{C. *}
-    \end{minipage}
-    \hspace{0.5cm}
-    \begin{minipage}[b]{0.3\textwidth}
-        \centering
-        \includegraphics[width=0.8\textwidth]{image3.png}
-        \caption*{(0,0)}
-        \caption*{D. \checkmark}
-    \end{minipage}
-\end{figure}
-```
-
-```latex
 Page 231 of 308
-```

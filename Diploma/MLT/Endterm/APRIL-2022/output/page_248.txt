@@ -1,0 +1,37 @@
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+$z_1$ is the pre-activation at layer-1. Which of the following is the correct expression for $z_1$?
+
+**Options :**
+
+A. $\checkmark$ $z_1 = w_1x_1 + w_2x_2 + b_1$
+
+B. $\times$ $z_1 = w_1x_1 + b_1$
+
+C. $\times$ $z_1 = w_2x_2 + b_1$
+
+D. $\times$ $z_1 = w_1x_1 + w_2x_2$
+
+E. $\times$ $z_1 = \text{ReLU}(w_1x_1 + w_2x_2)$
+
+**Question Number : 370 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+$a_1$ is the activation at layer-1. Which of the following is the correct expression for the output $\hat{y}$ of the network? $\sigma$ is the sigmoid function.
+
+**Options :**
+
+A. $\checkmark$ $\hat{y} = \sigma(w_3a_1 + b_2)$
+
+B. $\times$ $\hat{y} = w_3a_1 + b_2$
+
+C. $\times$ $\hat{y} = \text{ReLU}(w_3a_1 + b_2)$
+
+D. $\times$ $\hat{y} = \sigma(w_3a_1 + b_1)$
+
+Page 249 of 308

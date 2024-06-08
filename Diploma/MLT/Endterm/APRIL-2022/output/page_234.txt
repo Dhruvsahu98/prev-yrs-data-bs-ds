@@ -1,6 +1,5 @@
-```plaintext
-• Threshold for inference is 0.5 (refer to useful data).
-• Except for point A that lies on the decision boundary, all points are classified correctly by the model.
+- Threshold for inference is 0.5 (refer to useful data).
+- Except for point A that lies on the decision boundary, all points are classified correctly by the model.
 
 Sub-question 22 is before the update using point A, sub-questions 23 and 24 are after the update using point A.
 
@@ -11,28 +10,27 @@ Question Number : 352 Question Type : MCQ
 Correct Marks : 2
 
 Question Label : Multiple Choice Question
-What is the value of the weight
-\[
-\text{vector } w = [w_0, w_1, w_2]^T?
-\]
+
+What is the value of the weight vector $w = [w_0, w_1, w_2]^T$?
 
 Options :
-A. ✲ [0, 1, 1]^T
-B. ✔ [0,−1, 1]^T
-C. ✲ [0, 1,−1]^T
-D. ✲ [1, 1, 1]^T
-E. ✲ [−1, 1, 1]^T
-
+A.  [0, 1, 1]$^T$
+B.  [0, -1, 1]$^T$
+C.  [0, 1, -1]$^T$
+D.  [1, 1, 1]$^T$
+E.  [-1, 1, 1]$^T$
 
 Question Number : 353 Question Type : MCQ
 
 Correct Marks : 3
 
 Question Label : Multiple Choice Question
+
 In the next iteration of SGD, the point A = (1, 1) that lies on the decision boundary is used by the algorithm to update the weights. Note that the point A belongs to the negative class. What is the value of the weight vector after the update? Use a learning of 2 for this update.
 
 Options :
-A. ✲ [0, 1,−1]^T
-B. ✔ [−1,−2, 0]^T
-C. ✲ [−0.5,−1.5, 0.5]^T
-```
+A.  [0, 1, -1]$^T$
+B.  [-1, -2, 0]$^T$
+C.  [-0.5, -1.5, 0.5]$^T$
+
+Page 235 of 308

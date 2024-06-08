@@ -1,0 +1,40 @@
+Question Type : COMPREHENSION
+
+Question Numbers : (369 to 372)
+
+Question Label : Comprehension
+
+Consider a neural network with the following architecture: [2, 1, 1]. The hidden layer uses ReLU activation function and the output layer uses sigmoid, referred to as $\sigma$.
+
+Layer-0
+
+Layer-1
+
+Layer-2
+
+\begin{tikzpicture}[scale=1.5]
+\node[draw, circle] (x1) at (-1,1) {$x_1$};
+\node[draw, circle] (x2) at (-1,0) {$x_2$};
+\node[draw, circle] (b1) at (0.5,0.5) {$b_1$};
+\node[draw, circle] (b2) at (2,0.5) {$b_2$};
+\draw (x1) -- (b1) node[midway, above, sloped] {$w_1$};
+\draw (x2) -- (b1) node[midway, below, sloped] {$w_2$};
+\draw (b1) -- (b2) node[midway, above, sloped] {$w_3$};
+\node[below=0.1cm of b1] {ReLU};
+\node[below=0.1cm of b2] {Sigmoid};
+\end{tikzpicture}
+
+This network is used to solve a binary classification task with binary cross entropy loss. Recall that this setup is similar to logistic regression. Likewise, inference is also similar to logistic regression. The input vector to the network is $x = [x_1, x_2]^T$ and the output is $\hat{y}$. The true label for this data-point is given by $y$ which lies in the set {0, 1}.
+
+Note:
+
+* This is a toy network and will do a poor job at classification. Don't worry about that.
+* $\hat{y}$ is the output of the network and not the predicted label. Don't confuse this with the notation used in the useful data for logistic regression.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 369 Question Type : MCQ
+
+Page 248 of 308

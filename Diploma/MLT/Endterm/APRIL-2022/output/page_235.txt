@@ -1,0 +1,31 @@
+D. $\begin{bmatrix} 0 & -1 & 1 \end{bmatrix}^T$
+
+**Question Number : 354 Question Type : SA**
+
+**Correct Marks : 2**
+
+**Question Label : Short Answer Question**
+
+If the training is halted at this stage and the model is evaluated on the entire dataset that you see in the given image, how many points will be misclassified? Use a threshold of 0.5 for inference. Note that the image is drawn to scale.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+0
+
+**Question Type : COMPREHENSION**
+
+**Question Numbers : (355 to 356)**
+
+**Question Label : Comprehension**
+
+Page 236 of 308

@@ -1,0 +1,18 @@
+the identity function: $\alpha_1 = g(z_1)$. The output activation function remains sigmoid. This new network is equivalent to a logistic regression model with weights $w$ and a bias $b$:
+$$\hat{y} = \sigma(w^T x + b)$$
+What are the values of $w$ and $b$ in terms of the network's parameters? Choose exactly one option for $w$ and one for $b$.
+
+**Options:**
+A. $\checkmark$ $w = [w_3w_1, w_3w_2]^T$
+B. $\checkmark$ $b = w_3b_1 + b_2$
+C. $\times$ $w = [w_1, w_2]^T$
+D. $\times$ $b = b_1 + b_2$
+E. $\times$ $w = [w_1w_2, w_2w_3]^T$
+F. $\times$ $b = b_1b_2$
+
+**PDSA**
+
+Number of Questions: 30
+Section Marks: 100
+
+Page 251 of 308

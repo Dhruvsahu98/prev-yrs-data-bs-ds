@@ -1,62 +1,82 @@
 ```python
-A  B  C  Y
-0  0  0  T
-1  0  0  T
-1  1  0  T
-1  1  1  F
-0  1  1  T
-0  0  1  T
+# This is a code block in python format.
+print("Hello world!")
 ```
+
+$\begin{array}{|c|c|c|c|}
+\hline
+A & B & C & Y \\
+\hline
+0 & 0 & 0 & T \\
+\hline
+1 & 0 & 0 & T \\
+\hline
+1 & 1 & 0 & T \\
+\hline
+1 & 1 & 1 & F \\
+\hline
+0 & 1 & 1 & T \\
+\hline
+0 & 0 & 1 & T \\
+\hline
+\end{array}$
 
 Which of the following trees will give the zero mis-classification error on the training dataset?
 
-\[
-\begin{array}{ccccc}
-A & B & C & Y \\
-0 & 0 & 0 & T \\
-1 & 0 & 0 & T \\
-1 & 1 & 0 & T \\
-1 & 1 & 1 & F \\
-0 & 1 & 1 & T \\
-0 & 0 & 1 & T \\
-\end{array}
-\]
+$\begin{array}{c}
+\text{T1}
+\end{array}$
+\begin{tikzpicture}[sibling distance=6em, level distance=3em]
+\node {B}
+    child {node {Y=T}}
+    child {node {C}
+        child {node {Y=T}}
+        child {node {Y=F}}
+    };
+\end{tikzpicture}
 
-\begin{figure}[h!]
-    \centering
-    \begin{minipage}{0.45\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{T1.png} % first figure itself
-        \caption*{T1}
-    \end{minipage}\hfill
-    \begin{minipage}{0.45\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{T2.png} % second figure itself
-        \caption*{T2}
-    \end{minipage}
-    \begin{minipage}{0.45\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{T3.png} % third figure itself
-        \caption*{T3}
-    \end{minipage}\hfill
-    \begin{minipage}{0.45\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{T4.png} % fourth figure itself
-        \caption*{T4}
-    \end{minipage}
-\end{figure}
+$\begin{array}{c}
+\text{T2}
+\end{array}$
+\begin{tikzpicture}[sibling distance=6em, level distance=3em]
+\node {C}
+    child {node {Y=T}}
+    child {node {A}
+        child {node {Y=T}}
+        child {node {Y=F}}
+    };
+\end{tikzpicture}
+
+$\begin{array}{c}
+\text{T3}
+\end{array}$
+\begin{tikzpicture}[sibling distance=6em, level distance=3em]
+\node {A}
+    child {node {Y=T}}
+    child {node {B}
+        child {node {Y=T}}
+        child {node {Y=F}}
+    };
+\end{tikzpicture}
+
+$\begin{array}{c}
+\text{T4}
+\end{array}$
+\begin{tikzpicture}[sibling distance=6em, level distance=3em]
+\node {A}
+    child {node {Y=T}}
+    child {node {C}
+        child {node {Y=T}}
+        child {node {Y=F}}
+    };
+\end{tikzpicture}
 
 Note: In the trees, predictions are mentioned in the leaf nodes and in other nodes, the attribute along which the node is split is mentioned.
 
 Options :
-
-A. ✵ T1
-
-B. ✔ T2
-
-C. ✵ T3
-
-D. ✔ T4
+A. $\times$ T1
+B. $\checkmark$ T2
+C. $\times$ T3
+D. $\checkmark$ T4
 
 Page 233 of 308
-```

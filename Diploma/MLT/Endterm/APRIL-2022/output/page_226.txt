@@ -1,47 +1,42 @@
-```python
-A. ✵ C1:(2,2), C2:(1.5,1.5), C3:(5,5)
+A. ✖ C1:(2,2), C2:(1.5, 1.5), C3:(5,5)
+B. ✔ C1:(2,2), C2:(1.5, 1.5), C3:(5,6)
+C. ✖ C1:(2,2), C2:(1.25, 1.25), C3:(5,6)
+D. ✖ C1:(1,2), C2:(1.5, 1.5), C3:(5,6)
 
-B. ✔ C1:(2,2), C2:(1.5,1.5), C3:(5,6)
+**Question Number : 344 Question Type : SA**
 
-C. ✵ C1:(2,2), C2:(1.25,1.25), C3:(5,6)
+**Correct Marks : 3**
 
-D. ✵ C1:(1,2), C2:(1.5,1.5), C3:(5,6)
-
-Question Number : 344 Question Type : SA
-
-Correct Marks : 3
-
-Question Label : Short Answer Question
+**Question Label : Short Answer Question**
 
 A classification model was trained on some training examples with two features and three classes (0, 1 and 2) using least square algorithm. The learnt weight matrix is
 
-\[
-W = \begin{bmatrix}
+$W = \begin{bmatrix}
 0.2 & -0.4 & 1 \\
 0.4 & 0.8 & -1.2 \\
 0.5 & 0.5 & 1
-\end{bmatrix}
-\]
+\end{bmatrix}$
 
-(Remember for \( k \) class classification problem with \( m \) features, shape of weight matrix is \( (m+1) \times k \) that is in the given weight matrix, first row belongs to weights corresponding to dummy feature.)
+(Remember for *k* class classification problem with *m* features, shape of weight matrix is (*m*+1)×*k* that is in the given weight matrix, first row belongs to weights corresponding to dummy feature.)
 
 Which class will the sample (2, 3) be classified to?
 
-Response Type : Numeric
+**Response Type : Numeric**
 
-Evaluation Required For SA : Yes
+**Evaluation Required For SA : Yes**
 
-Show Word Count : Yes
+**Show Word Count : Yes**
 
-Answers Type : Equal
+**Answers Type : Equal**
 
-Text Areas : PlainText
+**Text Areas : PlainText**
 
-Possible Answers :
+**Possible Answers :**
 
 1
 
-Question Number : 345 Question Type : MSQ
+**Question Number : 345 Question Type : MSQ**
 
-Correct Marks : 2
-```
+**Correct Marks : 2**
+
+Page 227 of 308
