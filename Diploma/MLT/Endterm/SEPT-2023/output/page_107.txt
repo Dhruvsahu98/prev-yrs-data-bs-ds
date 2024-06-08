@@ -1,0 +1,30 @@
+6406532033469. ✅ The values of squared loss will be equals to 2.14
+6406532033470. ✅ The values of 0-1 loss equals 4.
+6406532033471. ❌ The values of squared loss will be equals to 3.14
+Sub-Section Number : 8
+Sub-Section Id : 64065387443
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 104 Question Id : 640653608763 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 7
+Question Label : Short Answer Question
+Consider a simple neural network with one hidden layer. The network has the following architecture:
+Input layer with 3 neurons.
+Hidden layer with 2 neurons, using the sigmoid activation function.
+Output layer with 1 neuron, using the linear activation function.
+The weights and biases for the network are as follows:
+Hidden Layer:
+Neuron 1:
+Weights: [0.5, -0.2, 0.8]
+Bias: 0.1
+Neuron 2:
+Weights: [-0.3, 0.6, -0.7]
+Bias: -0.4
+Output Layer:
+Neuron 1:
+Weights: [0.2, 0.4]
+Bias: -0.3
+Assume that the input values are [0.6, 0.3, 0.8].
+Calculate output of Neuron 1 in hidden layer
+Response Type : Numeric

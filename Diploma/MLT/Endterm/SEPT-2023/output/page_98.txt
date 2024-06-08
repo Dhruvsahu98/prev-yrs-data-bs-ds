@@ -1,0 +1,18 @@
+6406532033426.  [0.75, 0.9]<sup>7</sup>
+
+Question Number : 93 Question Id : 640653608752 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are true?
+Options :
+6406532033432.  ✓ Ridge regression and Lasso regression both puts a limit on the length of weight vector.
+6406532033433.  ✗ Ridge regression puts limit on length of the weight vector but LASSO regression does not put a limit on weight vector length.
+6406532033434.  ✓ When many features are redundant, then LASSO regression is more appropriate than ridge regression and linear regression as LASSO regression produces sparse weights for those features.
+6406532033435.  ✗ When many features are redundant, then linear regression is more appropriate than ridge regression and LASSO regression
+
+Question Number : 94 Question Id : 640653608758 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Let $w^*$, $\xi^*$ be the optimal primal solutions, and $\alpha^*$, $\beta^*$ be the optimal dual solutions of the soft-margin SVM problem. If $\alpha_i^* = 0$, select the correct options.
+Options :
+6406532033450.  ✗ The bribe paid by the $i^{th}$ data point is equal to C.

@@ -1,0 +1,24 @@
+Sub-Section Number : 4
+Sub-Section Id : 64065387439
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 97 Question Id : 640653608751 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6
+Question Label : Multiple Choice Question
+Consider the following dataset with two features.
+
+| X | y |
+|---|---|
+| [1,1] | 1 |
+| [-1,-1] | 1 |
+| [2,2] | 3 |
+| [-2,-2] | 3 |
+
+Which of the following property does the solution $w$ satisfy that fits the linear regression model $y = w^T x$?
+
+Options :
+6406532033428.  $\checkmark$ $w \in S$ where $S = \{u = [u_1, u_2]^T \in \mathbb{R}^2 : u_1 = u_2\}$
+6406532033429.  $\times$ $w \in S$ where $S = \{u = [u_1, u_2]^T \in \mathbb{R}^2 : u_1 = -u_2\}$
+6406532033430.  $\times$ $w \in S$ where $S = \{u = [u_1, u_2]^T \in \mathbb{R}^2 : u_1 = -2u_2\}$
+6406532033431.  $\times$ $w \in S$ where $S = \{u = [u_1, u_2]^T \in \mathbb{R}^2 : u_1 = 2u_2\}$

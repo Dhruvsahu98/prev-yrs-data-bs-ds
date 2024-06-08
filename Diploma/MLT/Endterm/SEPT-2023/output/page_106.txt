@@ -1,0 +1,28 @@
+K-NN assigns class labels to new instances based on a decision boundary learned from the training data.  The training dataset is not required while predicting the label of a test-point in the K-NN algorithm. 
+
+Sub-Section Number : 7
+Sub-Section Id : 64065387442
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 103 Question Id : 640653608762 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 7 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+You are working on a binary classification problem where you need to predict whether an email is spam (1) or not (0). You have trained a machine learning model that produces predicted probabilities for each email being spam. You have two different loss functions to consider: the 0-1 loss and the squared loss.
+
+You have a test dataset with the following true labels and predicted probabilities for a set of emails:
+
+| Email | True label | Predicted probability |
+|---|---|---|
+| 1 | 0 | 0.8 |
+| 2 | 1 | 0.2 |
+| 3 | 0 | 0.6 |
+| 4 | 1 | 0.9 |
+| 5 | 1 | 0.3 |
+
+For the given data set if Predicted probability is greater than 0.5, the predicted label will be 1 and 0 otherwise. 
+
+Options : 
+
+640653203468. The values of 0-1 loss function will be 3

@@ -1,0 +1,29 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+34
+
+Question Number : 89 Question Id : 640653608750 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6
+Question Label : Short Answer Question
+
+Suppose you have been given a task of estimating the conversion rate of google click of new online advertisement campaign. You have collected data from a limited sample of 1000 users, where 150 of them have converted. You want to use Bayesian estimation with a prior distribution to provide a more robust estimate of the conversion rate.
+
+Assume you have prior information suggesting that conversion rates of click typically fall within the range of 0.1 to 0.3, and you decide to use a beta distribution as your prior. You choose a beta distribution with parameters $\alpha = 5$ and $\beta = 20$ to capture your prior beliefs.
+
+Calculate the posterior mean?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+0.120 to 0.180
+
+Question Number : 90 Question Id : 640653608755 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6
+Question Label : Short Answer Question

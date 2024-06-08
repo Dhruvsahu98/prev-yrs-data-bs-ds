@@ -1,0 +1,28 @@
+Question Number : 100 Question Id : 640653608759 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6
+
+Question Label : Multiple Choice Question
+Consider the following optimization problem involving the variable $\mathbf{w} = \begin{bmatrix} w_1 \\ w_2 \end{bmatrix}^T$:
+
+$\min_{\mathbf{w}} \ w_1^2 - 3w_2$
+
+sub. to $w_1 + 7w_2 \le 5$
+
+What is the output of the following expression for $\mathbf{w}' = \begin{bmatrix} 1 \\ 1 \end{bmatrix}^T$? Here, $L(\mathbf{w}', \alpha)$ is the Lagrangian function for this optimization problem evaluated at $\mathbf{w}'$.
+
+$\max_{\alpha>0} L(\mathbf{w}', \alpha)$
+
+Options :
+6406532033454. $\times$ $(w_1')^2 - 3(w_2')$
+6406532033455. $\times$ 0
+6406532033456. $\times$ $-\infty$
+6406532033457. $\checkmark$ $\infty$
+
+Sub-Section Number : 5
+Sub-Section Id : 64065387440
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 101 Question Id : 640653608753 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5

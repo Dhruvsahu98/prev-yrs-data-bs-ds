@@ -1,0 +1,11 @@
+Question Number : 99 Question Id : 640653608757 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 6 
+Question Label : Multiple Choice Question
+
+While training a perceptron model, the weight vector at some iteration $t$ is $\textbf{w}^t$. The next two data-points picked up by the perceptron algorithm in the course of its execution is $(\textbf{x}_1, y_1)$, and $(\textbf{x}_2, y_2)$ where $y$ is the true label:
+$$\textbf{w}^t = \begin{bmatrix} 1 \\ 2 \\ 3 \\ 4 \end{bmatrix}, \textbf{x}_1 = \begin{bmatrix} 0 \\ -1 \\ 1 \\ 1 \end{bmatrix}, y_1 = -1, \textbf{x}_2 = \begin{bmatrix} -2 \\ 1 \\ 1 \\ -1 \end{bmatrix}, y_2 = -1$$
+What are the value of $\textbf{w}^{t+1}$ and $\textbf{w}^{t+2}$?
+**Options :**
+6406532033446.  $\textbf{w}^{t+1} = \begin{bmatrix} 2 \\ 2 \\ 2 \\ 5 \end{bmatrix}, \textbf{w}^{t+2} = \begin{bmatrix} 4 \\ 1 \\ 1 \\ 6 \end{bmatrix}$
+6406532033447.  $\textbf{w}^{t+1} = \begin{bmatrix} 2 \\ 2 \\ 2 \\ 5 \end{bmatrix}, \textbf{w}^{t+2} = \begin{bmatrix} 2 \\ 2 \\ 2 \\ 5 \end{bmatrix}$
+6406532033448.  $\textbf{w}^{t+1} = \begin{bmatrix} 1 \\ 3 \\ 3 \\ 4 \end{bmatrix}, \textbf{w}^{t+2} = \begin{bmatrix} 3 \\ 1 \\ 2 \\ 5 \end{bmatrix}$
+6406532033449.  No update will happen as the points $(\textbf{x}_1, y_1)$ and $(\textbf{x}_2, y_2)$ are not mistakes with respect to $\textbf{w}^t$

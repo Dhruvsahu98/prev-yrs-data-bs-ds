@@ -1,0 +1,35 @@
+Question Number : 98 Question Id : 640653608756 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6
+Question Label : Multiple Choice Question
+
+Consider the following training dataset for a binary classification problem in $\mathbb{R}^2$. Note that in the image blue color represents points labelled as +1 and red colored points are points labelled as -1.
+
+\begin{tikzpicture}[scale=0.8]
+\draw[step=0.5, gray, very thin] (-4.5,-2.5) grid (5.5,2.5);
+\draw[thick,->] (-4.5,0) -- (5.5,0) node[anchor=north west] {X1};
+\draw[thick,->] (0,-2.5) -- (0,2.5) node[anchor=south east] {X2};
+\foreach \x in {-4,-3,-2,-1,1,2,3,4,5}
+\draw (\x,-0.2) -- (\x,0.2);
+\foreach \y in {-2,-1,1,2}
+\draw (-0.2,\y) -- (0.2,\y);
+
+\filldraw[blue] (1,0) circle (3pt);
+\filldraw[blue] (2,1) circle (3pt);
+\filldraw[blue] (3,1) circle (3pt);
+\filldraw[blue] (4,1) circle (3pt);
+\filldraw[red] (-1,-1) circle (3pt);
+\filldraw[red] (-3,-1) circle (3pt);
+\filldraw[red] (-1,0) circle (3pt);
+\end{tikzpicture}
+
+If we try to learn a perceptron model for this dataset, will the algorithm ever converge to a weight vector?
+
+Options :
+
+6406532033442.  ✅ Yes, it will converge to a weight vector that can correctly classify all the datapoints irrespective of what we chose as $w^0$.
+
+6406532033443.  ❌ No, it will never converge to a weight vector that can correctly classify all the datapoints irrespective of what we chose as $w^0$.
+
+6406532033444.  ❌ Yes, it will converge for only some $w^0$ but not for any $w^0$.
+
+6406532033445.  ❌ Perceptron Algorithm cannot be applied here as the data is not linearly separable.

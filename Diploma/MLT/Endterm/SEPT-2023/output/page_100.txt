@@ -1,0 +1,16 @@
+6406532033459. ✅ Points A,C,N are going to be support vectors.
+6406532033460. ✅ Points except F,A,C,I,N do not play any role in determining optimal weight vector.
+6406532033461. ❌ Points except F and I do not play any role in determining optimal weight vector.
+6406532033462. ❌ The same dataset can be solved using hard margin SVM algorithm and result would be the same.
+
+Question Number : 96 Question Id : 640653608761 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+In a random forest model, let $p < d$ be the number of randomly selected features that are used to identify the best split at any node of a tree. Here $d$ is the total number of features. Which of the following is/are true?
+
+Options :
+6406532033463. ❌ Increasing $p$ reduces the correlation between any two trees in the forest.
+6406532033464. ✅ Decreasing $p$ reduces the correlation between any two trees in the forest.
+6406532033465. ✅ Decreasing $p$ will underfit individual trees in the forest.
+6406532033466. ✅ As the value of $p$ increases variance of the random forest model increases.
+6406532033467. ❌ As the value of $p$ increases variance of the random forest model decreases.

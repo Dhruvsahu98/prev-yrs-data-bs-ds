@@ -1,0 +1,32 @@
+You are working on a text classification problem using a Naive Bayes classifier to determine whether an email is "Spam" or "Not Spam". You have trained your model using a dataset of 1000 emails, with 600 of them labeled as "Spam" and 400 labeled as "Not Spam". You've collected statistics on the occurrence of two words, "Won" and "Money" in these emails:
+
+| Keyword | label of email | Probability |
+|---|---|---|
+| Won | Spam | $P(Won|Spam) = 0.45$ |
+| Won | Not Spam | $P(Won|Not Spam) = 0.05$ |
+| Money | Spam | $P(Money|Spam) = 0.3$ |
+| Money | Not Spam | $P(Money|Not Spam) = 0.02$ |
+
+You receive a new email containing both the "Won" and "Money" keywords and want to classify it using Naive Bayes.
+
+Use the Naive Bayes formula to calculate the probability that the new email is classified as "Spam."
+
+Hint: Assume that these are only two possible words (that is there are only two features)
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.98 to 1
+
+Sub-Section Number : 3
+Sub-Section Id : 640653687438
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 91 Question Id : 64065368748 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6 Max. Selectable Options : 0
+Question Label : Multiple Select Question
