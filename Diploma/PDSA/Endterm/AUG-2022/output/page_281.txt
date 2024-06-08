@@ -1,0 +1,88 @@
+**Question Label : Short Answer Question**
+
+Let A1, A2, A3, A4 be 4 matrices with dimensions (10 x 5), (5 x 20), (20 x 10), (10 x 15) respectively. What is the minimum number of scalar multiplications required to find the product A1 x A2 x A3 x A4?
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+2500
+
+**Question Number : 340 Question Id : 640653357355 Question Type : SA Calculator : None**
+
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+**Question Label : Short Answer Question**
+
+Consider the following grid.
+
+```python
+import numpy as np
+
+def grid_paths(grid, start, end):
+  """
+  Calculates the number of unique paths from start to end in a grid with obstacles.
+
+  Args:
+    grid: A 2D NumPy array representing the grid. 1 indicates an obstacle, 0 indicates a free path.
+    start: A tuple representing the starting position (row, col).
+    end: A tuple representing the ending position (row, col).
+
+  Returns:
+    The number of unique paths from start to end.
+  """
+  rows, cols = grid.shape
+  dp = np.zeros((rows, cols), dtype=int)
+
+  # Initialize the starting position
+  dp[start[0], start[1]] = 1
+
+  # Iterate through the grid
+  for i in range(rows):
+    for j in range(cols):
+      # If the current cell is an obstacle, skip it
+      if grid[i, j] == 1:
+        continue
+
+      # If the current cell is not the starting cell, add the paths from the left and top cells
+      if i > 0:
+        dp[i, j] += dp[i - 1, j]
+      if j > 0:
+        dp[i, j] += dp[i, j - 1]
+
+  # Return the number of paths at the ending position
+  return dp[end[0], end[1]]
+
+# Define the grid
+grid = np.array([
+  [0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0],
+  [0, 0, 1, 0, 0],
+  [0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0]
+])
+
+# Define the starting and ending positions
+start = (0, 0)
+end = (4, 5)
+
+# Calculate the number of paths
+num_paths = grid_paths(grid, start, end)
+
+# Print the result
+print(f"Number of unique paths: {num_paths}")
+```
+
+How many unique paths are available from (0,0) to (4,5)? The condition is that you can only travel one step right or one step up at a time, and the gray box at intersection points (2,3) represents a blockage.
+
+**Response Type : Numeric**

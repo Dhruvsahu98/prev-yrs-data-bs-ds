@@ -1,0 +1,24 @@
+Question Label : Multiple Choice Question
+Assuming that the median of n elements can be found in $O(log n)$ time. What would be the complexity of quick sort, if the median item is always selected as the pivot?
+Options :
+6406531184448. ❌ $O(log n)$
+6406531184449. ❌ $O(n log log n)$
+6406531184450. ✅ $O(n log n)$
+6406531184451. ❌ $O(n)$
+
+Question Number : 319 Question Id : 640653357340 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Let G be a undirected connected graph. Let $T_d$ be a depth-first search tree of G. Let $T_b$ be a breadth-first search tree of G. Consider the following statements.
+1. No edge of G is a cross edge with respect to $T_d$
+2. For every edge $(u, v)$ of G, if u is at depth i and v is at depth j in $T_b$, Then $|i - j| = 1$.
+Which of the above statement(s) must necessarily be true?
+Options :
+6406531184458. ✅ 1 only
+6406531184459. ❌ 2 only
+6406531184460. ❌ Both 1 and 2
+6406531184461. ❌ Neither 1 nor 2
+
+Question Number : 320 Question Id : 640653357341 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

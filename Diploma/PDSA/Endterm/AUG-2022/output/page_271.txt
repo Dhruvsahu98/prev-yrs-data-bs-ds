@@ -1,0 +1,31 @@
+6406531184476. ✖ Graph G has only one MCST, which must exclude edge e
+
+Question Number : 323 Question Id : 640653357346 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+The maximum and the minimum number of nodes possible in a binary search tree of height 6 are _______. Consider that the height of the empty tree is 0.
+
+Options :
+
+6406531184477. ✔ 63 and 6, respectively
+6406531184478. ✖ 64 and 5, respectively
+6406531184479. ✖ 31 and 6, respectively
+6406531184480. ✖ 32 and 5, respectively
+
+Question Number : 324 Question Id : 640653357347 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider a complete binary tree with n nodes, where the left and right subtrees of the root are max heaps. The upper bound to convert the tree to a max heap by an efficient algorithm is _______.
+
+Options :
+
+6406531184481. ✔ $O(log n)$
+6406531184482. ✖ $O(n)$
+6406531184483. ✖ $O(nlogn)$
+6406531184484. ✖ $O(n^2)$

@@ -1,0 +1,23 @@
+Question Number : 327 Question Id : 640653357352 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+There are 5 sorted arrays of sizes 10, 25, 30, 45, and 15. If the *merge* algorithm is used to optimally combine all of these sorted arrays together into one sorted sequence, then what is the total number of comparisons needed by the *optimal* merge algorithm in the worst case?
+Note: the *merge* algorithm would merge the arrays pairwise, i.e. it would only merge two arrays into a single larger one
+Options :
+6406531184498.  * 186
+6406531184499.  * 341
+6406531184500.  * 321
+6406531184501.  * 271
+Question Number : 328 Question Id : 640653357353 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+In a list *L*, two elements *L[i]* and *L[j]* form a inversion if *L[i] > L[j]* and *i < j*. Which of the following options represents the inversions in the list *L = [1, 5, 4, 2, 6, 3]*?
+Options :
+6406531184502.  * (5,4), (5,2), (5,3), (2,1), (4,3), (6,3)
+6406531184503.  * (5,4), (5,2), (4,2), (5,3), (4,3), (6,3)
+6406531184504.  * (5,4), (5,3), (2,1), (4,2), (5,2), (6,3)
+6406531184505.  * (5,1), (5,2), (5,3), (4,2), (3,2), (6,3)
+Question Number : 329 Question Id : 640653357357 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

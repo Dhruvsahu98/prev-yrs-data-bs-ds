@@ -1,0 +1,48 @@
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+Consider the following directed graph.
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2cm,
+                thick,main node/.style={circle,draw,font=\sffamily\Large\bfseries}]
+
+  \node[main node] (A) {A};
+  \node[main node] (B) [below left of=A] {B};
+  \node[main node] (C) [below of=B] {C};
+  \node[main node] (D) [below right of=A] {D};
+  \node[main node] (E) [below of=D] {E};
+  \node[main node] (F) [below of=E] {F};
+
+  \path[every node/.style={font=\sffamily\small}]
+    (A) edge (B)
+    (A) edge (D)
+    (B) edge (F)
+    (C) edge (F)
+    (D) edge (F)
+    (E) edge (F);
+\end{tikzpicture}
+
+The number of different topological orderings of the vertices of the graph is \_\_\_.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+6
+
+**Question Number : 337 Question Id : 640653357343 Question Type : SA Calculator : None**
+
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+Question Label : Short Answer Question

@@ -1,0 +1,21 @@
+6406531184430. ✅ [1, -2, -3, -4]
+6406531184431. ❌ [4, 3, 2, 1]
+
+Question Number : 314 Question Id : 640653357332 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+A list having $2^k$ items has to be processed using either of two given algorithms. Algorithm A takes $8n \log n$ time units and algorithm B takes $0.02n^2$ time units to process a list of $n$ items. What is the smallest value of $k$ for which algorithm A would be preferred?
+
+Options :
+
+6406531184432. ❌ 11
+6406531184433. ❌ 12
+6406531184434. ✅ 13
+6406531184435. ❌ Algorithm A would always be preferred irrespective of $k$
+
+Question Number : 315 Question Id : 640653357333 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

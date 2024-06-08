@@ -1,0 +1,17 @@
+Question Number : 331 Question Id : 640653357349 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+
+Which of the following statement(s) is/are true ?
+
+Options :
+6406531184489. ❌ While inserting a new element in a max heap of $n$ elements, a binary search is performed on the path from the new node to the root to find the correct position of the new node. The number of comparisons performed in this process is $O(log^2n)$.
+6406531184490. ❌ Given a binary search tree and a min-heap with the same constituent items, the min-heap is more efficient for printing the items in ascending order.
+6406531184491. ✅ When we implement Prim's algorithm using min-heap, the time complexity is improved to $O((m+n)logn)$.
+6406531184492. ✅ When we implement Dijkstra's algorithm using min-heap, the time complexity is improved to $O((m+n)logn)$.
+
+Question Number : 332 Question Id : 640653357358 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question

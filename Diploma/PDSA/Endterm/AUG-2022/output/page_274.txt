@@ -1,0 +1,23 @@
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following option represents the fail function (or prefix function) for pattern 'abcaaabca' in the Knuth-Morris-Pratt (KMP) algorithm?
+Options :
+6406531184509.  [1, 1, 1, 1, 1, 2, 3, 4]
+6406531184510.  [0, 0, 0, 1, 2, 3, 4]
+6406531184511.  [0, 0, 0, 1, 1, 2, 3, 4]
+6406531184512.  [0, 0, 0, 1, 1, 2, 3, 1]
+Question Number : 330 Question Id : 640653357360 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following statements and select the appropriate option regarding them
+1. Checking algorithm for the Boolean satisfiability problem is intractable.
+2. Given a problem $\alpha$ which is reduced in polynomial time from another problem $\beta$. If $\alpha$ is solvable in polynomial time, then $\beta$ is also solvable within polynomial time.
+Options :
+6406531184519.  Only statement 1 is correct
+6406531184520.  Only statement 2 is correct
+6406531184521.  Both the statements are correct
+6406531184522.  Both the statements are wrong
+Sub-Section Number : 3
+Sub-Section Id : 64065351859
+Question Shuffling Allowed : Yes

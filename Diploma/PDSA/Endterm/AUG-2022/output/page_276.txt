@@ -1,0 +1,29 @@
+Consider the following problem statement.
+There are 15 saree printing machines in a printing press company. Each machine produces 500 sarees and consumes electricity worth Rs 15000 every month. A machine can be overloaded to print more sarees, but it should not be loaded more than 10% of its usual production capacity. Also, when the machine is overloaded, it consumes 20% more electricity. Demand of saree for the $i^{th}$ month is represented with variables $d_i | 1 <= i <= 12$. In order to balance demand and production to optimize profit, the company can switch off a machine for a month, but during that month a maintenance charge of Rs 60 is required for that machine. Similarly, in order to switch on a machine that was switched off previously, a startup cost of Rs 40 is required for that machine. The press might produce surplus sarees, the cost to store these surplus sarees is Rs 30 per saree. 
+Assume we use the following notations for representing the variables required to model this into a LPP problem:
+1. $m_i$: machines running in month $i$
+2. $s_i$: sarees made in month $i$
+3. $o_i$: sarees made in overloaded state in month $i$
+4. $n_i$: machines started in the start of month $i$
+5. $x_i$: machines switched off in the start of month $i$
+6. $g_i$: number of surplus sarees at the end of month $i$
+7. $d_i$: demand of saree for month $i$ 
+Identify the correct constraints pertinent to the above problem exclusively from the below options.
+
+**Options:**
+
+6406531184513. $\times$ $s_i = 500m_i + g_i$
+
+6406531184514. $\checkmark$ $m_i = m_{i-1} + n_i - x_i$
+
+6406531184515. $\times$ $g_i = s_i - d_i$
+
+6406531184516. $\checkmark$ $m_i <= 15$
+
+6406531184517. $\checkmark$ $o_i <= 50m_i$
+
+**Sub-Section Number :** 4
+
+**Sub-Section Id :** 64065351860
+
+**Question Shuffling Allowed :** Yes

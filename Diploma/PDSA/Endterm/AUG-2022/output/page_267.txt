@@ -1,0 +1,30 @@
+6406531184443.  $O(n^3 log_4 n)$
+
+Question Number : 317 Question Id : 640653357335 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+```python
+def insertionsort(L):
+  n = len(L)
+  if n < 1:
+    return(L)
+  for i in range(n):
+    j = i
+    while(j > 0 and L[j] < L[j-1]):
+      (L[j], L[j-1]) = (L[j-1], L[j])
+      j = j - 1
+  return(L)
+```
+Which of the following statement(s) is/are correct with regard to the given Insertion Sort?
+1. Insertion sort is stable and it sorts in-place
+2. The complexity of Insertion sort is $O(n^2)$ in the best case.
+3. In Insertion sort, after m iterations of the for-loop, the first m elements in the list are in sorted order
+
+Options :
+6406531184444.  Only statement 1 is true
+6406531184445.  Statement 1 and Statement 2 are true
+6406531184446.  Statement 1 and Statement 3 are true
+6406531184447.  All statements are true
+
+Question Number : 318 Question Id : 640653357336 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

@@ -1,0 +1,38 @@
+Consider the following adjacency matrix $A_{Mat}$ of an undirected graph with 5 vertices.
+
+$A_{Mat} = \begin{pmatrix}
+0 & 1 & 8 & 1 & 4 \\
+1 & 0 & 12 & 10 & 9 \\
+8 & 12 & 0 & 7 & 3 \\
+1 & 10 & 7 & 0 & 2 \\
+4 & 9 & 3 & 2 & 0
+\end{pmatrix}$
+
+What is the cost of the minimum spanning tree for the given adjacency matrix of a graph?
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+7
+
+**Question Number :** 338 **Question Id :** 640653357351 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+**Question Label :** Short Answer Question
+
+What will be the minimum number of nodes in an AVL tree of height 7? Consider that the height of the empty tree is 0.
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+33
+
+**Question Number :** 339 **Question Id :** 640653357354 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4

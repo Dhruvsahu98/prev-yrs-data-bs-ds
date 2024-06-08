@@ -1,0 +1,40 @@
+Question Number : 333 Question Id : 640653357337 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following implementation for Queue.
+
+```python
+1 class queue:
+2  def __init__(self):
+3   self.queue = []
+4  def enqueue(self,v):
+5   self.queue.append(v)
+6  def isempty(self):
+7   return(self.queue == [])
+8  def dequeue(self):
+9   v = None
+10  if not self.isempty():
+11   v = self.queue[0]
+12   self.queue = self.queue[1:]
+13  return(v)
+
+1 def fun(Q):
+2  if (not Q.isempty()):
+3   i = Q.dequeue()
+4   fun(Q)
+5   Q.enqueue(i)
+```
+
+Assuming that the initial state of the queue q was $[12,24,20,40,6,12,8,16]$, what is `q.queue[3]` after `fun(Q)` is executed?
+
+Options :
+6406531184452. ❌ 40
+6406531184453. ✅ 6
+6406531184454. ❌ 12
+6406531184455. ❌ 16
+
+Sub-Section Number : 5
+Sub-Section Id : 64065351861
+Question Shuffling Allowed : Yes
+
+Question Number : 334 Question Id : 640653357338 Question Type : SA Calculator : None

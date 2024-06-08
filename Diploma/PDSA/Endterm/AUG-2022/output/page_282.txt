@@ -1,0 +1,27 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+66
+
+Question Number : 341 Question Id : 640653357356 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the Rabin-Karp algorithm using modulo arithmetic to match the pattern in base 10.
+Taking modulo q = 11, how many false positives matches does the Rabin-Karp matcher
+encounter while searching pattern 36 in the text 3141592653589363 ?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Number : 342 Question Id : 640653357359 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

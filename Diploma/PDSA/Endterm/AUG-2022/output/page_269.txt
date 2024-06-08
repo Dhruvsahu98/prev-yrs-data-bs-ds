@@ -1,0 +1,40 @@
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following directed graph. Run DFS on this graph from vertex 0. Which of the following is a cross edge.
+Note: In the case of multiple neighbours, the algorithms first pick the node which has the smallest labelled value.
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2cm,
+                    thick,main node/.style={circle,draw,font=\sffamily\Large\bfseries}]
+
+  \node[main node] (0) {0};
+  \node[main node] (1) [below left of=0] {1};
+  \node[main node] (2) [below right of=0] {2};
+  \node[main node] (3) [above right of=2] {3};
+  \node[main node] (4) [below of=1] {4};
+  \node[main node] (5) [below of=2] {5};
+
+  \path[every node/.style={font=\sffamily\small}]
+    (0) edge node {} (1)
+    (0) edge node {} (3)
+    (1) edge node {} (4)
+    (2) edge node {} (5)
+    (3) edge node {} (5)
+    (4) edge node {} (2);
+\end{tikzpicture}
+
+Options :
+
+6406531184462.  \(\times\)  (0, 1)
+
+6406531184463.  \(\times\)  (0, 3)
+
+6406531184464.  \(\checkmark\)  (5, 2)
+
+6406531184465.  \(\times\)  (0, 2)
+
+6406531184466.  \(\times\)  (3, 5)
+
+Question Number : 321 Question Id : 640653357344 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

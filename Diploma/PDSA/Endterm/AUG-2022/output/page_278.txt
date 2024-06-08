@@ -1,0 +1,29 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+A hash table of size 8 (index 0 to 7) uses open addressing with hash function $h(k) = k \mod 8$, and linear probing. The following elements are added into the hash table, which was initially empty.
+25, 11, 84, 26, 46 and 50
+The key value 50 is stored at which index of the hash table?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+Question Number : 335 Question Id : 640653357339 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider a directed graph G with 55 edges with the least number of vertices possible. What will be the number of vertices in graph G?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+8
+
+Question Number : 336 Question Id : 640653357342 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

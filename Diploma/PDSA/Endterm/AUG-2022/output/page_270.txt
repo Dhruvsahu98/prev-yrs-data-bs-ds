@@ -1,0 +1,44 @@
+Consider the following directed weighted graph on which the Dijkstra algorithm is run with vertex A as the source vertex.
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw,circle] (A) at (0,0) {A};
+\node[draw,circle] (B) at (2,2) {B};
+\node[draw,circle] (C) at (3,0) {C};
+\node[draw,circle] (D) at (5,2) {D};
+\node[draw,circle] (E) at (5,-1) {E};
+\node[draw,circle] (F) at (2,-2) {F};
+\draw[->,>=stealth,thick] (A) -- (B) node[midway,above,sloped] {3};
+\draw[->,>=stealth,thick] (A) -- (C) node[midway,above,sloped] {6};
+\draw[->,>=stealth,thick] (B) -- (D) node[midway,above,sloped] {1};
+\draw[->,>=stealth,thick] (B) -- (C) node[midway,above,sloped] {4};
+\draw[->,>=stealth,thick] (C) -- (F) node[midway,above,sloped] {4};
+\draw[->,>=stealth,thick] (D) -- (C) node[midway,above,sloped] {2};
+\draw[->,>=stealth,thick] (D) -- (E) node[midway,right] {3};
+\end{tikzpicture}
+
+What is the order of nodes in which the nodes are marked as visited by Dijkstra's algorithm?
+
+**Options :**
+
+6406531184469.  \(\times\) A, B, D, F, E, C
+
+6406531184470.  \(\times\) A, B, D, E, F, C
+
+6406531184471.  \(\times\) A, B, C, D, E, F
+
+6406531184472.  \(\checkmark\) A, B, D, F, C, E
+
+**Question Number :** 322 **Question Id :** 640653357345 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question
+
+Let G = (V, E) is an undirected graph having distinct positive edge weights. Let V be partitioned into two non-empty sets X and Y. Let e = (s, t) be the minimum cost edge, with s belonging to X and t belonging to Y. Which one of the following is true?
+
+**Options :**
+
+6406531184473.  \(\times\) Graph G has multiple MCSTs, every MCST must include edge e
+
+6406531184474.  \(\times\) Graph G has multiple MCSTs, every MCST must exclude edge e
+
+6406531184475.  \(\checkmark\) Graph G has only one MCST, which must include edge e

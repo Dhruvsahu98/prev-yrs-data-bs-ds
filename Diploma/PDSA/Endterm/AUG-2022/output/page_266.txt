@@ -1,0 +1,29 @@
+Consider the following iterative code:
+
+```python
+def fun(n):
+    i, j = 1, 1
+    while(j <= n):
+        i = i + 2
+        j = j + i
+        print(j)
+```
+
+What would be the running time complexity of the above given function?
+
+Options :
+6406531184436.  $O(log \ n)$
+6406531184437.  $O(n \ log \ n)$
+6406531184438.  $\checkmark O(\sqrt{n})$
+6406531184439.  $O(n^2)$
+
+Question Number : 316 Question Id : 640653357334 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+What is the time complexity of the following recurrence relation?
+$T(1) = 1$
+For $n > 1$, $T(n) = 2T(n/4) + n^2$
+Options :
+6406531184440.  $\checkmark O(n^2)$
+6406531184441.  $O(n^3)$
+6406531184442.  $O(n^2 \ log_4 \ n)$

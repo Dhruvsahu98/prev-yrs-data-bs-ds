@@ -1,0 +1,21 @@
+**Question Number : 325 Question Id : 640653357348 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Question Label : Multiple Choice Question**
+
+Consider a binary min-heap made up of {1, 2, 3, 4, ...., 512}. Assume that each number occurs exactly once in the heap. The depth of a node in the heap is equal to the number of edges to that node from the root node. Thus, the root is at depth 0. What is the maximum possible depth of the node number 6?
+
+**Options :**
+
+6406531184485.  8
+6406531184486.  7
+6406531184487.  6
+6406531184488.  5
+
+**Question Number : 326 Question Id : 640653357350 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Question Label : Multiple Choice Question**
+
+Consider a text file which has probability of occurrence of seven different characters as follows: 0.076, 0.064, 0.030, 0.169, 0.246, 0.2, 0.215. If Huffman coding is used to compress this file, then what will be the average code length of a character?
+
+**Options :**
+
+6406531184493.  3.223
+6406531184494.  2.603
+6406531184495.  1.651
+6406531184496.  1.341
