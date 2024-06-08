@@ -1,0 +1,19 @@
+6406531892603.  ✓ (a, d), (a, c), (s, c), (d, e), (b, e), (f, e)
+
+Question Number : 304 Question Id : 640653566286 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider a min-heap represented as the following list: [ 6, 11, 24, 19, 46, 40, 74, 32, 21]
+What are the leaf nodes of this min-heap after the following operations are done on it?
+1. Insertion of value 22
+2. deleteMin
+Options :
+6406531892604.  ✓ 32, 46, 22, 40, 74
+6406531892605.  ✗ 32, 21, 46, 40, 74
+6406531892606.  ✗ 32, 19, 46, 40, 74
+6406531892607.  ✗ 32, 46, 40, 74
+
+Question Number : 305 Question Id : 640653566290 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the characters **e, f, s, m, p** have probability of occurrence 1/2, 1/4, 1/8, 1/16, 1/32 respectively in a text. If **Huffman encoding** is used to compress the text, then what will be the

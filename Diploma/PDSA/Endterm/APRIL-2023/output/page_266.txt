@@ -1,0 +1,29 @@
+6406531892559. ❌  $f_4(n), f_3(n), f_2(n), f_1(n)$
+6406531892560. ❌  $f_2(n), f_3(n), f_1(n), f_4(n)$
+
+**Question Number :** 294 **Question Id :** 640653566275 **Question Type :** MCQ Is Question
+**Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question
+
+```python
+def fun(n):
+  (i, s) = (1, 1)
+  while s <= n:
+    i = i + 2
+    s = s + i
+```
+
+What is the time complexity of the given function ?
+
+**Options :**
+
+6406531892565. ❌ $O(n)$
+
+6406531892566. ❌ $O(log \ n)$
+
+6406531892567. ❌ $O(n log \ n)$
+
+6406531892568. ✅ $O(\sqrt{n})$
+
+**Question Number :** 295 **Question Id :** 640653566280 **Question Type :** MCQ Is Question

@@ -1,0 +1,43 @@
+6406531892580. a = 121, b = 16
+6406531892581. a = 121, b = 17
+6406531892582. a = 122, b = 17
+
+Question Number : 303 Question Id : 640653566285 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+Consider the following graph
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw,circle,thick,scale=0.8] (s) at (0,3) {s};
+\node[draw,circle,thick,scale=0.8] (c) at (1,1) {c};
+\node[draw,circle,thick,scale=0.8] (a) at (2,0) {a};
+\node[draw,circle,thick,scale=0.8] (d) at (4,0) {d};
+\node[draw,circle,thick,scale=0.8] (e) at (5,0) {e};
+\node[draw,circle,thick,scale=0.8] (b) at (3,-1) {b};
+\node[draw,circle,thick,scale=0.8] (f) at (5,2) {f};
+
+\draw[thick] (s)--(c) node[midway,above,sloped] {2};
+\draw[thick] (s)--(a) node[midway,left] {3};
+\draw[thick] (s)--(f) node[midway,above] {6};
+\draw[thick] (c)--(a) node[midway,left] {2};
+\draw[thick] (c)--(d) node[midway,above] {3};
+\draw[thick] (a)--(d) node[midway,above] {1};
+\draw[thick] (a)--(b) node[midway,below,sloped] {6};
+\draw[thick] (d)--(e) node[midway,right] {4};
+\draw[thick] (d)--(b) node[midway,below] {1};
+\draw[thick] (e)--(b) node[midway,below] {1};
+\draw[thick] (f)--(e) node[midway,right] {2};
+
+\end{tikzpicture}
+
+Which of the following is/are the correct sequence of edges added to the minimum spanning tree when prim's algorithm is applied on this graph with a as the source vertex ?
+
+Options :
+
+6406531892600. (a, d), (a, c), (a, s), (d, e), (a, b), (s, f)
+
+6406531892601. (a, d), (b, e), (a, c), (s, c), (f, e), (d, e)
+
+6406531892602. (a, d), (b, e), (a, c), (s, c), (f, e), (a, b)

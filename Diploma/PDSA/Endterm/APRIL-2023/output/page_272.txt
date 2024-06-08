@@ -1,0 +1,29 @@
+Question Number : 301 Question Id : 640653566278 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Linear probing is an open addressing scheme in computer programming for resolving hash collisions in hash tables. Linear probing operates by taking the original hash index and adding successive values linearly until a free slot is found.
+
+A hash table contains 6 buckets indexed from 0 to 5 and uses linear probing to resolve collisions. The key values are integers and the hash function used is `key mod 6`. The values 47, 63, 38, 16 are inserted into the table.
+
+What is the probability that the 0<sup>th</sup> index will be occupied by the next element to be inserted ?
+
+Note: Assume that the numbers/keys are selected uniformly at random over the set of positive integers.
+
+Options :
+6406531892574.  * 0.5
+6406531892575.  * 1
+6406531892576.  ✔ 0.83
+6406531892577.  * 0.33
+6406531892578.  * Can't be decided because the probability depends upon the key's value
+
+Question Number : 302 Question Id : 640653566279 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+An undirected graph G has 34 vertices. The sum of degrees of all the vertices in G is a. The number of vertices of odd degree in G is b. Which of the values are possible for a and b?
+
+Options :
+6406531892579.  ✔ a = 122, b = 16

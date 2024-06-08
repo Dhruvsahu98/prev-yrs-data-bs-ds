@@ -1,0 +1,35 @@
+Consider the following tree traversal orders for a binary tree T.
+
+In-order = 86, 47, 95, 32, 63, 16, 53, 9, 64
+Post-order = 86, 95, 32, 47, 53, 64, 9, 16, 63
+
+What would be the sum of all the leaf node values of T?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+298
+
+Question Number : 318 Question Id : 640653566291 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Short Answer Question
+Given a set of events (E1 to E11) with their start and end time. A journalist has to attend as many events as possible. If any event finishes at time T, then the journalist can attend other events starting at time T or afterwards.
+
+|  | E1 | E2 | E3 | E4 | E5 | E6 | E7 | E8 | E9 | E10 | E11 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| start | 3 | 5 | 2 | 7 | 5 | 7 | 8 | 10 | 10 | 4 | 14 |
+| end | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+
+What is the maximum number of events that journalist can attend?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

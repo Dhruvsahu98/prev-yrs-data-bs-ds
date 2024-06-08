@@ -1,0 +1,25 @@
+2. DFS of a directed graph always produces the same number of tree edges independent of the node selected as the source.
+3. If at least one topological order exists for a directed graph, then the DFS of that graph will not produce any back edges.
+
+Which of the given statement(s) is/are **true**?
+
+**Options :**
+6406531892587.  * Statement 1 and Statement 2
+6406531892588.  * Statement 2 and Statement 3
+6406531892589.  * Statement 1 and Statement 3
+6406531892590.  * All three statements are true
+
+**Question Number : 297 Question Id : 640653566287 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+A binary search tree in which every node has either 0 or 2 children is referred as strictly binary tree. Such a tree with 25 leaves _______.
+
+**Options :**
+6406531892608.  * has exactly total 50 nodes
+6406531892609.  * has exactly total 48 nodes
+6406531892610.  * has exactly total 49 nodes
+6406531892611.  * has exactly total 51 nodes
+
+**Question Number : 298 Question Id : 640653566299 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**

@@ -1,0 +1,36 @@
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Given a flow network ($G, s, t, c$) and a flow $f$, how will you determine if $f$ is maximum flow?
+Options :
+6406531892644. ❌ If there is any edge that is not saturated to full capacity, then we can conclude that $f$ is not a maximum flow.
+6406531892645. ✅ If the residual graph does not have any augmenting paths then $f$ is a maximum flow.
+6406531892646. ❌ If the value of the flow $f$ is not the sum of the capacities of the edges coming out of the source $s$ then $f$ is not a maximum flow.
+6406531892647. ❌ If the value of the flow $f$ is not the sum of the capacities of the edges coming into the sink $t$ then $f$ is not a maximum flow.
+
+Question Number : 299 Question Id : 640653566300 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following flow network
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw,circle] (s) at (0,0) {$s$};
+\node[draw,circle] (a) at (2,1) {$a$};
+\node[draw,circle] (b) at (4,1) {$b$};
+\node[draw,circle] (c) at (2,-1) {$c$};
+\node[draw,circle] (d) at (4,-1) {$d$};
+\node[draw,circle] (t) at (5,0) {$t$};
+
+\draw[->,thick] (s) -- node[above] {16} (a);
+\draw[->,thick] (s) -- node[below] {13} (c);
+\draw[->,thick] (a) -- node[above] {9} (b);
+\draw[->,thick] (a) -- node[left] {4} (c);
+\draw[->,thick] (c) -- node[left] {10} (a);
+\draw[->,thick] (b) -- node[right] {7} (d);
+\draw[->,thick] (b) -- node[above] {20} (t);
+\draw[->,thick] (c) -- node[below] {14} (d);
+\draw[->,thick] (d) -- node[right] {4} (t);
+\draw[->,thick] (s) edge[bend left] node[above] {12} (t);
+\end{tikzpicture}
+
+Consider the network given above with source $s$ and sink $t$, with the numbers on the edges denoting maximum capacity across a particular edge. Which of the following edges form a valid **min cut** in the given network?

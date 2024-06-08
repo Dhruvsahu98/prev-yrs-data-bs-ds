@@ -1,0 +1,30 @@
+Question Number : 307 Question Id : 640653566295 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+L is an unsorted list composed of random positive and negative numbers. We wish to compute the sum of the maximum sum sub list within the list. 
+Consider the following incomplete dynamic programming code:
+
+```python
+1	def fun(L):
+2		ml = [float('-inf')] for i in range(0,len(L))]
+3		for i in range(1,len(L)):
+4			# LINE - 1
+5
+6		val = ml[0]
+7		for j in ml:
+8			if j > val:
+9				val = j
+10	print(val)
+```
+
+What should be written in LINE - 1?
+
+Options :
+6406531892631.  $ml[i] = max(ml[i-1] + l[i], l[i])$
+6406531892632.  $ml[i] = max(ml[i-1], l[i])$
+6406531892633.  $ml[i] = max(ml[i-1] + l[i-1], l[i])$
+6406531892634.  None of these
+
+Question Number : 308 Question Id : 640653566296 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

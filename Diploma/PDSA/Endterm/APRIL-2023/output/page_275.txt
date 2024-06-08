@@ -1,0 +1,17 @@
+average number of bits required per character in the compressed text ?
+Options :
+6406531892617. ✖ 2.5
+6406531892618. ✖ 3.5
+6406531892619. ✖ 2.75
+6406531892620. ✔ 1.75
+Question Number : 306 Question Id : 640653566292 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following strategy to solve a problem of input size n.
+Divide the problem into 4 sub-problems, each of size $\frac{n}{4}$. Number of steps required to combine these 4 solutions is n. We apply this strategy recursively till the sub-problems can not be further divided into sub-problems.
+What will be the nearest upper bound for the above algorithm?
+Options :
+6406531892622. ✔ $O(n^2)$
+6406531892623. ✖ $O(n^4)$
+6406531892624. ✖ $O(n log n)$
+6406531892625. ✖ $O(n)$

@@ -1,0 +1,49 @@
+```python
+def detect_loop(head):
+  temp = head
+  while (temp != None):
+    if (temp.flag == True):
+      return False
+    temp.flag = True
+    temp = temp.next
+  return True
+```
+
+6406531892571. ❌
+
+```python
+def detect_loop(head):
+  temp = head
+  while (temp != None):
+    if (temp.flag == True):
+      return True
+    temp.flag = True
+    temp = temp.next
+  return False
+```
+
+6406531892572. ✅
+
+```python
+def detect_loop(head):
+  temp = head
+  while (temp != None):
+    if (temp.flag == True):
+      return True
+    temp.flag = True
+    temp = temp.next
+  return False
+```
+
+6406531892573. ❌
+
+```python
+def detect_loop(head):
+  temp = head
+  while (temp != None):
+    if (temp.flag == True):
+      return False
+    temp.flag = True
+    temp = temp.next
+  return False
+```

@@ -1,0 +1,19 @@
+6406531892563. ❌ Quick Sort
+6406531892564. ❌ Insertion Sort
+
+Question Number : 310 Question Id : 640653566284 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following statement(s) is/are true?
+Options :
+6406531892596. ❌ The shortest path between two vertices $u$ and $v$ in a graph $G$ always remains unaltered when all the edges of $G$ are incremented by an equal amount.
+6406531892597. ✅ A graph where all edge weights are distinct can have more than one shortest path between two vertices
+6406531892598. ❌ If a graph has negative weighted cycle then Bellman Ford algorithm will be able to compute the shortest path length between every pair of vertices.
+6406531892599. ✅ The shortest path between two vertices $u$ and $v$ in a graph $G$ always remains unaltered when all the edges of $G$ are multiplied by a positive integer.
+
+Question Number : 311 Question Id : 640653566289 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following is/are true about AVL Tree? Assume that the height of the empty tree is 0.

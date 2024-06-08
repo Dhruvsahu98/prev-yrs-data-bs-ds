@@ -1,0 +1,27 @@
+## Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following combination of input text T and pattern P will exhibit the worst case running time behavior for **Boyer-Moore skipping heuristic**?
+
+Options :
+
+6406531892635.  $\times$ T = baababaabaa and P = abb
+6406531892636.  $\times$ T = aaaaaaaaaaaaa and P = abb
+6406531892637.  $\checkmark$ T = aaaaaaaaaaaaa and P = baa
+6406531892638.  $\times$ T = aaaaaaaaaaaaa and P = bbb
+
+## Sub-Section Number : 4
+Sub-Section Id : 64065380982
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 309 Question Id : 640653566274 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+## Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following sorting algorithm will have the same time complexity irrespective of the sequence of elements they are sorting?
+
+Options :
+
+6406531892561.  $\checkmark$ Selection Sort
+6406531892562.  $\checkmark$ Merge Sort

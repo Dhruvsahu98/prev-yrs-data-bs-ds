@@ -1,0 +1,42 @@
+Sub-Section Number : 5
+Sub-Section Id : 64065380983
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 313 Question Id : 640653566283 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Consider the following graph
+
+\begin{tikzpicture}[scale=0.8, transform shape]
+\node[draw, circle] (a) at (0,0) {a};
+\node[draw, circle] (b) at (3,0) {b};
+\node[draw, circle] (c) at (4,2) {c};
+\node[draw, circle] (d) at (2,4) {d};
+\node[draw, circle] (e) at (0,2) {e};
+\node[draw, circle] (f) at (2,1) {f};
+
+\draw[->,thick] (a) -- (b) node[midway, above] {8};
+\draw[->,thick] (b) -- (c) node[midway, right] {2};
+\draw[->,thick] (c) -- (d) node[midway, right] {5};
+\draw[->,thick] (d) -- (e) node[midway, left] {8};
+\draw[->,thick] (e) -- (f) node[midway, left] {4};
+\draw[->,thick] (f) -- (a) node[midway, left] {7};
+\draw[->,thick] (f) -- (d) node[midway, right] {2};
+\draw[->,thick] (f) -- (b) node[midway, right] {4};
+\draw[->,thick] (f) -- (c) node[midway, above] {5};
+
+\end{tikzpicture}
+
+In the given graph, if we try to find the shortest path from node a to all other nodes using Dijkstra's algorithm, in what order/s) do the nodes get included in the visited set?
+
+**Note:** When multiple nodes are available with the same minimum distance, Dijkstra's algorithm can select any of them to visit next.
+
+**Options :**
+
+6406531892592. \(\checkmark\) a f e d b c
+
+6406531892593. \(\checkmark\) a f e b d c
+
+6406531892594. \(\times\) a f e c d b

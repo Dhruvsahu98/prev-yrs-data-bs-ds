@@ -1,0 +1,33 @@
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question
+Consider the following graph:
+
+\begin{tikzpicture}
+  [scale=.8,auto=left,every node/.style={circle,draw,fill=white,inner sep=1pt}]
+  \node (a) at (0,0) {a};
+  \node (b) at (2,0) {b};
+  \node (c) at (2,2) {c};
+  \node (d) at (0,2) {d};
+  \node (e) at (1,2) {e};
+  \node (f) at (2,4) {f};
+  \node (g) at (0,4) {g};
+  \foreach \from/\to in {a/b,a/d,b/c,b/d,b/e,c/f,d/e,d/g,e/f,f/g}
+  \draw (\from) -- (\to);
+\end{tikzpicture}
+
+BFS traversal is started from node a on the given graph. The nodes are listed in the order they are visited. Which of the following is possible output?
+**Note:** When multiple eligible nodes are present, BFS picks the nodes which is alphabetically prior.
+
+**Options :**
+6406531892583.  * a b d e g c f
+6406531892584.  * a b c f g e d
+6406531892585.  * a b d e g f c
+6406531892586.  * a b d c e g f
+
+**Question Number :** 296 **Question Id :** 640653566281 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question
+Consider the following statements:
+1. Cross edges cannot occur in the DFS of an undirected graph
