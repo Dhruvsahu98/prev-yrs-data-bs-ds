@@ -1,0 +1,32 @@
+Sub-Section Id : 640653112604
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 120 Question Id : 640653770528 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider a binary tree with 21 nodes. The maximum number of leaves possible in tree is ______.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+11
+
+Question Number : 121 Question Id : 640653770535 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Let $L$ be an integer list of length $n$. The number of inversions is the number of the different pairs $(i, j)$ where:
+- $0 \le i < j < n$
+- $L[i] > L[j]$
+
+The total number of inversions for $L = [1, 3, 5, 7, 9, 8, 6, 4, 2]$ is ______.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

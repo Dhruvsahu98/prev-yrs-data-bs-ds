@@ -1,0 +1,25 @@
+Text Areas : PlainText
+Possible Answers : 
+16
+Sub-Section Number : 9
+Sub-Section Id : 640653112605
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 122 Question Id : 640653770533 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+You are given a list of 7 activities to be conducted in a single available room, each represented by (start time, end time). If any activity finishes at time T, then another activity can be started at time T or afterwards.
+Activities: [(1, 4), (3, 5), (0, 2), (2, 3), (5, 8), (8, 9), (5, 7)]
+How many activities can be scheduled at most by following the timing constraints given above?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+5
+Question Number : 123 Question Id : 640653770534 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

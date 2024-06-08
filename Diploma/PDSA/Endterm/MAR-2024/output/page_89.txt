@@ -1,0 +1,16 @@
+Question Number : 108 Question Id : 640653770524 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+In the context of the Floyd-Warshall algorithm, what does it mean if the distance matrix has a negative value in its diagonal?
+Options :
+6406532577412. ✅ The graph has a negative-weight cycle.
+6406532577413. ❌ The graph has negative-weight on edge but no negative-weight cycle.
+6406532577414. ❌ The graph is acyclic.
+6406532577415. ❌ The graph has a disconnected component.
+Sub-Section Number : 3
+Sub-Section Id : 640653112599
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 109 Question Id : 640653770523 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

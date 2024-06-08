@@ -1,0 +1,46 @@
+Consider the following graph.
+
+```python
+#This is a code block in python format
+```
+
+\begin{tikzpicture}[scale=1]
+\node[draw, circle] (a) at (0,2) {a};
+\node[draw, circle] (b) at (-1,1) {b};
+\node[draw, circle] (c) at (1,1) {c};
+\node[draw, circle] (d) at (-2,0) {d};
+\node[draw, circle] (e) at (2,0) {e};
+\node[draw, circle] (f) at (-1,-1) {f};
+\node[draw, circle] (g) at (1,-1) {g};
+\node[draw, circle] (h) at (0,-2) {h};
+
+\draw (a) -- (b) node[midway, above] {2};
+\draw (a) -- (c) node[midway, above] {7};
+\draw (b) -- (c) node[midway, above] {4};
+\draw (b) -- (d) node[midway, left] {9};
+\draw (c) -- (e) node[midway, right] {15};
+\draw (d) -- (f) node[midway, left] {11};
+\draw (e) -- (g) node[midway, right] {8};
+\draw (f) -- (h) node[midway, left] {6};
+\draw (g) -- (h) node[midway, right] {3};
+\draw (a) to[bend right=45] (d) node[midway, left] {5};
+\draw (e) to[bend left=45] (a) node[midway, right] {1};
+\end{tikzpicture}
+
+If Prim's algorithm started with vertex a to construct a Minimum Spanning Tree, then what is the order in which vertices are marked visited?
+
+**Options :**
+
+6406532577416:  ✅ a, e, b, c, d, g, h, f
+6406532577417:  ❌ a, e, b, c, g, h, d, f
+6406532577418:  ❌ a, e, b, d, c, h, g, f
+6406532577419:  ❌ a, e, b, d, c, g, f, h
+
+**Sub-Section Number :** 5
+**Sub-Section Id :** 640653112601
+**Question Shuffling Allowed :** Yes
+**Is Section Default? :** null
+
+**Question Number :** 116 **Question Id :** 640653770532 **Question Type :** MSQ **Is Question Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 2 **Max. Selectable Options :** 0
+**Question Label :** Multiple Select Question
