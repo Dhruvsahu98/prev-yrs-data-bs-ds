@@ -1,0 +1,42 @@
+Consider the relation  $students(roll\_no, name, course, section, department)$ having functional dependencies $F = \{roll\_no \rightarrow name,$
+$roll\_no \rightarrow section, department$
+$course \rightarrow department\}$.
+
+If the relation  $students$ is decomposed into  $student\_dept(roll\_no, course, department)$ and  $student\_info(roll\_no, name, section, department)$
+Then, choose the appropriate SQL query to create  $student\_dept$ and  $student\_info$ tables.
+
+**Options :**
+```python
+CREATE TABLE student_dept (roll_no varchar(10) primary key,
+course varchar(10), department varchar(10));
+CREATE TABLE student_info (roll_no varchar(10) primary key,
+name varchar(10), section varchar(10), department varchar(10));
+```
+6406531183971. ❌
+```python
+CREATE TABLE student_dept (roll_no varchar(10), course varchar(10),
+department varchar(10), primary key (roll_no, course));
+CREATE TABLE student_info (roll_no varchar(10) primary key,
+name varchar(10), section varchar(10), department varchar(10));
+```
+6406531183972. ✅
+```python
+CREATE TABLE student_dept (roll_no varchar(10), course varchar(10),
+department varchar(10), primary key (course));
+CREATE TABLE student_info (roll_no varchar(10) primary key,
+name varchar(10), section varchar(10), department varchar(10));
+```
+6406531183973. ❌
+```python
+CREATE TABLE student_dept (roll_no varchar(10), course varchar(10),
+department varchar(10), primary key (roll_no, course));
+CREATE TABLE student_info (roll_no varchar(10),
+name varchar(10), section varchar(10), department varchar(10), primary key (roll_no, section));
+```
+6406531183974. ❌
+
+Question Number : 171 Question Id : 640653357181 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question

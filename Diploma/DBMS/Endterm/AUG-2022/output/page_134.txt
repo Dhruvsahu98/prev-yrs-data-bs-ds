@@ -1,0 +1,23 @@
+Question Number : 172 Question Id : 640653357185 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the following schedule S with four transactions T1, T2, T3, T4:
+S : R3(A);W2(A);R1(A);W1(A);R3(B);W4(B);
+Where, Ri(A) denotes a read operation by transaction Ti on a data item A, Wi(A) denotes a write operation by transaction Ti on a data item A.
+What is the possible number of conflict serializable schedule of the above schedule S.
+Options :
+6406531183988. 4
+6406531183989. 3
+6406531183990. 1
+6406531183991. 0
+Question Number : 173 Question Id : 640653357187 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the given relations:
+`instructor(ID, name, dept_name, salary)`
+`department(dept_name, building, budget)`
+Identify the most optimized expression tree from the given options that find the name of instructor whose salary is greater than 70000 and department building is 'Taylor'.
+Options :
+6406531183996. 

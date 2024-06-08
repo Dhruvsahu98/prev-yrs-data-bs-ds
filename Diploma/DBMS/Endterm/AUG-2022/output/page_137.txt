@@ -1,0 +1,28 @@
+Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the **smartphone** relation as shown below:
+```python
+smartphone(IMEI, brand, color, price)
+```
+(Note: IMEI is the unique number of each smartphone.)
+
+Construct a B+ tree indexing of order 8 using search key as IMEI. If the size of the block is 1024 bytes. IMEI attribute is of varchar datatype and size is 64 bytes. What is the size of the tree pointer of the B+ tree?
+
+Options :
+6406531184012. ❌ 64 bytes
+6406531184013. ✅ 72 bytes
+6406531184014. ❌ 82 bytes
+6406531184015. ❌ 128 bytes
+
+Question Number : 176 Question Id : 640653357193 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider a multilevel index with four levels L1, L2, L3, L4. L4 is the innermost level and L1 is the outermost level. The disk block size is 1024 bytes. The size of one entry in the index file is 16 bytes. The number of entries in the L4 is 224. Then, find the total number of blocks in the L2 and L3 levels in the multilevel index.
+
+Options :
+6406531184017. ❌ 64
+6406531184018. ❌ 4096
+6406531184019. ✅ 4160
+6406531184020. ❌ 8256

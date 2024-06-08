@@ -1,0 +1,42 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Select Question
+
+Consider the following relations:
+
+```python
+music(music_id, music_name, duration, genre, producer)
+singer(singer_id, singer_name, city, country)
+music_playback_singer(music_id, singer_id)
+```
+
+Write an SQL query to find names of the music which were produced by producer name 'G.K. Production House' or the songs which were sung by singer 'P.K.' or both.
+
+Options : 
+
+6406531184004.  
+```python
+SELECT music.music_name
+FROM music NATURAL JOIN music_playback_singer
+NATURAL JOIN singer
+WHERE music.producer = 'G.K. Production House'
+OR singer.singer_name = 'P.K.'
+```
+6406531184005.  
+```python
+SELECT music.music_name
+FROM music NATURAL JOIN music_playback_singer
+NATURAL JOIN singer
+WHERE music.producer = 'G.K. Production House'
+| singer.singer_name = 'P.K.'
+```
+6406531184006.  
+```python
+SELECT music.music_name
+FROM music NATURAL JOIN music_playback_singer
+NATURAL JOIN singer
+WHERE music.producer = 'G.K. Production House'
+AND singer.singer_name = 'P.K.'
+```
+6406531184007.  

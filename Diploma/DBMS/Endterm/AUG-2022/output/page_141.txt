@@ -1,0 +1,18 @@
+phone
+name
+cname
+credits
+ins\_id
+cid
+instructors
+courses
+manages
+works
+information
+health
+health\_id
+checkup\_date
+6406531183952. 
+Question Number : 179 Question Id : 640653357182 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0

@@ -1,0 +1,44 @@
+Question Number : 180 Question Id : 640653357188 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the relation as shown in the table :
+
+| customer\_name |
+|---|---|
+| Akash |
+| Akshay |
+| A |
+| A.K. |
+| Aksh |
+| Ak |
+| Ak.S. |
+| Aks |
+
+Table 11: customer
+What is the output of the below SQL query?
+```python
+SELECT customer_name
+FROM customer
+WHERE customer_name LIKE 'Ak_%'
+ORDER BY customer_name DESC
+FETCH FIRST 3 ROWS ONLY
+```
+Options :
+6406531184000. 
+| customer\_name |
+|---|---|
+| Ak.S. |
+| Akash |
+| Aks |
+6406531184001. 
+| customer\_name |
+|---|---|
+| Akash |
+| Aks |
+| Ak |
+6406531184002. 
+| customer\_name |
+|---|---|
+| Aksh |
+| Ak.S. |
+| Akash |

@@ -1,0 +1,27 @@
+$\Pi_{name}$
+$\bowtie$
+$\begin{aligned}
+&\Pi_{dept\_name}\\
+&\sigma_{building='Taylor'}\\
+&department
+\end{aligned}$
+$\begin{aligned}
+&\Pi_{dept\_name,name}\\
+&\sigma_{salary>70000}\\
+&instructor
+\end{aligned}$
+
+$\Pi_{name}$
+$\sigma_{salary>70000}$
+$\bowtie$
+$\begin{aligned}
+&\Pi_{dept\_name}\\
+&\sigma_{building='Taylor'}\\
+&department
+\end{aligned}$
+$\begin{aligned}
+&\Pi_{dept\_name,name}\\
+&instructor
+\end{aligned}$
+6406531183997. $\times$
+6406531183998. $\times$

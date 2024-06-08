@@ -1,0 +1,62 @@
+Consider the relation **players**(Name, Team, Coach, Runs) with the data:
+
+| Name | Team | Coach | Runs |
+|---|---|---|---|
+| Sharma | CSK | Steven | 99 |
+| Sharma | MI | Mahela | 50 |
+| Sharma | MI | Mahela | 99 |
+| Sharma | CSK | Steven | 50 |
+
+Table 1: **players**
+
+Check whether the relation **players** is in 4NF or not. If not, then decomposed it into 4NF.
+Choose the correct option.
+
+Options :
+
+6406531183975. ❌ The relation **players** is in 4NF.
+
+6406531183976. ✅ 
+| Name | Runs |
+|---|---|
+| Sharma | 99 |
+| Sharma | 50 |
+
+Table 2: **players1**
+
+| Name | Team | Coach |
+|---|---|---|
+| Sharma | CSK | Steven |
+| Sharma | MI | Mahela |
+
+Table 3: **players2**
+
+6406531183977. ❌
+| Name | Team | Runs |
+|---|---|---|
+| Sharma | CSK | 99 |
+| Sharma | MI | 50 |
+
+Table 4: **players1**
+
+| Team | Coach |
+|---|---|
+| CSK | Steven |
+| MI | Mahela |
+
+Table 5: **players2**
+
+6406531183978. ❌
+| Name | Team | Runs |
+|---|---|---|
+| Sharma | CSK | 99 |
+| Sharma | MI | 50 |
+
+Table 6: **players1**
+
+| Name | Coach | Runs |
+|---|---|---|
+| Sharma | Steven | 99 |
+| Sharma | Mahela | 50 |
+
+Table 7: **players2**

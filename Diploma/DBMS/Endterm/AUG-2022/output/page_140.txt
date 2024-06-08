@@ -1,0 +1,30 @@
+phone
+name
+ins\_id
+instructors
+manages
+works
+cname
+credits
+cid
+courses
+information
+health
+health\_id
+checkup\_date
+phone
+name
+ins\_id
+instructors
+manages
+works
+cname
+credits
+cid
+courses
+information
+health
+health\_id
+checkup\_date
+6406531183950. $\times$
+6406531183951. $\checkmark$

@@ -1,0 +1,46 @@
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+Consider the given schedules S1 and S2 which performs independent tasks.
+
+| T1 | T2 |
+|---|---|
+|  | Lock-X(A) |
+|  | Write-(A) |
+|  | Lock-S(B) |
+| Lock-S(B) | Read-(B) |
+| Read-(B) | Unlock-(B) |
+|  | Commit |
+| Lock-X(A) | Unlock-(A) |
+| Write-(A) |  |
+| Commit |  |
+| Unlock-(A) |  |
+| Unlock-(B) |  |
+
+Table 8: Schedule S1
+
+| T1 | T2 |
+|---|---|
+|  | Lock-S(A) |
+|  | Read-(A) |
+| Lock-X(B) |  |
+| Read-(B) |  |
+| Write-(B) |  |
+| Unlock-(B) |  |
+| commit | Unlock-(A) |
+|  | commit |
+
+Table 9: Schedule S2
+
+Which among of the following statement is correct?
+
+**Options :**
+
+6406531183979. ❌ Both S1 and S2 follow the rigorous two-phase locking protocol.
+
+6406531183980. ❌ Both S1 and S2 follow the Strict two-phase locking protocol.
+
+6406531183981. ❌ Only S2 follows Strict two-phase locking protocol.
+
+6406531183982. ✅ Only S1 follows Strict two-phase locking protocol.

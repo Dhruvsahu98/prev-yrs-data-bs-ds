@@ -1,0 +1,30 @@
+What is the precision for the model when predicting the negative class (enter only the numerical value in percentage, without the "%" symbol and round it to two decimal places)?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+12.0 to 12.80
+
+
+DBMS
+
+Section Id : 64065322342
+Section Number : 7
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 26
+Number of Questions to be attempted : 26
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065351813
+Question Shuffling Allowed : No
+
+Question Number : 165 Question Id : 640653357174 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

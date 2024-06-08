@@ -1,0 +1,28 @@
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Consider a relational schema **student**(roll\_no, name, class).
+In order to change the data type of roll\_no, which of the following category of SQL command is used for this purpose?
+Options :
+6406531183992.  * DML
+6406531183993.  * TCL
+6406531183994.  * DDL
+6406531183995.  * DCL
+
+Question Number : 168 Question Id : 640653357195 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+A role **Department\_Lead** has the privilege of select, insert and delete on all the tables of the database. A new role **Employee1** is created, and the following statement is executed.
+```python
+grant Department_Lead to Employee1
+```
+What privileges will be inherited by **Employee1**?
+Options :
+6406531184025.  * All privileges - select, insert and delete
+6406531184026.  * Only update
+6406531184027.  * Only select and insert
+6406531184028.  * Only delete and update
+
+Question Number : 169 Question Id : 640653357196 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

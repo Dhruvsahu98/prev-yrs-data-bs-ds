@@ -1,0 +1,31 @@
+$\Pi_{name}$
+
+$\sigma_{building='Taylor'}$
+
+$\bowtie$
+
+$department$  $\sigma_{salary>70000}$
+
+$instructor$
+
+6406531183999. $\times$ All of these expression trees are same
+
+Question Number : 174 Question Id : 640653357190 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Consider the relation $election(voter\_id, voter\_name, age, candidate\_vote\_for)$. The number of tuples in the $election$ relation is 1024. The attribute $candidate\_vote\_for$ has 7 different values and the attribute $age$ has four different values(i.e., below 25 years, 25 to below 45, 45 to below 60 and 60 to above). Construct a bitmap index for relation $election$ on the attribute $candidate\_vote\_for$. What is the size of the bitmap index file? 
+
+Options : 
+
+6406531184008. $\times$ 7168 bytes
+
+6406531184009. $\times$ 4096 bytes
+
+6406531184010. $\checkmark$ 896 bytes
+
+6406531184011. $\times$ 11264 bytes
+
+Question Number : 175 Question Id : 640653357191 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

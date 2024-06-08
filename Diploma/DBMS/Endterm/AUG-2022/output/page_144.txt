@@ -1,0 +1,27 @@
+```python
+# This is a code block in python format.
+```
+
+6406531184003. 
+
+Question Number : 181 Question Id : 640653357198 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider a RAID-4 system with 5 disks which stores the following data shown in Figure 4:
+
+| Disk-1 | Disk-2 | Disk-3 | Disk-4 | Disk-5 |
+|---|---|---|---|---|
+| 0100 | 1000 | --- | 0001 | 1001 | Block A
+| 0100 | 1101 | --- | 1101 | 0000 | Block B
+| 0100 | 0101 | --- | 0010 | 0110 | Block C
+
+Figure 4: RAID-4 data
+
+According to the figure, Disk-3 has crashed. Identify the correct data present in the three blocks of Disk-3. Also, assuming that the binary values represent 8 bit ASCII code, identify the correct data word present inside the RAID-4 storage system. Consider the following statements and identify the correct statements.
+
+1. Block A: 0100, Block B: 0100, Block C: 0101
+2. Block A: 1011, Block B: 1011, Block C: 1010
+3. Block A: 0100, Block B: 1011, Block C: 1010

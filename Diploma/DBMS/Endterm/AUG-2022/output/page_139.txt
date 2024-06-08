@@ -1,0 +1,27 @@
+```python
+SELECT grocery_item, quantity
+FROM grocery
+WHERE value>=300 ORDER BY discount ASC, quantity DESC
+```
+6406531184023. ✅
+```python
+SELECT grocery_item, quantity
+FROM grocery
+WHERE value>=300 ORDER BY quantity DESC, discount DESC
+```
+6406531184024. ❌
+Sub-Section Number : 4
+Sub-Section Id : 64065351816
+Question Shuffling Allowed : Yes
+Question Number : 178 Question Id : 640653357175 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following case study:
+
+An IIITM Online Degree Project needs a database to store information about instructors (identified by ins\_id, name and phone as attributes), courses (identified by cid, cname and credits as attributes), and health information (identified by health\_id and checkup\_date as attributes). The instructor can work in various courses and courses can have more than one instructor; each course is managed by an instructor and an instructor can manage more than one courses. A health information must be identified uniquely by health\_id when the instructor is known. We are not interested in information about a health record once the instructor leaves the organization. 
+
+Choose the correct ER-Diagram based on the given information.
+
+Options :
+6406531183949. ❌

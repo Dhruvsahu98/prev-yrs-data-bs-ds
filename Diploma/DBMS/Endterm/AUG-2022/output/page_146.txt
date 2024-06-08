@@ -1,0 +1,20 @@
+$\{x \mid \exists p \in players \ \exists t \in teams(p.jersey\_no = t \land x.name = p.name \land x.points = t.points)\}$
+6406531183955. ❌
+$\{x \mid \exists p \in players \ \exists t \in teams(p.pid = t.pid \land p.jersey\_no = t \land x.name \land x.points)\}$
+$\{<b, o> \mid \exists a, b, c, d(<a, b, c, d> \in players \land d = t) \land \exists m, n, o, p(<m, n, o, p> \in teams \land a = p)\}$
+6406531183956. ✅
+$\{<b, o> \mid \exists a, b, c, d(<a, b, c, d> \in players \land d = t) \land \exists m, n, o, p(<m, n, o, p> \in teams)\}$
+6406531183957. ❌
+
+Question Number : 183 Question Id : 640653357177 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Select Question
+Choose the correct sets of functional dependencies for the relation $R(A,B,C,D)$ under which $R$ is in 2NF but not in 3NF.
+Options :
+6406531183958. ❌ $\{AB \rightarrow C, D\}$
+6406531183959. ❌ $\{AB \rightarrow C,D, A \rightarrow D\}$
+6406531183960. ❌ $\{AB \rightarrow C, B \rightarrow D, C \rightarrow D\}$
+6406531183961. ✅ $\{AB \rightarrow C, C \rightarrow D, AB \rightarrow D\}$
+
+Question Number : 184 Question Id : 640653357179 Question Type : MSQ Is Question

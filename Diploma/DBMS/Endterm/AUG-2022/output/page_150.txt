@@ -1,0 +1,43 @@
+```python
+SELECT music.music_name
+FROM music
+WHERE music.producer = 'G.K. Production House'
+UNION
+SELECT music.music_name
+FROM music, music_playback_singer, singer
+WHERE music.music_id = music_playback_singer.music_id
+AND music_playback_singer.singer_id = singer.singer_id
+AND singer.singer_name = 'P.K.'
+```
+
+Question Number : 188 Question Id : 640653357199 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+Consider two logs of transaction as shown below, where immediate database modification scheme is used in Table 1 and deferred database modification scheme is used in Table 2.
+
+| Steps | Details of log |
+|---|---|
+| 1 | $<T_0, start>$ |
+| 2 | $<T_0, P, 700, 500>$ |
+| 3 | $<T_1, start>$ |
+| 4 | $<T_1, Q, 1300, 1000>$ |
+| 5 | $<checkpoint \{T_0, T_1 \}>$ |
+| 6 | $<T_0, commit>$ |
+
+Table 1: Immediate Database Modification Scheme
+
+| Steps | Details of log |
+|---|---|
+| 1 | $<T_2, start>$ |
+| 2 | $<T_2, A, 1700, 1600>$ |
+| 3 | $<T_2, commit>$ |
+| 4 | $<T_3, start>$ |
+| 5 | $<T_3, B, 3000, 2500>$ |
+
+Table 2: Deferred Database Modification Scheme
+
+In Table 1 & Table 2, if a system crash occurs after step 6 and step 5 respectively and the recovery of the system is successfully completed, identify the correct actions from the above diagram.
+
+Options :
+
+6406531184041.  ✔ After completion of recovery in deferred database modification scheme, the value of A and B in the buffer will be 1600 and 3000 respectively.

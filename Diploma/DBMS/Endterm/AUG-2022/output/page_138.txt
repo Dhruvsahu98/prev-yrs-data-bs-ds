@@ -1,0 +1,40 @@
+Question Number : 177 Question Id : 640653357194 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider the given grocery table which represents the items purchased while grocery shopping.
+
+| Grocery | grocery\_item | quantity | value | discount |
+|---|---|---|---|---|
+|  | Cereal | 3 | 400 | 10 |
+|  | Chips | 4 | 200 | 5 |
+|  | Milk | 2 | 300 | 0 |
+|  | Banana | 10 | 350 | 5 |
+|  | Tomato | 5 | 200 | 5 |
+
+Figure 2: grocery
+
+Which among the following query will fetch the output given below?
+
+| grocery | grocery\_item | quantity |
+|---|---|---|
+|  | Milk | 2 |
+|  | Banana | 10 |
+|  | Cereal | 3 |
+
+Options :
+
+6406531184021.  
+```python
+SELECT grocery_item, quantity
+FROM grocery
+WHERE value>=300 ORDER BY discount DESC, quantity DESC
+```
+
+6406531184022.  
+```python
+SELECT grocery_item, quantity
+FROM grocery
+WHERE value>=300 ORDER BY discount DESC, quantity
+```

@@ -1,0 +1,21 @@
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Consider the following statements:
+Statement 1: System Buffer blocks are those blocks residing on the disk.
+Statement 2: Physical blocks are the blocks residing temporarily in main memory.
+Statement 3: Immediate modification scheme allows updates of an uncommitted transaction to be made to the buffer/disk only at the time of the transaction commit.
+Statement 4: Deferred modification scheme allows updates of an uncommitted transaction to be made to the buffer/disk only at the time of the transaction commit.
+Which among the given statements is/are incorrect?
+Options :
+6406531184029. ❌ Statement 1 & 4
+6406531184030. ✅ Statement 1, 2 & 3
+6406531184031. ❌ Statement 2 & 4
+6406531184032. ❌ Only statement 3
+Sub-Section Number : 3
+Sub-Section Id : 64065351815
+Question Shuffling Allowed : Yes
+Question Number : 170 Question Id : 640653357180 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question

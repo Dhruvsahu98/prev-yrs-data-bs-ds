@@ -1,0 +1,28 @@
+6406531184042. ❌ In Table 1, {T<sub>0</sub>} needs to be undone and {T<sub>1</sub>} needs to be redone.
+6406531184043. ❌ After completion of recovery in deferred database modification scheme, the value of A and B in the buffer will be 1700 and 2500 respectively.
+6406531184044. ✅ In Table 1, {T<sub>0</sub>} needs to be redone and {T<sub>1</sub>} needs to be undone.
+
+Sub-Section Number : 7
+Sub-Section Id : 64065351819
+Question Shuffling Allowed : Yes
+
+Question Number : 189 Question Id : 640653357184 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Consider the following schedule S with three transactions T1, T2 and T3:
+S: R2(B);R1(B);R1(A);W1(A);R3(C);W3(C);
+The number of serial schedule for given schedule S is _______
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+
+Question Number : 190 Question Id : 640653357192 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Construct a binary search tree by inserting the following values in the following order 15, 14, 20, 10, 23, 17, 16, 2, 1, 6. What is the sum of all leaf nodes of the constructed binary search tree?

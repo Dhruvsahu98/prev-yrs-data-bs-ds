@@ -1,0 +1,24 @@
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 2
+**Question Label :** Multiple Select Question
+Consider the relation $R(A, B, C, D, E, G)$ having the following functional dependencies:
+$F = \{AB \rightarrow C, AC \rightarrow B, AD \rightarrow E, BC \rightarrow A, E \rightarrow G\}$
+Let decompose the relation $R$ into $R1(BC)$, $R2(ABDE)$ and $R3(EG)$. Check whether the decomposition is lossless or lossy, and if it is lossy, then by adding which of the following functional dependencies, the decomposition will become lossless.
+**Options :**
+6406531183966.  The decomposition is lossless
+6406531183967.  $B \rightarrow C$
+6406531183968.  $B \rightarrow A$
+6406531183969.  $D \rightarrow C$
+6406531183970.  $D \rightarrow A$
+
+**Question Number :** 185 Question Id : 640653357183 Question Type : MSQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 2
+**Question Label :** Multiple Select Question
+Consider the following schedule $S$ with three transactions $T1$, $T2$ and $T3$:
+$S: R2(A);W2(A);C2;R3(A);W3(A);C3;R1(B);W1(B);C1;$
+Where $Ri(A)$ denotes a read operation by transaction $Ti$ on a data item $A$, $Wi(A)$ denotes a write operation by transaction $Ti$ on a data item $A$, $Ci$ denotes a commit by $Ti$.
+Which among of the following statement(s) is/are correct?
+**Options :**
+6406531183983.  $S$ is a recoverable schedule.
+6406531183984.  $S$ is a non recoverable schedule.
