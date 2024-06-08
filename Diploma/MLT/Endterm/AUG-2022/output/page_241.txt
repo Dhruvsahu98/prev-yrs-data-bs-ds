@@ -1,0 +1,23 @@
+Question Shuffling Allowed : Yes
+Question Number : 285 Question Id : 640653357298 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+Consider feature matrix  $X = \begin{bmatrix} 1 & 2 \\ 2 & 1 \\ 2 & 3 \end{bmatrix}$, label vector $y = \begin{bmatrix} 4 \\ 5 \\ 2 \end{bmatrix}$ and the weight
+vector is $w = \begin{bmatrix} 1 \\ -2 \\ 3 \end{bmatrix}$. Add a dummy feature to X.
+
+What will be the value of the loss function if a regression model without regularization is fitted?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+20.5 to 21.5
+
+Question Number : 286 Question Id : 640653357329 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question

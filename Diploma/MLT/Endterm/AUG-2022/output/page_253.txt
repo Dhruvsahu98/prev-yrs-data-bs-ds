@@ -1,0 +1,22 @@
+Consider a logistic regression model for a binary classification problem with two features $x_1$ and $x_2$. The feature vector is $\begin{bmatrix} x_1 \\ x_2 \end{bmatrix}$ and labels lie in {0,1}. The threshold for inference is 0.5. The dummy feature and the weight corresponding to it can be ignored for this problem. Let $x_1$ be the horizontal axis and $x_2$ be the vertical axis. You are given two feature vectors:
+ $x_1 = \begin{bmatrix} 1 \\ \sqrt{3} \end{bmatrix}$, $x_2 = \begin{bmatrix} -1 \\ \sqrt{3} \end{bmatrix}$
+
+The weight vector makes an angle of $\theta$ with the positive $x_1$ axis (horizontal). Each $\theta$ corresponds to a different classifier. For what range of values of $\theta$ are both $x_1$ and $x_2$ predicted to belong to class-1?
+
+Hints:
+- To draw the weight vector $w = \begin{bmatrix} w_1 \\ w_2 \end{bmatrix}$, plot the point $(w_1, w_2)$ and draw an arrow starting at the origin to this point.
+- $tan(60^\circ) = \sqrt{3}$
+
+**Options :**
+
+6406531184378. $\checkmark$ $30^\circ < \theta < 150^\circ$
+
+6406531184379. $\times$ $0^\circ < \theta < 60^\circ$
+
+6406531184380. $\times$ $60^\circ < \theta < 180^\circ$
+
+6406531184381. $\times$ $0^\circ < \theta < 180^\circ$
+
+6406531184382. $\times$ $0^\circ < \theta < 360^\circ$
+
+**Question Number : 301 Question Id : 640653357321 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Question Label : Multiple Choice Question**

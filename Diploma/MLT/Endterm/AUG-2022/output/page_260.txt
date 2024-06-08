@@ -1,0 +1,94 @@
+Consider the following training data-set with three features: 
+$X_1$ = Present price of the car (values are given in lac)
+$X_2$ = Age (How many years the car has been driven)
+$X_3$ = Fuel-type (diesel or LPG)
+
+| $X_1$ | $X_2$ | $X_3$ | Selling price ($y$) |
+|---|---|---|---|
+| 7.7 | 5 | Diesel | 4.5 |
+| 6.5 | 6 | Diesel | 2.0 |
+| 11.2 | 5 | LPG | 7.0 |
+| 8.4 | 3 | Diesel | 6.0 |
+| 5.0 | 4 | LPG | 2.5 |
+| 7.5 | 3 | LPG | 4.5 |
+| 10.0 | 5 | LPG | 6.5 |
+| 18.0 | 5 | Diesel | 12.0 |
+| 12.1 | 8 | Diesel | 6.0 |
+| 7.5 | 6 | Diesel | 3.0 |
+
+Its regression tree is given below. In the tree, each node is denoted by the feature along which it is split. 
+
+```python
+import matplotlib.pyplot as plt
+
+# Define the nodes of the tree
+nodes = {
+    'root': {'feature': 'X1', 'value': 7.5},
+    'left': {'feature': 'X2', 'value': 5},
+    'right': {'feature': 'X3', 'value': None},
+    'left_left': {'feature': 'X1', 'value': 6.5},
+    'left_right': {'feature': 'X1', 'value': 6.5},
+    'right_left': {'feature': None, 'value': 'Diesel'},
+    'right_right': {'feature': None, 'value': 'LPG'}
+}
+
+# Define the edges of the tree
+edges = [
+    ('root', 'left'),
+    ('root', 'right'),
+    ('left', 'left_left'),
+    ('left', 'left_right'),
+    ('right', 'right_left'),
+    ('right', 'right_right')
+]
+
+# Create a dictionary to store the positions of the nodes
+positions = {}
+
+# Set the position of the root node
+positions['root'] = (0.5, 1)
+
+# Recursively set the positions of the other nodes
+def set_positions(node, parent_position):
+    if node in positions:
+        return
+    if node == 'left':
+        positions[node] = (parent_position[0] - 0.25, parent_position[1] - 0.5)
+    elif node == 'right':
+        positions[node] = (parent_position[0] + 0.25, parent_position[1] - 0.5)
+    else:
+        positions[node] = ((positions[parent_position[0]][0] + positions[parent_position[1]][0]) / 2, parent_position[1] - 1)
+    for child in edges[node]:
+        set_positions(child, (node, parent_position))
+
+# Set the positions of the nodes
+set_positions('root', ('root', 'root'))
+
+# Plot the tree
+plt.figure(figsize=(10, 6))
+for edge in edges:
+    plt.plot([positions[edge[0]][0], positions[edge[1]][0]], [positions[edge[0]][1], positions[edge[1]][1]], 'k-', linewidth=2)
+
+for node in nodes:
+    if nodes[node]['feature'] is not None:
+        plt.text(positions[node][0], positions[node][1], f"{nodes[node]['feature']}\n{nodes[node]['value']}", ha='center', va='center', bbox={'facecolor': 'lightgray', 'alpha': 0.5})
+    else:
+        plt.text(positions[node][0], positions[node][1], f"Leaf {node.split('_')[-1]}", ha='center', va='center', bbox={'facecolor': 'lightgray', 'alpha': 0.5})
+
+plt.title('Regression tree')
+plt.axis('off')
+plt.show()
+```
+
+Based on the above data, answer the given subquestions. 
+
+**Sub questions**
+
+**Question Number : 308 Question Id : 640653357313 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+**Question Label : Short Answer Question**
+
+How many samples of the training data-set belong to Leaf 1?
+
+**Response Type : Numeric**

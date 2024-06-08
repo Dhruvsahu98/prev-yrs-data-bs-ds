@@ -1,0 +1,31 @@
+trained until it converges (perfectly separates the data). The weight vector corresponding to it is w. This dataset has 70 points from the positive class and 30 from the negative class. What is the output of the following snippet of code?
+
+Notes
+- The labels for a perceptron lie in {-1, 1}.
+- The NumPy arrays X and w are compatible for matrix multiplication, the dummy feature and the corresponding weight are already built into the arrays.
+- None of the 100 points lie on the decision boundary.
+
+```python
+import numpy as np
+y_hat = np.where(X @ w > 0, 1, -1)
+print(np.sum(y_hat))
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+40
+
+Question Number : 297 Question Id : 640653357308 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+A Gaussian Naive Bayes model is trained for a multi-class classification problem that has 10 features and 3 classes. Find the total number of parameters that have to be estimated for this model. Consider each parameter to be a scalar value. In other words, if we decide to store all the parameters in a Python list, with each element of the list being a float value corresponding to a single parameter, what is the size of this list? Ignore the priors in the calculation. Only focus on the parameters of the class conditional densities.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

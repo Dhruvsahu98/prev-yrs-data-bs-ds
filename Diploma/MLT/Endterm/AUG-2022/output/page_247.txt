@@ -1,0 +1,32 @@
+6406531184353. ✖ All the code blocks produce same results.
+
+Question Number : 292 Question Id : 640653357297 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+
+Rajesh trained a model on house price prediction problem. After training he came up with following model:
+
+$y = 4000 - 20 \cdot x_1 + 1500 \cdot x_2 - 15 \cdot x_3 + 3 \cdot x_4$
+
+where,
+
+y is predicted house price,
+$x_1$ is age of the house in years,
+$x_2$ is the area of house/apartment in square feet,
+$x_3$ is the number of floors the house/building is,
+$x_4$ represents if the house is facing the sea or not.
+
+According to Rajesh's model, which of the following statements are correct?
+
+Options :
+
+6406531184354. ✖ The most important factor in determining the price of the house is if it is sea facing or not.
+6406531184355. ✖ No. of floors in the building is the most important feature
+6406531184356. ✔ Carpet area is the most important feature.
+6406531184357. ✖ Age is the most important feature.
+6406531184358. ✔ Age is the second most important feature.
+6406531184359. ✖ None of these.
+
+Question Number : 293 Question Id : 640653357300 Question Type : MSQ Is Question

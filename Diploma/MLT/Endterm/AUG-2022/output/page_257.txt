@@ -1,0 +1,24 @@
+An SVM has been trained for a 2D problem. The feature vector is $\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}$.
+It has the following weight vector and bias:
+
+$\mathbf{w} = \begin{bmatrix} 2 \\ 1 \end{bmatrix}$, $b = -1$
+
+Recall that the labels in the SVM setup are +1 and -1. Consider a unit square whose vertices are at:
+
+(0, 0), (1, 0), (0, 1), (1, 1)
+
+The horizontal axis corresponds to $x_1$ and the vertical axis corresponds to $x_2$. A point is picked at random (uniformly) from the region bounded by the square. What is the probability that this point is predicted as belonging to class +1 by the SVM? Enter your answer correct to two decimal places.
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :** 
+0.74 to 0.76
+
+**Question Number :** 306 **Question Id :** 640653357311 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+
+**Question Label :** Short Answer Question

@@ -1,0 +1,48 @@
+Misclassifcation error
+Gini index
+Entropy
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+p1 = np.linspace(0, 1, 100)
+misclassifcation_error = p1
+gini_index = 2 * p1 * (1 - p1)
+entropy = -p1 * np.log2(p1) - (1 - p1) * np.log2(1 - p1)
+
+plt.plot(p1, misclassifcation_error, label='Misclassifcation error')
+plt.plot(p1, gini_index, label='Gini index')
+plt.plot(p1, entropy, label='Entropy')
+
+plt.xlabel('$p1$')
+plt.ylabel('')
+plt.legend()
+plt.show()
+```
+
+Question Number : 282 Question Id : 640653357326 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The following is the activation vector output by some hidden layer in a neural network when some input vector is given to it:
+
+$$\begin{bmatrix}
+-0.2 \\
+0.8 \\
+-0.9 \\
+0.1 \\
+0 \\
+-0.3
+\end{bmatrix}$$
+
+Which of the following could be the activation function used in this layer?
+Options :
+6406531184416.  * Softmax
+6406531184417.  * Sigmoid
+6406531184418.  * ReLU
+6406531184419.  * Tanh
+Sub-Section Number : 
+Sub-Section Id : 
+3
+64065351847

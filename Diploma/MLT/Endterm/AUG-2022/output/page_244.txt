@@ -1,0 +1,28 @@
+#  6
+# 5
+# 4
+# 3
+# 2
+# 1
+# 0
+# -1
+# -2
+# -2
+# -1
+# 0
+# 1
+# 2
+# 3
+# 4
+# 5
+# $X_1$
+# Dataset
+C1 and C2 are the coordinates of centroids obtained after certain iterations of the K-means algorithm with K = 2. Which of the following options is correct about the silhouette score S? Note: Euclidean distance is used to calculate the distances.
+**Options :**
+6406531184400. ❌ S will be positive and close to 0.
+6406531184401. ❌ S will be positive and close to 1.
+6406531184402. ❌ S will be exact -1.
+6406531184403. ✅ S will be negative but need not be exact -1.
+**Question Number : 289 Question Id : 640653357323 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3**

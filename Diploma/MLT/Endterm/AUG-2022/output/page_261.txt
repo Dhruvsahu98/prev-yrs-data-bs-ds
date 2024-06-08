@@ -1,0 +1,27 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Number : 309 Question Id : 640653357314 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+If the present price of a car which is driven for 7 years is 6.0 lac. If the car has a diesel engine, what will be the prediction for the selling price of the car according to the given regression tree? Enter your answer in lac. If your answer is 5.6 lac, enter the answer 5.6.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2.0
+
+Sub-Section Number : 12
+Sub-Section Id : 64065351856
+Question Shuffling Allowed : No
+
+Question Id : 640653357316 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (310 to 311)
+Question Label : Comprehension

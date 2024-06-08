@@ -1,0 +1,28 @@
+Consider two networks $N_1$ and $N_2$ for a binary classification task. $N_1$ has two neurons at the output layer and uses the softmax activation function. $N_2$ has one neuron at the output layer and uses sigmoid activation function. We don't need the information about the hidden layers for this problem.
+
+For some test data-point x, the pre-activations at the output layer for $N_1$ is given below. The first neuron corresponds to class-0 and the second corresponds to class-1:
+
+$z = \begin{bmatrix} 1 \\ 4 \end{bmatrix}$
+
+It turns out that for this data-point, both networks predict the same probability of this point belonging to class-1. That is $P(y=1|x)$ is the same for both networks. If this is the case, what should be the pre-activation value at the output layer of $N_2$, call it $z$, corresponding to this data-point? Enter the closest integer as your answer.
+
+Notes
+* The activation of $N_2$ at the output-layer is interpreted as $P(y=1|x)$.
+* The z for $N_1$ is a vector and the z for $N_2$ is a scalar.
+* Be careful about the distinction between pre-activation and activation.
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+3
+
+**Sub-Section Number :** 11
+**Sub-Section Id :** 64065351855
+**Question Shuffling Allowed :** No
+
+**Question Id :** 640653357312 **Question Type :** COMPREHENSION **Sub Question Shuffling Allowed :** No Group Comprehension Questions : No Calculator : None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Question Numbers :** (308 to 309)
+**Question Label :** Comprehension

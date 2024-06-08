@@ -1,0 +1,29 @@
+Find the hinge loss for this soft-margin SVM classifier on the dataset that is given in the table. The weight vector and bias are as follows: 
+ $$w = \begin{bmatrix} 1 \\ -1 \end{bmatrix}, b = 1$$
+The coefficient C can be assumed to be 1.
+
+| $x_1$ | $x_2$ | $y$ |
+|---|---|---|
+| 1 | 4 | -1 |
+| -1 | 2 | -1 |
+| 0 | 0 | -1 |
+| 1 | 2 | -1 |
+| 1 | 3 | 1 |
+| 1 | 0 | 1 |
+| 2 | 1 | 1 |
+| 2 | 3 | 1 |
+
+Note that you just need to report the hinge loss. Do not compute margin loss which involves only the term w. Also, note that the hinge loss does not have a factor of 0.5 before it. Enter the closest integer as your answer. 
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+
+Question Number : 307 Question Id : 640653357325 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

@@ -1,0 +1,41 @@
+Consider a test-dataset of 100 points for a binary classification problem, where 60 belong to the positive class (true label) and the rest belong to the negative class (true label). The following is a table for some classifier that has been prepared by an ML engineer:
+
+| True label (+) | Predicted label (-) |
+|---|---|
+| 40 | 20 |
+| 10 | 30 |
+
+If this is a valid confusion matrix (just by looking at the numbers), enter the classifier's precision as the answer. If this is not a valid confusion matrix, enter 0 as the answer. Your answer should be in the interval [0, 1], endpoints inclusive. Enter your answer correct to two decimal places. 
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Range
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+0.79 to 0.81
+
+**Sub-Section Number :** 5
+
+**Sub-Section Id :** 64065351849
+
+**Question Shuffling Allowed :** Yes
+
+**Question Number :** 287 **Question Id :** 640653357302 **Question Type :** MCQ Is Question
+**Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 3
+
+**Question Label :** Multiple Choice Question
+
+Consider a modified loss function for linear regression that is of the following form for a training dataset that has $n$ points:
+
+$L(\mathbf{w}) = \frac{1}{2} \sum_{i=1}^{n} r_i (\mathbf{w}^T \mathbf{x}_i - y_i)^2$
+
+Here, $r_i$ is some constant in [0, 1] associated with each data-point in the training dataset. The dummy feature and the corresponding weight are already included in the vectors $\mathbf{x}$ and $\mathbf{w}$ respectively. What is the expression of the gradient of $L(\mathbf{w})$ with respect to $\mathbf{w}$?

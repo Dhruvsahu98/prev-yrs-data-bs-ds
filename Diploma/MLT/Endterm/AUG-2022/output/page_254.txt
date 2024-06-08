@@ -1,0 +1,20 @@
+Consider the following data points
+$\begin{pmatrix} 1 & 1 \\ 1 & 2 \\ 5 & 4 \\ 2.4 & 3 \\ 2.6 & 3 \end{pmatrix}$
+We perform k-means clustering on the above data, with $k=2$, using Manhattan distance as the distance measure. At tth iteration, we have $(1,1)$ as the centroid for cluster-1 and $(5,4)$ as the centroid for cluster-2. After performing $(t+1)$th iteration the point $(2.4,3)$ will belong to
+Options :
+6406531184404. ❌ cluster-1
+6406531184405. ✅ cluster-2
+6406531184406. ❌ can not be determined
+Sub-Section Number : 9
+Sub-Section Id : 64065351853
+Question Shuffling Allowed : Yes
+Question Number : 302 Question Id : 64065357324 Question Type : MSQ is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+If $W_{ij}$ is the weight of the edge from neuron $i$ in layer $l-1$ to neuron $j$ in layer $l$, which of the following statements about the matrix $W$ are true? Neurons in a layer are processed (indexed) from top to bottom. So, the first neuron in a layer is the top-most neuron in that layer.
+Options :
+6406531184411. ✅ The first row of the matrix corresponds to all outgoing connections from the first neuron in layer $l-1$.
+6406531184412. ❌ The first row of the matrix corresponds to all incoming connections to the first neuron in layer $l$.
+6406531184413. ✅ The last column of the matrix corresponds to all incoming connections to the last neuron in layer $l$.
+6406531184414. ❌ The last column of the matrix corresponds to all the outgoing connections

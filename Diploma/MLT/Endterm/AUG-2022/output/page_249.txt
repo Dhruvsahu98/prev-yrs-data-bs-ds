@@ -1,0 +1,28 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+18.0
+
+Question Number : 295 Question Id : 640653357301 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider the feature matrix $X = \begin{bmatrix} 1 & 2 & 3 \\ 3 & 2 & 4 \end{bmatrix}$ and corresponding label vector 
+$y = \begin{bmatrix} 2 \\ 4 \end{bmatrix}$. Let regularization rate, $\lambda = 0.1$. Compute ridge regression loss using weight 
+$w = \begin{bmatrix} -0.2 \\ 0.3 \end{bmatrix}$.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+2.48 to 2.58
+
+Question Number : 296 Question Id : 640653357303 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+You are given a linearly separable dataset with feature matrix $X$, for which a perceptron has been

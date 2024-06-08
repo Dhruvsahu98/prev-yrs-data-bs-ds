@@ -1,0 +1,41 @@
+Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+A knn algorithm with $k=10$ gives low training error and high validation error. What value of $k$ should we choose to get the better performance of the algorithm?
+Options :
+6406531184384. ❌ Less than 10
+6406531184385. ✅ Greater than 10
+
+Question Number : 281 Question Id : 640653357315 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider a binary classification problem. Let $p_1$ denote the proportion of class 0 examples in a particular node. Which of the following graphs shows correct curves for the Gini-index, Entropy and misclassification error of that node?
+
+Options :
+
+\begin{tabular}{c|c}
+\hline
+Misclasification error& Gini-index& Entropy\\
+\hline
+\end{tabular}
+
+\begin{tikzpicture}
+\begin{axis}[
+xlabel = {$p_1$},
+ylabel = {},
+xmin = 0, xmax = 1,
+ymin = 0, ymax = 1,
+xtick={0,0.2,0.4,0.6,0.8,1.0},
+ytick={0,0.2,0.4,0.6,0.8,1.0},
+legend style={at={(0.03,0.97)},anchor=north west}
+]
+\addplot[domain=0:1, samples=100, color=blue, thick]{x*(1-x)};
+\addplot[domain=0:1, samples=100, color=green, thick]{-x*log2(x)-(1-x)*log2(1-x)};
+\addplot[domain=0:1, samples=100, color=red, thick]{2*x*(1-x)};
+\legend{Misclasification error,Gini-index,Entropy}
+\end{axis}
+\end{tikzpicture}
+
+6406531184390. ✅ 
+6406531184391. ❌ 
