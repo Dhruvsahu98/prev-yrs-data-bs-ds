@@ -1,0 +1,37 @@
+Consider the below C program.
+
+```python
+#include <stdio.h>
+int main()
+{
+    int a = 3;
+    switch(a++)
+    {
+        case 1: a = a + 20;
+        case 2: a = a - 3;
+        case 3: a = a * 4;
+        case 4: a = a / 2;
+        default: a = a * 4;
+    }
+    printf("%d", a);
+}
+```
+
+What will be the output of the above C program?
+
+**Options :**
+
+6406532335165. ✖ 12
+
+6406532335166. ✖ 2
+
+6406532335167. ✖ 16
+
+6406532335168. ✖ 1
+
+6406532335169. ✔ 64
+
+Question Number : 104 Question Id : 640653699310 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

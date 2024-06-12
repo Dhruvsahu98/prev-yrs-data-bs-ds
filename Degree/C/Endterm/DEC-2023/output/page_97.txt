@@ -1,0 +1,30 @@
+6406532335224. ✅ Unions allow you to store values of different data types at a time in different members.
+6406532335225. ❌ Unions can only contain elements of the same data type.
+6406532335226. ❌ Unions always consume more memory than structs.
+6406532335227. ❌ Unions are used to define functions.
+
+Question Number : 113 Question Id : 640653699324 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the C program given below.
+
+```python
+#include <stdio.h>
+typedef struct {
+ int * a;
+ int len;
+} Array;
+
+int main() {
+ Array a = {(int *)malloc(sizeof(int)*5), 5};
+ return 0;
+}
+```
+If the size of int is 4 and the system uses 32-bit architecture, what are the amount of spaces allocated in the stack and in the heap respectively?
+
+Options :
+6406532335232. ❌ 4, 20
+6406532335233. ❌ 4, 40
+6406532335234. ✅ 8, 20
+6406532335235. ❌ 8, 40

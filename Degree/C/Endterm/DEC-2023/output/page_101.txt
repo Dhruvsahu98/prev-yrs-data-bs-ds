@@ -1,0 +1,22 @@
+6406532335259. * undef
+Sub-Section Number : 3
+Sub-Section Id : 640653103752
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 119 Question Id : 640653699309 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are true regarding functions in C Language?
+Options :
+6406532335170. ✅ A function signature must indicate the data type of all the function parameters.
+6406532335171. ❌ A function signature must indicate the variable names for the function parameters.
+6406532335172. ✅ A function does not always return a value.
+6406532335173. ❌ A function cannot accept more than 2 parameters.
+
+Question Number : 120 Question Id : 640653699312 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+In C, which of the following is/are valid operations on pointer variables? (Select all that apply)
+Options :
+6406532335183. ❌ Dividing one pointer variable by another pointer variable.

@@ -1,0 +1,32 @@
+Consider the below C program.
+
+```python
+#include <stdio.h>
+void compute(int a, int b)
+{
+  a = a + 5;
+  b = b - 2;
+}
+int main()
+{
+  int a = 234, b = 316;
+  compute(a, b);
+  printf("%d %d", a, b);
+  return 0;
+}
+```
+
+What will be the output of the above C program?
+
+Options :
+
+6406532335174. ✖ Compile Time Error
+6406532335175. ✖ 239 314
+6406532335176. ✔ 234 316
+6406532335177. ✖ 239 316
+6406532335178. ✖ 234 314
+
+Question Number : 105 Question Id : 640653699311 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

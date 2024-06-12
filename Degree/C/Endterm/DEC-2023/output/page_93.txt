@@ -1,0 +1,33 @@
+Address | Value
+------- | --------
+0x128 | 98
+0x129 | 99
+0x12A | 20
+0x12B | 89
+
+Address | Value
+------- | --------
+0x128 | 89
+0x129 | 20
+0x130 | 99
+6406532335198. | 0x131 | 98
+
+Address | Value
+------- | --------
+0x128 | 98
+0x129 | 99
+0x130 | 20
+6406532335199. | 0x131 | 89
+
+Address | Value
+------- | --------
+0x128 | 89
+0x129 | 20
+0x12A | 98
+6406532335200. | 0x12B | 99
+
+**Question Number : 108 Question Id : 640653699316 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Question Label : Multiple Choice Question Which of the following statements about array initialization in C is correct? Options :**
+
+6406532335201. | Arrays can only be initialized at the time of declaration. 
+------- | --------
+6406532335202. | Arrays can be initialized both at the time of declaration and later in the program. 

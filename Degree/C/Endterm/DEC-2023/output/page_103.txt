@@ -1,0 +1,42 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following snippets initialize a string a with a value such that when a is passed to strlen it returns 4?
+
+Options :
+
+6406532335206. ❌  `char a[] = {'a', 'b', 'c', 'd', '0'};`
+
+6406532335207. ✅ `char a[] = {'a', 'b', 'c', 'd', '0'};`
+
+6406532335208. ❌ `char a[4] = "ab\0";`
+
+6406532335209. ✅ `char a[8] = "abcd\0";`
+
+Question Number : 123 Question Id : 640653699323 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Consider the below C program.
+
+```python
+#include<stdio.h>
+int main()
+{
+    typedef int Number;
+    ?? marks = 20;
+    printf("%d", marks);
+}
+```
+
+Which of the following can be used in place of "?? in the above code to print 20 in output?
+
+Options :
+
+6406532335228. 

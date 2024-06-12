@@ -1,0 +1,38 @@
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the below C program.
+
+```python
+#include <stdio.h>
+int a = 10;
+int main()
+{
+  int a = 30;
+  {
+    printf("Value of a is %d\n", a);
+  }
+  printf("\nValue of a is %d\n", a);
+  return 0;
+}
+```
+
+Which of the following is the correct output for the above program?
+
+Options :
+
+6406532335161. ✅ Value of a is 30
+Value of a is 30
+
+6406532335162. ❌ Value of a is 10
+Value of a is 10
+
+6406532335163. ❌ Value of a is 10
+Value of a is 10
+
+6406532335164. ❌ Value of a is 30
+Value of a is 30
+
+Question Number : 103 Question Id : 640653699308 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

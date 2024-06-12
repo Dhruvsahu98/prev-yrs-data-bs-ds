@@ -1,0 +1,32 @@
+6406532335244. ❌ Remove all data from file and write "1,2,3" to "numbers.txt".
+6406532335245. ❌ Remove all data from file and write "1 2 3" to "numbers.txt".
+6406532335246. ❌ Appends "1,2,3" to "numbers.txt".
+6406532335247. ✅ Appends "1 2 3" to "numbers.txt".
+
+Question Number : 116 Question Id : 640653699328 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the C program given below.
+
+```python
+#include <stdio.h>
+int main() {
+   unsigned int mask = 0x004;
+   unsigned int x = 0xDB45;
+   for(int i=0;i<4;i++){
+       x &= ~mask;
+       mask <<= 4;
+   }
+   printf("%X", x);
+}
+```
+
+What will be the output of the above program?
+
+Options :
+6406532335248. ❌ 9BB1
+6406532335249. ✅ 9BA1
+6406532335250. ❌ BBA1
+6406532335251. ❌ BBB1
+
+Question Number : 117 Question Id : 640653699329 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

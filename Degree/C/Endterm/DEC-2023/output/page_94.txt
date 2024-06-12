@@ -1,0 +1,31 @@
+6406532335203. ❌ Arrays can only be initialized with integer values.
+6406532335204. ❌ The index of the first element in an array is always 1.
+
+Question Number : 109 Question Id : 640653699319 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the below C program.
+
+```python
+#include <stdio.h>
+int main()
+{
+    char *s = "Hello C Programming !!";
+    char *p = s + 6;
+    printf("%s", p);
+    return 0;
+}
+```
+What will be the output of the above C program?
+
+Options :
+6406532335210. ❌ Hello C Programming !!
+6406532335211. ❌ Hello C Programming
+6406532335212. ❌ C Programming
+6406532335213. ✅ C Programming !!
+6406532335214. ❌ Programming
+6406532335215. ❌ Programming !!
+
+Question Number : 110 Question Id : 640653699320 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

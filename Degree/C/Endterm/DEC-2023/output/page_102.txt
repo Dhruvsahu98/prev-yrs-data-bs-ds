@@ -1,0 +1,31 @@
+6406532335184. ✅ Comparing two pointers variables for equality.
+6406532335185. ✅ Incrementing/Decrementing a pointer variable (e.g. ptr++/ ptr--).
+6406532335186. ❌ Multiplying two pointer variables.
+
+Question Number : 121 Question Id : 640653699313 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the below C program.
+
+```python
+#include <stdio.h>
+int main()
+{
+ int a = 10;
+ int *p = &a;
+ printf("%d", ??);
+ return 0;
+}
+```
+
+Which of the following options can replace the "??' in the above code so that the output of the program becomes 10?
+Options :
+6406532335187. ❌ *a
+6406532335188. ❌ &a
+6406532335189. ✅ a
+6406532335190. ❌ p
+6406532335191. ✅ *p
+6406532335192. ❌ &p
+
+Question Number : 122 Question Id : 640653699318 Question Type : MSQ Is Question

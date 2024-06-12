@@ -1,0 +1,44 @@
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+Consider the below C program.
+
+```python
+#include <stdio.h>
+
+enum Level {
+A,
+B = 7,
+C
+};
+
+int main() {
+enum Level var = A;
+printf("%d", var);
+return 0;
+}
+```
+
+What will be the output of the above program?
+
+**Options :**
+
+6406532335220.  ✅ 0
+
+6406532335221. ❌ 6
+
+6406532335222. ❌ 7
+
+6406532335223. ❌ 1
+
+
+**Question Number : 112 Question Id : 640653699322 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+Which of the following statements is true about unions in C?
+
+**Options :**

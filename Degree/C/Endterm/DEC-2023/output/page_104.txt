@@ -1,0 +1,27 @@
+Number
+6406532335229.  number
+6406532335230.  int
+6406532335231.  typedef
+
+Question Number : 124 Question Id : 640653699326 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the below C function
+```python
+int **twoDimArray(int row, int col)
+{
+ int i, j;
+ int **arr = (int **) malloc(row * sizeof(int *));
+ for (int i = 0; i < row; i++) {
+ arr[i] = (int *) calloc(col, sizeof(int));
+ }
+ return arr;
+}
+```
+Which of the following statements is true wrt the above function?
+Options :
+6406532335240.  The function allocates the memory for a 2D array at the time of compilation.
+6406532335241.  The function dynamically allocates the memory for a 2D array.
+6406532335242.  The function does not initialize the elements of the 2D array.

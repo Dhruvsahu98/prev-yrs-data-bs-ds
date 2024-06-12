@@ -1,0 +1,35 @@
+6406532335243. ✅ The function initializes all the elements of the 2D array with 0. 
+Sub-Section Number : 4
+Sub-Section Id : 640653103753
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 125 Question Id : 640653699317 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the following code. 
+
+```python
+#include <stdio.h>
+int main()
+{
+    int arr[8];
+    arr[0] = 0;
+    arr[1] = 1;
+    for (int i = 2; i < 8; i++)
+    {
+        arr[i] = arr[i-1] + arr[i-2];
+    }
+    printf("%d", arr[6]);
+    return 0;
+}
+```
+What will be the output of this C program?
+Note: The answer input must be an integer. For Ex: If the answer is 32, you must enter 32 only. 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+8

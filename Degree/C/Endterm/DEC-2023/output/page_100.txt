@@ -1,0 +1,32 @@
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following C code.
+
+```python
+#include <stdio.h>
+#define ABC(a, b) a ## b
+int main()
+{
+  int value = ABC(3, 4);
+  printf("%d", value);
+  return 0;
+}
+```
+
+What will be the output of the given code?
+Options :
+6406532335252. ✅ 34
+6406532335253. ❌ 7
+6406532335254. ❌ 12
+6406532335255. ❌ Compilation error
+Question Number : 118 Question Id : 640653699330 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following preprocessor directives is used to define macros in C?
+Options :
+6406532335256. ✅ define
+6406532335257. ❌ include
+6406532335258. ❌ ifdef

@@ -1,0 +1,33 @@
+Consider the below C program.
+
+```python
+#include <stdio.h>
+void fun(int *x)
+{
+ *x = *x * 2;
+}
+int main()
+{
+ int num = 4;
+ fun(&num);
+ printf("The value is : %d", num);
+ return 0;
+}
+```
+What is the output of the above C program?
+
+Options : 
+6406532335193. ❌ The value is : 4
+6406532335194. ✅ The value is : 8
+6406532335195. ❌ The value is : 16
+6406532335196. ❌ The value is : 2
+
+Question Number : 107 Question Id : 640653699315 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Consider an integer variable holding a value "0x89209899". Suppose the available memory addresses are starting from the address "0x128" in a machine, which of the following stores this multibyte data in the little endian way?
+
+Options : 
+6406532335197. ❌ 

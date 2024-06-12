@@ -1,0 +1,31 @@
+Question Number : 114 Question Id : 640653699325 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+You are given an 2D array A[R][C] where "R" represents the number of rows, and "C" represents the number of columns. Which of the following expressions can replace A[i][j] in the following snippet ? Consider that array A is implemented in row-major representation in memory. 
+```python
+print("%d", A[i][j]);
+```
+Options :
+6406532335236.  *(*A + i*R + j)
+6406532335237.  *(*A + j*C + i)
+6406532335238.  *(*A + i*C + j)
+6406532335239.  *(*A + j*R + i)
+
+Question Number : 115 Question Id : 640653699327 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following code.
+```python
+#include <stdio.h>
+
+int main() {
+    FILE *file = fopen("numbers.txt", "a");
+    fprintf(file, "%d %d", 1, 2, 3);
+    fclose(file);
+    return 0;
+}
+```
+What does this C program do?
+Options :
