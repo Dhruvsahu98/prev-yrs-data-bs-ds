@@ -1,0 +1,23 @@
+## Correct Marks : 2
+## Question Label : Multiple Choice Question
+An adversary can provide randomized quicksort with an input array of length $n$ that forces the algorithm to run in $\omega(n \log n)$ time on that input (If you are not familiar with the $\omega$ asymptotic notation, it roughly translates as "at least". For example, we can say that it is possible to come up with an input that forces insertion sort to run for $\omega(n^2)$ steps.)
+
+## Options :
+6406532333094. ❌ TRUE
+6406532333095. ✅ FALSE
+
+## Sub-Section Number : 11
+## Sub-Section Id : 64065310329
+## Question Shuffling Allowed : No
+## Is Section Default? : null
+
+## Question Id : 640653698602 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+## Question Numbers : (176 to 180)
+## Question Label : Comprehension
+Answer the given subquestions.
+
+## Sub questions
+## Question Number : 176 Question Id : 640653698603 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+## Correct Marks : 2
+## Question Label : Multiple Choice Question
+Every linear program has a unique optimal solution.

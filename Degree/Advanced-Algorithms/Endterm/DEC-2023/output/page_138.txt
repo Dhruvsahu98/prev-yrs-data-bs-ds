@@ -1,0 +1,33 @@
+Sub-Section Id : 64065310326
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653698594 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (170 to 172)
+Question Label : Comprehension
+
+The three-bonaci numbers are defined as follows (please read the definition carefully, as it may not be the generalization of the popular Fibonacci numbers that you might expect):
+
+$$T_i = \begin{cases}
+A_0 & \text{if } i = 0\\
+A_1 & \text{if } i = 1\\
+A_2 & \text{if } i = 2;\\
+T_{i-1}+T_{i-2}-T_{i-3} & \text{otherwise}
+\end{cases}$$
+
+We give you $A_0$, $A_1$, $A_2$, and $n$. Your task is to calculate $T_n$. What are the values of $T_n$ for the given inputs?
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 170 Question Id : 640653698595 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+$A_0 = 1$, $A_1 = 2$, $A_2 = 3$, $n = 4$
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

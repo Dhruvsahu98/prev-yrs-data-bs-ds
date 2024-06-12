@@ -1,0 +1,37 @@
+Is Section Default? : null
+
+Question Number : 173 Question Id : 640653698598 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+In the MIN-2-SAT problem, we are given a 2-CNF formula $\phi$ and an integer $k$, and the objective is to decide whether there exists an assignment for $\phi$ that satisfies at most $k$ clauses. Consider the following branching algorithm for the problem. 
+
+If there is a variable $x$ that occurs only positively in $\phi$, observe that there exists an optimal assignment that sets it to 0. Similarly, if there is a variable $x$ that occurs only positively in $\phi$, there exists an optimal assignment that sets it to 1. Once we perform this preprocessing, assuming that have clauses remaining, we have the following guarantee:
+
+Every variable has at least one positive and one negated occurrence.
+
+Now we can branch exhaustively on the settings of variables. The overall algorithm is summarized in the following pseudocode:
+
+```python
+MINSAT(phi, k):
+  if there is a variable x that occurs only as a positive literal:
+    set x to 0
+  if there is a variable x that occurs only as a negated literal:
+    set x to 1
+  if phi is empty:
+    return YES
+  if phi is not empty and k <= 0:
+    return NO
+  Let x be any variable that occurs in phi.
+  return MINSAT(phi[x = TRUE], k-1) OR MINSAT(phi[x = FALSE], k-1)
+```
+
+What is the running time of this algorithm? Select the tightest bound that is correct according to you.
+
+Options :
+
+6406532333088.  $O(n)$ 
+6406532333089.  $O(n^2)$ 
+6406532333090.  $\checkmark$ $O(2^k) \cdot n^{O(1)}$ 

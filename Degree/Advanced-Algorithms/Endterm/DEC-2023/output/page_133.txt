@@ -1,0 +1,22 @@
+placing rooks on a chessboard, so that they cannot attack each other. For a rook to attack a target piece, it must share the same row or column as the target.
+
+Find the maximum number of rooks that can be placed on the chessboard, such that no pair of rooks can attack each other.
+
+Rooks cannot be placed on cut out squares. The cut out squares do not affect where the rooks can attack.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 164 Question Id : 640653698587 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+What is the answer if $R = C = N$ and all the squares along a diagonal are cut out? In particular, assume the square at the intersection of the $i$-th row (from the top) and the $i$-th column (from the left) is a cut out square, for all $1 \le i \le N$. For this question, assume that $N = 2K$, i.e, that $N$ is even.
+
+Options :
+6406532333061. $\times$ $[\frac{N}{2}]$
+6406532333062. $\times$ $[\frac{N}{2}]$
+6406532333063. $\checkmark$ $N$
+6406532333064. $\times$ $N^2$

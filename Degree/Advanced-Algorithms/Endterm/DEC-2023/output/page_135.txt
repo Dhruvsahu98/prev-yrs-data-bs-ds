@@ -1,0 +1,24 @@
+6406532333070. ✖ the number of edges in a minimum spanning forest
+6406532333071. ✔ the size of a maximum matching
+6406532333072. ✖ none of these
+
+**Question Number : 167 Question Id : 640653698590 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**
+
+What is the number of valid placements of N mutually non-attacking rooks if R = C = N and there are no cut out squares? Two placements are distinct if there is at least one square which has a rook in one of them and does not have a rook in the other.
+
+**Options :**
+6406532333073. ✖ 2N
+6406532333074. ✖ 2N
+6406532333075. ✔ N!
+6406532333076. ✖ $N^2$
+
+**Sub-Section Number :** 7
+**Sub-Section Id :** 640653103525
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null
+
+**Question Id : 640653698591 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Question Numbers : (168 to 169)**
+**Question Label : Comprehension**

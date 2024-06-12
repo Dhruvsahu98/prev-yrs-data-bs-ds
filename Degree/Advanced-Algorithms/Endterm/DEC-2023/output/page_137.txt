@@ -1,0 +1,20 @@
+Question Label : Multiple Choice Question
+Which DP table entries do we lookup to find $\Pi(\{a,c,d\},3)$?
+Options :
+6406532333077. $\times$ $\Pi(\{d\},0)$ and $\Pi(\{a,c\},3)$
+6406532333078. $\times$ $\Pi(\{d\},1)$ and $\Pi(\{a,c\},3)$
+6406532333079. $\checkmark$ $\Pi(\{a,c,d\},2)$ and $\Pi(\{a,c\},2)$
+6406532333080. $\times$ $\Pi(\{a,c,d\},2)$ and $\Pi(\{a,c\},3)$
+
+Question Number : 169 Question Id : 640653698593 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which DP table entries do we lookup to find $\Pi(\{a,b,c\},2)$?
+Options :
+6406532333081. $\times$ $\Pi(\{d\},1)$ and $\Pi(\{a,b,c\},2)$
+6406532333082. $\times$ $\Pi(\{d\},1)$ and $\Pi(\{a,b,c\},1)$
+6406532333083. $\times$ $\Pi(\{a,c\},2)$ and $\Pi(\{a,b\},2)$
+6406532333084. $\checkmark$ $\Pi(\{c,b\},1)$ and $\Pi(\{a,b,c\},1)$
+
+Sub-Section Number : 8

@@ -1,0 +1,36 @@
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+6406532333040. ✅ YES
+
+6406532333041. ❌ NO
+
+Sub-Section Number : 2
+
+Sub-Section Id : 640653103520
+
+Question Shuffling Allowed : No
+
+Is Section Default? : null
+
+Question Id : 640653698578 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (157 to 160)
+
+Question Label : Comprehension
+
+In one term of an academic program, we have $n$ days. Students have to earn at least $P$ credits during these $n$ days to remain in the program. There are two ways to earn points - completing practical tasks and attending lessons. For each task, a student earns $T$ points, and for each lesson, a student earns $L$ points.
+
+Practical tasks are unlocked "each week" as the term goes on: the first task is unlocked on day 1 (and can be completed on any day from 1 to $n$), the second task is unlocked on day 8 (and can be completed on any day from 8 to $n$), the third task is unlocked on day 15, and so on.
+
+Every day from 1 to $n$, there is a lesson which can be attended by the students of the program. And every day, students choose whether to study or to rest the whole day. When a student decides to study, he or she attends a lesson and can complete no more than 2 tasks, which are already unlocked and not completed yet. If a student rests the whole day, he skips a lesson and ignores tasks.
+
+Students naturally wants to have as many days off as possible, i.e. they want to maximize the number of rest days. Let's calculate this maximum.
+
+As an example: if $n = 100$, $P = 20$, $L = 1$ and $T = 10$, then by studying only on day 42 we attend a lesson gives (1 point), and can solve 2 out of 6 available tasks to get another 20 points. This is necessary and sufficient, and leads to 99 rest days.
+
+Based on the above data, answer the given subquestions.

@@ -1,0 +1,19 @@
+Options :
+6406532333100. ❌ Yes
+6406532333101. ✅ No
+
+Question Number : 179 Question Id : 640653698606 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the algorithm in the previous question. Does the algorithm always output a 2-approximate vertex cover?
+Options :
+6406532333102. ❌ Yes
+6406532333103. ✅ No
+
+Question Number : 180 Question Id : 640653698607 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Recall that the size of an optimal vertex cover is at most twice the size of a maximum matching of a graph G. Are there examples of graphs where the size of the optimal vertex cover is **exactly** equal to twice the size of its maximum matching? For example, this is not true for a path on three vertices: the size of both the maximum matching and minimum vertex cover is 1.
+Options :
+6406532333104. ✅ Yes
+6406532333105. ❌ No

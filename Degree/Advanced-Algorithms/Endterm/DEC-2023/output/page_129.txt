@@ -1,0 +1,20 @@
+Question Number : 159 Question Id : 640653698581 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Let $c$ be the total number of tasks in the term. Then $c = [\frac{L}{T}]$. Suppose a student studies for exactly $k$ days. What is the maximum number of points he or she can get?
+Options : 
+6406532333044. ❌ $k \cdot L + max(c, 2k) \cdot T$
+6406532333045. ❌ $k \cdot L + 2k \cdot T$
+6406532333046. ❌ $k \cdot L + c \cdot T$
+6406532333047. ✅ $k \cdot L + min(c, 2k) \cdot T$
+
+Question Number : 160 Question Id : 640653698582 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+If we have to pick $q$ continuous rest days, it is optimal for us to choose:
+Options : 
+6406532333048. ✅ the first $q$ days of the term
+6406532333049. ❌ the last $q$ days of the term
+6406532333050. ❌ the middle $q$ days of the term

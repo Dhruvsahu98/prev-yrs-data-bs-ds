@@ -1,0 +1,19 @@
+Options :
+6406532333096. ❌ TRUE
+6406532333097. ✅ FALSE
+
+Question Number : 177 Question Id : 640653698604 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Recall that in the vertex cover problem, we are trying to find a smallest subset $S$ of vertices in a graph $G$ such that $G\setminus S$ is an independent set; in other words, for every edges $(u,v)$ in the graph $G$, we have that $\{u,v\}\cap S$ is non-empty. Consider the algorithm that repeats the given steps as long as the graph has at least one edge available: select a vertex of maximum degree (say $w$), and include $w$ in the solution; thereafter, delete $w$ and all edges incident to $w$.
+Is it true that the algorithm always outputs a vertex cover? 
+Options :
+6406532333098. ✅ Yes
+6406532333099. ❌ No
+
+Question Number : 178 Question Id : 640653698605 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the algorithm in the previous question. Does the algorithm always output an optimal vertex cover?

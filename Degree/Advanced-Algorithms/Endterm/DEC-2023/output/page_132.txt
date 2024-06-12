@@ -1,0 +1,43 @@
+Consider the following instance of Set Cover problem:
+- Universe $U = \{a, b, c\}$
+- Family $\mathcal{F} = \{S_1 = \{a, b\}, S_2 = \{a\}, S_3 = \{b\}, S_4 = \{c\}\}$
+
+We build the following DP table for finding the Minimum Set Cover.
+
+$\Pi(X, j)$ : minimum number of sets from $S_1, ..., S_j$ required to cover $X$
+
+| $j$ | $X$ | $\phi$ | $\{a\}$ | $\{b\}$ | $\{c\}$ | $\{a, b\}$ | $\{a, c\}$ | $\{b, c\}$ | $\{a, b, c\}$ |
+|---|---|---|---|---|---|---|---|---|---|
+| 0 |  | 0 | $\infty$ | $\infty$ | $\infty$ | $\infty$ | $\infty$ | $\infty$ | $\infty$ |
+| 1 |  | 0 | 1 | 1 | $\infty$ | 1 | $\infty$ | $\infty$ | $\infty$ |
+| 2 |  | 0 | 1 | 1 | $\infty$ | 1 | $\infty$ | $\infty$ | $\infty$ |
+| 3 |  | 0 | 1 | 1 | $\infty$ | 1 | $\infty$ | $\infty$ | $\infty$ |
+| 4 |  | 0 | 1 | 1 | 1 | 1 | 2 | 2 | ? |
+
+What is the missing entry?
+
+**Options :**
+
+6406532333057. $\times$ 0
+
+6406532333058. $\times$ 1
+
+6406532333059. $\checkmark$ 2
+
+6406532333060. $\times$ 3
+
+Sub-Section Number : 6
+
+Sub-Section Id : 640653103524
+
+Question Shuffling Allowed : No
+
+Is Section Default? : null
+
+Question Id : 640653698586 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (164 to 167)
+
+Question Label : Comprehension
+
+You have been given a $R \times C$ chessboard, with a list of squares cut out. This problem will involve 

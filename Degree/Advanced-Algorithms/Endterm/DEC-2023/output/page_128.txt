@@ -1,0 +1,28 @@
+Sub questions
+**Question Number :** 157 **Question Id :** 640653698579 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 2
+**Question Label :** Short Answer Question
+How many rest days are possible if 
+$n = 8, P = 120, L = 10, T = 20?$
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+0
+
+**Question Number :** 158 **Question Id :** 640653698580 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 2
+**Question Label :** Short Answer Question
+How many rest days are possible if 
+$n = 35, P = 250, L = 13, T = 31?$
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+27

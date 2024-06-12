@@ -1,0 +1,34 @@
+Consider the following instance of Set Cover problem:
+
+* Universe $U = \{a, b, c, d\}$
+* Family $\mathcal{F} = \{S_1 = \{a, c\}, S_2 = \{b, d\}, S_3 = \{b, c\}\}$
+
+We use dynamic programming to find the minimum number of sets from $\mathcal{F}$ required to cover $U$. Recall that for every $X \subseteq U$ and every $0 \leq j \leq |\mathcal{F}|$, our algorithm computes and stores $II(X, j)$, i.e., minimum number of sets from $\mathcal{F}_j = \{S_1, ..., S_j\}$ required to cover $X$.
+
+Consider the following DP table:
+
+| $X$ | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+|$\{a, b, c, d\}$| $\infty$ | $\infty$ | $\infty$ | 2 | 2 |
+|$\{b, c, d\}$| $\infty$ | $\infty$ | $\infty$ | 2 | 2 |
+|$\{a, b, d\}$| $\infty$ | $\infty$ | $\infty$ | 2 | 2 |
+|$\{a, b, c\}$| $\infty$ | $\infty$ | $\infty$ | 2 | 2 |
+|$\{c, d\}$| $\infty$ | $\infty$ | 2 | 2 | 2 |
+|$\{b, d\}$| $\infty$ | $\infty$ | $\infty$ | 1 | 1 |
+|$\{b, c\}$| $\infty$ | $\infty$ | $\infty$ | 2 | 1 |
+|$\{a, d\}$| $\infty$ | $\infty$ | 1 | 1 | 1 |
+|$\{a, c\}$| $\infty$ | 1 | 1 | 1 | 1 |
+|$\{d\}$| $\infty$ | $\infty$ | 1 | 1 | 1 |
+|$\{c\}$| $\infty$ | 1 | 1 | 1 | 1 |
+|$\{b\}$| $\infty$ | $\infty$ | $\infty$ | 1 | 1 |
+|$\{a\}$| $\infty$ | 1 | 1 | 1 | 1 |
+|$\phi$| 0 | 0 | 0 | 0 | 0 |
+|$X$|$j$| 0 | 1 | 2 | 3 | 4 |
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 168 Question Id : 640653698592 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

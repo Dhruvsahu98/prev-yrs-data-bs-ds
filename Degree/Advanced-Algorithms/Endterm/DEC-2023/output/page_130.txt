@@ -1,0 +1,29 @@
+6406532333051. ✖ it makes no difference
+Sub-Section Number : 3
+Sub-Section Id : 64065310321
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 161 Question Id : 640653698583 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Let $M = (S, \mathcal{F})$ be a matroid and let
+$$M \backslash e := M - e = (S \backslash e, \mathcal{F} \backslash e),$$
+where $\mathcal{F} \backslash e = \{F \in \mathcal{F} : F \subseteq S \backslash e\}$. This is the set system obtained by "removing" an element $e$ from $M$.
+Is $M \backslash e$ also a matroid?
+Options :
+6406532333052. ✅ TRUE
+6406532333053. ✖ FALSE
+
+Sub-Section Number : 4
+Sub-Section Id : 64065310322
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 162 Question Id : 640653698584 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Choose the correct options
+Options :
