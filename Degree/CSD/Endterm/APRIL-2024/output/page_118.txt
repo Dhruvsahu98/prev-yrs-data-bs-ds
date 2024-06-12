@@ -1,0 +1,31 @@
+If we implement a simple memory array with 8-bit addressability and address space size of 18 bits, then what would be the total size of the memory (in bits)?
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+144
+
+**Question Number :** 155 **Question Id :** 640653820820 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Short Answer Question
+Consider a common bus architecture comprising of memory, and registers X, Y, Z.
+The control word format is given below.
+
+| Memory | Register X | Register Y | Register Z |
+|---|---|---|---|
+| Read | Write | Input | Output | Input | Output |
+What would be the control word if you intend to perform a register transfer from register X to register Y?
+Note: Enter the value in hexadecimal format (e.g. 0x24).
+**Response Type :** Alphanumeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Answers Case Sensitive :** Yes
+**Text Areas :** PlainText
+**Possible Answers :**
+0x18
+
+**Question Number :** 156 **Question Id :** 640653820821 **Question Type :** SA Calculator : None

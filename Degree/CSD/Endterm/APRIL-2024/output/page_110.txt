@@ -1,0 +1,25 @@
+A synchronous counter uses a common clock signal to trigger all flipflops, while an asynchronous counter uses the output of each flipflop to trigger the next flipflop.
+Options :
+6406532755022. ✅ TRUE
+6406532755023. ❌ FALSE
+
+Question Number : 142 Question Id : 640653820807 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In a system with 64 unique states, 5 flipflops are sufficient to represent all the states.
+Options :
+6406532755024. ✅ TRUE
+6406532755025. ❌ FALSE
+
+Question Number : 143 Question Id : 640653820808 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In a decoder, at any point, exactly one of the outputs is 1 and all the rest are 0s.
+Options :
+6406532755026. ✅ TRUE
+6406532755027. ❌ FALSE
+
+Question Number : 144 Question Id : 640653820809 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

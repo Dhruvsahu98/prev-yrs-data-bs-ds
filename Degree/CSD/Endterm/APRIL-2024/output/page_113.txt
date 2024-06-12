@@ -1,0 +1,28 @@
+Question Label : Multiple Choice Question
+
+The given truth table has to be realized with D flipflop as shown below.
+
+| A | B | $Q_{n+1}$ |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | $Q_n$ |
+| 1 | 1 | 0 |
+
+![image](./image.png)
+
+What is the equation for Logic in terms of A, B, $Q_n$?
+
+Options :
+
+6406532755045.  $\times$  A $\oplus$ B $\odot$ $Q_n$ 
+
+6406532755046.  $\times$  A + B + $Q_n$ 
+
+6406532755047.  $\times$  A $\oplus$ B $\oplus$ $Q_n$ 
+
+6406532755048.  $\times$  A $\odot$ B $\odot$ $Q_n$ 
+
+6406532755049.  $\checkmark$  None of these
+
+Sub-Section Number : 4

@@ -1,0 +1,33 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Let a processor contain 32 registers in its register file. Consider that the ALU is capable of performing 6 different operations: addition, subtraction, AND, NOT, XOR and XNOR. What is the minimum number of bits required by an instruction in order to perform addition between two operands stored in the register file and then store the result in the register containing the first operand?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+13
+
+Question Number : 157 Question Id : 640653820822 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Consider the control word given below.
+
+| Instruction | Reg X | Reg Y | Reg Z |
+|---|---|---|---|
+| 01 | 1100 | 1001 | 0011 |
+
+What is the maximum number of registers that can be stored in the register file?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

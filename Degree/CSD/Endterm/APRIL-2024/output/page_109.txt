@@ -1,0 +1,35 @@
+(COMPUTER BASED EXAM)"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+6406532755018. ✅ YES
+6406532755019. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 640653120750
+Question Shuffling Allowed : Yes
+Is Section Default?: null
+
+Question Number : 140 Question Id : 640653820805 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+In a 4-bit system, the one's complement of the binary number 1000 is 0111.
+
+Options :
+
+6406532755020. ✅ TRUE
+6406532755021. ❌ FALSE
+
+Question Number : 141 Question Id : 640653820806 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Multiple Choice Question

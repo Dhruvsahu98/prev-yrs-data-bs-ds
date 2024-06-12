@@ -1,0 +1,42 @@
+# 16
+
+**Question Number :** 158 **Question Id :** 640653820823 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+
+**Question Label :** Short Answer Question
+
+Suppose we want to execute a data movement instruction, where we move the data present in register $R_d$ to register $R_r$.
+Instruction: MOV $R_d$, $R_r$
+$R_d$: Destination register, $R_r$: Source register
+Operands: $0 \leq d \leq 31$, $0 \leq r \leq 31$
+Instruction Format:
+
+| 0010 | 11rd | dr dr | rd rd |
+|---|---|---|---|
+
+What will be the hexadecimal machine code for the instruction?
+
+**Response Type :** Alphanumeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Answers Case Sensitive :** Yes
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+0x2F7D
+
+# 
+
+**Question Number :** 159 **Question Id :** 640653820824 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+
+**Question Label :** Short Answer Question
+
+Perform 2's complement subtraction of two number $A = 17$, $B = 24$. What is the result of $A-B$ in 8-bit binary format? (Note: Don't use sign magnitude form.)
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes

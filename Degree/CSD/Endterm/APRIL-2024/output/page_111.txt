@@ -1,0 +1,22 @@
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+According to Moore's law, if a computer system has 2 million transistors today,then it will have approximately 32 million transistors in 8 years.
+Options :
+6406532755028. TRUE
+6406532755029. FALSE
+Sub-Section Number : 3
+Sub-Section Id : 640653120751
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 145 Question Id : 640653820811 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N A Think Time : N A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the boolean operator $\oplus$ with the following properties:
+$X\oplus X = 1$, $X\oplus \overline{X} = 0$, $X\oplus 1 = X$, $X\oplus 0 = \overline{X}$. Then $X\oplus Y$ equal to
+Options :
+6406532755031. $X + Y$
+6406532755032. $X \oplus Y$
+6406532755033. $X \odot Y$
+6406532755034. None of these

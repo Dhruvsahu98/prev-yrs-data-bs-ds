@@ -1,0 +1,18 @@
+4
+**Question Number :** 150 **Question Id :** 640653820814 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Short Answer Question
+A circuit has four inputs (A, B, C and D) and a single output Y. Y is set to logic one if A is equal to B and C is equal to D, otherwise, Y is set to logic zero. What is the minimum number of minterms to be present in the SOP expression for Y?
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+
+4
+**Question Number :** 151 **Question Id :** 640653820815 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Short Answer Question

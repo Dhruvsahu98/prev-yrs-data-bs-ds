@@ -1,0 +1,79 @@
+Question Number : 146 Question Id : 640653820813 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the circuit diagram as shown below
+
+\begin{tikzpicture}[scale=0.8]
+\draw[thick] (0,0) rectangle (2,4);
+\draw[thick] (-2,0) -- (-2,4);
+\draw[thick] (2,2) -- (4,2);
+\draw[thick] (-2,3) -- (0,3);
+\draw[thick] (-2,2) -- (0,2);
+\draw[thick] (-2,1) -- (0,1);
+
+\node at (-2,0) [left] {X};
+\node at (2,4) [right] {F};
+\node at (4,2) [right] {F};
+\node at (0,4) [right] {4x1 Multiplexer};
+\node at (0,3) [right] {I0};
+\node at (0,2) [right] {I1};
+\node at (0,1) [right] {I2};
+\node at (0,0) [right] {I3};
+\node at (1,0) [below] {Y};
+\node at (2,0) [below] {Z};
+\node at (1,3) [left] {S1};
+\node at (2,3) [right] {S0};
+
+\draw[red,thick] (-1.7,0) -- (-1.7,3.7) -- (-1,3.7) -- (-1,3) -- (0,3);
+\draw[red,thick] (-1.7,0) -- (-1,0) -- (-1,2) -- (0,2);
+\draw[red,thick] (-1.7,0) -- (-1,0) -- (-1,1) -- (0,1);
+\draw[red,thick] (0,0) -- (1,0);
+\draw[red,thick] (2,0) -- (3,0);
+\draw[red,thick] (2,2) -- (3,2);
+\draw[red,thick] (2,3) -- (3,3);
+\draw[red,thick] (2,4) -- (3,4);
+
+\draw[fill=black] (-1.7,0) circle (0.05);
+\draw[fill=black] (-1.7,3.7) circle (0.05);
+\draw[fill=black] (-1,3.7) circle (0.05);
+\draw[fill=black] (-1,3) circle (0.05);
+\draw[fill=black] (-1,2) circle (0.05);
+\draw[fill=black] (-1,1) circle (0.05);
+\draw[fill=black] (-1,0) circle (0.05);
+\draw[fill=black] (0,0) circle (0.05);
+\draw[fill=black] (1,0) circle (0.05);
+\draw[fill=black] (2,0) circle (0.05);
+\draw[fill=black] (3,0) circle (0.05);
+\draw[fill=black] (3,2) circle (0.05);
+\draw[fill=black] (3,3) circle (0.05);
+\draw[fill=black] (3,4) circle (0.05);
+
+\draw[fill=green] (0,3) circle (0.05);
+\draw[fill=green] (0,2) circle (0.05);
+\draw[fill=green] (0,1) circle (0.05);
+\draw[fill=green] (0,0) circle (0.05);
+\draw[fill=green] (1,3) circle (0.05);
+\draw[fill=green] (2,3) circle (0.05);
+
+\draw[fill=black] (-1.7,3.7) circle (0.1);
+\draw[fill=white] (-1.7,3.7) circle (0.05);
+\draw[thick] (-1.7,3.7) -- (-1.9,3.45);
+\draw[thick] (-1.7,3.7) -- (-1.5,3.45);
+\draw[thick] (-1.7,3.45) -- (-1.9,3.2);
+\draw[thick] (-1.7,3.45) -- (-1.5,3.2);
+
+\end{tikzpicture}
+Figure 1: circuit diagram
+The above circuit diagram can be represented with.
+
+Options :
+6406532755036.  Two input XNOR gate as with Y and Z as input
+6406532755037.  Two input XNOR gate as with X and Y as input
+6406532755038.  Two input XOR gate as with X and Y as input
+6406532755039.  Two input NOR gate as with Y and Z as input
+6406532755040.  Two input NAND gate as with X and Y as input
+
+Question Number : 147 Question Id : 640653820818 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
