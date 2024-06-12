@@ -1,0 +1,38 @@
+Question Number : 126 Question Id : 64065369931 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the below C program.
+
+```python
+#include <stdio.h>
+
+void demo()
+{
+    static int x = 2;
+    x++;
+}
+
+int main()
+{
+    demo();
+    demo();
+    demo();
+    demo();
+    return 0;
+}
+```
+
+What will be the value of the static variable "x" just before the execution of the return statement in the main function?
+
+Note: The answer must be an integer. For Ex: If the answer is 32, you must enter 32 only.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+
+Computer Systems Design
+Section Id : 64065349325

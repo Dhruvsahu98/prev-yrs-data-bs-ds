@@ -1,0 +1,53 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1100
+
+Question Number : 139 Question Id : 640653699345 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider the circuit diagram as shown below. Assuming it was initially cleared to 0, state the output for the next 4 clock pulses.
+```python
+# Code block
+```
+\begin{tikzpicture}[scale=0.8]
+\draw (0,0) rectangle (2,2);
+\draw (1,0) -- (1,1);
+\draw (1,1) -- (1,2);
+\draw (0,1) -- (1,1);
+\draw (0,1) -- (0,2);
+\draw (1,1) -- (2,1);
+\draw (1,1) -- (1,2);
+\draw (2,1) -- (4,1);
+\draw (4,0) rectangle (6,2);
+\draw (5,0) -- (5,1);
+\draw (5,1) -- (5,2);
+\draw (4,1) -- (5,1);
+\draw (4,1) -- (4,2);
+\draw (5,1) -- (6,1);
+\draw (5,1) -- (5,2);
+\node at (1,1) {CLK};
+\node at (1,1.5) {J};
+\node at (1,0.5) {K};
+\node at (5,1.5) {Q};
+\node at (5,0.5) {Q};
+\node at (0.5,1.5) {~};
+\node at (0.5,0.5) {~};
+\node at (5.5,1.5) {~};
+\node at (5.5,0.5) {~};
+\node at (1,2.5) {XNOR};
+\node at (5,2.5) {OUTPUT (Y)};
+\end{tikzpicture}
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0000
+
+Question Number : 140 Question Id : 640653699347 Question Type : SA Calculator : None

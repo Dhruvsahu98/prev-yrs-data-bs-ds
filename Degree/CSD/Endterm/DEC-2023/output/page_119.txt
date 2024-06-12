@@ -1,0 +1,39 @@
+Is Section Default?: null
+
+Question Number : 147 Question Id : 640653699342 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following Boolean functions can be used as a universal gate?
+
+Note: The boolean input zero and one are available.
+
+Options :
+
+6406532335277. ❌ $Y = A + B$
+
+6406532335278. ✅ $Y = \overline{A} + B$
+
+6406532335279. ✅ $Y = \overline{AB}$
+
+6406532335280. ❌ $Y = A \oplus B$
+
+```python
+# This is a code block in python format.
+```
+
+RL
+
+64065349326
+
+| Section Id : | 64065349326 |
+|---|---|
+| Section Number : | 7 |
+| Section type : | Online |
+| Mandatory or Optional : | Mandatory |
+| Number of Questions : | 30 |
+| Number of Questions to be attempted : | 30 |
+| Section Marks : | 50 |
+| Display Number Panel : | Yes |

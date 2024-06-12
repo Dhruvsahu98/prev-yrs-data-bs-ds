@@ -1,0 +1,30 @@
+6406532335272. ✅ FALSE
+Sub-Section Number : 3
+Sub-Section Id : 640653103756
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 133 Question Id : 640653699338 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+What is the minimum number of 4:1 multiplexers required to design a circuit that implements the function F(X,Y,Z) = (0,2,4,7). Assume X, Y, and Z as well as their complements to be available.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Number : 134 Question Id : 640653699339 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Given that NOT, 2-input AND/OR gates have delays of 1 ns, what will be the maximum delay of a 2x1 multiplexer circuit?
+Note: if the answer is 1 ns, write 1.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

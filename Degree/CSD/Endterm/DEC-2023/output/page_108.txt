@@ -1,0 +1,27 @@
+6406532335261. ✅ YES
+6406532335262. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 640653103755
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 128 Question Id : 640653699333 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In a system with 16 unique states, 4 flip-flops are sufficient to represent all states.
+
+Options :
+6406532335263. ✅ TRUE
+6406532335264. ❌ FALSE
+
+Question Number : 129 Question Id : 640653699334 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In a positive-edge-triggered D flipflop, if the D input is 1 and the clock signal transitions from low to high, Q output is 0.
+
+Options :
+6406532335265. ❌ TRUE
+6406532335266. ✅ FALSE

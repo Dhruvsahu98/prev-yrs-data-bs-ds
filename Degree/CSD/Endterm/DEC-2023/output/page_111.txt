@@ -1,0 +1,28 @@
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+
+Question Number : 135 Question Id : 640653699340 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+A 1-bit comparator takes two input bits and outputs 1 if they are equal, and 0 otherwise. What is the minimum number of 2-input NOR gates needed to build such a comparator?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+
+Question Number : 136 Question Id : 640653699341 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+A circuit has three inputs (A, B and C) and a single output Y. Y is set to logic one if B is equals logic zero, otherwise Y is set to logic zero. What is the minimum number of minterms to be present in the POS expression for Y?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

@@ -1,0 +1,32 @@
+Text Areas : PlainText
+Possible Answers :
+16
+
+Question Number : 142 Question Id : 64065369349 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+If we implement a simple memory array with 32-bit addressability and an address space size of 128, then what would be the total size of the memory (in bytes)?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+512
+
+Question Number : 143 Question Id : 64065369350 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider a common bus architecture comprising of memory, and registers X, Y, Z.
+The control word format is given below.
+
+| Memory  | Register X | Register Y | Register Z |
+|---|---|---|---|
+| Read | Write | Input | Output | Input | Output | Input | Output |
+
+What will be the control word if we want to perform a memory read operation and write the contents into register Y?
+Note: Enter value in hexadecimal format.
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes

@@ -1,0 +1,14 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+11110011
+Sub-Section Number : 4
+Sub-Section Id : 640653103757
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 146 Question Id : 640653699346 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

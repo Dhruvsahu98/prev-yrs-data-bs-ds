@@ -1,0 +1,28 @@
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+0x88
+
+Question Number : 144 Question Id : 640653699351 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Let a processor contain 32 registers in its register file. Consider that the ALU is capable of performing 7 different operations: addition, subtraction, AND, NOT, XOR, XNOR,MOV. What is the minimum number of bits required by an instruction in order to perform XOR between two operands stored in the register file and then store the result in a separate register?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+18
+
+Question Number : 145 Question Id : 640653699352 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Perform 2's complement subtraction of two number A = 12, B = 25. What is the result of A - B in 8-bit binary format? (Note: Don't use sign magnitude form.)
+
+Response Type : Numeric
