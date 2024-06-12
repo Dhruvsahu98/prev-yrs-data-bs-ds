@@ -1,0 +1,25 @@
+Question Number : 54 Question Id : 640653450997 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following rule-data tuples are in the conflict-set?
+Options:
+6406531500972. ✅ R1,104,105
+6406531500973. ✅ R2,104
+6406531500974. ✅ R2,106
+6406531500975. ✅ R7,107
+6406531500976. ❌ R1,104,106
+6406531500977. ❌ R3,104,106
+6406531500978. ❌ R6,102,107
+
+Question Number : 55 Question Id : 640653450998 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+If the Inference Engine uses **Specificity** as the conflict resolution strategy then identify the rule-data tuples that will be ready to fire. If multiple rule-data tuples qualify then choose one.
+Enter a comma separated list with a rule label followed by timestamps in sorted order.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format: R1,101,102,103
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No

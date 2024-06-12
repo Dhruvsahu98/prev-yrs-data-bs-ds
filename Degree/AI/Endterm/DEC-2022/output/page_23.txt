@@ -1,0 +1,51 @@
+Let 500 be the start state and 221 be the goal state, find the shortest path from start to goal. Enter the path starting with 500 as a comma separated list of states.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+Answer format: 500,411,747
+
+**Response Type :** Alphanumeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Equal
+
+**Answers Case Sensitive :** No
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+500,140,131,230,221
+
+Question Number : 39 Question Id : 640653450981 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Let 500 be the start state and 221 be the goal state, find the sequence of moves that produce the shortest path from start to goal. Enter the sequence of moves as a comma separated list.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+Answer format: aFc,cFb,aEc
+
+**Response Type :** Alphanumeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Equal
+
+**Answers Case Sensitive :** No
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+aFb,bFc,cEa,bFc

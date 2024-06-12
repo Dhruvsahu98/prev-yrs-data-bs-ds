@@ -1,0 +1,23 @@
+Enter a number.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format: 42
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+194
+Question Number : 53 Question Id : 640653450995 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In the given AND-OR graph, is the heuristic admissible?
+Options :
+6406531500969.  ✔ No
+6406531500970.  ✖ Yes
+6406531500971.  ✖ Cannot be determined
+Question Id : 640653450996 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (54 to 56)
+Question Label : Comprehension
+RULE BASED EXPERT SYSTEMS
+A Rete Net for classification of machines is shown in the figure. The labels A1, A2, A3, ..., A10, A11, A12, A13, ..., B1, B2, ..., B5, R1, R2, ..., R8, uniquely identify the nodes in the network. When 

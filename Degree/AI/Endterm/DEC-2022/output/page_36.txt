@@ -1,0 +1,74 @@
+required, use the above label ordering to break ties and to enter your answers.
+
+WME
+
+\begin{tikzpicture}[node distance=1cm, every node/.style={draw, rectangle, minimum height=0.7cm, minimum width=1.5cm}, every path/.style={gray, thick, ->}]
+    \node (A1) {CLASS = Energy};
+    \node (A2) [right=2cm of A1] {CLASS = BoM};
+    \node (A3) [right=2cm of A2] {CLASS = Fuel};
+    \node (A4) [below=0.7cm of A1] {item = $<X>$};
+    \node (A5) [below=0.7cm of A2] {item = $<X>$};
+    \node (A6) [below=0.7cm of A3] {item = $<X>$};
+    \node (A7) [below=1.5cm of A4] {source = wind};
+    \node (A8) [right=1.5cm of A7] {part = alternator};
+    \node (A9) [right=1.5cm of A8] {source = stream};
+    \node (A10) [right=1.5cm of A9] {part = turbine-blades};
+    \node (A11) [right=1.5cm of A10] {type = liquid};
+    \node (A12) [right=1.5cm of A11] {part = CD-nozzle};
+    \node (A13) [right=1.5cm of A12] {type = solid};
+    \node (B1) [below=1cm of A7] {$<X>$};
+    \node (B2) [right=1.5cm of B1] {$<X>$};
+    \node (B3) [right=1.5cm of B2] {$<X>$};
+    \node (B4) [right=1.5cm of B3] {$<X>$};
+    \node (B5) [right=1.5cm of B4] {$<X>$};
+    \node (R1) [below=0.7cm of B1] {Windmill};
+    \node (R2) [right=1.5cm of R1] {Generator};
+    \node (R3) [right=1.5cm of R2] {Watermill};
+    \node (R4) [right=1.5cm of R3] {Turbine};
+    \node (R5) [below=0.7cm of B3] {Gas Turbine};
+    \node (R6) [right=1.5cm of R5] {Liquid Fuel Rocket};
+    \node (R7) [right=1.5cm of R4] {Rocket};
+    \node (R8) [right=1.5cm of R6] {Solid Fuel Rocket};
+    \path (A1) edge (A4);
+    \path (A2) edge (A5);
+    \path (A3) edge (A6);
+    \path (A4) edge (A7);
+    \path (A4) edge (A8);
+    \path (A4) edge (A9);
+    \path (A5) edge (A10);
+    \path (A5) edge (A11);
+    \path (A5) edge (A12);
+    \path (A6) edge (A13);
+    \path (A7) edge (B1);
+    \path (A8) edge (B1);
+    \path (A8) edge (B2);
+    \path (A9) edge (B2);
+    \path (A10) edge (B3);
+    \path (A11) edge (B3);
+    \path (A11) edge (B4);
+    \path (A12) edge (B5);
+    \path (A13) edge (B5);
+    \path (B1) edge (R1);
+    \path (B2) edge (R3);
+    \path (B3) edge (R5);
+    \path (B4) edge (R6);
+    \path (B5) edge (R8);
+    \path (A10) edge (R4);
+    \path (A12) edge (R7);
+\end{tikzpicture}
+
+Run the Rete algorithm for the Working Memory shown below, where the WMEs are in timestamp order. Assume that WMEs reside at appropriate Alpha nodes, and the Beta nodes point to WMEs residing in Alpha nodes.
+
+```python
+101. (Fuel ^item machine5 ^type solid)
+102. (Fuel ^item machine2 ^type liquid)
+103. (Fuel ^item machine3)
+104. (BoM ^item machine4 ^part alternator)
+105. (Energy ^item machine4 ^source wind)
+106. (BoM ^item machine3 ^part alternator)
+107. (BoM ^item machine1 ^part CD-nozzle)
+```
+
+For each WME identify its location (node label) in the Rete Net, and prepare the conflict set for the first cycle, then answer the given subquestions.
+
+Sub questions

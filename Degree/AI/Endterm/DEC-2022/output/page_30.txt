@@ -1,0 +1,39 @@
+Question Id : 640653451005 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (48 to 49)
+Question Label : Comprehension
+
+**CONSTRAINT SATISFACTION**
+
+The figure shows a constraint graph of a Binary CSP and a part of the matching diagram. When a pair of variables (like, X1 and X5) do not have a constraint in the constraint graph then assume a UNIVERSAL RELATION in the matching diagram.
+
+```python
+# Code block in python format
+```
+
+\begin{tabular}{cccc}
+\multicolumn{4}{c}{\textbf{X1}} \\
+\multicolumn{4}{c}{\textbf{a}} \\
+\multicolumn{4}{c}{\textbf{b}} \\
+\multicolumn{4}{c}{\textbf{c}} \\
+\textbf{X2} & \multicolumn{2}{c}{} & \textbf{X4} \\
+\multicolumn{2}{c}{} & \textbf{d} & \multicolumn{2}{c}{} \\
+\multicolumn{2}{c}{} & \textbf{e} & \multicolumn{2}{c}{} \\
+\multicolumn{2}{c}{} & \textbf{f} & \multicolumn{2}{c}{} \\
+\multicolumn{2}{c}{} & \textbf{r} & \multicolumn{2}{c}{} \\
+\multicolumn{2}{c}{} & \textbf{q} & \multicolumn{2}{c}{} \\
+\multicolumn{2}{c}{} & \textbf{p} & \multicolumn{2}{c}{} \\
+\textbf{X5} & \textbf{X3} & \multicolumn{2}{c}{} \\
+\multicolumn{2}{c}{} & \textbf{6} & \textbf{5} \\
+\multicolumn{2}{c}{} & \textbf{3} & \textbf{4} \\
+\multicolumn{2}{c}{} & \textbf{2} & \textbf{1} \\
+\multicolumn{4}{c}{\textbf{X3}} \\
+\multicolumn{4}{c}{\textbf{X5}} \\
+\end{tabular}
+
+Process the variables, and their values, in ALPHABETIC order
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 48 Question Id : 640653451006 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,28 @@
+Text Areas : PlainText
+Possible Answers :
+R1,104,105
+R1,105,104
+
+Question Number : 56 Question Id : 640653450999 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+If the Inference Engine uses **Recency** as the conflict resolution strategy then identify the rule-data tuples that will be ready to fire. If multiple rule-data tuples qualify then choose one.
+
+Enter a comma separated list with a rule label followed by timestamps in sorted order.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format: R1,101,102,103
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+R7,107
+
+Question Id : 640653451000 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (57 to 60)
+Question Label : Comprehension
+AUTOMATED PLANNING

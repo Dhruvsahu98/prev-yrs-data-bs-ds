@@ -1,0 +1,84 @@
+The domain description of a Blocks World with a single one-armed robot is given below.
+
+**PREDICATES**
+```python
+armEmpty
+holding(X)
+onTable(X)
+clear(X)
+on(X, Y)
+```
+* The arm is not holding any block, it is empty.
+* The arm is holding X.
+* X is on the table.
+* X has nothing above it, it is clear.
+* X is directly placed on Y.
+
+**OPERATORS**
+```python
+Pickup(X) : Pick up X from the table.
+Preconditions : { armEmpty, clear(X), onTable(X) }
+Add Effects : { holding(X) }
+Del Effects : { armEmpty, onTable(X) }
+
+Putdown(X) : Place X on the table.
+Preconditions : { holding(X) }
+Add Effects : { armEmpty, onTable(X) }
+Del Effects : { holding(X) }
+
+Unstack(X, Y) : Pick up X that is directly sitting on Y.
+Preconditions : { armEmpty, clear(X), on(X, Y) }
+Add Effects : { clear(Y), holding(X) }
+Del Effects : { armEmpty, on(X, Y) }
+
+Stack(X, Y) : Place X directly on top of Y.
+Preconditions : { holding(X), clear(Y) }
+Add Effects : { armEmpty, on(X, Y) }
+Del Effects : { holding(X), clear(Y) }
+```
+Consider the following planning problem.
+
+\begin{tabular}{c|c}
+Start State & Goal Description \\
+\hline
+\begin{tabular}{c}
+\begin{tikzpicture}
+\draw[thick] (0,0) -- (4,0);
+\draw[thick] (1,0.2) -- (1,0.8) -- (2,0.8) -- (2,0.2) -- cycle;
+\draw[thick] (1,1.2) -- (1,1.8) -- (2,1.8) -- (2,1.2) -- cycle;
+\draw[thick] (2,0.2) -- (2,0.8);
+\draw[thick] (2,1.2) -- (2,1.8);
+\node at (1.5,0.5) {A};
+\node at (1.5,1.5) {C};
+\node at (2.5,0.5) {B};
+\node at (3.5,0.5) {D};
+\node at (2,2.2) {};
+\node at (2,2.6) {};
+\node at (2,3) {};
+\node at (1.5,-0.5) {Start State};
+\end{tikzpicture}
+\end{tabular} &
+\begin{tabular}{c}
+\begin{tikzpicture}
+\draw[thick] (0,0) -- (4,0);
+\draw[thick] (1,0.2) -- (1,0.8) -- (2,0.8) -- (2,0.2) -- cycle;
+\draw[thick] (1,1.2) -- (1,1.8) -- (2,1.8) -- (2,1.2) -- cycle;
+\draw[thick] (2,0.2) -- (2,0.8);
+\draw[thick] (2,1.2) -- (2,1.8);
+\node at (1.5,0.5) {A};
+\node at (1.5,1.5) {C};
+\node at (2.5,0.5) {B};
+\node at (3.5,0.5) {D};
+\node at (2,2.2) {};
+\node at (2,2.6) {};
+\node at (2,3) {};
+\node at (1.5,-0.5) {Goal Description};
+\end{tikzpicture}
+\end{tabular}
+\end{tabular}
+Start: \{ onTable(A), onTable(B), onTable(D), on(C, B), clear(A), clear(C), clear(D), armEmpty \}
+Goal: \{ on(D, B), holding(C) \}
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**

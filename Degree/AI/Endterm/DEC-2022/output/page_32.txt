@@ -1,0 +1,19 @@
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+a,e,2,5,p
+Sub-Section Number : 6
+Sub-Section Id : 64065364788
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653450991 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (50 to 53)
+Question Label : Comprehension
+PROBLEM DECOMPOSITION
+
+The figure shows an AND-OR graph that depicts how a problem S can be decomposed and transformed into one or more simpler problems. Nodes are uniquely identified by labels (S, A, B, ...). The number in each node is the heuristic estimate of the cost of solving that node.
+
+Nodes with double lines are primitive nodes and their values are actual costs. Observe that a primitive node is added to the graph by its parent when the parent is expanded, and the primitive node is labeled as SOLVED and it will not be expanded subsequently.
+
+Tie-breaker 1: For nodes with the same cost, expand in the ascending order of node labels.
+Tie-breaker 2: For AND nodes, expand the unsolved branch with the highest cost.

@@ -1,0 +1,25 @@
+Sub-Section Number : 3
+Sub-Section Id : 64065364785
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 40 Question Id : 640653450982 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+SEARCH FOR OPTIMAL SOLUTION
+
+Under what cases does Depth First Iterative Deepening (DFID) guarantee an optimal solution?
+Options :
+6406531500933. ❌ When it inspects only new nodes
+6406531500934. ❌ When it inspects new as well as open nodes
+6406531500935. ✅ When it inspects new as well as closed nodes
+6406531500936. ❌ None of these
+
+Question Number : 41 Question Id : 640653450986 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+SEARCH FOR OPTIMAL SOLUTION
+
+In the map, nodes are placed on a grid where each tile is 10x10 in size, is the Manhattan distance heuristic admissible?

@@ -1,0 +1,27 @@
+Question Id : 640653450979 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (38 to 39)
+Question Label : Comprehension
+
+SEARCH
+
+Consider a 5-4-1 water jug puzzle with three jugs a, b, c of capacity 5L, 4L, 1L, respectively. A state is represented as a three digit string ABC, where A, B, C denote the volume of water present in the jugs a, b, c, respectively. For example, 140 denotes a state where jug a has 1 liter of water, jug b has 4 liters of water and jug c is empty.
+
+Two types of moves (state transitions) are allowed:
+
+xEy: pick up jug x and empty it into jug y,
+
+xFy: pick up jug x and fill up (top up) jug y.
+
+So the possible moves are: aEb, aEc, aFb, aFc, bEa, bEc, bFa, bFc, cEb, cFa, cFb.
+
+**Tie-breaker:** in some states, both xEy and xFy may produce the same output state, in such cases, choose xEy to break the tie. For example, from the 140 state, both aEc and aFc produce the same output state 041, therefore, to break the tie choose aEc as the move.
+
+For the 5-4-1 water jug puzzle, the MoveGen function takes a state ABC and returns a set of states that can be produced in one move. For example, MoveGen(500) returns {140, 401}.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 38 Question Id : 640653450980 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question

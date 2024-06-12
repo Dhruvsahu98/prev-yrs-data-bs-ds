@@ -1,0 +1,50 @@
+**Correct Marks : 2**
+
+Question Label : Short Answer Question
+
+The Forward-Checking algorithm begins by assigning X1=a. What are the NEXT four values assigned to variables by the Forward-Checking algorithm? List the values as a comma separated list in the order they are assigned.
+
+Enter a comma separated list of values.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+**Answer format: a,6,1,p**
+
+Response Type : Alphanumeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Set
+
+Answers Case Sensitive : No
+
+Text Areas : PlainText
+
+Possible Answers :
+
+d,e,1,2
+
+e,2,5,p
+
+
+**Question Number : 49 Question Id : 640653451007 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 1**
+
+Question Label : Short Answer Question
+
+What is the first solution found by the Forward-Checking algorithm?
+
+Enter a comma separated list of values.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+**Answer format: a,6,1,p**
+
+Response Type : Alphanumeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes

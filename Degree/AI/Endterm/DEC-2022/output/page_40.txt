@@ -1,0 +1,28 @@
+Question Number : 57 Question Id : 640653451001 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following are applicable actions for the given problem?
+Options : 
+6406531500981.  Pickup(A)
+6406531500982.  Pickup(D)
+6406531500983.  Unstack(C,B)
+6406531500984.  Pickup(C)
+6406531500985.  Stack(D,B)
+6406531500986.  Unstack(D,B)
+
+Question Number : 58 Question Id : 640653451002 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following are relevant actions for the given problem?
+Options : 
+6406531500987.  Pickup(A)
+6406531500988.  Pickup(D)
+6406531500989.  Unstack(C,B)
+6406531500990.  Pickup(C)
+6406531500991.  Stack(D,B)
+6406531500992.  Unstack(D,B)
+
+Question Number : 59 Question Id : 640653451003 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

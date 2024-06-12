@@ -1,0 +1,59 @@
+S
+100
+
+A
+20
+
+B
+200
+
+C
+100
+
+D
+160
+
+E
+40
+
+F
+60
+
+G
+80
+
+H
+100
+
+I
+140
+
+J
+100
+
+K
+90
+
+Each edge has a unit cost. Solve for S, then answer the given subquestions
+
+Sub questions
+
+Question Number : 50 Question Id : 640653450992 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+List the first three nodes (including S) expanded by AO* algorithm. List the nodes in the order they are expanded. Observe that primitive nodes are not expanded.
+
+Enter a comma separated list of node labels.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+Answer format: X,Y,Z
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
