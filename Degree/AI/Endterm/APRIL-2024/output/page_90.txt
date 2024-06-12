@@ -1,0 +1,27 @@
+Question Label : Multiple Select Question
+Which of the following are **applicable** actions in the start state?
+**Options :**
+6406532754950. ✅ Putdown(D)
+6406532754951. ❌ Stack(D,C)
+6406532754952. ❌ Pickup(B)
+6406532754953. ✅ Stack(D,A)
+6406532754954. ❌ Stack(A,C)
+
+Question Number : 115 Question Id : 640653820778 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following are **relevant** actions in the goal state?
+**Options :**
+6406532754955. ✅ Pickup(B)
+6406532754956. ❌ Putdown(D)
+6406532754957. ✅ Unstack(B,E)
+6406532754958. ❌ Stack(D,C)
+6406532754959. ✅ Stack(D,A)
+
+Question Number : 116 Question Id : 640653820779 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question

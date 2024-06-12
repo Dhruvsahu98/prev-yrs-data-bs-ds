@@ -1,0 +1,32 @@
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+22, 32, 24
+32, 24, 38
+
+Question Number : 110 Question Id : 640653820771 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the final value of the start node S?
+
+Enter a number.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format: 42
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+38
+
+Sub-Section Number : 6
+Sub-Section Id : 640653120740
+Question Shuffling Allowed : No
+Is Section Default? : null

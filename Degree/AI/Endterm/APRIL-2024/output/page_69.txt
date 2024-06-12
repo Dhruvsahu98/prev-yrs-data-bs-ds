@@ -1,0 +1,23 @@
+6406532754900. ✅ 9
+6406532754901. ❌ 10
+6406532754902. ❌ 11
+6406532754903. ❌ 12
+
+**AI**
+Section Id : 64065357825
+Section Number : 4
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 9
+Number of Questions to be attempted : 9
+Section Marks : 25
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653120735
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Number : 93 Question Id : 640653820750 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

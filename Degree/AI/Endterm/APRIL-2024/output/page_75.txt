@@ -1,0 +1,45 @@
+Each node in the search tree displays an edge (either XY or ~XY), a cost value, and a unique reference number (a1, b1, b2, c1, c2, d1, d2, e1, e2, e3, e4). Use the reference numbers to break ties. When required, enter the reference numbers in short answers.
+
+What information can you glean from the search tree? Answer the sub-questions based on the information gleaned from the search tree.
+
+```python
+# Python code block
+```
+
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+a1 & SO & 380 \\
+\hline
+b1 & DE & 380 \\
+\hline
+b2 & ~DE & 422 \\
+\hline
+c1 & BC & 380 \\
+\hline
+c2 & ~BC & 406 \\
+\hline
+d1 & BE & 395 \\
+\hline
+d2 & ~BE & 398 \\
+\hline
+e1 & AD & 454 \\
+\hline
+e2 & ~AD & 402 \\
+\hline
+e3 & BD & 434 \\
+\hline
+e4 & ~BD & 428 \\
+\hline
+\end{tabular}
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 100 Question Id : 640653820759 Question Type : SA Calculator : None 
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+
+Let SO (ref. no. a1) be the first node to be refined, identify the next 4 nodes (2nd to 5th node) that are refined by the TSP Branch-and-Bound algorithm. Enter the nodes (node reference numbers) in the order they are refined.

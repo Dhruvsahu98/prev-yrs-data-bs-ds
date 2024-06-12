@@ -1,0 +1,17 @@
+In the planning graph, which of the following are mutex action pairs in Layer 1?
+Options :
+6406532754960. ❌ Unstack(B, C), Putdown(D)
+6406532754961. ✅ Stack(D, A), Putdown(D)
+6406532754962. ❌ Stack(D, A), NOP-ACTION for armEmpty
+6406532754963. ✅ Stack(D, A), Stack(D, E)
+6406532754964. ❌ Pickup(A), Putdown(D)
+
+Question Number : 117 Question Id : 640653820780 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+In the planning graph, which of the following are mutex proposition pairs in Layer 1?
+Options :
+6406532754965. ❌ on(D, A), armEmpty
+6406532754966. ✅ on(D, A), onTable(D)
+6406532754967. ✅ on(D, A), on(D, B)
+6406532754968. ❌ holding(D), clear(A)

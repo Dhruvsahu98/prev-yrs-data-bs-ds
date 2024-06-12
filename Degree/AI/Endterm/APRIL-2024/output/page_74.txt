@@ -1,0 +1,25 @@
+6406532754919. ❌ None of these.
+
+Question Number : 99 Question Id : 640653820757 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What can you say about the heuristic function for the given graph?
+
+Options :
+6406532754920. ❌ Admissible.
+6406532754921. ✅ Inadmissible.
+6406532754922. ❌ Partly admissible and partly inadmissible.
+6406532754923. ❌ Cannot be determined.
+
+Sub-Section Number : 3
+Sub-Section Id : 640653120737
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653820758 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (100 to 103)
+Question Label : Comprehension
+
+**TSP Branch-and-Bound**
+
+The TSP Branch-and-Bound algorithm is solving a TSP instance where the cities are A, B, C, .... and so on. The Branch-and-Bound search tree at the time when the algorithm has discovered the optimal tour is shown below.

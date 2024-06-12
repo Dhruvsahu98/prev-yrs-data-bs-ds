@@ -1,0 +1,24 @@
+Question Label : Multiple Choice Question
+Which of the following rule-data tuples are in the conflict-set?
+Options :
+6406532754938.  ❌ R1,105
+6406532754939.  ✅ R2,103,106
+6406532754940.  ❌ R4,102,103
+6406532754941.  ❌ R5,102
+
+Question Number : 112 Question Id : 640653820774 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If the Inference Engine uses **Specificity** as the conflict resolution strategy then which of the following rule-data tuples will qualify?
+Options :
+6406532754942.  ❌ R1,105
+6406532754943.  ✅ R3,101,104
+6406532754944.  ❌ R4,102,103
+6406532754945.  ❌ R5,102
+
+Question Number : 113 Question Id : 640653820775 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If the Inference Engine uses **Recency** as the conflict resolution strategy then which of the following rule-data tuples will qualify?

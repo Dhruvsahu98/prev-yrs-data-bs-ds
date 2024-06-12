@@ -1,0 +1,41 @@
+**Note:** A 2D line drawing of trihedral objects is considered to be consistent if all the edges and junctions can be assigned labels that are consistent with each other, otherwise the drawing is considered to be inconsistent and all labels are reset to NIL.
+
+Apply a suitable algorithm to assign consistent labels to edges/junctions in the 2D line drawings in the sub-questions. Choose a suitable edge and junction order for solving the problems.
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number : 118 Question Id : 640653820782 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1**
+
+**Question Label : Short Answer Question**
+
+Assign consistent labels to all the edges and junctions in the 2D line drawing shown below. Enter the labels of the junctions 1, 2, 3, 4 in the text box, in that order. Otherwise enter NIL if the drawing has no consistent label assignment.
+
+```python
+# code block
+```
+
+\begin{tikzpicture}[scale=0.8]
+\draw (0,0) -- (2,0) -- (3,1.5) -- (2,3) -- (0,2) -- cycle;
+\draw (2,3) -- (2,1.5);
+\node at (0,0) [left] {3};
+\node at (2,0) [right] {1};
+\node at (3,1.5) [right] {6};
+\node at (2,3) [above] {5};
+\node at (0,2) [left] {4};
+\node at (1,1.5) [left] {7};
+\node at (2,1.5) [below] {2};
+\end{tikzpicture}
+
+Enter a comma separated list of junction labels, or enter NIL.
+
+**NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.**
+
+**Answer format: Y9,T9,W9,L9**
+
+**Response Type : Alphanumeric**
+
+**Evaluation Required For SA : Yes**

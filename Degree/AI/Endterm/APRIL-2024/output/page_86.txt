@@ -1,0 +1,81 @@
+WME
+
+\begin{tabular}{|c|c|c|}
+\hline
+A1 & A2 & A3 \\
+\hline
+CLASS  & CLASS & CLASS \\
+= Convex & = Plane & = Concave \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|c|}
+\hline
+A4 & A5 & A6 \\
+\hline
+itemNo  & itemNo & itemNo \\
+= $<n>$ & = $<n>$ & = $<n>$ \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+A7 & A8 \\
+\hline
+radius  & radius \\
+= $<a>$ & = <b> \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+A9 & A10 & A11 & A12 & A13 & A14 \\
+\hline
+sides  & sides & sides & sides & sides & sides \\
+= 2 & = 1 & = 1 & = 1 & = 1 & = 1 \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|}
+\hline
+A15 \\
+\hline
+sides \\
+= 2 \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+R1 & B1 & B2 & B3 & R5 & R6 \\
+\hline
+ & = $<n>$ &  & = $<n>$ &  &  \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+R2 & B4 & B5 & R4 \\
+\hline
+ & $<a>$ < <b> &  &  \\
+\hline
+\end{tabular}
+
+R3
+
+Run the Rete algorithm for the Working Memory shown below, the WMEs are in timestamp order. Assume that WMEs reside at appropriate Alpha nodes, and the Beta nodes point to WMEs residing in Alpha nodes.
+
+101. (Concave ^itemNo K3 ^radius 70 ^sides 1)
+102. (Concave ^itemNo K7 ^radius 10 ^sides 3)
+103. (Convex ^itemNo K2 ^radius 60 ^sides 1)
+104. (Convex ^itemNo K3 ^radius 50 ^sides 1)
+105. (Convex ^itemNo K4 ^radius 20 ^sides 4)
+106. (Plane ^itemNo K2 ^sides 1)
+107. (Concave ^itemNo K1 ^radius 80 ^sides 2)
+
+For each WME identify its location (node label) in the Rete Net, and prepare the conflict set for the first cycle, then answer the sub-questions.
+
+Sub questions
+
+Question Number : 111 Question Id : 640653820773 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1

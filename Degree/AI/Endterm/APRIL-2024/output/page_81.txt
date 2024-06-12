@@ -1,0 +1,33 @@
+Possible Answers :
+C,F,G,I,J
+
+Question Number : 107 Question Id : 640653820767 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+
+List the leaf nodes solved (assigned SOLVED status) by SSS*.
+
+Enter a comma separated list of node labels in alphabetical order.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+Answer format: X,Y,Z
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+
+Possible Answers :
+A,D,E,H
+A,D,H,E
+
+Sub-Section Number : 5
+Sub-Section Id : 640653120739
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653820768 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (108 to 110)

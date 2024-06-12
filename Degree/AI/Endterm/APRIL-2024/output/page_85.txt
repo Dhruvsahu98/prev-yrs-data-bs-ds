@@ -1,0 +1,9 @@
+Question Id : 640653820772 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (111 to 113)
+Question Label : Comprehension
+RULE BASED EXPERT SYSTEMS
+
+A  Rete Net for classifying lenses based on surface properties (convex, concave, planar, radius of curvature, and number of sides) is shown in the figure. Each lens is uniquely identified by "itemNo" attribute, the remaining classes and attributes are self explanatory.
+
+A part of the Rete Net that classifies mushrooms (as edible or poisonous) is shown in the figure. The labels A1, A2, ..., A15, ..., B1, B2, ..., B5, R1, ..., R6 uniquely identify the nodes in the network. When required, use the above label ordering to **break ties** and to enter short answers.
+
+**Note:** beta nodes B4 and B5 compare the radius of curvature of two surfaces.

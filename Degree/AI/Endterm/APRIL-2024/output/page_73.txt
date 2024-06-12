@@ -1,0 +1,25 @@
+Question Number : 97 Question Id : 640653820755 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the path found by Branch-and-Bound search algorithm? Enter the path as a comma separated list of node labels.
+Use the Branch-and-Bound variation that avoids cyclic expansions like S,A,S,A,S,A....
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format:S,X,Y,Z
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+S,A,B,G
+Question Number : 98 Question Id : 640653820756 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+For the given map, which algorithm finds the shortest path from S to G?
+Options :
+6406532754916. ❌ Best First Search
+6406532754917. ❌ A* Search Algorithm
+6406532754918. ✅ Branch-and-Bound Search Algorithm

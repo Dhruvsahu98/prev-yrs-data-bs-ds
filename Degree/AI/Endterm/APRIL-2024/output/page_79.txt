@@ -1,0 +1,16 @@
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 104 Question Id : 640653820764 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following is a strategy for the MAX player?
+
+Options :
+6406532754928. ✅ A,C
+6406532754929. ❌ A,D,H
+6406532754930. ✅ D,F,G
+6406532754931. ❌ E,I,J
+
+Question Number : 105 Question Id : 640653820765 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

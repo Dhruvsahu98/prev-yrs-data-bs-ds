@@ -1,0 +1,14 @@
+Options :
+6406532754946.  R2,103,107
+6406532754947.  R3,101,104
+6406532754948.  R4,102,103
+6406532754949.  R6,107
+Sub-Section Number : 7
+Sub-Section Id : 640653120741
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653820776 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (114 to 117)
+Question Label : Comprehension
+**AUTOMATED PLANNING**
+The domain description of a Blocks World with a single one-armed robot is given below. This is the same domain used in the assignments.

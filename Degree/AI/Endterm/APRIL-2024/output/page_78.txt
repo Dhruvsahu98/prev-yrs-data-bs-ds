@@ -1,0 +1,20 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+A,C,B,E,D,F
+A,F,D,E,B,C
+Sub-Section Number : 4
+Sub-Section Id : 640653120738
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653820763 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (104 to 107)
+Question Label : Comprehension
+GAMES
+The figure shows a game tree with evaluation function values at the leaf nodes.
+The leaf nodes are labeled from A to J.
+Use these labels to enter a leaf node or a list of leaf nodes in short answers (textbox).
+**Tie-breaker:** when several nodes carry the same best cost then select the deepest node, if tie persists then select the leftmost of the deepest nodes.

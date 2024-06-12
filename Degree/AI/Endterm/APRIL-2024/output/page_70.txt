@@ -1,0 +1,30 @@
+Correct Marks : 0
+Question Label : Multiple Choice Question
+**THIS IS QUESTION PAPER FOR THE SUBJECT "DEGREE LEVEL : AI: SEARCH METHODS FOR PROBLEM SOLVING (COMPUTER BASED EXAM)"**
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE **TOP** FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+6406532754908.  ✅ YES
+6406532754909.  ❌ NO
+Question Number : 94 Question Id : 640653820751 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+```python
+# Code Block
+```
+<div align="center">
+<font size = "5">
+<font color = "green">
+ASK FOR PRINTED
+GRAPH SHEETS
+10 PAGES TWO-SIDE PRINT
+</font>
+</font>
+</div>
+Options :
+6406532754910.  ✅ Printed graph sheets were provided to me.
+6406532754911.  ❌ Printed graph sheets were not provided to me.
+6406532754912.  ❌ I did not use graph sheets.
+Sub-Section Number : 2
+Sub-Section Id : 640653120736

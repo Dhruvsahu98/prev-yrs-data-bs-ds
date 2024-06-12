@@ -1,0 +1,67 @@
+# PREDICATES
+
+armEmpty The arm is not holding any block, it is empty.
+holding(X) The arm is holding X.
+onTable(X) X is on the table.
+clear(X) X has nothing above it, it is clear.
+on(X, Y) X is directly placed on Y.
+
+# OPERATORS
+
+Pickup(X): pick up X from the table.
+Preconditions: { armEmpty, clear(X), onTable(X) }
+Add Effects: { holding(X) }
+Del Effects: { armEmpty, onTable(X) }
+
+Putdown(X): place X on the table.
+Preconditions: { holding(X) }
+Add Effects: { armEmpty, onTable(X) }
+Del Effects: { holding(X) }
+
+Unstack(X, Y): pick up X that is directly sitting on Y.
+Preconditions: { armEmpty, clear(X), on(X, Y) }
+Add Effects: { clear(Y), holding(X) }
+Del Effects: { armEmpty, on(X, Y) }
+
+Stack(X, Y): place X directly on top of Y.
+Preconditions: { holding(X), clear(Y) }
+Add Effects: { armEmpty, on(X, Y) }
+Del Effects: { holding(X), clear(Y) }
+
+Consider the planning problem with the following start state and goal description.
+
+\begin{tabular}{|c|c|c|}
+\hline
+\multicolumn{3}{|c|}{Start State} \\
+\hline
+D & B &  \\
+\hline
+A & C & E \\
+\hline
+\multicolumn{3}{|c|}{Table} \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|c|}
+\hline
+\multicolumn{3}{|c|}{Goal Description} \\
+\hline
+B & D &  \\
+\hline
+A & C &  \\
+\hline
+\multicolumn{3}{|c|}{Table} \\
+\hline
+\end{tabular}
+
+{ holding(D), clear(D), clear(A), clear(B), clear(E), on(B, C), onTable(A), onTable(C), onTable(E) }
+
+{ holding(B), on(D, A), on(A, C) }
+
+Based on the above data, answer the given subquestions.
+
+# Sub questions
+
+Question Number : 114 Question Id : 640653820777 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Max. Selectable Options : 0
