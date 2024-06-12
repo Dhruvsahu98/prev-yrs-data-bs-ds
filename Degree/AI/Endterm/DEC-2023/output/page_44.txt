@@ -1,0 +1,21 @@
+AI
+Section Id : 64065349322
+Section Number : 3
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 9
+Number of Questions to be attempted : 9
+Section Marks : 25
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653103733
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Number : 55 Question Id : 640653699250 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DEGREE LEVEL : AI: SEARCH METHODS FOR PROBLEM SOLVING (COMPUTER BASED EXAM)"

@@ -1,0 +1,42 @@
+**I did not use graph sheets.**
+
+Sub-Section Number : 3
+Sub-Section Id : 640653103735
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653699252 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Question Numbers : (57 to 61)
+Question Label : Comprehension
+
+SEARCH
+
+The figure shows a map on a uniform grid where each tile is 1x1 in size.
+The start node is S and the goal node is G.
+The MoveGen function returns nodes in alphabetical order.
+Use Manhattan Distance as the heuristic function.
+Tie-breaker: If several nodes have the same cost, use node labels to break the tie.
+
+```python
+#  Insert your code here
+```
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+&  &  &  &  &  &  &  \\
+\hline
+&  &  &  &  &  &  &  \\
+\hline
+&  &  &  &  &  &  &  \\
+\hline
+&  &  &  &  &  &  &  \\
+\hline
+&  &  &  &  &  &  &  \\
+\hline
+&  &  &  &  &  &  &  \\
+\hline
+&  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+
+Based on the above data, answer the given subquestions.

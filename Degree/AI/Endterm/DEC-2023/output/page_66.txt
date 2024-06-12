@@ -1,0 +1,25 @@
+Question Label : Multiple Select Question
+Which of the following are **relevant** actions in the goal state?
+**Options :**
+6406532335091.  ❌ Unstack (A,B)
+6406532335092.  ❌ Unstack (C,D)
+6406532335093.  ✅ Putdown (B)
+6406532335094.  ✅ Stack (C,B)
+6406532335095.  ✅ Stack (A,C)
+
+Question Number : 78 Question Id : 640653699279 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+In the planning graph, which of the following are mutex action pairs in Layer 1?
+**Options :**
+6406532335096.  ✅ Unstack(A,B), Unstack(C,D)
+6406532335097.  ✅ Unstack(C,D), NOP-ACTION for armEmpty
+6406532335098.  ✅ Unstack(A,B), NOP-ACTION for on(A,B)
+6406532335099.  ❌ Putdown(B), Stack(C,B)
+6406532335100.  ❌ Stack(A,C), Stack(C,B)
+
+Question Number : 79 Question Id : 640653699280 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question

@@ -1,0 +1,24 @@
+In the planning graph, which of the following are mutex proposition pairs in Layer 1?
+
+**Options :**
+
+6406532335101.  ✅ clear (B), armEmpty
+6406532335102. ✅ holding (A), clear (D)
+6406532335103. ❌ armEmpty, on (A,B)
+6406532335104. ❌ on (A,B), on (C,D)
+
+**Sub-Section Number :** 7
+**Sub-Section Id :** 640653103739
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null
+
+**Question Id :** 640653699281 **Question Type :** COMPREHENSION **Sub Question Shuffling Allowed :** No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+**Question Numbers :** (80 to 81)
+**Question Label :** Comprehension
+
+**CONSTRAINT SATISFACTION**
+
+The set of junctions (L, W, Y and T type junctions) that occur in a 2D line drawing of trihedral objects is provided below. The in-plane clockwise/counterclockwise rotations of these junctions are valid as well. These junctions provide constraints on the possible edge assignments (convex, concave, arrow) for the edges/lines in 2D line drawings of trihedral objects.
+
+The junctions carry unique labels: L1, L2, L3, L4, L5, L6, T1, T2, T3, T4, W1, W2, W3, Y1, Y2, Y3. When required, use the labels in short answers.

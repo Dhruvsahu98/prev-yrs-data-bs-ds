@@ -1,0 +1,35 @@
+C,E,F,I
+
+Question Number : 69 Question Id : 640653699267 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+List the horizon nodes not processed (neither LIVE nor SOLVED) by SSS*.
+
+Enter a comma separated list of node labels in alphabetical order.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+Answer format: X,Y,Z
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+
+B,C,E,F,I
+
+Sub-Section Number : 5
+Sub-Section Id : 6406531037
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653699268 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (70 to 72)
+Question Label : Comprehension
+
+PROBLEM DECOMPOSITION

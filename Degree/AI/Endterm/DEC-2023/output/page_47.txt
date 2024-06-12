@@ -1,0 +1,21 @@
+Sub questions
+**Question Number : 57 Question Id : 640653699253 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 1**
+Question Label : Short Answer Question
+What is the path found by the Best First search algorithm? Enter the path as a comma separated list of node labels.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+**Answer format: S,X,Y,Z**
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+S,A,B,F,G
+**Question Number : 58 Question Id : 640653699254 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 1**
+Question Label : Short Answer Question
+What is the path found by A\* search algorithm? Enter the path as a comma separated list of node labels.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+**Answer format: S,X,Y,Z**
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes

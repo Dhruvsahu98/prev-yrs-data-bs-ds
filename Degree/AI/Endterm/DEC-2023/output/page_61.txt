@@ -1,0 +1,30 @@
+201. (Mushroom ^specimen B43 ^odour ALMOND ^sp-colour BROWN)
+202. (Stalk ^specimen B43 ^br-surface SMOOTH)
+203. (Mushroom ^specimen K13 ^odour NONE ^habitat LEAVES)
+204. (Cap ^specimen A23 ^colour RED ^surface SMOOTH)
+205. (Mushroom ^specimen B37 ^odour NONE ^habitat LEAVES)
+206. (Cap ^specimen B37 ^colour WHITE ^surface SMOOTH)
+207. (Stalk ^specimen A23 ^root BULBOUS ^ar-colour WHITE)
+208. (Stalk ^specimen K13 ^br-surface SCALY ^ar-colour WHITE)
+209. (Mushroom ^specimen A23 ^odour NONE ^sp-colour WHITE)
+
+For each WME identify its location (node label) in the Rete Net, and prepare the conflict set for the first cycle, then answer the given subquestions.
+
+Sub questions
+
+Question Number : 73 Question Id : 640653699273 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Which of the following rule-data tuples are in the conflict-set?
+
+Options :
+6406532335068.  R1,205,206
+6406532335069.  R2,209
+6406532335070.  R3,204,207
+6406532335071.  R4,203,208
+6406532335072.  R1,203,206
+6406532335073.  R4,205,208
+
+Question Number : 74 Question Id : 640653699274 Question Type : MSQ Is Question

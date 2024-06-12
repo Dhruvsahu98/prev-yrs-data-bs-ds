@@ -1,0 +1,28 @@
+Question Label : Short Answer Question
+List the horizon nodes in the best strategy for MAX. Enter the node labels in alphabetical order.
+Enter a comma separated list of node labels in alphabetical order.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+**Answer format: X,Y,Z**
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+G,H
+Question Number : 68 Question Id : 640653699266 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+List the horizon nodes pruned by Alpha-Beta.
+Enter a comma separated list of node labels in alphabetical order.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+**Answer format: X,Y,Z**
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :

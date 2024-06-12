@@ -1,0 +1,21 @@
+Answer format: A,B,C
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+A,B,C,E,F,D
+A,D,F,E,C,B
+
+Question Id : 640653699263 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (66 to 69)
+Question Label : Comprehension
+GAMES
+
+The figure shows a game tree with evaluation function values at the horizon nodes.
+The horizon nodes are labeled from A to I.
+Use these labels to enter a horizon node or a list of horizon nodes in short answers (textbox).
+
+**Tie-breaker:** when several nodes carry the same best cost then select the deepest node, if tie persists then select the leftmost of the deepest nodes to break the tie.

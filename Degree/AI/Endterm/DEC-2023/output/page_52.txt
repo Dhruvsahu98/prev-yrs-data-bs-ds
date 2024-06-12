@@ -1,0 +1,29 @@
+Text Areas : PlainText
+Possible Answers :
+e1,432
+
+Question Number : 64 Question Id : 640653699261 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Question
+Determine the number of cities in the TSP instance. Enter the number of cities in the text box, or enter NIL if it is not possible to determine the number of cities.
+Enter an integer.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format: 42
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+
+Question Number : 65 Question Id : 640653699262 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Question
+Start from city A, what is the path representation of the optimal tour? Enter the path representation in the text box, or enter NIL if it is not possible to determine the optimal tour.
+Enter a comma separated list of cities (city labels).
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.

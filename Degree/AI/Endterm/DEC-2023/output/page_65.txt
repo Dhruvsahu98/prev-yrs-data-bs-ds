@@ -1,0 +1,27 @@
+##  
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad  \qquad \qquad \qquad \qquad \qquad  \top$
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad  \begin{bmatrix} A \\ B \end{bmatrix} \qquad \begin{bmatrix} C \\ D \end{bmatrix}$
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \longrightarrow $
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad $ **Start State**
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad $ {armEmpty, on(A,B), on(C,D), clear(A), clear(C), onTable(B), onTable(D) }
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad  \top$
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad  \begin{bmatrix} A \\ C \\ B \end{bmatrix}$
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \longrightarrow $
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad $ **Goal Description**
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad $ { on(A,C), on(C,B), onTable(B) } 
+Based on the above data, answer the given subquestions.
+**Sub questions**
+**Question Number : 76 Question Id : 640653699277 Question Type : MSQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 1 Max. Selectable Options : 0**
+**Question Label : Multiple Select Question**
+Which of the following are applicable actions in the start state?
+**Options :**
+6406532335086. $\checkmark$ Unstack (A,B)
+6406532335087. $\checkmark$ Unstack (C,D)
+6406532335088. $\times$ Putdown (B)
+6406532335089. $\times$ Stack (C,B)
+6406532335090. $\times$ Stack (A,C)
+**Question Number : 77 Question Id : 640653699278 Question Type : MSQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 1 Max. Selectable Options : 0**

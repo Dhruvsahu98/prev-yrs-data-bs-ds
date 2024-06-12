@@ -1,0 +1,34 @@
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406532335039. ✅ YES
+6406532335040. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 640653103734
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 56 Question Id : 640653699251 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+Printed graph sheets (hard copy) will be provided for registered candidates only.
+
+```python
+# This is a code block
+print("Hello, world!")
+```
+
+ASK FOR PRINTED
+GRAPH SHEETS
+10 PAGES TWO-SIDE PRINT
+
+Options :
+6406532335041. ✅ Printed graph sheets were provided to me.
+6406532335042. ❌ Printed graph sheets were not provided to me.
+6406532335043. 

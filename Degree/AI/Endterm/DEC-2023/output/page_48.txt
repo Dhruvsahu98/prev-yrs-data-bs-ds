@@ -1,0 +1,29 @@
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+S,C,B,F,G
+
+Question Number : 59 Question Id : 640653699255 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the path found by Branch-and-Bound search algorithm? Enter the path as a comma separated list of node labels. 
+
+Use the Branch-and-Bound variation that avoids cyclic expansions like S,A,S,A,S,A,....
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format: S,X,Y,Z
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+S,C,D,E,H,I,G
+
+Question Number : 60 Question Id : 640653699256 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1

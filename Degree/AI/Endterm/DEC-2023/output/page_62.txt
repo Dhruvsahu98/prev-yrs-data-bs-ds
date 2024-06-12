@@ -1,0 +1,23 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+If the Inference Engine uses **Specificity** as the conflict resolution strategy then which of the following rule-data tuples will qualify? 
+Options : 
+6406532335074. ❌ R1,205,206
+6406532335075. ❌ R2,209
+6406532335076. ✅ R3,204,207
+6406532335077. ✅ R4,203,208
+6406532335078. ❌ R1,203,206
+6406532335079. ❌ R4,205,208
+
+Question Number : 75 Question Id : 640653699275 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If the Inference Engine uses **Recency** as the conflict resolution strategy then which of the following rule-data tuples will qualify? 
+Options :
+6406532335080. ❌ R1,205,206
+6406532335081. ✅ R2,209
+6406532335082. ❌ R3,204,207
+6406532335083. ❌ R4,203,208
+6406532335084. ❌ R1,203,206
