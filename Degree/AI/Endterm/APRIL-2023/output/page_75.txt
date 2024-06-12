@@ -1,0 +1,115 @@
+A12, A13,..., and B1, B2, B3 uniquely identify nodes in the network. When required, use the above label ordering to **break ties** and to enter short answers.
+
+WME
+
+\begin{tabular}{c|c|c|c}
+\multicolumn{4}{c}{ } \\
+\begin{tabular}{c}
+A1 \\
+\hline
+CLASS \\
+= Wheel
+\end{tabular} & \begin{tabular}{c}
+A2 \\
+\hline
+CLASS \\
+= Passenger
+\end{tabular} & \begin{tabular}{c}
+A3 \\
+\hline
+CLASS \\
+= Power
+\end{tabular} & \begin{tabular}{c}
+A4 \\
+\hline
+CLASS \\
+= Cargo
+\end{tabular} \\
+\multicolumn{4}{c}{ } \\
+\begin{tabular}{c}
+A5 \\
+\hline
+vin \\
+= \textless{}v\textgreater{}
+\end{tabular} & \begin{tabular}{c}
+A6 \\
+\hline
+vin \\
+= \textless{}v\textgreater{}
+\end{tabular} & \begin{tabular}{c}
+A7 \\
+\hline
+vin \\
+= \textless{}v\textgreater{}
+\end{tabular} & \begin{tabular}{c}
+A8 \\
+\hline
+vin \\
+= \textless{}v\textgreater{}
+\end{tabular} \\
+\multicolumn{4}{c}{ } \\
+\begin{tabular}{c}
+A9 \\
+\hline
+tyre \\
+= slick
+\end{tabular} & \begin{tabular}{c}
+A10 \\
+\hline
+tyre \\
+= regular
+\end{tabular} & \begin{tabular}{c}
+A11 \\
+\hline
+limit \\
+= 1
+\end{tabular} & \begin{tabular}{c}
+A12 \\
+\hline
+limit \\
+= 2
+\end{tabular} \\
+\multicolumn{4}{c}{ } \\
+\begin{tabular}{c}
+A13 \\
+\hline
+hp \\
+$\geq$ 700
+\end{tabular} & \begin{tabular}{c}
+A14 \\
+\hline
+hp \\
+$\geq$ 300
+\end{tabular} & \begin{tabular}{c}
+A15 \\
+\hline
+hp \\
+$\leq$ 500
+\end{tabular} & \begin{tabular}{c}
+A16 \\
+\hline
+bed \\
+= \textless{}x\textgreater{}
+\end{tabular}
+\end{tabular}
+
+\begin{tabular}{c|c|c}
+\multicolumn{3}{c}{ } \\
+\begin{tabular}{c}
+B1 \\
+\hline
+= \textless{}v\textgreater{}
+\end{tabular} & \begin{tabular}{c}
+B2 \\
+\hline
+= \textless{}v\textgreater{}
+\end{tabular} & \begin{tabular}{c}
+B3 \\
+\hline
+= \textless{}v\textgreater{}
+\end{tabular} \\
+\multicolumn{3}{c}{ } \\
+F1-Car & Luxury-Car & Truck
+\end{tabular}
+
+Run the Rete algorithm for the Working Memory shown below, the WMEs are in timestamp order. Assume that WMEs reside at appropriate Alpha nodes, and the Beta nodes point to WMEs residing in Alpha nodes.

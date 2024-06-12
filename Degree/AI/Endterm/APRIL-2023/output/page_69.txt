@@ -1,0 +1,33 @@
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 91 Question Id : 640653564711 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is a strategy for MAX?
+
+Options :
+6406531887631. ❌ A,B
+6406531887632. ❌ A,B,E,F,I,J
+6406531887633. ✅ F,H
+6406531887634. ❌ A,E,I,K
+
+Question Number : 92 Question Id : 640653564712 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+List the horizon nodes in the best strategy for MAX. Enter the nodes in the ascending order of
+
+```python
+#Please provide the code here
+```
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+18 & 69 & 30 & 53 & 15 & 27 & 98 & 14 & 19 & 37 & 61 & 68 \\
+\hline
+A & B & C & D & E & F & G & H & I & J & K & L \\
+\hline
+\end{tabular}

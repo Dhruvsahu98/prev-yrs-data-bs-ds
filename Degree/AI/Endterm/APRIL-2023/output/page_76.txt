@@ -1,0 +1,31 @@
+101. (Cargo ^vin A1 ^bed flat)
+102. (Passenger ^vin A1 ^limit 2)
+103. (Passenger ^vin B2 ^limit 2)
+104. (Passenger ^vin C3 ^limit 1)
+105. (Power ^vin A1 ^hp 400)
+106. (Power ^vin B2 ^hp 800)
+107. (Power ^vin C3 ^hp 900)
+108. (Wheel ^vin B2 ^tyre regular)
+109. (Wheel ^vin C3 ^tyre slick)
+
+For each WME identify its location (node label) in the Rete Net, and prepare the conflict set for the first cycle, then answer the given subquestions.
+
+Sub questions
+
+Question Number : 98 Question Id : 640653564720 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Which of the following rule-data tuples are in the conflict-set?
+
+Options :
+6406531887641.  F1-Car,104,107,109
+6406531887642.  Luxury-Car,103,106,108
+6406531887643.  Truck,101,102,105
+6406531887644.  Truck,101,103,106
+
+Question Number : 99 Question Id : 640653564721 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question

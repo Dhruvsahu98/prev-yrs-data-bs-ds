@@ -1,0 +1,39 @@
+The figure shows an AND-OR graph that depicts how a problem S can be decomposed into one or more simpler problems. Nodes are uniquely identified by labels (S, A, B, ...). The number in each node is the heuristic estimate of the cost of solving that node.
+
+Nodes shown in double lines are primitive nodes and their values are actual costs. Observe that a primitive node is added to the graph by its parent when the parent is expanded, and the primitive node is labelled as SOLVED and it will not be expanded subsequently.
+
+The cost of each edge is 2 units.
+
+**Tie-breaker 1:** For nodes with the same cost, expand in the ascending order of node labels.
+
+**Tie-breaker 2:** For AND nodes, expand the unsolved branch with the highest cost.
+
+\begin{tikzpicture}[scale=0.8]
+\tikzstyle{every node}=[draw, circle, minimum size=1cm]
+\node (S) at (0,0) {S} node[below=0.2cm] {30};
+\node (A) at (-2,-1) {A} node[below=0.2cm] {38};
+\node (B) at (0,-2) {B} node[below=0.2cm] {12};
+\node (C) at (2,-1) {C} node[below=0.2cm] {20};
+\node (D) at (-3,-3) [double] {D} node[below=0.2cm] {30};
+\node (E) at (-1,-4) {E} node[below=0.2cm] {20};
+\node (F) at (1,-3) {F} node[below=0.2cm] {10};
+\node (G) at (-1,-6) [double] {G} node[below=0.2cm] {10};
+\node (H) at (1,-6) [double] {H} node[below=0.2cm] {20};
+
+\draw (S) -- (A);
+\draw (S) -- (B);
+\draw (S) -- (C);
+\draw (A) -- (D);
+\draw (B) -- (E);
+\draw (B) -- (F);
+\draw (E) -- (G);
+\draw (F) -- (H);
+\end{tikzpicture}
+
+Use AO* algorithm to solve S, then answer the given subquestions.
+
+Sub questions
+
+Question Number : 95 Question Id : 640653564716 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1

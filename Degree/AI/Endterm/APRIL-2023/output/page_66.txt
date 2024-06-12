@@ -1,0 +1,53 @@
+Sub-Section Number : 4
+Sub-Section Id : 6406538059
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653564706 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (88 to 90)
+Question Label : Comprehension
+SEARCH FOR OPTIMAL SOLUTION
+The figure shows a map on a uniform grid where each tile is 10x10 in size. The start node is S and the goal node is G and the cost of each edge is 15 units. The MoveGen function returns nodes in alphabetical order. Use Manhattan Distance as the heuristic function. Where necessary, use node labels to break ties.
+
+\begin{tikzpicture}[scale=0.7, every node/.style={circle, draw}]
+  \node (S) at (0,0) [red,thick] {S};
+  \node (A) at (0,2) {A};
+  \node (B) at (2,0) {B};
+  \node (C) at (2,2) {C};
+  \node (D) at (2,4) {D};
+  \node (E) at (4,4) {E};
+  \node (F) at (4,2) {F};
+  \node (G) at (6,0) [red,thick] {G};
+  \node (H) at (4,6) {H};
+  \node (K) at (4,4) {K};
+  \node (L) at (6,4) {L};
+  \node (M) at (4,0) {M};
+  
+  \draw[gray,thick] (S) -- (A);
+  \draw[gray,thick] (S) -- (B);
+  \draw[gray,thick] (A) -- (C);
+  \draw[gray,thick] (B) -- (C);
+  \draw[gray,thick] (C) -- (D);
+  \draw[gray,thick] (C) -- (E);
+  \draw[gray,thick] (C) -- (F);
+  \draw[gray,thick] (D) -- (E);
+  \draw[gray,thick] (E) -- (F);
+  \draw[gray,thick] (E) -- (H);
+  \draw[gray,thick] (F) -- (K);
+  \draw[gray,thick] (G) -- (L);
+  \draw[gray,thick] (G) -- (M);
+  \draw[gray,thick] (H) -- (K);
+  \draw[gray,thick] (K) -- (L);
+  \draw[gray,thick] (K) -- (M);
+  
+  \draw[blue,dashed] (-0.5,0.5) rectangle (2.5,2.5);
+  \draw[blue,dashed] (3.5,0.5) rectangle (6.5,2.5);
+  \draw[blue,dashed] (3.5,3.5) rectangle (6.5,6.5);
+  \node at (4.5,4) {$10 \times 10$};
+  
+\end{tikzpicture}
+
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 88 Question Id : 640653564707 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1

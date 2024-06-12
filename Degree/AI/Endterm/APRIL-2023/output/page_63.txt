@@ -1,0 +1,33 @@
+**Question Number : 83 Question Id : 640653564701 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 1**
+**Question Label : Short Answer Question**
+
+Determine the number of cities in the TSP instance. Enter the number of cities in the text box, or enter NIL if it is not possible to determine the number of cities.
+
+Enter an integer.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+**Answer format: 42**
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Equal**
+**Text Areas : PlainText**
+**Possible Answers :**
+5
+
+**Question Number : 84 Question Id : 640653564702 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 1**
+**Question Label : Short Answer Question**
+
+Let S0 (ref. no. a1) be the first node to be refined, identify the next 4 nodes (2nd to 5th node) that are refined by the TSP BnB algorithm. Enter the nodes (node reference numbers) in the order they are refined.
+
+Enter a comma separated list of node reference numbers.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+**Answer format: a9,b9,c9,d9**
+**Response Type : Alphanumeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**

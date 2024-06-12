@@ -1,0 +1,21 @@
+6406531887668. ✅ Unstack(D,A), Unstack(E,B)
+6406531887669. ❌ Pickup(C), Stack(A,B)
+6406531887670. ❌ Pickup(C), Stack(B,C)
+
+Question Number : 104 Question Id : 640653564727 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Selectable Option : 0
+Question Label : Multiple Select Question
+In the planning graph, which of the following are mutex proposition pairs in Layer 1?
+Options :
+6406531887671. ✅ clear(A), holding(E)
+6406531887672. ✅ clear(A), clear(B)
+6406531887673. ❌ clear(C), on(D,A)
+6406531887674. ❌ clear(C), holding(E)
+
+Sub-Section Number : 8
+Sub-Section Id : 6406538059
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653564728 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix

@@ -1,0 +1,29 @@
+Question Label : Short Answer Question
+SEARCH
+A MoveGen for a state space where S is the start node and G is the goal node is shown in the table. The MoveGen function returns nodes in the order as shown in the table. Use DFS and BFS to find a path from S to G. Note: DFS and BFS inspect only new nodes.
+
+X | MoveGen(X)
+------- | --------
+S | [A, B]
+A | [C, D, S]
+B | [D, G, S]
+C | [A, B, G, S]
+D | [A, B]
+G | [A, B, C, D]
+
+What is the path found by DFS? Enter the path as a comma separated list.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format: S,X,Y,Z
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+S,A,C,G
+Sub-Section Number : 3
+Sub-Section Id : 64065380594
+Question Shuffling Allowed : No
+Is Section Default? : null

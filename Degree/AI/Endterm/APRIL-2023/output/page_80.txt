@@ -1,0 +1,18 @@
+Correct Marks : 1 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following are relevant actions in the goal state?
+Options :
+6406531887660. ❌ Putdown (D)
+6406531887661. ❌ Unstack (D, A)
+6406531887662. ❌ Unstack (E, B)
+6406531887663. ❌ Pickup (C)
+6406531887664. ❌ Pickup (A)
+6406531887665. ✅ Stack (A, B)
+6406531887666. ✅ Stack (B, C)
+
+Question Number : 103 Question Id : 640653564726 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Selectable Option : 0
+Question Label : Multiple Select Question
+In the planning graph, which of the following are mutex action pairs in Layer 1?
+Options :
+6406531887667. ✅ Unstack (D, A), Pickup (C)

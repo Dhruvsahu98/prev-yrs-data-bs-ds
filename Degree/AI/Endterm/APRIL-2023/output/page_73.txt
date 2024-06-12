@@ -1,0 +1,35 @@
+Question Label : Short Answer Question
+List the first three nodes (including S) expanded by AO* algorithm. List the nodes in the order they are expanded. Observe that primitive nodes are not expanded.
+
+Enter a comma separated list of node labels. 
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+**Answer format:** X,Y,Z
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+
+S,C,F
+S,C,F,B
+
+Question Number : 96 Question Id : 640653564717 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+Determine the value of the start node S after each node expansion. Ignore the initial value of S and list the first three values of S computed from the first three node expansions.
+
+Enter a comma separated list of numbers. 
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+**Answer format:** 12,42,17
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set

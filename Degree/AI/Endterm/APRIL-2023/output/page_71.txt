@@ -1,0 +1,25 @@
+Question Number : 94 Question Id : 640653564714 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Force the MinMax value to 98 by changing the eval of only one horizon node. Select the horizon node that you want to change and select the smallest possible value for that node. Enter the node label and the new value as a comma separated list.
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+Answer format: X,17
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+E,98
+F,98
+Sub-Section Number : 6
+Sub-Section Id : 64065380597
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653564715 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (95 to 97)
+Question Label : Comprehension
+PROBLEM DECOMPOSITION

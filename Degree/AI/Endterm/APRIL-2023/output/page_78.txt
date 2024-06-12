@@ -1,0 +1,88 @@
+**Question Numbers : (101 to 104)**
+
+**Question Label : Comprehension**
+
+**AUTOMATED PLANNING**
+
+The domain description of a Blocks World with a single one-armed robot is given below.
+
+**PREDICATES**
+```python
+armEmpty
+holding(X)
+onTable(X)
+clear(X)
+on(X, Y)
+```
+The arm is not holding any block, it is empty.
+The arm is holding X.
+X is on the table.
+X has nothing above it, it is clear.
+X is directly placed on Y.
+
+**OPERATORS**
+
+```python
+Pickup(X). Pick up X from the table.
+Preconditions : {armEmpty, clear(X), onTable(X)}
+Add Effects : {holding(X)}
+Del Effects : {armEmpty, onTable(X)}
+
+Putdown(X). Place X on the table.
+Preconditions : {holding(X)}
+Add Effects : {armEmpty, onTable(X)}
+Del Effects : {holding(X)}
+
+Unstack(X, Y). Pick up X that is directly sitting on Y.
+Preconditions : {armEmpty, clear(X), on(X, Y)}
+Add Effects : {clear(Y), holding(X)}
+Del Effects : {armEmpty, on(X, Y)}
+
+Stack(X, Y). Place X directly on top of Y.
+Preconditions : {holding(X), clear(Y)}
+Add Effects : {armEmpty, on(X, Y)}
+Del Effects : {holding(X), clear(Y)}
+```
+
+Consider the following planning problem.
+
+**Start State**
+
+\begin{tikzpicture}[scale=0.8]
+\draw[gray,thick] (0,0) -- (4,0);
+\draw[gray,thick] (0,0.5) -- (4,0.5);
+\draw (1,0.5) rectangle (1.5,1);
+\draw (1.75,0.5) rectangle (2.25,1);
+\draw (2.5,0.5) rectangle (3,1);
+\draw (1,1) rectangle (1.5,1.5);
+\draw (1.75,1) rectangle (2.25,1.5);
+\draw (3,0.5) rectangle (3.5,1);
+\node at (1.25,0.75) {A};
+\node at (2,0.75) {B};
+\node at (2.75,0.75) {C};
+\node at (1.25,1.25) {D};
+\node at (2,1.25) {E};
+\draw (3,1.25) -- (3,1.75);
+\draw (2.75,1.75) -- (3.25,1.75);
+\draw (3,1.75) -- (3.25,1.75);
+\draw (3,1.75) -- (3,2.25);
+\node at (2.25,0) {Start State};
+\end{tikzpicture}
+
+$\{ onTable(A), onTable(B), onTable(C), \\ clear(D), clear(E), clear(C), \\ on(D,A), on(E,B), armEmpty\}$
+
+**Goal Description**
+
+\begin{tikzpicture}[scale=0.8]
+\draw[gray,thick] (0,0) -- (4,0);
+\draw[gray,thick] (0,0.5) -- (4,0.5);
+\draw (1.75,0.5) rectangle (2.25,1);
+\draw (1.75,1) rectangle (2.25,1.5);
+\draw (1.75,1.5) rectangle (2.25,2);
+\node at (2,0.75) {C};
+\node at (2,1.25) {B};
+\node at (2,1.75) {A};
+\node at (2.25,0) {Goal Description};
+\end{tikzpicture}
+
+$\{ on(B,C), on(A,B) \}$

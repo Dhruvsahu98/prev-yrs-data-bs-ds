@@ -1,0 +1,30 @@
+If the Inference Engine uses **Specificity** as the conflict resolution strategy then identify the rule-data tuple that will be ready to fire.
+
+**Options :**
+
+6406531887645. ❌ F1-Car,104,107,109
+6406531887646. ❌ Luxury-Car,103,106,108
+6406531887647. ✅ Truck,101,102,105
+6406531887648. ❌ Truck,101,103,106
+
+**Question Number :** 100 **Question Id :** 640653564722 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 1
+
+**Question Label :** Multiple Choice Question
+
+If the Inference Engine uses **Recency** as the conflict resolution strategy then identify the rule-data tuples that will be ready to fire. If multiple rule-data tuples qualify then choose one.
+
+**Options :**
+
+6406531887649. ✅ F1-Car,104,107,109
+6406531887650. ❌ Luxury-Car,103,106,108
+6406531887651. ❌ Truck,101,102,105
+6406531887652. ❌ Truck,101,103,106
+
+**Sub-Section Number :** 7
+**Sub-Section Id :** 64065380598
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null
+
+**Question Id :** 640653564723 **Question Type :** COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
