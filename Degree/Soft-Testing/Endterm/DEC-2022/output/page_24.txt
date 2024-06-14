@@ -1,0 +1,33 @@
+Question Number : 33 Question Id : 640653699206 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider a program that takes a number as input. If the input number is not an integer it generates an error. Otherwise, it identifies the integer as even or odd.
+
+Identify the number of equivalence classes for black box testing of the program.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+
+```python
+# Your code here
+```
+
+SW Testing
+Section Id : 64065349321
+Section Number : 2
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 19
+Number of Questions to be attempted : 19
+Section Marks : 100
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and 
+Clear Response : Yes

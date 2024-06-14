@@ -1,0 +1,36 @@
+Consider the code segment of a Java servlet below. The atomic sections are marked as $P_1$, $P_2$, $P_3$, ... 
+
+```python
+/*
+student_list, which is a collection of Student objects stores information of all the students applied for a course, student_roll and student_name store the roll number and name of students, and approval_status is true if the student is allowed for the course; otherwise, it is false that indicates the student is disallowed for the course
+*/
+ArrayList<Student> student_list = null;
+response.setContentType("text/html");
+PrintWriter out = response.getWriter();
+out.print("<HTML><HEAD><TITLE>");
+out.print("Eligible students");
+out.println("</TITLE></HEAD><BODY>");
+String cid = request.getParameter("CID");
+P_1 /*
+getStudents() considers the course ID (cid) of a course, runs a query in the database, and returns an ArrayList object containing the information for the students applied for the course
+*/
+student_list = getStudents(cid);
+P_2 if (student_list == null) {
+out.println("Invalid course ID/<BR>");
+} else {
+for (Student s : student_list) {
+if (approval_status == true) {
+/* print the student's roll number and name if the student is allowed for given course */
+out.println(student_roll + " : " + student_name + "<BR>");
+P_3 } else {
+P_4 }
+}
+P_5 }
+out.println("</BODY></HTML>");
+out.close();
+```
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 50 Question Id : 640653699244 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

@@ -1,0 +1,24 @@
+Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Identify the component expression corresponding to the given code.
+Options :
+6406532335015. ❌ $P_1 \cdot (P_2 | (P_3 | P_4)) \cdot P_5$
+6406532335016. ✅ $P_1 \cdot (P_2 | (P_3 | P_4))^* \cdot P_5$
+6406532335017. ❌ $P_1 \cdot (P_2 | (P_3 | P_4))^* \cdot P_5$
+6406532335018. ❌ $P_1 \cdot ((P_2 | P_3) | P_4) \cdot P_5$
+
+Question Number : 51 Question Id : 640653699245 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Identify the empty atomic section in the given code.
+Options :
+6406532335019. ❌ $P_2$
+6406532335020. ❌ $P_3$
+6406532335021. ✅ $P_4$
+6406532335022. ❌ $P_5$
+
+Sub-Section Number : 4
+Sub-Section Id : 640653103732
+Question Shuffling Allowed : Yes

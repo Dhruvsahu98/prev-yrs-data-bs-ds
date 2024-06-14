@@ -1,0 +1,39 @@
+6406532335004. ✅ State definition anomaly
+6406532335005. ❌ State definition inconsistency anomaly
+6406532335006. ❌ State visibility anomaly
+
+Question Number : 43 Question Id : 640653699241 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+
+Question Label : Multiple Choice Question
+Consider the following Java program.
+
+```python
+class X{
+    public void f() {}
+    public void g() {}
+}
+class Y extends X{
+    public void f() {}
+    public void g() {}
+    public void h() {}
+}
+class Z extends Y{
+    public void f() {}
+    public void i() {}
+}
+public class Test {
+    public static void main(String[] args) {
+        Z obj = new Z();
+        obj.f();
+        obj.g();
+        obj.h();
+        obj.i();
+    }
+}
+```
+Which of the following sets of the methods will be invoked in the above program?
+Options :
+6406532335007. ❌ {X::f(), X::g(), Y::h(), Z::i()}
+6406532335008. 

@@ -1,0 +1,41 @@
+Consider test-driven development (TDD) for a mobile app in which the user can register their electronics devices using the device code for availing services at a discounted price. One of the user story of the application is: "Device code validation: Invalid device codes can be recognized". The test cases for the user story "Device code validation" are provided below.
+
+```python
+import static org.junit.Assert.*;
+import org.junit.Test;
+
+public class DeviceCodeValidationTest {
+DeviceCodeValidation obj;
+
+@Test
+public void test() {
+obj = new DeviceCodeValidation();
+assertEquals(false, obj.isValid("AXB11"));
+assertEquals(true, obj.isValid("PRN20871"));
+assertEquals(false, obj.isValid("KB2022MY1121"));
+}
+}
+```
+
+Which of the following are the appropriate implementations for the user story?
+
+**Options:**
+
+```python
+public class DeviceCodeValidation {
+public boolean isValid(String code) {
+if (code.length() < 5) {
+System.out.println("code size less than minimum size allowed");
+return false;
+} else if (code.length() > 11) {
+System.out.println("code size more than maximum size allowed");
+return false;
+} else
+return true;
+}
+}
+```
+
+6406532335027. ❌
+
+6406532335028. ✅

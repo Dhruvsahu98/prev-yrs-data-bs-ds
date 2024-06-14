@@ -1,0 +1,23 @@
+6406532335024. ✖ Parameter level bypass testing
+6406532335025. ✖ Control flow level bypass testing
+6406532335026. ✖ User-session Data based Testing
+
+**Question Number : 46 Question Id : 640653699248 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 5 Question Label : Multiple Choice Question**
+
+Which of the following software metrics use Defect Removal Effectiveness (DRE) for tracking the defects in each phase of software development?
+
+**Options :**
+
+6406532335031. ✖ Project metrics
+6406532335032. ✖ Product quality Metrics
+6406532335033. ✖ Maintenance quality metrics
+6406532335034. ✔ In-process quality metrics
+
+**Question Number : 47 Question Id : 640653699249 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 5 Question Label : Multiple Choice Question**
+
+Which of the following is the goal of stress testing?
+
+**Options :**
+
+6406532335035. ✖ To compare two systems to find which performs better.
+6406532335036. ✔ To determine how the system performs if the current load goes well above the expected maximum.

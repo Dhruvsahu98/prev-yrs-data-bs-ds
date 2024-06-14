@@ -1,0 +1,45 @@
+6406532335037. ✖ To identify and measure which parts of the system or workload cause the system to perform badly. 
+6406532335038. ✖ To demonstrate that the system meets performance criteria. 
+
+Sub-Section Number : 3
+Sub-Section Id : 640653103731
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653699237 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (48 to 49)
+Question Label : Comprehension
+
+Consider the truth table for predicate 
+$p = (a \lor b) \lor (a \land c)$ given below.
+
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+Row\# & $a$ & $b$ & $c$ & $p$ & $p_a$ & $p_c$ \\
+\hline
+1 & $T$ & $T$ & $T$ & $T$ & & \\
+\hline
+2 & $T$ & $T$ & & $T$ & & \\
+\hline
+3 & $T$ & & $T$ & $T$ & $T$ & \\
+\hline
+4 & $T$ & & & $T$ & $T$ & \\
+\hline
+5 & & $T$ & $T$ & $T$ & & \\
+\hline
+6 & & $T$ & & $T$ & & \\
+\hline
+7 & & & $T$ & & $T$ & \\
+\hline
+8 & & & & & $T$ & $T$ \\
+\hline
+\end{tabular}
+
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 48 Question Id : 640653699238 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+
+Question Label : Multiple Choice Question

@@ -1,0 +1,40 @@
+6406532334971. ✖ [1, 2, 3, 4, 5, 7]
+6406532334972. ✖ [2, 6, 7]
+6406532334973. ✖ [3, 4, 5]
+6406532334974. ✔ [2, 3, 4, 5, 7]
+
+**Question Number :** 38 **Question Id :** 640653699232 **Question Type :** MCQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 5
+
+**Question Label :** Multiple Choice Question
+
+Consider the following code segment. 
+
+```python
+//code base 
+int squareIt(int n) {
+	return n * n;
+}
+
+int doubleIt(int n) {
+	return 2 * n;
+}
+
+int evaluate(int x, int y, int z) {
+	int t1 = squareIt(x);
+	int t2 = doubleIt(y);
+	if(t1 > 0 && t2 > 0) {
+		if(t1 * t2 > 10 * z) { //LINE-1
+			z = t1 * t2;
+		}
+	}
+	return t2;
+}
+```
+
+Consider that concolic testing has generated a random input: { $x = 1, y = 2, x = 3$}. What will be the path condition (PC) that symbolic execution at LINE-1 generates?
+
+**Options :**
+
+6406532334975. ✖ ($x_0 * x_0 \le 0 \land 2 * y_0 \le 0) \land ((x_0 * x_0) * (2 * y_0) < 10 * z_0$)
+6406532334976. ✖ ($x_0 * x_0 < 0 \land 2 * y_0 < 0) \land ((x_0 * x_0) * (2 * y_0) > 10 * z_0$)

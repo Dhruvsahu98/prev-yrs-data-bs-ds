@@ -1,0 +1,12 @@
+$\times$ {X::f(), X::g(), Z::h(), Y::i()}
+6406532335009. $\checkmark$ {Z::f(), Y::g(), Y::h(), Z::i()}
+6406532335010. $\times$ {Z::f(), Y::g(), Z::h(), Y::i()}
+
+**Question Number : 44 Question Id : 640653699242 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 5 Question Label : Multiple Choice Question In the testing of static hypertext web sites, which of the following is considered a dead link? Options :**
+6406532335011. $\times$ A hyperlink that is linked to a valid URL
+6406532335012. $\checkmark$ A hyperlink that is linked to a URL which is no longer valid
+6406532335013. $\times$ A hyperlink that is never used by users
+6406532335014. $\times$ A hyperlink that trigger a transition to the next page
+
+**Question Number : 45 Question Id : 640653699246 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 5 Question Label : Multiple Choice Question Which client-side testing needs to be done to verify whether the web application evaluates the special inputs as invalid, which could corrupt data and cause a security vulnerability? Options :**
+6406532335023. $\checkmark$ Value level bypass testing

@@ -1,0 +1,43 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Consider the following Java program.
+
+```python
+class A{
+ protected int x, y;
+ public void set(int x, int y){
+  this.x = x;
+  this.y = y;
+ }
+ public void print(){
+  System.out.println(x + "," + y);
+ }
+}
+class B extends A{
+ protected int n;
+ public void setN(int n){
+  this.n = n;
+ }
+ public void print(){
+  System.out.println(x + "," + y + "," + n);
+ }
+}
+class C extends B{
+ protected int m;
+ public void set(int x, int y, int n, int m){
+  super.setN(n);
+  this.m = m;
+ }
+}
+public class Math{
+ public static void main(String[] args){
+  C obj = new C();
+  obj.set(10, 20, 30, 40);
+  obj.print();
+ }
+}
+```
+The above program generates output as 0, 0, 30, instead 10, 20, 30, which is due to B::print() using x, y, which are not defined by C::set() and in data flow, print() is called after set() is called. Identify the type of anomaly/fault in the given scenario.
+Options :
+6406532335003.  **Inconsistent type use**

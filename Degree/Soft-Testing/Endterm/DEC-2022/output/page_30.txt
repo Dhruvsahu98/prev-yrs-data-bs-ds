@@ -1,0 +1,23 @@
+Question Number : 40 Question Id : 640653699234 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Let the three partitions with blocks be [A, B, C, D], [1, 2, 3], and [x, y]. What will be the minimum number of total tests that need to be prepared using the All Combinations Coverage (ACoC) criteria? 
+Options : 
+6406532334983. ✖ 4
+6406532334984. ✖ 7
+6406532334985. ✖ 15
+6406532334986. ✔ 24
+
+Question Number : 41 Question Id : 640653699236 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Mutations of the statement if (a = w * h) to the statements like if (a != w * h), if (a < w * h), if (a <= w * h), if (a > w * h) and if (a >= w * h) are examples of which kind of mutation operator? 
+Options : 
+6406532334991. ✖ Conditional ope operator replacement
+6406532334992. ✖ Logical operator replacement
+6406532334993. ✖ Scalar variable replacement
+6406532334994. ✔ Relational Operator replacement
+
+Question Number : 42 Question Id : 640653699240 Question Type : MCQ Is Question

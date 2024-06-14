@@ -1,0 +1,17 @@
+With reference to the truth table row numbers (Row#) given, identify the GICC pairs for clause a from the following options?
+**Options :**
+6406532334995.  ❌ {1, 3, 5} × {2, 4, 6} for p = true, (7, 8) for p = false
+6406532334996.  ❌ {3, 4} × {7, 8} for p = true, {5, 6} × {7, 8} for p = false
+6406532334997.  ✅ {1, 2} × {5, 6} for p = true, No feasible pair for p = false
+6406532334998.  ❌ {1, 5}, (2, 6) for p = true, No feasible pair for p = false
+
+**Question Number : 49 Question Id : 640653699239 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 5 Question Label : Multiple Choice Question**
+
+With reference to the truth table row numbers (Row#) given, identify the RICC pairs for clause a from the following options?
+**Options :**
+6406532334999.  ❌ {1, 3, 5} × {2, 4, 6} for p = true, (7, 8) for p = false
+6406532335000.  ❌ {3, 4} × {7, 8} for p = true, {5, 6} × {7, 8} for p = false
+6406532335001.  ❌ {1, 2} × {5, 6} for p = true, No feasible pair for p = false
+6406532335002.  ✅ {1, 5}, (2, 6) for p = true, No feasible pair for p = false
+
+**Question Id : 640653699243 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (50 to 51) Question Label : Comprehension**

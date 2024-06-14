@@ -1,0 +1,37 @@
+Question Label : Multiple Choice Question
+Consider the control flow graph (CFG) given below.
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2cm,
+    thick,main node/.style={circle,draw,font=\sffamily\Large\bfseries}]
+
+  \node[main node] (1) {1};
+  \node[main node] (2) [below of=1] {2};
+  \node[main node] (3) [right of=2] {3};
+  \node[main node] (4) [right of=3] {4};
+  \node[main node, double] (5) [below of=2] {5};
+
+  \path[every node/.style={font=\sffamily\small}]
+    (1) edge (2)
+    (2) edge (3)
+    (2) edge (5)
+    (3) edge (5)
+    (4) edge [bend left] (3);
+\end{tikzpicture}
+
+Identify the set of correct test paths that satisfies edge-pair coverage.
+
+**Options :**
+
+6406532334959.  * [1, 2, 3, 4, 3, 5]
+
+6406532334960. * [1, 2, 3, 4, 3, 5], [1, 2, 5]
+
+6406532334961.  ✓ [1, 2, 3, 4, 3, 5], [1, 2, 5], [1, 2, 3, 5]
+
+6406532334962. * [1, 2, 3, 4, 3, 5], [1, 2, 5]
+
+Question Number : 36 Question Id : 640653699229 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+
+Question Label : Multiple Choice Question

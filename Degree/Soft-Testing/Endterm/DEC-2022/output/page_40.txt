@@ -1,0 +1,60 @@
+Consider the following classes for the code base to be tested and the test class.
+
+```python
+//code base
+public class NumberStat {
+    private int[] arr;
+    public NumberStat(int[] a) {
+        arr = a;
+    }
+    public int getEvenCount() {
+        int c = 0;
+        for(int i = 0; i < arr.length - 1; i++) {
+            if(arr[i] % 2 == 0)
+                c++;
+        }
+        return c;
+    }
+    public int getOddCount() {
+        int c = 0;
+        for(int i = 0; i < arr.length - 1; i++) {
+            if(arr[i] % 2 != 0)
+                c++;
+        }
+        return c;
+    }
+}
+//test class
+public class TestNumberStat {
+    int[] a1 = {11, 25, 12, 13, 14};
+    int[] a2 = {10, 25, 12, 13, 15};
+    NumberStat ns;
+    @Test
+    public void testcase1() {
+        ns = new NumberStat(a1);
+        assertEquals(2, ns.getEvenCount());
+    }
+    @Test
+    public void testcase2() {
+        ns = new NumberStat(a1);
+        assertEquals(3, ns.getOddCount());
+    }
+    @Test
+    public void testcase3() {
+        ns = new NumberStat(a2);
+        assertEquals(2, ns.getOddCount());
+    }
+    @Test
+    public void testcase4() {
+        ns = new NumberStat(a2);
+        assertEquals(2, ns.getEvenCount());
+        assertEquals(3, ns.getOddCount());
+    }
+}
+```
+Identify the test case method(s) that will fail for the given code base.
+Options :
+6406532334967. ✅ testcase1()
+6406532334968. ❌ testcase2()
+6406532334969. ❌ testcase3()
+6406532334970. ✅ testcase4()

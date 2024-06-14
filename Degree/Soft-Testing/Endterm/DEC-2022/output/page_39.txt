@@ -1,0 +1,5 @@
+Is Section Default? : null
+Question Number : 52 Question Id : 640653699230 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Max. Selectable Options : 0
+Question Label : Multiple Select Question
