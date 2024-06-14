@@ -1,0 +1,32 @@
+<font size = "3"> 16 </font>
+
+**Question Number :** 246 **Question Id :** 640653820921 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 2
+
+**Question Label :** Short Answer Question
+
+Suppose a second firm enters the market. Let $Q_1$ be the output of the first firm and $Q_2$ be the output of the second. Market demand is now given by $Q_1 + Q_2 = 53 - P$. Assuming that this second firm has the same costs as the first and the firms are competing as per the Cournot competition, find out the equilibrium quantity for each firm, equilibrium price and profit of each firm($\pi_1, \pi_2$).
+
+$P^* =$
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+
+<font size = "3"> 21 </font>
+
+**Question Number :** 247 **Question Id :** 640653820922 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 1
+
+**Question Label :** Short Answer Question
+
+Suppose a second firm enters the market. Let $Q_1$ be the output of the first firm and $Q_2$ be the output of the second. Market demand is now given by $Q_1 + Q_2 = 53 - P$. Assuming that this second firm has the same costs as the first and the firms are competing as per the Cournot competition, find out the equilibrium quantity for each firm, equilibrium price and profit of each firm($\pi_1, \pi_2$).
+
+$\pi_1 =$
+
+**Response Type :** Numeric

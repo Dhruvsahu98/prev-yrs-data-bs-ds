@@ -1,0 +1,27 @@
+6406532755467. ✖ request driving records directly from the police and not from the individual applicant
+
+Question Number : 277 Question Id : 640653820955 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Moral hazard occurs when contracts are written in such a way that 
+
+Options :
+6406532755468. ✖ the interests of agent and principal converge
+6406532755469. ✔ the interests of agent and principal diverge
+6406532755470. ✖ agents will wish to maximize the principal's utility
+6406532755471. ✖ production and risk-bearing efficiency are achieved
+
+Sem2 Intro to Python
+
+Section Id : 64065357834
+Section Number : 13
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 18
+Number of Questions to be attempted : 18
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and  Yes

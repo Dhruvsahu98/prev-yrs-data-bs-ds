@@ -1,0 +1,30 @@
+**Correct Marks : 1**
+Question Label : Short Answer Question
+What is Latif's profit (per car in $) if he does not offer a one-year warranty? ______
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+2000
+
+**Question Number : 263 Question Id : 640653820941 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 1**
+Question Label : Short Answer Question
+What is Latif's profit (per car in $) if he offers a one-year warranty? ______
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+2500
+
+**Question Number : 264 Question Id : 640653820942 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 1**
+Question Label : Short Answer Question
+What is Hamid's profit (per car in $) if Latif's does not offer a one-year warranty? ______
+**Response Type :** Numeric

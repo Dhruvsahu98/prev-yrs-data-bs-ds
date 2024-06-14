@@ -1,0 +1,20 @@
+Question Number : 267 Question Id : 640653820945 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Is it a good idea for Hamid's to offer a one-year warranty ?
+Options :
+6406532755430. ❌ Yes
+6406532755431. ✅ No
+Sub-Section Number : 
+Sub-Section Id : 640653120779
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 268 Question Id : 640653820946 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What is true about monopolistic competition
+Options :
+6406532755432. ✅ Firms compete by selling differentiated products that are highly, but not perfectly, substitutable
+6406532755433. ❌ Entry and exit are not free in the market
+6406532755434. ❌ None of Firms compete by selling differentiated products that are highly, but not perfectly, substitutable & Entry and exit are not free in the market
+6406532755435. ❌ Both Firms compete by selling differentiated products that are highly, but not perfectly, substitutable & Entry and exit are not free in the market

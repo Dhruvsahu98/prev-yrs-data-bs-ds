@@ -1,0 +1,28 @@
+Possible Answers : 
+990000
+
+Sub-Section Number : 5
+Sub-Section Id : 640653120778
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653820932 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (256 to 261)
+
+Question Label : Comprehension
+India currently imports all of its palm oil. The annual demand for palm oil by Indian consumers is given by the demand curve $Q=2500-2P$, where Q is quantity of palm oil in thousand litres and P is market price in INR per litre. World producers can harvest and ship palm oil to Indian distributors at a constant marginal cost (average cost) of INR 100 to be competitive. Indian government is considering a tariff on palm oil import of INR 25 per litre. Answer the given subquestions.
+
+Sub questions
+
+Question Number : 256 Question Id : 640653820933 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+If there is no tariff, what is the quantity demanded (in thousand litres)
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 

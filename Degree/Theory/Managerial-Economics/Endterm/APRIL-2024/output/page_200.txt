@@ -1,0 +1,34 @@
+Mohan quits his IT job, where he was earning a salary of ₹500,000 per year, to start his own restaurant business in a building that he owns and was previously renting out for ₹240,000 per year. In his first year of business, he has the following expenses: salary paid to himself, ₹400,000; rent, ₹0; other expenses, ₹250,000.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 254 Question Id : 640653820930 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+The accounting cost associated with Mohan's restaurant business is ______.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+
+Possible Answers :
+650000
+
+Question Number : 255 Question Id : 640653820931 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+The economic cost associated with Mohan's restaurant business is ______.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

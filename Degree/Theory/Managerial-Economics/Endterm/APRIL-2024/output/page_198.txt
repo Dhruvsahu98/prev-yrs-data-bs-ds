@@ -1,0 +1,29 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+Now suppose that the two firms are competing in the Stackelberg manner where one of the firms makes its output decision before the other. Suppose Firm 1 is the Stackelberg leader (i.e., makes its output decisions before Firm 2). Calculate the equilibrium quantity for the firms, equilibrium market price and profits of both the firms ($π_1$, $π_2$) in equilibrium.
+
+P* = ______
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+17
+
+Question Number : 252 Question Id : 640653820927 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+
+Now suppose that the two firms are competing in the Stackelberg manner where one of the firms makes its output decision before the other. Suppose Firm 1 is the Stackelberg leader (i.e., makes its output decisions before Firm 2). Calculate the equilibrium quantity for the firms, equilibrium market price and profits of both the firms ($π_1$, $π_2$) in equilibrium.
+
+$π_1$ = ______
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

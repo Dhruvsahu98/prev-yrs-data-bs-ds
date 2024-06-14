@@ -1,0 +1,28 @@
+6406532755395. ❌ Risk neutral
+6406532755396. ❌ Cannot be determined
+
+Question Number : 239 Question Id : 640653820913 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Should Nita take up the new job?
+
+Options :
+6406532755397. ❌ Yes
+6406532755398. ✅ No
+
+Question Number : 240 Question Id : 640653820914 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If Nita is willing to join the new job and also to buy insurance to protect against the variable income associated with the new job, how much would she be willing to pay for that insurance (in $)? ______.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+188 to 208
+
+Sub-Section Number : 3
+Sub-Section Id : 640653120776

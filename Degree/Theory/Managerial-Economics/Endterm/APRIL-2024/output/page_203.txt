@@ -1,0 +1,29 @@
+**Correct Marks : 1**
+Question Label : Short Answer Question
+What will be the lost consumer surplus due to imposed tariff (in thousand INR) : ______
+Response Type : Numeric
+**Evaluation Required For SA : Yes**
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+55625
+
+**Question Number : 260 Question Id : 640653820937 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 1**
+Question Label : Short Answer Question
+Tax revenue for the government will be (in thousand INR) : ______
+Response Type : Numeric
+**Evaluation Required For SA : Yes**
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+55000
+
+**Question Number : 261 Question Id : 640653820938 Question Type : MCQ Is Question**
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks : 1**
+Question Label : Multiple Choice Question
+Tariff results in

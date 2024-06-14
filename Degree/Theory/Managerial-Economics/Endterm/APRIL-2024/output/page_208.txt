@@ -1,0 +1,22 @@
+Question Number : 269 Question Id : 640653820947 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+A firm can always trade three units of labour for one unit of capital and still keep output constant. The production technology for this firm can most suitably represented by
+Options :
+6406532755436. ❌ Cobb-Douglas production function
+6406532755437. ❌ Leontief production function
+6406532755438. ✅ Linear production function
+6406532755439. ❌ None of these
+Question Number : 270 Question Id : 640653820948 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+The assumption about the consistency of consumers preferences is
+Options :
+6406532755440. ❌ Completeness
+6406532755441. ❌ Reflexivity
+6406532755442. ✅ Transitivity
+6406532755443. ❌ Monotonicity
+Question Number : 271 Question Id : 640653820949 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

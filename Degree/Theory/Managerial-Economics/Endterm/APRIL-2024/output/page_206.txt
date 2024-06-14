@@ -1,0 +1,28 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1500
+
+Question Number : 265 Question Id : 640653820943 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is Hamid's profit (per car in \$) if Latif's offers a one-year warranty ? ______
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0
+
+Question Number : 266 Question Id : 640653820944 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Will Latif's match Hamid's one-year warranty?
+Options :
+6406532755428.  ✔ Yes
+6406532755429.  ✖ No

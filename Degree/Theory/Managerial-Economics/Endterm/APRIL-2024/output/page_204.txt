@@ -1,0 +1,20 @@
+Options :
+6406532755420. ❌ Net gain for the society
+6406532755421. ✅ Net loss for the society
+6406532755422. ❌ Neither loss nor gain
+6406532755423. ❌ Cannot compute
+
+Question Id : 640653820939 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (262 to 267)
+Question Label : Comprehension
+
+Two used car dealerships compete side by side on a main road. The first, Hamid's Cars, always sells high-quality cars that it carefully inspects and, if necessary, services. On average, it costs Hamid's \$8000 to buy and service each car that it sells. The second dealership, Latif's Motors, always sells lower-quality cars. On average, it costs Latif's only \$5000 for each car that it sells. If consumers knew the quality of the used cars they were buying, they would pay \$10,000 on average for Hamid's cars and only \$7000 on average for Latif's cars.
+Without more information, consumers do not know the quality of each dealership's cars. In this case, they would figure that they have a 50-50 chance of ending up with a high quality car, and are thus willing to pay \$8500 for a car.
+Hamid has an idea: He will offer a bumper-to-bumper warranty for all cars he sells. He knows that a warranty lasting Y years will cost \$500Y on average, and he also knows that if Latif tries to offer the same warranty, it will cost Latif \$1000Y on average.
+Suppose Hamid offers a one-year warranty on all of the cars he sells.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 262 Question Id : 640653820940 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
