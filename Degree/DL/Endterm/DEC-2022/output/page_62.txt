@@ -1,0 +1,36 @@
+0.03 to 0.04
+
+Question Number : 87 Question Id : 640653451039 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Update the parameter $v$ using plain SGD (stochastic gradient descent) algorithm with $\eta = 1$. Enter the updated value of $v$.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+
+Possible Answers :
+1.03 to 1.07
+
+Sub-Section Number : 10
+Sub-Section Id : 64065364798
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 88 Question Id : 640653451040 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Which of the following statements is(are) true about the vanilla RNN ?
+
+Options :
+6406531501070. ❌ It can't have more than one hidden layer in it
+6406531501071. ✅ It is prone to vanishing gradient problem
+6406531501072. ✅ It is prone to exploding gradient problem

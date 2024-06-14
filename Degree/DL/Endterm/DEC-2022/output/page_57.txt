@@ -1,0 +1,29 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+259647 to 259649
+
+Question Number : 81 Question Id : 640653451031 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+The statement that applying max pooling with stride 2 ($s=2$) reduces the number of parameters by half is 
+Options :
+6406531501058. * TRUE
+6406531501059.  ✔ FALSE
+
+Sub-Section Number : 7
+Sub-Section Id : 64065364795
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 82 Question Id : 640653451032 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Consider the sentence "Expert is the one who knows more and more about the less and less ".
+What is the size of the vocabulary V?
+Response Type : Numeric
+Evaluation Required For SA : Yes

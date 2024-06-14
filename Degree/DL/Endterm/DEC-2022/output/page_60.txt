@@ -1,0 +1,18 @@
+Question Number : 85 Question Id : 640653451036 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+The prediction $\hat{y}_w$ is given by
+$$\hat{y} = \sum_{w' \in V} \frac{exp(u_c.w_w)}{exp(u_c.w')}$$
+where $u_c.w_w$ is a dot product between a vector from $W_{context}$ and a vector from $W_{word}$. Then the statement that the neurons in the hidden layer do not have any non-linear activation function is
+Options :
+6406531501066. ✅ TRUE
+6406531501067. ❌ FALSE
+
+Sub-Section Number : 9
+Sub-Section Id : 6406536479
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653451037 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (86 to 87)
+Question Label : Comprehension

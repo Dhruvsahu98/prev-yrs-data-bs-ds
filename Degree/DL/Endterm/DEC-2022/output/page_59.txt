@@ -1,0 +1,27 @@
+Sub questions
+
+Question Number : 83 Question Id : 640653451034 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Short Answer Question
+How many number of parameters are there in the network (excluding bias)?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+200
+
+Question Number : 84 Question Id : 640653451035 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+The word representation for the 3-rd word in the vocabulary corresponds to
+Options :
+6406531501062.  ✔ 3-rd column of $W_{context}$
+6406531501063.  ✖ 3-rd row of $W_{context}$
+6406531501064.  ✖ 3-rd column of $W_{word}$
+6406531501065.  ✖ 3-rd row of $W_{word}$
