@@ -1,0 +1,29 @@
+Question Number : 147 Question Id : 640653564775 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "**DEGREE LEVEL : FINANCIAL FORENSICS (COMPUTER BASED EXAM)**"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406531887798. ✅ YES
+6406531887799. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065380623
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 148 Question Id : 640653564776 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+A company is facing a lawsuit from a customer. It is possible, but not probable, that the company will have to pay a settlement that management estimates to be ₹3,000,000. How would this fact be reported in the financial statements to be issued at the end of the current month?
+
+Options :

@@ -1,0 +1,22 @@
+* mu = 7.51; sigma = 14.5
+6406531887902.  mu = 14.5; sigma = 7.51
+6406531887903.  mu = 3.81; sigma = 56.42
+6406531887904.  mu = 56.42; sigma = 3.81
+
+Question Number : 172 Question Id : 640653564800 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In isolation forest the points that are easy to separate from other points form the anomalies:
+Options :
+6406531887905. TRUE
+6406531887906. FALSE
+
+Question Number : 173 Question Id : 640653564801 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What is the purpose of differencing in time series analysis?
+Options :
+6406531887907. To remove trend
+6406531887908. To remove seasonality
+6406531887909. To remove correlation
+6406531887910. Both To remove trend and To remove seasonality

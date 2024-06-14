@@ -1,0 +1,27 @@
+## Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Phil's Carvings wants to have a weighted average cost of capital of 9.5 percent. The firm has an aftertax cost of debt of 6.5 percent and a cost of equity of 12.75 percent. What debt-equity ratio is needed for the firm to achieve its targeted weighted average cost of capital?
+
+Options :
+6406531887832. ✖ 0.84
+6406531887833. ✖ 0.92
+6406531887834.  ✔ 1.08
+6406531887835. ✖ 0.76
+
+## Question Number : 157 Question Id : 640653564785 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+## Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Consolidated Transfer is an all-equity financed firm. The beta is .75, the market risk premium is 7.78 percent, and the risk-free rate is 3.84 percent. What is the expected rate of return on this stock?
+
+Options :
+6406531887836. ✖ 6.80 percent
+6406531887837. ✖ 8.22 percent
+6406531887838. ✖ 9.54 percent
+6406531887839. ✔ 9.68 percent
+
+## Question Number : 158 Question Id : 640653564786 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

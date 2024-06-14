@@ -1,0 +1,25 @@
+immediately. What is this offer worth to you today at a discount rate of 6.5 percent?
+
+Options :
+
+6406531887824.  ₹134,383.56
+6406531887825.  ₹132,283.56
+6406531887826.  ₹138,066.75
+6406531887827.  ₹130,983.56
+
+Question Number : 155 Question Id : 640653564783 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+Wilson's Market is considering two mutually exclusive projects that will not be repeated. The required rate of return is 13.9 percent for Project A and 12.5 percent for Project B. Project A has an initial cost of ₹54,500, and should produce cash inflows of ₹16,400, ₹28,900, and ₹31,700 for Years 1 to 3, respectively. Project B has an initial cost of ₹69,400, and should produce cash inflows of ₹0, ₹48,300, and ₹42,100, for Years 1 to 3, respectively. Which project, or projects, if either, should be accepted and why?
+
+Options :
+
+6406531887828.  Project A; because its NPV is positive while Project B's NPV is negative
+6406531887829.  Project A; because it has the higher required rate of return
+6406531887830.  Project B; because it has the largest total cash inflow
+6406531887831.  Neither project; because neither has an NPV equal to or greater than its initial cost
+
+Question Number : 156 Question Id : 640653564784 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

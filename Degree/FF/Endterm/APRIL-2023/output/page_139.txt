@@ -1,0 +1,27 @@
+Options :
+6406531887929. ❌ Cosine similarity
+6406531887930. ❌ Levenshtein distance
+6406531887931. ✅ Both Cosine similarity and Levenshtein distance
+6406531887932. ❌ None of these
+
+Question Number : 180 Question Id : 640653564808 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If cosine similarity between two string vectors is high, it means
+
+Options :
+6406531887933. ✅ The strings are similar.
+6406531887934. ❌ The strings are dissimilar.
+6406531887935. ❌ Nothing to do with string similarity.
+6406531887936. ❌ None of these
+
+Question Number : 181 Question Id : 640653564809 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+You had converted two words to a vectors having following values:
+A = [2,1,2,2,9]
+B = [3,4,2,5,5]
+
+The cosine similarity between them is:

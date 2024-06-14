@@ -1,0 +1,23 @@
+Question Number : 174 Question Id : 640653564802 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following statements are true with respect to ACF and PACF plots.
+I. ACF plots are used to determining the order of Autoregressive models.
+II. PACF plots are used to determining the order of Autoregressive models.
+III. ACF plots just computes the Pearson's correlation between the variable and it's lagged versions.
+IV. PACF plots just computes the Pearson's correlation between the variable and it's lagged versions.
+Options :
+6406531887911. ❌ I and III
+6406531887912. ❌ II and IV
+6406531887913. ❌ I and IV
+6406531887914. ✅ II and III
+
+Question Number : 175 Question Id : 640653564803 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following metrics can be used for computing the performance of an Auto-Regressive time series model.
+Options :
+6406531887915. ❌ Mean Squared Error
+6406531887916. ❌ Mean Absolute Error

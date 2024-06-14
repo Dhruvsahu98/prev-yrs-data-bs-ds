@@ -1,0 +1,38 @@
+how the model makes its predictions over all of the data.
+
+**Options :**
+
+6406531887945.  ✔ Global
+6406531887946.  ✖ Local
+6406531887947.  ✖ Cohort
+6406531887948.  ✖ None of these
+
+**Question Number :** 184 **Question Id :** 640653564812 **Question Type :** MCQ Is Question
+**Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 1
+
+**Question Label :** Multiple Choice Question
+
+In the following waterfall plot, identify the base value (explainer expected value):
+
+$f(x) = 1.124$
+
+|   |   |
+|---|---|
+|  -117.63 = Longitude |  |
+|  2.364 = MedInc |  -0.48 |
+|  4.271 = AveOccup |  -0.43 |
+|  34.06 = Latitude |  -0.26 |
+|  3.993 = AveRooms |  +0.25 |
+|  39 = HouseAge |  -0.03 |
+|  1.023 = AveBedrms |  +0.03 |
+|  1294 = Population |  -0.01 |
+
+1.0  1.2  1.4  1.6  1.8  2.0  2.2  2.4
+$E[f(X)] = 2.059$
+
+**Options :**
+
+6406531887949.  ✖ +1.124
+6406531887950.  ✔ .

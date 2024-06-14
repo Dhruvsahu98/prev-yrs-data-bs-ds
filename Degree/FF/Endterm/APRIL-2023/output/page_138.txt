@@ -1,0 +1,41 @@
+Predictions of B = [10, 11, 20, 16, 18, 25, 23]
+
+Options : 
+
+6406531887923. ✅ A
+
+6406531887924. ❌ B
+
+Question Number : 178 Question Id : 640653564806 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+You have the following 2 documents with the text:
+
+D1 = Lets change the logo of the company.
+
+D2 = The investors don't like if the logo of the company is changed as logo plays a key role in brand recognition
+
+The Term Frequency (TF) for the work "logo" for D1 and D2 is
+
+Options :
+
+6406531887925. ✅ 3
+
+6406531887926. ❌ 2
+
+6406531887927. ❌ 1
+
+6406531887928. ❌ 0
+
+Question Number : 179 Question Id : 640653564807 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+The following metrics can be used to calculate string similarity:

@@ -1,0 +1,36 @@
+**Correct Marks : 1**
+
+Question Label : Multiple Choice Question
+
+Which of the following is the process of converting words into their base or root form?
+
+**Options :**
+
+6406531887840. ❌ Tokenization
+6406531887841. ❌ Stop word removal
+6406531887842. ❌ Stemming
+6406531887843. ✅ Lemmatization
+
+**Question Number : 159 Question Id : 640653564787 Question Type : MCQ Is Question**
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+**Correct Marks : 1**
+
+Question Label : Multiple Choice Question
+
+Input - Artificial intelligence technologies are being increasingly integrated into various industries to automate and optimize processes.
+
+Output - Artificial intelligence technology be be increase integrate into various industry to automate and optimize process.
+
+Which of the following pre-processing to input results in this output?
+
+**Options :**
+
+6406531887844. ❌ Stopword removal
+6406531887845. ❌ Tokenisation
+6406531887846. ❌ Stemming
+6406531887847. ✅ Lemmatization
+6406531887848. ❌ None of these
+
+**Question Number : 160 Question Id : 640653564788 Question Type : MCQ Is Question**

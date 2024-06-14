@@ -1,0 +1,31 @@
+$\checkmark$ + 2.059
+
+6406531887951. $\times$ - 117.63
+
+6406531887952. $\times$ - 0.48
+
+**Question Number : 185 Question Id : 640653564813 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1**
+
+**Question Label : Multiple Choice Question**
+
+Which "feature\_perturbation" technique is used by default when there is no data provided to shap Tree explainer object.
+
+**Options :**
+
+6406531887953. $\times$ intervention
+
+6406531887954. $\checkmark$ tree\_path\_dependent
+
+6406531887955. $\times$ probability
+
+6406531887956. $\times$ log-loss
+
+**Question Number : 186 Question Id : 640653564814 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1**
+
+**Question Label : Multiple Choice Question**
+
+From the following feature powerset, evaluate the 'w3', weight of the marginal coalition.

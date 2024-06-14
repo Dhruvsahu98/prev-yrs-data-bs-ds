@@ -1,0 +1,29 @@
+6406531887883. ✖ Do A/B testing
+
+Question Number : 167 Question Id : 640653564795 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Joey had taken a credit of 200$ from the Chandler Bank. He had missed 3 instalments in total in the last 6 months and he has paid his 5<sup>th</sup> month instalment and missed to pay the 6<sup>th</sup> month instalment. Which of the following delinquency buckets he fall into?
+
+Options :
+
+6406531887884. ✅ 0-29 DPD
+6406531887885. ✖ 30-59 DPD
+6406531887886. ✖ 60-89 DPD
+6406531887887. ✖ 90-119 DPD
+6406531887888. ✖ 120+ DPD
+
+Question Number : 168 Question Id : 640653564796 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Which of the following performance metric is more suitable for the business problem below:
+
+A fintech company wants to build a fraud detection model that prevents fraudulent transactions happening in its ecosystem. The company is very particular about customer satisfaction and so they are very particular about not stopping a genuine customer in completing their transaction, but they are reasonably fine to flag a fraudulent transaction as a good transaction.
+
+Options :

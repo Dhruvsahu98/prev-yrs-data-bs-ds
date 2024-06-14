@@ -1,0 +1,27 @@
+6406531887889. ✅ Precision
+6406531887890. ❌ Recall
+6406531887891. ❌ Accuracy
+6406531887892. ❌ Root Mean Squared Error
+
+**Question Number : 169 Question Id : 640653564797 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1**
+
+**Question Label : Multiple Choice Question**
+
+A fintech company has a ML system that identifies transaction frauds that occur in its system. The model currently has an accuracy of 99.9%. The fraud rate, as reported by the company in its system is 20 BPS. On a regular day there are close to above 1 million transactions that happens via the company's payment system and for each fraudulent transaction the company losses INR 10 on an average. The annual savings (INR) brought in by the ML system is:
+
+**Options :**
+
+6406531887893. ❌ ~3.4M
+6406531887894. ❌ ~7.2M
+6406531887895. ❌ ~19.9K
+6406531887896. ✅ Insufficient information to solve the problem.
+
+**Question Number : 170 Question Id : 640653564798 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1**
+
+**Question Label : Multiple Choice Question**
+
+For the given confusion matrix below which of the following is True assuming Fraud as positive class and non-Fraud as negative class?

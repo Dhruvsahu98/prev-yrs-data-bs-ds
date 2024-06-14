@@ -1,0 +1,21 @@
+6406531887917. ❌ Mean absolute Percentage Error
+6406531887918. ✅ All of these
+
+Question Number : 176 Question Id : 640653564804 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+An autoregressive model of order 3 is denoted by which of the following equations?
+Options :
+6406531887919. ❌ $X_t = \beta_1 * X_{t-1} + \beta_2 * X_{t-1} + \beta_3 * X_{t-1} + \epsilon_t$
+6406531887920. ❌ $X_t = \beta_1 * X_{t-1} + \beta_2 * X_{t-2} + \beta_3 * X_{t-3}$
+6406531887921. ✅ $X_t = \beta_1 * X_{t-1} + \beta_2 * X_{t-2} + \beta_3 * X_{t-3} + \epsilon_t$
+6406531887922. ❌ $X_t = \beta_1 * X_{t-1} + \beta_2 * X_{t-2} + \beta_3 * X_{t-3} + \epsilon_{t-1}$
+
+Question Number : 177 Question Id : 640653564805 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+There are two time series models A and B which have the following predictions, which of these is more accurate from the perspective for MSE?
+True value = [10, 12, 11, 15, 18, 20, 23]
+Predictions of A = [7, 11, 15, 16, 19, 30]

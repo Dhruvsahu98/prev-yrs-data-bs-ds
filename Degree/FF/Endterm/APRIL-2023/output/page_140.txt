@@ -1,0 +1,27 @@
+Options :
+6406531887937.  ✓ 0.800
+6406531887938.  ✗ 0.782
+6406531887939.  ✗ 0.890
+6406531887940.  ✗ 0.823
+
+Question Number : 182 Question Id : 640653564810 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+You had converted two words to a vectors having following values:
+A = [2,1,4,2,9]
+B = [3,4,3,5,5]
+
+The cosine similarity between them is:
+
+Options :
+6406531887941.  ✓ 0.816
+6406531887942.  ✗ 0.962
+6406531887943.  ✗ 0.915
+6406531887944.  ✗ 0.893
+
+Question Number : 183 Question Id : 640653564811 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+_____ explainability lets the model owner determine to what extent each feature contributes to 

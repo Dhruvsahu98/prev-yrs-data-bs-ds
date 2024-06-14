@@ -1,0 +1,45 @@
+**Correct Marks : 1**
+
+Question Label : Multiple Choice Question
+
+What is the number of False Positives?
+
+PS: 1 is positive class, 0 is negative class
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create a confusion matrix
+cm = np.array([[6689, 152],
+              [118, 26]])
+
+# Plot the confusion matrix
+plt.imshow(cm, cmap="viridis")
+plt.colorbar()
+plt.xlabel("Predicted label")
+plt.ylabel("True label")
+plt.xticks([0, 1])
+plt.yticks([0, 1])
+plt.show()
+```
+
+**Options :**
+
+6406531887854. ❌ 118
+
+6406531887855. ✅ 152
+
+6406531887856. ❌ 26
+
+6406531887857. ❌ 6689
+
+6406531887858. ❌ 70
+
+**Question Number : 162 Question Id : 640653564790 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1**
+
+Question Label : Multiple Choice Question
+
+What is the rollback rate for A?

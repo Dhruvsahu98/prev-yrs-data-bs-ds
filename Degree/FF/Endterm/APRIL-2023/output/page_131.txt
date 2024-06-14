@@ -1,0 +1,22 @@
+Question Number : 165 Question Id : 640653564793 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Y is a metric that is used to decide if a model has to be trained again. It captures the change in environment in which model was trained relative to the environment in which the model is deployed. What is Y?
+Options :
+6406531887874.  ✔ Population Stability Index
+6406531887875.  ✖ Lift
+6406531887876.  ✖ Accuracy
+6406531887877.  ✖ R squared
+6406531887878.  ✖ VIF
+
+Question Number : 166 Question Id : 640653564794 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Chennai Super Kings (CSK) team in IPL has trained a model using past IPL data to predict toss decision by taking ground factors, weather, team and time details. The PSI of the model in IPL 2023 is 0.13. Which of the following should be CSK's next steps?
+Options :
+6406531887879.  ✖ Continue with the same model
+6406531887880.  ✖ Immediately retire the model and stop using it
+6406531887881.  ✔ Start building a new model as the performance is deteriorating
+6406531887882.  ✖ Collect more data

@@ -1,0 +1,21 @@
+6406531887816. ✖ The accounts shown on a balance sheet represent the basic accounting equation for a particular business entity
+6406531887817. ✖ The balance sheet reports the amount of assets, liabilities, and stockholders' equity of an accounting entity at a point in time
+6406531887818. ✖ The retained earnings balance shown on the balance sheet must agree with the ending retained earnings balance shown on the statement of stockholders' equity
+6406531887819. ✔ The balance sheet reports the changes in specific account balances over a period of time
+
+**Question Number : 153 Question Id : 640653564781 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question**
+
+Which of the following would not appear in the investing section of the statement of cash flows?
+**Options :**
+6406531887820. ✖ Purchase of land for a new office building
+6406531887821. ✖ Interest and dividend received
+6406531887822. ✔ Purchase of inventory
+6406531887823. ✖ Sale of obsolete equipment used in the factory
+
+**Question Number : 154 Question Id : 640653564782 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question**
+
+You have been offered a job that pays an annual salary of ₹48,000, ₹51,000, and ₹55,000 over the next three years, respectively. The offer also includes a starting bonus of ₹2,500 payable 

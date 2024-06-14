@@ -1,0 +1,26 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+As given in the confusion matrix of the classifier in Table 1, a bank provides loan to 300 prospects from a database. Selection of an actual good customer leads to an average profit of ₹12,000. Due to misclassification, if a bad applicant is selected for loan, an average loss of ₹40,000 will be incurred. Based on the data given in the confusion matrix (Table 1), what is the overall profit?
+
+Table 1
+Classification confusion matrix
+
+| Actual Class | Predicted Class |
+|---|---|
+| 1 | 187 |
+| 1 | 19 |
+| 0 | 63 |
+| 0 | 31 |
+
+Options :
+6406531887849.  ✕  22,44,000
+6406531887850.  ✕  12,40,000
+6406531887851.  ✔  -2,76,000
+6406531887852.  ✕  -7,60,000
+6406531887853.  ✕  25,20,000
+
+Question Number : 161 Question Id : 640653564789 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
