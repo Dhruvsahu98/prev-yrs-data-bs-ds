@@ -1,0 +1,17 @@
+Question Number : 327 Question Id : 640653699545 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+You had converted two words to a vectors having following values:
+A = [2,1,4,2,8]
+B = [3,4,2,5,4]
+The cosine similarity between them is:
+Options :
+6406532335871.  ✅ 0.760
+6406532335872.  ❌ 0.782
+6406532335873.  ❌ 0.890
+6406532335874.  ❌ 0.823
+Question Number : 328 Question Id : 640653699546 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question

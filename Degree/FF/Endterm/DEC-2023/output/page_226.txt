@@ -1,0 +1,34 @@
+**Correct Marks : 2**
+
+Question Label : Short Answer Question
+
+You have devised a 10 year retirement plan whereby you pay your subscribers 1000$ per annual for the first 5 years, and then 8000$ for the next 5 years. Assuming a discount rate of 6% for the first 5 years and 8% for the next 5 years, what should be the minimum price at which you have to sell the plan so that you don't incur any loss?
+
+NOTE:Round to two decimal places wherever necessary
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+28000 to 28162
+
+**Sub-Section Number : 5**
+**Sub-Section Id : 640653103797**
+**Question Shuffling Allowed : Yes**
+**Is Section Default? : null**
+
+**Question Number : 305 Question Id : 640653699520 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1**
+
+Question Label : Short Answer Question
+
+Suppose the risk free rate in the market is 5%, the expected market return is 7% and the beta of the stock is 1.2, at what rate the expected return of a stock changes with respect to the market premium?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

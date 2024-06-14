@@ -1,0 +1,27 @@
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.53 to 0.56
+Sub-Section Number : 3
+Sub-Section Id : 640653103795
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 303 Question Id : 640653699518 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following ratios can be considered when we are analysing the profitability of a
+company?
+Options :
+6406532335810. ❌ Equity Turnover
+6406532335811. ❌ Current Ratio
+6406532335812. ✅ Return on Equity
+6406532335813. ❌ Days' Cash
+Sub-Section Number : 4
+Sub-Section Id : 640653103796
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 304 Question Id : 640653699519 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

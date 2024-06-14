@@ -1,0 +1,33 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+Input - The cats are playing in the garden, and one of them is chasing a butterfly.
+
+Output - The cat be play in the garden, and one of them be chase a butterfly.
+
+Which of the following pre-processing to input results in this output?
+
+Options :
+
+6406532335892. ❌ Stopword removal
+
+6406532335893. ❌ Tokenisation
+
+6406532335894. ❌ Stemming
+
+6406532335895. ✅ Lemmatization
+
+6406532335896. ❌ None of these
+
+Question Number : 333 Question Id : 640653699551 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+As given in the confusion matrix of the classifier in Table 1, a bank provides loan to 300 prospects from a database. Selection of an actual good customer leads to an average profit of ₹12,000. Due to misclassification, if a bad applicant is selected for loan, an average loss of ₹40,000 will be incurred. Based on the data given in the confusion matrix (Table 1), what is the additional profit bank could have earned by giving loans to declined good customers?

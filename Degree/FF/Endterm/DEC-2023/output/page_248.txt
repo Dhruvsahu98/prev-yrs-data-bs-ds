@@ -1,0 +1,30 @@
+6406532335914. ❌ Scatter plot
+6406532335915. ✅ Waterfall plot
+6406532335916. ❌ Heatmap
+6406532335917. ❌ Bar chart
+
+Question Number : 338 Question Id : 640653699556 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In SHAPley values, what does a negative value for a feature indicate?
+Options :
+6406532335918. ❌ The feature has a positive impact on the prediction
+6406532335919. ❌ The feature has no impact on the prediction
+6406532335920. ✅ The feature has a negative impact on the prediction
+6406532335921. ❌ The feature is not considered in the analysis
+
+```python
+# Code block in python format
+```
+
+DBMS
+64065349333
+Section Id :
+Section Number : 14
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 20
+Number of Questions to be attempted : 20
+Section Marks : 50
+Display Number Panel : Yes

@@ -1,0 +1,14 @@
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In SHAP summary plots, what does the x-axis represent?
+Options :
+6406532335906.  ✅ The Shapley values
+6406532335907.  ❌ Feature names
+6406532335908.  ❌ Prediction values
+6406532335909.  ❌ Cumulative contributions
+Question Number : 336 Question Id : 640653699554 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In the following waterfall plot, identify the model predicted value

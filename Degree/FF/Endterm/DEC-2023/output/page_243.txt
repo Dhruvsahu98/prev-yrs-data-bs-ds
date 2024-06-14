@@ -1,0 +1,38 @@
+What is the rollback rate for 90-119 DPD after 18 MOB?
+
+| Delinquency | No Due | 0-29 DPD | 30-59 DPD | 60-89 DPD | 90-119 DPD | 120-149 DPD | 150+ DPD | Total |
+|---|---|---|---|---|---|---|---|---|
+| After 12 MOB | No Due | 88000 | 6680 | 40000 | 2680 | 1360 | 880 | 400 | 104000 |
+|  | 0-29 DPD | 36400 | 5360 | 2680 | 1360 | 1360 | 680 | 400 | 48240 |
+|  | 30-59 DPD | 15360 | 4000 | 2680 | 560 | 400 | 160 | 960 | 24120 |
+|  | 60-89 DPD | 4560 | 4000 | 1360 | 280 | 1360 | 1080 | 680 | 13320 |
+|  | 90-119 DPD | 2680 | 680 | 400 | 160 | 560 | 2680 | 1360 | 8520 |
+|  | 120-149 DPD | 400 | 160 | 160 | 120 | 120 | 680 | 1600 | 3240 |
+|  | 150+ DPD | 80 | 56 | 44 | 36 | 12 | 8 | 2800 | 3036 |
+
+**Options :**
+
+6406532335883. ❌ 80.27%
+6406532335884. ❌ 75.46%
+6406532335885. ❌ 44.13%
+6406532335886. ✅ 46.01%
+6406532335887. ❌ 29.63%
+
+**Question Number : 331 Question Id : 640653699549 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1**
+
+**Question Label : Multiple Choice Question**
+
+"went" became "go". This is an example of which of the following?
+
+**Options :**
+
+6406532335888. ❌ Tokenization
+6406532335889. ❌ Stop word removal
+6406532335890. ❌ Stemming
+6406532335891. ✅ Lemmatization
+
+**Question Number : 332 Question Id : 640653699550 Question Type : MCQ Is Question**

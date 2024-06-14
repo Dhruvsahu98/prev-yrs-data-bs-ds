@@ -1,0 +1,37 @@
+to be anomalous. 
+
+III. Isolation Forest can be used only for fraud detection. 
+
+IV. Isolation Forest can be used only when the type of Fraud is known before building the ML system. 
+
+**Options :**
+
+6406532335829. ❌ Statements I and II
+
+6406532335830. ❌ Statements II, III and IV
+
+6406532335831. ❌ Only statement IV
+
+6406532335832. ✅ Only statement II
+
+6406532335833. ❌ Statements I and IV
+
+Question Number : 311 Question Id : 640653699526 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+When we do anomaly detection, a Univariate Gaussian distribution is a good choice for representing two features that are positively correlated?
+
+**Options :**
+
+6406532335834. ❌ True, since Univariate Gaussian distribution captures the interaction between variables well
+
+6406532335835. ❌ False, since Univariate Gaussian distribution can only be used when the features are negatively correlated
+
+6406532335836. ❌ True, since Univariate Gaussian distribution has a support from -Inf to +Inf
+
+6406532335837. ✅ False, since Univariate Gaussian distribution can only be used when the features are not correlated
+
+Question Number : 312 Question Id : 640653699527 Question Type : MCQ Is Question 

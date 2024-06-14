@@ -1,0 +1,42 @@
+Calculate the given financial ratios in the subquestions based on the following information provided:
+
+A company has the following financial statements:
+
+Balance sheet:
+
+Assets
+Cash and cash equivalents: $8 million
+Accounts receivable: $3 million
+Inventory: $5 million
+Total assets: $16 million
+
+Liabilities
+Accounts payable: $1 million
+Short-term debt: $4 million
+Long-term debt: $6 million
+Total liabilities: $11 million
+
+Shareholder's equity: $5 million
+
+Income statement:
+Revenue: $10 million
+Cost of goods sold: $6 million
+Operating expenses: $3 million
+Net income: $1 million
+
+Sub questions
+
+Question Number : 297 Question Id : 640653699512 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0.5
+Question Label : Short Answer Question
+Current Ratio
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3.2
+
+Question Number : 298 Question Id : 640653699513 Question Type : SA Calculator : None

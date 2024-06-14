@@ -1,0 +1,29 @@
+Possible Answers :
+108900
+
+Question Number : 323 Question Id : 640653699541 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+How much is the total profit/loss?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+15500
+
+Sub-Section Number : 12
+Sub-Section Id : 640653103804
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 324 Question Id : 640653699542 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following represents a liability on a balance sheet?
+Options :
+6406532335859. * Equipment
+6406532335860. * Accounts receivable

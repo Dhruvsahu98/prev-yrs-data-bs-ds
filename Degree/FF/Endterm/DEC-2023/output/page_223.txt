@@ -1,0 +1,28 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0.5
+Question Label : Short Answer Question
+Quick Ratio
+**Response Type** : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2.2
+Question Number : 299 Question Id : 640653699514 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0.5
+Question Label : Short Answer Question
+Inventory turnover ratio
+**Response Type** : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1.2
+Question Number : 300 Question Id : 640653699515 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0.5
+Question Label : Short Answer Question
+Gross Profit Margin - Expressed in Ratio

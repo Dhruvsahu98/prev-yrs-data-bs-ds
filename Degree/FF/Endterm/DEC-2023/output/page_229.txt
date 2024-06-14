@@ -1,0 +1,25 @@
+Options :
+6406532335821. ❌ mu = 95.18; sigma = 12.6
+6406532335822. ❌ mu = 14.5; sigma = 7.51
+6406532335823. ✅ mu = 197.2; sigma = 101.18
+6406532335824. ❌ mu = 180.5; sigma = 10237.5
+
+Question Number : 309 Question Id : 640653699524 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is not True about using rules for Fraud Detection in the world of FinTech:
+
+Options :
+6406532335825. ❌ Rules can only be used for catching frauds that satisfy a set of per-computed scenarios.
+6406532335826. ✅ Rules can adapt very well to the changing fraud environment automatically.
+6406532335827. ❌ Creating rules for detecting frauds is a very time-consuming process.
+6406532335828. ❌ Rules do not scale well to capture wide range of fraud patterns.
+
+Question Number : 310 Question Id : 640653699525 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following statement(s) is/are correct about isolation forest:
+I. Isolation Forest is a tree based algorithm, so it is a supervised learning model.
+II. In Isolation Forest the data points that are easy to separate from the population are more likely 

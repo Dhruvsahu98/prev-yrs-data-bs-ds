@@ -1,0 +1,26 @@
+6406532335861. ✅ Long-term debt
+6406532335862. ❌ Inventory
+
+Question Number : 325 Question Id : 640653699543 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What does the cash flow statement intend to do?
+Options :
+6406532335863. ❌ The future cash flows and borrowing could be predicted
+6406532335864. ❌ Different companies can be easily compared with each other
+6406532335865. ❌ Provide formation regarding a company's solvency, liquidity, and financial stability
+6406532335866. ✅ All of these
+
+Question Number : 326 Question Id : 640653699544 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If cosine similarity between two string vectors is low, it means
+Options :
+6406532335867. ❌ The strings are similar.
+6406532335868. ✅ The strings are dissimilar.
+6406532335869. ❌ Nothing to do with string similarity.
+6406532335870. ❌ None of these

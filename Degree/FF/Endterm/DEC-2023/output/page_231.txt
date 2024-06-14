@@ -1,0 +1,24 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+X is a characteristic of a time series in which the data experiences regular and predictable changes that recur at an irregular interval of time. What is X?
+Options :
+6406532335838. ✅ Cyclicity
+6406532335839. ❌ Seasonality
+6406532335840. ❌ Trend
+6406532335841. ❌ Variance
+Sub-Section Number : 7
+Sub-Section Id : 640653103799
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 313 Question Id : 640653699528 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Given an AR(3) model with autoregressive coefficients of 0.6, 0.2 and -0.1 and initial values at t=0, t=1 and t=2 being 8, 10 and 12, respectively. Calculate the predicted value at t = 3.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+8.4

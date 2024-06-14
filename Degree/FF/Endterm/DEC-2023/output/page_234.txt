@@ -1,0 +1,31 @@
+Possible Answers :
+275000
+
+Question Number : 317 Question Id : 640653699533 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What were the company Expenses?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+246315
+
+Question Number : 318 Question Id : 640653699534 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What were the company Net income in June?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+28685
+
+Sub-Section Number : 10
+Sub-Section Id : 640653103802

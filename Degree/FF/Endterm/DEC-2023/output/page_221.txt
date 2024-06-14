@@ -1,0 +1,21 @@
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "**DEGREE LEVEL : FINANCIAL FORENSICS (COMPUTER BASED EXAM)**" 
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. 
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE **TOP** FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options : 
+6406532335802. ✅ YES 
+6406532335803. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 640653103794
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653699511 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (297 to 302)
+Question Label : Comprehension

@@ -1,0 +1,45 @@
+**Text Areas :** PlainText
+
+**Possible Answers :**
+1.2
+
+**Question Number :** 306 **Question Id :** 640653699521 **Question Type :** SA Calculator : None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 1
+
+**Question Label :** Short Answer Question
+
+Holmes, Inc., is a 90% equity and 10% debt financed firm. The unlevered beta is 0.60, the market risk premium is 6.67 percent, and the risk-free rate is 3.30 percent. What is the expected rate of return on this stock? Consider the tax rate as 30%. Express your answer as a fraction.
+
+**NOTE:**Round to two decimal places wherever necessary
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Range
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+0.07 to 0.08
+
+**Sub-Section Number :** 
+6
+
+**Sub-Section Id :** 
+640653103798
+
+**Question Shuffling Allowed :**
+Yes
+
+**Is Section Default? :** 
+null
+
+**Question Number :** 307 **Question Id :** 640653699522 **Question Type :** MCQ Is Question **Mandatory :** No Calculator : None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 1
+
+**Question Label :** Multiple Choice Question

@@ -1,0 +1,32 @@
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653699535 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (319 to 320)
+Question Label : Comprehension
+Prepare a balance sheet as of today by assigning the following entries to right headers (Asset, Liability/Equity, Income, Expense) for the J.L. Gregory Company, using the following data, and answer the sub questions
+- Accounts payable \$ 241,000
+- Cash Balance \$ 89,000
+- Accounts receivable \$ 505,000
+- Equipment (at cost) \$ 761,000
+- Prepaid expenses \$ 107,000
+- Estimated tax liability \$ 125,000.
+- Buildings (at cost) \$ 1,120,000
+- Inventories \$ 513,000
+- Investment in the Peele Company \$ 320,000
+- Land (at cost) \$ 230,000
+- Bonds payable \$ 700,000
+- Marketable securities \$ 379,000
+- Equity \$ 1,000,000
+- Accumulated depreciation on buildings \$ 538,000
+- Accumulated depreciation on equipment \$ 386,000
+Sub questions
+
+Question Number : 319 Question Id : 640653699536 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+The income in the income statement is? (Hint: Balance Sheet should Balance):
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

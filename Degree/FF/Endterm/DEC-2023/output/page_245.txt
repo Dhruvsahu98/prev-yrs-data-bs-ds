@@ -1,0 +1,36 @@
+Table 1
+
+Classification confusion matrix
+
+| Actual Class | Predicted Class |
+|---|---|
+| 1 | 187 |
+| 1 | 19 |
+| 0 | 63 |
+| 0 | 31 |
+
+Options :
+
+6406532335897. ❌ 22,44,000
+6406532335898. ❌ 12,40,000
+6406532335899. ❌ -2,76,000
+6406532335900. ❌ -7,60,000
+6406532335901. ✅ 7,56,000
+
+Question Number : 334 Question Id : 640653699552 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+
+What is the Shapley value conceptually based on in cooperative game theory?
+
+Options :
+
+6406532335902. ✅ Marginal contributions of players
+6406532335903. ❌ Total contributions of players
+6406532335904. ❌ Average contributions of players
+6406532335905. ❌ Maximum contributions of players
+
+Question Number : 335 Question Id : 640653699553 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

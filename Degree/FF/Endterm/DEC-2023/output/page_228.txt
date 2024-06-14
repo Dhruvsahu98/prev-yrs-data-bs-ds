@@ -1,0 +1,37 @@
+A company has built a ML-Based Fraud detection system and was testing it out in the test environment. During the experiment that they conducted for 15 transactions the following was observed:
+
+| Txn No. | ML System's Prediction | Ground Truth |
+|---|---|---|
+| 1 | Non-Fraud | Non-Fraud |
+| 2 | Non-Fraud | Non-Fraud |
+| 3 | Fraud | Fraud |
+| 4 | Non-Fraud | Fraud |
+| 5 | Non-Fraud | Non-Fraud |
+| 6 | Non-Fraud | Non-Fraud |
+| 7 | Non-Fraud | Non-Fraud |
+| 8 | Non-Fraud | Fraud |
+| 9 | Fraud | Fraud |
+| 10 | Non-Fraud | Non-Fraud |
+| 11 | Non-Fraud | Non-Fraud |
+| 12 | Non-Fraud | Non-Fraud |
+| 13 | Fraud | Fraud |
+| 14 | Non-Fraud | Non-Fraud |
+| 15 | Non-Fraud | Non-Fraud |
+
+Based on the above table which of the following statement is correct (consider the positive class as Fraud and negative class as Non-Fraud).
+
+**Options :**
+
+6406532335817. ❌ The system performs with a recall of 100%
+
+6406532335818. ✅ The system performs with a precision of 100%
+
+6406532335819. ❌ The system has 0 False Negatives
+
+6406532335820. ❌ The system was calibrated to makes sure that it absolutely blocks all fraudulent transactions.
+
+**Question Number : 308 Question Id : 640653699523 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 1 Question Label : Multiple Choice Question**
+
+The following are the number of payments attempts on a regular day that a fintech giant is seeing in its platform. You are hired as a data scientist to find the pattern in the payment attempts and you decide to perform a MLE with a gaussian distribution as an assumption. Which of these correctly represents the parameters of the normal distribution based on MLE for the given data:
+
+# Daily Payment Attempts = 100, 145, 120, 250, 124, 364, 124, 237, 365, 143

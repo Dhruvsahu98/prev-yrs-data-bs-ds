@@ -1,0 +1,32 @@
+Sub-Section Number : 9
+Sub-Section Id : 640653103801
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653699531 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (316 to 318)
+Question Label : Comprehension
+
+Considering the following data answer the subquestions:
+
+The Hosmer Company had June sales of \$275,000.
+The cost of goods sold was \$164,000
+Other cash expenses were:
+Rent \$ 3,300
+Taxes \$ 1,375
+Salaries \$ 27,400
+Other \$ 50,240
+
+Sub questions
+
+Question Number : 316 Question Id : 640653699532 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What were the company Revenues?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

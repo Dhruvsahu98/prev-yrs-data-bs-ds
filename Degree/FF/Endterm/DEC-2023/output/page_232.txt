@@ -1,0 +1,24 @@
+Sub-Section Number : 8
+Sub-Section Id : 640653103800
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 314 Question Id : 640653699529 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is/are example(s) of a autocorrelation process: 
+Options :
+6406532335843. ❌ Temperatures on consecutive days
+6406532335844. ❌ Traffic flow on an hourly basis
+6406532335845. ❌ Daily footfall in a shopping centre
+6406532335846. ✅ All of these
+
+Question Number : 315 Question Id : 640653699530 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following can be solved by the differencing technique in time series analysis? 
+Options :
+6406532335847. ❌ To remove trend
+6406532335848. ❌ To remove seasonality
+6406532335849. ❌ To remove correlation
+6406532335850. ✅ Both To remove trend and To remove seasonality

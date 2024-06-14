@@ -1,0 +1,36 @@
+13 = Balance Longest Positive Interval (L3M)
+0.948 = Balance in Percentage
+9901.678 = Balance Standard Deviation (L3M)
+0 = Percentage Change in Balance (1MA)
+1 = Number of Mortgages
+386.8 = Balance Differentiated Max Change (L3M)
+-9824.39 = Balance Minimum Level (L3M)
+10000 = Limit Blanco Unsecured (2MA)
+-99522 = Balance Consumer Loan
+366 = Number of Logins (L3M)
+-9996 = Balance Unsecured (L3M)
+-1360.722 = Balance Mean (L3M)
+63 = Customer Length in Months
+-0.013 = Percentage Change in Balance (3MA)
+0 = Number of First Reminders Unsecured
+25010.98 = Average Salary (L3M)
+14519.72 = Savings Balance
+11475.11 = Savings Balance (1MA)
+-0.337 = Average Used Credit (L3M)
+$f(x) = 58.767$
+```python
+# code block
+```
+$E[f(x)] = 0.927$
+**Options :**
+6406532335910. ❌ -0.01
+6406532335911. ❌ 0.927
+6406532335912. ❌ +16.85
+6406532335913. ✅ 58.767
+
+**Question Number :** 337 **Question Id :** 640653699555 **Question Type :** MCQ Is Question
+**Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 1
+**Question Label :** Multiple Choice Question
+Which of the following visualizations is commonly used to display SHAP values for a single prediction?
+**Options :**
