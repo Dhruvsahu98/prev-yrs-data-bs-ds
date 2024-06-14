@@ -1,0 +1,24 @@
+Which of the following risks must be dealt with first by the project manager?
+**Options :**
+6406532754791. ❌ Personnel shortfall
+6406532754792. ✅ Schedule slippage
+6406532754793. ❌ Developing unnecessary features
+6406532754794. ❌ Insufficient knowledge of product
+
+Sw Testing
+**Section Id :** 64065357824
+**Section Number :** 3
+**Section type :** Online
+**Mandatory or Optional :** Mandatory
+**Number of Questions :** 20
+**Number of Questions to be attempted :** 20
+**Section Marks :** 100
+**Display Number Panel :** Yes
+**Section Negative Marks :** 0
+**Group All Questions :** No
+**Enable Mark as Answered Mark for Review and Clear Response :** Yes
+**Maximum Instruction Time :** 0
+**Sub-Section Number :** 1
+**Sub-Section Id :** 640653120728
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null

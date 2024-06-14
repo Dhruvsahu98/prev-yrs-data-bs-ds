@@ -1,0 +1,47 @@
+Consider the following Java classes.
+
+```python
+1. class Data{
+2.  private int i;
+3.  private char c;
+4.  public void update(int i, char c){
+5.  this.i = i;
+6.  this.c = c;
+7.  }
+8.  public void update(char c, int i){
+9.  this.i = i;
+10. this.c = c;
+11. }
+12. }
+13. public class MTest {
+14.  public static void main(String[] args){
+15.  Data d = new Data();
+16.  d.update(97, 'A');
+17.  }
+18. }
+```
+Consider creating a mutant by modifying the statement at LINE 16 as follows:
+
+16a. d.update('A', 97);
+
+Which of the following mutation operator is used in creating the above mutant?
+
+**Options :**
+
+6406532754848. ❌ Overriding Method Moving (OMM) operator
+
+6406532754849. ❌ Argument number change (ANC) operator
+
+6406532754850. ✅ Argument order change (AOC) operator
+
+6406532754851. ❌ Overloading Method Change (OMC) operator
+
+**Question Number : 80 Question Id : 640653820735 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction**
+
+**Time : 0**
+
+**Correct Marks : 5**
+
+**Question Label : Multiple Choice Question**

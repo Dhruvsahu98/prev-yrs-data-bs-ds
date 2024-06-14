@@ -1,0 +1,35 @@
+Consider the following Java program.
+
+```python
+class A{
+    public void f() {}
+    public void h() {}
+}
+class B extends A{
+    public void f() {}
+    public void g() {}
+}
+class C extends B{
+    public void f() {}
+    public void i() {}
+}
+public class MTest{
+    public static void main(String[] args){
+        C obj = new C();
+        obj.f();
+        obj.g();
+        obj.h();
+        obj.i();
+    }
+}
+```
+
+Which of the following sets of the methods will be invoked in the above program?
+
+Options :
+6406532754856.  [A::f(), B::g(), A::h(), C::i()]
+6406532754857.  [C::f(), B::g(), A::h(), C::i()]
+6406532754858.  [C::f(), A::g(), B::h(), C::i()]
+6406532754859.  [A::f(), A::g(), B::h(), C::i()]
+
+Question Number : 81 Question Id : 640653820737 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

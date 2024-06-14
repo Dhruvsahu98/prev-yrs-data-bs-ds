@@ -1,0 +1,26 @@
+```python
+# -*- coding: utf-8 -*-
+```
+ 
+**testcase3()** 
+6406532754907. **testcase4()** 
+Sub-Section Number : 6
+Sub-Section Id : 640653120733
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 88 Question Id : 640653820740 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Identify the predicate(s) which are in Disjunctive Normal Form (DNF)?
+Options :
+6406532754876.  $x \land y \land z$
+6406532754877.  $x \lor (y \land z)$
+6406532754878.  $(u \lor v \lor x) \land (y \lor z)$
+6406532754879.  $(u \land v) \lor (y \land z) \lor x$
+Sub-Section Number : 7
+Sub-Section Id : 640653120734
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653820741 Question Type : COMPREHENSION Sub Question Shuffling

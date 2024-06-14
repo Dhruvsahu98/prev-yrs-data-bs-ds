@@ -1,0 +1,62 @@
+Consider the following Java program.
+```java
+import java.util.*;
+class ItemList{
+protected ArrayList<Integer> list;
+public ItemList() {
+list = new ArrayList<Integer>();
+}
+public void insertAt(int i, int v) {
+list.add(i, v);
+}
+public void removeAt(int i) {
+list.remove(i);
+}
+public int size() {
+return list.size();
+}
+}
+class ItemStack extends ItemList{
+private int top = -1;
+public void push(int v) {
+top++;
+insertAt(top, v);
+}
+public boolean pop() {
+try {
+if(top == -1)
+return false;
+removeAt(top);
+top--;
+return true;
+}catch(Exception e) {
+return false;
+}
+}
+}
+public class MTest {
+public static void fun(ItemList li) {
+li.removeAt(li.size() - 1);
+}
+public static void main(String[] args) {
+ItemStack is = new ItemStack();
+is.push(10);
+is.push(20);
+is.push(30);
+fun(is); // LINE-1
+if(!is.pop()) // LINE-2
+System.out.println("pop failed");
+}
+}
+```
+The call to `is.pop()` at LINE-2 throws an exception since the invocation of `fun()` at LINE-1 calls the `removeAt` method from the parent type, which makes the top of `ItemStack` inconsistent. Identify the type of anomaly or fault in the given scenario.
+
+**Options :**
+
+6406532754852.  ✅ Inconsistent type use
+
+6406532754853.  ❌ State definition anomaly
+
+6406532754854.  ❌ State definition inconsistency anomaly
+
+6406532754855.  ❌ State visibility anomaly

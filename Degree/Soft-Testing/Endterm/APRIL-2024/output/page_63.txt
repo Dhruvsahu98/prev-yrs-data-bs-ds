@@ -1,0 +1,20 @@
+Sub-Section Number : 5
+Sub-Section Id : 640653120732
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 86 Question Id : 640653820727 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+What is/are the main advantages of Test-Driven Development (TDD)?
+
+Options : 
+6406532754824.  ✔ Fault isolation is easy
+6406532754825.  ✖ The final combined code size remains minimal, and it is always efficient and highly readable.
+6406532754826.  ✖ Low dependency on test frameworks
+6406532754827.  ✔ A TDD based project is ideal for pair programming one for writing code and one for testing.
+
+Question Number : 87 Question Id : 640653820749 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Max. Selectable Options : 0
+Question Label : Multiple Select Question

@@ -1,0 +1,32 @@
+Question Number : 71 Question Id : 640653820726 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DEGREE LEVEL : SOFTWARE TESTING (COMPUTER BASED EXAM)"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406532754822.  YES
+6406532754823.  NO
+
+Sub-Section Number : 2
+Sub-Section Id : 640653120729
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 72 Question Id : 640653820728 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Backlog Management Index (BMI) is an example of which kind of metrics?
+
+Options :
+6406532754828.  Product quality metrics
+6406532754829.  In-process quality metrics

@@ -1,0 +1,38 @@
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (89 to 90)
+
+Question Label : Comprehension
+
+Consider the truth table for the predicate $p = a \lor b \land c$.
+
+| Row# | $a$ | $b$ | $c$ | $p$ | $p_a$ | $p_b$ | $p_c$ |
+|---|---|---|---|---|---|---|---|
+| 1 | $T$ | $T$ | $T$ | $T$ |  |  |  |
+| 2 | $T$ | $T$ | $F$ | $T$ | $T$ |  |  |
+| 3 | $T$ | $F$ | $T$ | $T$ |  |  |  |
+| 4 | $T$ | $F$ | $F$ | $T$ |  |  |  |
+| 5 | $F$ | $T$ | $T$ | $T$ |  | $T$ | $T$ |
+| 6 | $F$ | $T$ | $F$ | $T$ |  | $T$ |  |
+| 7 | $F$ | $F$ | $T$ | $T$ |  |  | $T$ |
+| 8 | $F$ | $F$ | $F$ | $F$ |  |  |  |
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 89 Question Id : 640653820742 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5
+Question Label : Multiple Choice Question
+
+Identify all pairs of rows from your table that satisfy Restricted Active Clause Coverage (RACC) with respect to clause $a$.
+
+Options :
+
+6406532754880.  $\times$ (2, 6)
+
+6406532754881.  $\times$ (5, 7)
+
+6406532754882.  $\times$ (5, 6)

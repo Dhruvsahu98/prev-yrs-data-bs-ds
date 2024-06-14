@@ -1,0 +1,5 @@
+Question Number : 85 Question Id : 640653820734 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 6
+Question Label : Multiple Choice Question

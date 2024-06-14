@@ -1,0 +1,24 @@
+6406532754838. ✅ Control flow level bypass testing
+6406532754839. ❌ User-session data based testing
+
+Question Number : 75 Question Id : 640653820736 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following types of mutants can be killed by almost any test case?
+Options :
+6406532754860. ❌ Stillborn mutant
+6406532754861. ✅ Trivial mutant
+6406532754862. ❌ Equivalent mutant
+6406532754863. ❌ Dead mutant
+
+Question Number : 76 Question Id : 640653820744 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following is true about preconditions in Finite State Machine (FSM)?
+Options :
+6406532754888. ❌ They represent sets of values for (key) variables.
+6406532754889. ❌ They model possible changes from one state to another
+6406532754890. ✅ Those are the conditions that must be true for transitions to be made.
+6406532754891. ❌ Those are the changes to the variables that cause transitions to be made.

@@ -1,0 +1,26 @@
+6406532754830. ✅ Maintenance quality metrics
+6406532754831. ❌ Project metrics
+
+Question Number : 73 Question Id : 640653820729 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Which of the following tests is performed to monitor the system parameters, such as memory utilization, to detect memory leaks or other performance issues under the continuous expected load?
+
+Options :
+6406532754832. ❌ Load testing
+6406532754833. ❌ Stress testing
+6406532754834. ✅ Soak testing
+6406532754835. ❌ Spike testing
+
+Question Number : 74 Question Id : 640653820730 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Which type of client-side testing tries to verify Web applications by executing test cases that interrupt the normal execution sequence, like altering the control flow by pressing the back button, pressing the refresh button, or directly entering an URL into a browser?
+
+Options :
+6406532754836. ❌ Value level bypass testing
+6406532754837. ❌ Parameter level bypass testing

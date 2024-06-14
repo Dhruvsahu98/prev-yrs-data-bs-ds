@@ -1,0 +1,60 @@
+Consider the following classes for the code base to be tested and the test class.
+
+```python
+//code base
+class X{
+protected int u, v;
+public void setU(int u) { this.u = u; }
+public void setV(int v) { this.v = v; }
+public int getU() { return u; }
+public int getV() { return v; }
+}
+class Y extends X{
+protected int u, w;
+public void setU(int u) { this.u = u; }
+public void setW(int w) { this.w = w; }
+public int getW() { return w; }
+public int getU() { return u; }
+}
+//test class
+import static org.junit.Assert.*;
+import org.junit.Test;
+public class ClassAccessorTest {
+private X objX;
+private Y objY;
+@Test
+public void testCase1() {
+objX = new X();
+objX.setU(10);
+assertTrue(objX.getU() == 10);
+}
+@Test
+public void testCase2() {
+objY = new Y();
+objY.setU(10);
+assertTrue(objY.getU() == 10);
+}
+@Test
+public void testCase3() {
+objX = new Y();
+objX.setV(10);
+assertTrue(objX.getV() == 10);
+}
+@Test
+public void testCase4() {
+objX = new Y();
+objX.setU(10);
+assertTrue(objX.getU() == 10);
+}
+}
+```
+
+Identify the test case method(s) that will fail for the given code base.
+
+Options :
+
+6406532754904.  **testcase1()**
+
+6406532754905.  **testcase2()**
+
+6406532754906. 

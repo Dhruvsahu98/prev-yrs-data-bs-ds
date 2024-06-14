@@ -1,0 +1,18 @@
+Question Number : 77 Question Id : 640653820745 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Coupling variables are variables that are defined in one unit and used in the other. Identify the type of coupling where two units access an external object like a file.
+Options :
+6406532754892. ❌ Parameter coupling
+6406532754893. ❌ Shared data coupling
+6406532754894. ✅ External device coupling
+6406532754895. ❌ Message-passing interfaces
+Sub-Section Number : 3
+Sub-Section Id : 640653120730
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 78 Question Id : 640653820732 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question

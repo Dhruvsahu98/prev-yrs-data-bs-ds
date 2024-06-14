@@ -1,0 +1,23 @@
+Match the following regarding the types of transitions or edges in Application Transition Graph (ATG):
+
+| Transition types | Description |
+|---|---|
+| A. Form link transition | 1. A transition out of the softwares control like back button, forward button, refresh button, etc. |
+| B. Component expression transition | 2. Server side transition, invisible to user |
+| C. Operational transition | 3. Execution of a software component causes a component expression to be sent to the client |
+| D. Redirect transition | 4. Form submission link |
+
+**Options :**
+
+6406532754844. ❌ A-4, B-1, C-3, D-2
+6406532754845. ✅ A-4, B-3, C-1, D-2
+6406532754846. ❌ A-3, B-1, C-4, D-2
+6406532754847. ❌ A-3, B-4, C-1, D-2
+
+**Question Number : 79 Question Id : 640653820733 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 5**
+
+**Question Label : Multiple Choice Question**

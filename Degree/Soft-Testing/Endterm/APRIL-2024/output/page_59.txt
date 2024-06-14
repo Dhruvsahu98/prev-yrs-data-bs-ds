@@ -1,0 +1,15 @@
+6406532754875.  $\{p^r \mapsto \prod_{i \in [a, b + n - 1]} r_i\}$
+
+Sub-Section Number : 4
+Sub-Section Id : 640653120731
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 84 Question Id : 640653820731 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 6
+
+Question Label : Multiple Choice Question
+
+Consider the code segment of a Java servlet below. The atomic sections are marked as $P_1, P_2, P_3, \dots$. 

@@ -1,0 +1,21 @@
+6406532754883.  ✔ (2, 6), (3, 7), (4, 8)
+
+Question Number : 90 Question Id : 640653820743 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+
+Identify all pairs of rows from your table that satisfy Restricted Inactive Clause Coverage (RICC) with respect to clause $a$.
+
+Options :
+
+6406532754884.  ✖ (2, 6) for $p = true$, (3, 7) for $p = false$
+
+6406532754885.  ✔ (1, 5) for $p = true$, no feasible pair for $p = false$
+
+6406532754886.  ✖ (1, 3), (2, 4) for $p = true$, (6, 8) for $p = false$
+
+6406532754887.  ✖ (1, 2), (3, 4) for $p = true$, (7, 8) for $p = false$
+
+Question Id : 640653820746 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (91 to 92)
+Question Label : Comprehension

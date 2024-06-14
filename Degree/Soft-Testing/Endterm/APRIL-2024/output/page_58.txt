@@ -1,0 +1,34 @@
+6406532754869. 6
+6406532754870. 7
+6406532754871. 24
+
+**Question Number : 83 Question Id : 640653820739 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 5**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following code segment for symbolic testing.
+
+```python
+int positiveProduct(int a, int b) {
+    //compute the product of positive inputs;
+    //return on any negative input
+    int i = a;
+    int pr = 1;
+    do {
+        i++;
+        r = sym_input();
+        if (r < 0)
+            break; //come out of the loop
+        pr *= r;
+    }while (i <= b);
+    return sum;
+}
+```
+
+Identify the value of pr at the end of the symbolic execution of the do .... while loop with a sequence of n positive inputs followed by a negative input. Consider each $r_i$ is a fresh symbolic value.
+
+**Options :**
+
+6406532754872.  $\{pr \rightarrow \prod_{i \in [a, b]} r_i\}$ 
+6406532754873.  $\{pr \rightarrow \prod_{i \in [1, n-1]} r_i\}$
+6406532754874.  $\{pr \rightarrow \prod_{i \in [a+1, a+n]} r_i\}$
