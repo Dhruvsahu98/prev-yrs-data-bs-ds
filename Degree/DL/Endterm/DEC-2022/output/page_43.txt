@@ -1,0 +1,23 @@
+Question Number : 62 Question Id : 640653451009 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following threshold $\theta$ values of MP neuron implements AND Boolean function denoted by $f(x)$? Assume that the number of inputs $x_i$ to the neuron is four and the neuron does not have any inhibitory inputs. 
+$$f(x) = \begin{cases}
+1, & \text{if } \sum_{i=0}^3 x_i > \theta \\
+0, & \text{otherwise}
+\end{cases}$$
+Options :
+6406531501007. ❌ 0
+6406531501008. ❌ 1
+6406531501009. ❌ 2
+6406531501010. ✅ 3
+6406531501011. ❌ 4
+
+Question Number : 63 Question Id : 640653451012 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Consider a sigmoid function
+$$f(x) = \frac{1}{1 + e^{-(wx + b)}}$$
+Suppose that $w$ is restricted to take only negative values ($w < 0$). Suppose further that we define the steepness of the curve as absolute value of the slope. Select all the correct statements about the function 
+Options :
+6406531501021. ❌ Increasing the value of $b$ shifts the sigmoid function to the left (i.e., towards negative infinity)

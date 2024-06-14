@@ -1,0 +1,25 @@
+Question Label : Short Answer Question
+Suppose that $x \in \mathbb{R}^{20 \times 1}$, $h_1 = h_2 \in \mathbb{R}^{100 \times 1}$, $h_3 \in \mathbb{R}^{50 \times 1}$ and $y \in \mathbb{R}^{3 \times 1}$. How many parameters (including bias) are there in the network?
+(If your answer is 12345, enter it as 12345)
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+17402 to 17404
+
+Question Number : 72 Question Id : 640653451015 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Suppose that a softmax function is used in the output layer to compute the probability for each class.
+$\hat{y} = softmax(a_4)$
+Assume that $a_4 = \begin{bmatrix} 1 \\ 0 \\ -1 \end{bmatrix}$. What is the value of third element in $\hat{y}$ (if your intermediate result is 1.2345, then take it as 1.23 to the next step)
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText

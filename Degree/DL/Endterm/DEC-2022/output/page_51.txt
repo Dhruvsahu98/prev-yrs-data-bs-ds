@@ -1,0 +1,21 @@
+Possible Answers :
+0.07 to 0.11
+
+Question Number : 73 Question Id : 640653451016 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Suppose that the number of classes is 500, that is, $\hat{y} \in \mathbb{R}^{500 \times 1}$. Suppose further that all the elements in $a_4$ is 1. Compute the $\hat{y}$ as follows and enter the sum of the elements in $\hat{y}$
+$\hat{y} = softmax(a_4)$
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.9 to 1.1
+
+Question Number : 74 Question Id : 640653451017 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Short Answer Question

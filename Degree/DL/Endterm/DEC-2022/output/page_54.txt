@@ -1,0 +1,23 @@
+Suppose that all the elements in the input are one (that is, $x_0 = x_1 = ... = x_n = 1$) and all the weight values are 0.1 (that is, $b = w_1 = w_2 = ... = w_n = 0.01$). Assume the activation function is logistic, $\Phi(z) = \frac{1}{1+exp(-z)}$ and $n = 10$. Use the Mean square error loss, 
+$L = 0.5(\hat{y} - y)^2$ 
+enter the number of weights that will get modified from their current values during the next iteration.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+10.9 to 11.1
+
+Question Number : 76 Question Id : 640653451025 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+In the previous question, if we change all the weight values to 10, that is, $b = w_1 = w_2 = ... = w_n = 10$, then enter the number of weights that will get updated during the next iteration.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0

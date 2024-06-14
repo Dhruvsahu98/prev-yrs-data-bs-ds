@@ -1,0 +1,20 @@
+Question Number : 66 Question Id : 640653451021 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Select all correct statements about the bias and variance of deep learning models.
+Options :
+6406531501042. ✅ A model with high bias produce high training error and high validation error
+6406531501043. ❌ A model with high variance produce high training error and low validation error
+6406531501044. ✅ A model with high variance produce low training error and high validation error
+6406531501045. ✅ Bias and variance can be both made zero if the underlying distribution of the samples are known and also the samples are not corrupted by noise
+
+Question Number : 67 Question Id : 640653451022 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Suppose that we use Dropout scheme to regularize the deep learning model. Assume that the dropout probability $p = 0.75$ for all the layers in the model and the model is trained using Stochastic Gradient Descent (SGD) optimizer. Choose the correct statements about Dropout regularization.
+Options :
+6406531501046. ❌ Dropout reduces (removes) 25 percent of weights from the model during training and inference
+6406531501047. ❌ For each iteration, 75% of neurons are dropped randomly from the model 
+6406531501048. ✅ For each iteration, 25% of neurons are dropped randomly from the model
+6406531501049. ✅ Each weight gets multiplied by a factor $p$ during inference.
+6406531501050. ❌ Each weight gets multiplied by a factor $1 - p$ during inference.

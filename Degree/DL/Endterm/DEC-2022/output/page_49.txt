@@ -1,0 +1,51 @@
+Options :
+6406531501034.  ✓ 20
+6406531501035.  ✗ 20000
+6406531501036.  ✗ 40000
+6406531501037.  ✗ 40
+Sub-Section Number : 5
+Sub-Section Id : 64065364793
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653451013 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (71 to 74)
+Question Label : Comprehension
+The diagram below shows a feed forward neural network with fully connected layers (not to scale)
+
+```python
+import matplotlib.pyplot as plt
+import networkx as nx
+
+# Create a graph object
+G = nx.Graph()
+
+# Add nodes
+G.add_nodes_from(['x', 'a1', 'h1', 'a2', 'h2', 'a3', 'h3', 'a4', 'y'])
+
+# Add edges
+G.add_edges_from([('x', 'a1'), ('x', 'a2'), ('x', 'a3'), ('x', 'a4'),
+                  ('a1', 'h1'), ('a2', 'h1'), ('a3', 'h1'), ('a4', 'h1'),
+                  ('a1', 'h2'), ('a2', 'h2'), ('a3', 'h2'), ('a4', 'h2'),
+                  ('a1', 'h3'), ('a2', 'h3'), ('a3', 'h3'), ('a4', 'h3'),
+                  ('h1', 'a4'), ('h2', 'a4'), ('h3', 'a4'),
+                  ('h1', 'y'), ('h2', 'y'), ('h3', 'y')])
+
+# Draw the graph
+nx.draw(G, with_labels=True, node_size=500, node_color='lightgray', font_size=10, font_weight='bold', arrowsize=10, arrowstyle='->', width=0.5)
+
+# Add labels for weights
+plt.text(0.2, 0.1, '$W_1$', fontsize=12)
+plt.text(0.5, 0.1, '$W_2$', fontsize=12)
+plt.text(0.8, 0.1, '$W_3$', fontsize=12)
+plt.text(1.1, 0.1, '$W_4$', fontsize=12)
+
+# Show the plot
+plt.show()
+```
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 71 Question Id : 640653451014 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1

@@ -1,0 +1,74 @@
+6406531501022. ✅ Increasing the value of *b* shifts the sigmoid function to the right (i.e., towards positive infinity) 
+6406531501023. ❌ Increasing the value of *w* increases the steepness of the sigmoid function
+6406531501024. ✅ Increasing the value of *w* decreases the steepness of the sigmoid function
+
+Question Number : 64 Question Id : 640653451018 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Suppose that a momentum based gradient descent algorithm is used to train the feed forward neural network shown below.
+The parameter update rule for the weight matrix $W_3$ at time step *t* is written as follows,
+$w_3^t = \beta w_3^{t-1} + (1 - \beta)\nabla a_3(h_2^t)^T$
+
+```python
+# This code is not available in the image.
+```
+
+\begin{tabular}{cc}
+$\mathbf{a}_1$ & $\mathbf{h}_1$ \\
+\end{tabular}
+\begin{tabular}{cc}
+$\mathbf{a}_2$ & $\mathbf{h}_2$ \\
+\end{tabular}
+\begin{tabular}{cc}
+$\mathbf{a}_3$ & $\mathbf{O}$ \\
+\end{tabular}
+\begin{tikzpicture}[shorten >=1pt,->,draw=black!50, node distance=2.5cm]
+    \tikzstyle{every pin edge}=[<-,shorten <=1pt]
+    \tikzstyle{neuron}=[circle,fill=white!50,minimum size=17pt,inner sep=0pt]
+    \tikzstyle{input neuron}=[neuron, draw=black!50,fill=white!50];
+    \tikzstyle{output neuron}=[neuron, draw=black!50,fill=white!50];
+    \tikzstyle{hidden neuron}=[neuron, draw=black!50,fill=white!50];
+    \tikzstyle{annot} = [text centered]
+
+    % Draw the input layer nodes
+    \foreach \name / \y in {1,...,6}
+        \node[input neuron, pin=left:$\mathbf{x} \in \mathbb{R}^6$] (I-\name) at (0,-\y) {};
+
+    % Draw the first hidden layer nodes
+    \foreach \name / \y in {1,...,12}
+        \node[hidden neuron] (H1-\name) at (2.5,-\y) {};
+
+    % Draw the second hidden layer nodes
+    \foreach \name / \y in {1,...,12}
+        \node[hidden neuron] (H2-\name) at (5,-\y) {};
+
+    % Draw the output layer nodes
+    \foreach \name / \y in {1,...,4}
+        \node[output neuron, pin=right:$\mathbf{O} \in \mathbb{R}^4$] (O-\name) at (7.5,-\y) {};
+
+    % Connect every input node to every node in the first hidden layer
+    \foreach \i in {1,...,6}
+        \foreach \j in {1,...,12}
+            \path (I-\i) edge (H1-\j);
+
+    % Connect every node in the first hidden layer to every node in the second hidden layer
+    \foreach \i in {1,...,12}
+        \foreach \j in {1,...,12}
+            \path (H1-\i) edge (H2-\j);
+
+    % Connect every node in the second hidden layer to every node in the output layer
+    \foreach \i in {1,...,12}
+        \foreach \j in {1,...,4}
+            \path (H2-\i) edge (O-\j);
+
+    % Annotate the layers
+    \node[annot,above of=H1-1, node distance=1cm] {$W_1$};
+    \node[annot,above of=H2-1, node distance=1cm] {$W_2$};
+    \node[annot,above of=O-1, node distance=1cm] {$W_3$};
+\end{tikzpicture}
+
+where, $0 \le \beta < 1$. Choose the correct statements about the update rule
+Options :
+6406531501029. ✅ At any given time step $w_3^t$ is a matrix
+6406531501030. ❌ At any given time step $w_3^t$ is a vector

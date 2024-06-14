@@ -1,0 +1,24 @@
+6406531501031. ❌ The update rule for $w_t^3$ is wrong, the second term should have been written as $\nabla W_t^3$
+6406531501032. ✅ It requires bias correction to avoid bias towards zero
+6406531501033. ❌ It does not require any bias correction
+
+**Question Number : 65 Question Id : 640653451020 Question Type : MSQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2 Selectable Option : 0**
+**Question Label : Multiple Select Question**
+
+The update rule for the ADAM (Adaptive Moments) optimization algorithm is given below,
+$m_t = \beta_1 m_{t-1} + (1-\beta_1) \nabla w_t$
+$v_t = \beta_2 v_{t-1} + (1-\beta_2) (\nabla w_t)^2$
+$\hat{m_t} = \frac{m_t}{1-\beta_1}$
+$\hat{v_t} = \frac{v_t}{1-\beta_2}$
+$w_{t+1} = w_t - \frac{\eta}{\sqrt{\hat{v_t}+\epsilon}} \hat{m_t}$
+
+where, $\hat{m_t}$, $\hat{v_t}$ are bias corrected version of $m_t$, $v_t$. Here, $0 \le \beta_1 < 1$ and $0 \le \beta_2 < 1$.
+Choose the correct statement(s) from the following statements.
+
+**Options :**
+6406531501038. ✅ $m_t$ does not require bias correction
+6406531501039. ✅ $v_t$ does not require bias correction
+6406531501040. ✅ $m_t$ and $v_t$ are exponential averaging of history of gradients and gradients squared, respectively
+6406531501041. ✅ Both $\beta_1$ and $\beta_2$ can take values greater than one and in such a case the past gradients are given more weightage than the current gradients

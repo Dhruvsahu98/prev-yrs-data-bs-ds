@@ -1,0 +1,37 @@
+**Correct Marks : 1 Selectable Option : 0**
+
+Question Label : Multiple Select Question
+
+In the planning graph, which of the following are mutex action pairs in Layer 1?
+
+**Options :**
+
+6406531500993. ✅ Pickup(A), Pickup(D)
+6406531500994. ✅ Pickup(A), Unstack(C,B)
+6406531500995. ❌ Pickup(A), Stack(D,B)
+6406531500996. ❌ Pickup(A), Pickup(C)
+6406531500997. ❌ Unstack(C,B), Stack(D,B)
+
+**Question Number : 60 Question Id : 640653451004 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1 Selectable Option : 0**
+
+Question Label : Multiple Select Question
+
+In the planning graph, which of the following are mutex proposition pairs in Layer 1?
+
+**Options :**
+
+6406531500998. ✅ holding(A), holding(C)
+6406531500999. ✅ holding(A), holding(D)
+6406531501000. ❌ holding(A), on(C,B)
+6406531501001. ❌ onTable(A), on(C,B)
+6406531501002. ❌ on(C,B), on(C,D)
+
+## Deep Learning
+
+**Section Id :**  64065329302
+**Section Number :**  3
+**Section type :**  Online
+**Mandatory or Optional :**  Mandatory
+**Number of Questions :**  17

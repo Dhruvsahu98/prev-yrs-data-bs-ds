@@ -1,0 +1,26 @@
+## Question Number : 77 Question Id : 640653451026 Question Type : SA Calculator : None
+## Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+## Correct Marks : 2
+## Question Label : Short Answer Question
+In the previous question, if we change all the weight values to 10, that is, 
+$b = w_1 = w_2 = ... = w_n = 10$ and also the activation $\phi(.)$ to Relu, then enter the number of weights that will get updated during the next iteration.
+## Response Type : Numeric
+## Evaluation Required For SA : Yes
+## Show Word Count : Yes
+## Answers Type : Range
+## Text Areas : PlainText
+## Possible Answers :
+10.9 to 11.1
+
+
+## Question Id : 640653451027 Question Type : COMPREHENSION Sub Question Shuffling
+## Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+## Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+## Question Numbers : (78 to 81)
+## Question Label : Comprehension
+An MRI image of size 250x250x8 is feed as an input to a convolutional layer. Suppose that we want to produce an output of size 119x119x64 using a set of kernel. Suppose the kernel size is 13 x 13.
+Answer the given subquestions.
+## Sub questions
+## Question Number : 78 Question Id : 640653451028 Question Type : SA Calculator : None
+## Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+## Correct Marks : 1

@@ -1,0 +1,29 @@
+Question Label : Short Answer Question
+What is the value of stride s?. Assume zero padding ($p = 0$)
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+1.9 to 2.1
+
+Question Number : 79 Question Id : 640653451029 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label Short Answer Question
+How many parameters (including bias) are there in the convolutional layer?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+86591 to 86593
+
+Question Number : 80 Question Id : 640653451030 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Suppose that the input image is of size $250 \times 250 \times 3 \times 8$. Suppose further the kernel size is $13 \times 13$. How many parameters (including bias) are there in the layer now?
+Response Type : Numeric

@@ -1,0 +1,24 @@
+Is Section Default?: null
+
+Question Number : 69 Question Id : 640653451011 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider two data points $x_1 = \begin{bmatrix} a \\ 1 \end{bmatrix}$ and $x_2 = -1 * x_1$, where $a < 0$. The data point $x_1$ belongs to positive class (denoted as 1) and the data point $x_2$ belongs to negative class (denoted by 0). Suppose that the perceptron learning algorithm is used to find the decision boundary that separates these data points with the following rule, 
+$f(x) = \begin{cases}
+1, & \text{if } w^T x \ge 0, \\
+0 & \text{w}^T x < 0
+\end{cases}$
+The algorithm checks $x_1$ in the first iteration and $x_2$ in the second iteration and so on. How many times the weights get updated until convergence(That is, the algorithm classifies both the points correctly)? The weighs do not include bias.
+
+Options : 
+6406531501017.  ✔️ 1
+6406531501018.  ❌ 2
+6406531501019.  ❌ 4
+6406531501020.  ❌ It oscillates and never converges
+
+Question Number : 70 Question Id : 640653451019 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+A team has a data set that contains 1000 samples for training a feed forward neural network. Suppose they decided to use the gradient descent algorithm to update the weights. Suppose further that they use line search algorithm for the learning rate as follows, $\eta = [0.01, 0.1]$. How many times do the weights get updated after training the network for 20 epochs? (Note, for each weight update the loss has to decrease)
