@@ -1,0 +1,41 @@
+**  *  S6**
+
+**6406532335316.  *  S4**
+
+**6406532335317.  *  None of these**
+
+**Question Number : 168 Question Id : 64065369363 Question Type : MSQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1 Max. Selectable Options : 0**
+
+**Question Label : Multiple Select Question**
+
+Choose the correct qualifiers for SARSA from the options given below.
+
+**Options :**
+
+**6406532335322.  *  On-policy**
+
+**6406532335323.  *  Off-policy**
+
+**6406532335324.  *  TD-control**
+
+**6406532335325.  *  TD-prediction**
+
+**6406532335326.  *  None of these**
+
+**Question Number : 169 Question Id : 64065369378 Question Type : MSQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 1 Max. Selectable Options : 0**
+
+**Question Label : Multiple Select Question**
+
+What are the correct changes you have to make in the standard policy gradient theorem to come up with MC policy gradient with baseline update rule?
+
+**Options :**
+
+**6406532335379.  *  $\mu(s)$ is used to sample the states according to policy $\pi$.**

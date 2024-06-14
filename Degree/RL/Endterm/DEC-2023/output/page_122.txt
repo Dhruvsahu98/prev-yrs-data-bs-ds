@@ -1,0 +1,18 @@
+**Question Number : 151 Question Id : 640653699367 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 1 Question Label : Multiple Choice Question Match the methods with their corresponding characteristics.**
+**Options :**
+6406532335329. ✅ DP: bootstraps, full backups
+MC: does not bootstrap, full backups
+TD: bootstraps, full backups
+6406532335330. ❌ DP: bootstraps, full backups
+MC: does not bootstrap, sample backups
+TD: bootstraps, sample backups
+6406532335331. ❌ DP: bootstraps, sample backups
+MC: bootstraps, sample backups
+TD: does not bootstrap, full backups
+6406532335332. ❌ DP: does not bootstrap, full backups
+MC: bootstraps, full backups
+TD: bootstraps, sample backups
+6406532335333. ❌ None of these
+**Question Number : 152 Question Id : 640653699379 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 1 Question Label : Multiple Choice Question Which of the following is correct formulation of advantage function(A)?**
+**Options :**
+6406532335383. ✅ $q_\pi = A_\pi(s,a) + v_\pi(s)$

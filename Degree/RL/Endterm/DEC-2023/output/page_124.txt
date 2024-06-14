@@ -1,0 +1,34 @@
+Question Label : Multiple Choice Question
+Consider following assertion-reason pair:
+
+Assertion: Monte Carlo value function approximation methods need knowledge of model to be implemented.
+
+Reason: Monte Carlo value function approximation methods require a way to sample trajectories from the environment.
+
+Options :
+
+6406532335309. ❌ Assertion and Reason are both true and Reason is a correct explanation of Assertion.
+
+6406532335310. ❌ Assertion and Reason are both true and Reason is not a correct explanation of Assertion.
+
+6406532335311. ❌ Assertion is true but Reason is false.
+
+6406532335312. ✅ Assertion is false but Reason is true.
+
+Question Number : 155 Question Id : 640653699368 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Which of the following is the correct definition of accumulating eligibility traces?
+
+Options :
+
+6406532335334. ✅ $e_t(s) = \begin{cases}
+\gamma \lambda e_{t-1}(s), & \text{if } s \neq s_t. \\
+\gamma \lambda e_{t-1}(s) + 1, & \text{if } s = s_t.
+\end{cases}$
+
+6406532335335. ❌ $e_t(s) = \begin{cases}
+\lambda e_{t-1}(s), & \text{if } s \neq s_t. \\
+\lambda e_{t-1}(s) + 1, & \text{if } s = s_t.
+\end{cases}$

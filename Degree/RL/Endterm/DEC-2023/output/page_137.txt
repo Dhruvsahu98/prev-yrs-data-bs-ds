@@ -1,0 +1,14 @@
+Question Label : Multiple Select Question
+Which of the following is true about Markov and Semi Markov Options?
+**Options :**
+6406532335402.  ✔️ In a Markov Option the option's policy depends only on the current state.
+6406532335403.  ✔️ In a Semi Markov Option the option's policy can depend only on the current state.
+6406532335404.  ✔️ In a Semi Markov Option, the option's policy may depend on the history since the execution of the option began.
+6406532335405.  ❌ A Semi-Markov Option is always a Markov Option but not vice versa.
+**Sub-Section Number :** 6
+**Sub-Section Id :** 640653103764
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null
+Question Id : 640653699356 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (176 to 177)
+Question Label : Comprehension

@@ -1,0 +1,33 @@
+Question Label : Multiple Choice Question
+
+Note:
+
+1. Always enter your answer correct upto 3 decimal places without rounding off for numerical questions.
+
+Options :
+
+6406532335297.  ✅ Useful Data has been mentioned above.
+
+6406532335298. ❌ This data attachment is just for a reference & not for an evaluation.
+
+Sub-Section Number : 2
+Sub-Section Id : 640653103760
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 150 Question Id : 64065369355 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+
+Question Label : Multiple Choice Question
+Assertion: Taking exploratory actions is important for RL agents
+Reason: If the rewards obtained for actions are stochastic, an action which gave a high reward once, might give lower reward next time.
+
+Options :
+
+6406532335299. ❌ Assertion and Reason are both true and Reason is a correct explanation of Assertion.
+
+6406532335300. ✅ Assertion and Reason are both true and Reason is not a correct explanation of Assertion.
+
+6406532335301. ❌ Assertion is true and Reason is false
+
+6406532335302. ❌ Both Assertion and Reason are false.

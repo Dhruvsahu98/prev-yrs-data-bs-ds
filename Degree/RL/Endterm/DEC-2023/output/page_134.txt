@@ -1,0 +1,19 @@
+6406532335380. ✅ Sample actions from policy $\pi$.
+6406532335381. ❌ Sample states and actions from policy $\pi$.
+6406532335382. ✅ Replace $q_{\pi}(S_t, A_t)$ with $G_t$
+
+Question Number : 170 Question Id : 640653699380 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Choose the correct statement regarding the A3C algorithm:
+Options :
+6406532335387. ✅ It uses parallel processing.
+6406532335388. ❌ It is sequential in natures.
+6406532335389. ✅ All the individual learners have to produce only small updates to the gradient.
+6406532335390. ❌ All the individual learners can produce small and large updates to the gradient.
+6406532335391. ✅ It uses n-step TD error to update the policy parameters.
+6406532335392. ❌ None of these
+
+Question Number : 171 Question Id : 640653699384 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question

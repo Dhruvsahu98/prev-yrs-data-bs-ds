@@ -1,0 +1,24 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+If $\pi$ and $\pi'$ are two policies for an MDP both of which are optimal, which of the following statements is true? Assume that the MDP has more than two optimal policies.
+
+Options :
+6406532335305.  ✔ The value functions for both $\pi$ and $\pi'$ are equal and each of them is equal to the optimal value function.
+6406532335306.  ✖ At least one of $\pi$ or $\pi'$ has to be deterministic.
+6406532335307.  ✔ For state $s$, $a_1$, $a_2 \in A(s)$, if $q_\pi(s, a_1) = q_{\pi'}(s, a_2)$, then $\pi(a_1|s) = \pi'(a_2|s)$
+6406532335308.  ✖ None of these
+
+Question Number : 167 Question Id : 64065369361 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+Consider Monte-Carlo approach for policy evaluation. Suppose the states are $S_1$, $S_2$, $S_3$, $S_4$, $S_5$, $S_6$ and $terminal\_state$. You sample one trajectory as follows - $S_1 \rightarrow S_3 \rightarrow S_5 \rightarrow S_2 \rightarrow terminal\_state$.
+Which among the following states can be updated from this sample?
+
+Options :
+6406532335313.  ✔ $S_1$
+6406532335314.  ✔ $S_2$
+6406532335315.  ✖  

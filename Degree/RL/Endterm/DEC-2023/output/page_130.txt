@@ -1,0 +1,15 @@
+Question Number : 164 Question Id : 640653699385 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Choose the correct formula for UCT:
+Options :
+6406532335410. $\text{argmax}_{a \in A} \left[ Q(s,a) - 2c \sqrt{\frac{2lnN(s)}{N(s,a)}} \right]$
+6406532335411. $\text{argmax}_{a \in A} \left[ Q(s,a) + 2c \sqrt{\frac{2lnN(s)}{N(s,a)}} \right]$
+6406532335412. $\text{argmax}_{a \in A} \left[ Q(s,a) + 2c \sqrt{\frac{2lnN(s)}{N(s)}} \right]$
+6406532335413. $\text{max}_{s'} \left[ v(s') + 2c \sqrt{\frac{2lnN(s')}{N(s',a)}} \right]$
+
+Question Number : 165 Question Id : 640653699386 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question

@@ -1,0 +1,25 @@
+6406532335336. $\begin{cases}
+\gamma e_{t-1}(s), & \text{if } s \neq s_t. \\
+\gamma e_{t-1}(s) + 1, & \text{if } s = s_t.
+\end{cases}$
+
+6406532335337. $\begin{cases}
+\lambda e_{t-1}(s), & \text{if } s \neq s_t. \\
+\lambda e_{t-1}(s) \cdot 10, & \text{if } s = s_t.
+\end{cases}$
+
+Question Number : 156 Question Id : 640653699370 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following statement(s) are correct about the TD($\lambda$) algorithm?
+Options :
+6406532335342.  For $\lambda = 1$, the algorithm will behave like SARSA.
+6406532335343.  For $\lambda = 1$, the algorithm will behave like Q-learning.
+6406532335344.  For $\lambda = 1$, the algorithm will behave like Double Q-learning.
+6406532335345.  For $\lambda = 1$, the algorithm will behave like Monte Carlo and will update incrementally instead of waiting for the trajectory to end.
+6406532335346.  None of these
+
+Question Number : 157 Question Id : 640653699371 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+In the naive method of state aggregation such as we have in a grid world, the assumption that states that are close together have similar values breaks down for which of the following

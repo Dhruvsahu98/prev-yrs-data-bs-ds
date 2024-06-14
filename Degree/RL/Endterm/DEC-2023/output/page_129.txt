@@ -1,0 +1,14 @@
+6406532335371.  $\hat{\nabla}J(\theta) = \sum_{i=1}^N r_i \frac{\nabla \pi_a(\theta)}{\pi_a(\theta)}$
+6406532335372.  $\hat{\nabla}J(\theta) = \frac{1}{N} \sum_{i=1}^N \frac{\nabla \pi_a(\theta)}{\pi_a(\theta)}$
+6406532335373.  $\hat{\nabla}J(\theta) = \frac{1}{N} \sum_{i=1}^N r_i \frac{\nabla \pi_a(\theta)}{\pi_a(\theta)}$
+
+Question Number : 163 Question Id : 640653699377 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following is correct formulation of policy gradient theorem with baseline?
+Options :
+6406532335374.  $\hat{\nabla}J(\theta) \propto \sum_s \mu(s) \sum_a (q_{\pi}(s, a) - b(s)) \nabla \pi_a(s, \theta)$
+6406532335375.  $\hat{\nabla}J(\theta) \propto \sum_s \mu(s) \sum_a (v_{\pi}(s) - b(s)) \nabla \pi_a(s, \theta)$
+6406532335376.  $\hat{\nabla}J(\theta) \propto \sum_s \mu(s) \sum_a (q_{\pi}(s, a) - b(s)) \nabla \pi_a(s, \theta)$
+6406532335377.  $\hat{\nabla}J(\theta) \propto \sum_s \mu(s) \sum_a (q_{\pi}(s, a) - b(s)) \nabla \pi_a(s, \theta)$
+6406532335378.  None of these

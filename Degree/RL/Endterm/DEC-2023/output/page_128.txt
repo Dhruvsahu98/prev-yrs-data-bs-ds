@@ -1,0 +1,18 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following is the correct formulation of cost function for multi arm bandit problem?
+Options :
+6406532335365.  ✓ $J(\theta) = \sum_a q^*(a) \pi_\theta(a)$
+6406532335366.  ✗ $J(\theta) = \sum_a q(a) \pi_\theta(a)$
+6406532335367.  ✗ $J(\theta) = q^*(a) \pi_\theta(a)$
+6406532335368.  ✗ $J(\theta) = \sum_a q^*(a) \pi(a)$
+
+Question Number : 162 Question Id : 640653699376 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following is the correct formulation to estimate cost function for multi arm bandit problem from $N$ samples? $r_i$ is the reward received after pulling an arm at $i^{th}$ timestamp.
+Options :
+6406532335369.  ✓ $\nabla J(\theta) = \frac{1}{N} \sum_{i=1}^N r_i \frac{\nabla \pi_a(\theta)}{\pi_a(\theta)}$
+6406532335370.  ✗ $\nabla J(\theta) = \frac{1}{N} \sum_{i=1}^N r_i \nabla \pi_a(\theta)$

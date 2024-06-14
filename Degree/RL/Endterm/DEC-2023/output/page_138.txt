@@ -1,0 +1,36 @@
+Consider following grid world:
+
+$\begin{array}{|c|c|}
+\hline 1 & \\
+\hline 2 & 3 \\
+\hline 4 & 5 \\
+\hline
+\end{array}$
+
+* All transitions cost -1 reward.
+* The agent can take 4 actions i.e. {left, right, up, down}.
+* An action that takes the agent outside of the grid world, leaves the state unchanged.
+* All transitions are deterministic.
+* Gray cell represents terminal state.
+* Discounting factor $\gamma = 1$
+* $\pi^*$, $v^\pi(s)$ and $q^\pi(s,a)$ represent optimal policy and corresponding state and action value functions, respectively.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 176 Question Id : 640653699357 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+What is the 2 step value function for state 2, computed in synchronous manner, following equiprobable random policy?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+-2
+
+Question Number : 177 Question Id : 640653699358 Question Type : SA Calculator : None

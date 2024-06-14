@@ -1,0 +1,22 @@
+6406532335384.  * $A_{\pi}(s, a) = q_{\pi} + v_{\pi}(s)$
+
+6406532335385. * $v_{\pi}(s) = q_{\pi} + A_{\pi}(s, a)$
+
+6406532335386. * None of these.
+
+Question Number : 153 Question Id : 640653699382 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is the most suitable way to solve for highest reusability?
+Options :
+6406532335398. * Hierarchical optimal
+6406532335399. * Flat Optimal.
+6406532335400. *  Recursive optimal.
+6406532335401. * None of these
+Sub-Section Number : 3
+Sub-Section Id : 640653103761
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 154 Question Id : 640653699360 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2

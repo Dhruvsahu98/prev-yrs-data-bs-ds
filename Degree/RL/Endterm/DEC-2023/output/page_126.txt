@@ -1,0 +1,23 @@
+scenarios? 
+Options :
+6406532335347. ❌ A pair of states that are in the middle of some cell.
+6406532335348. ✅ A pair of states that are close to the border with both of them lying in the same cell.
+6406532335349. ❌ A pair of states that are close to the border with both of them lying in different cells.
+6406532335350. ❌ None of these
+
+Question Number : 158 Question Id : 640653699372 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following learning algorithms exhibit maximization bias?
+Options :
+6406532335351. ✅ Q-learning
+6406532335352. ❌ Double-Q learning
+6406532335353. ❌ SARSA
+6406532335354. ❌ Expected SARSA
+6406532335355. ❌ TD($\lambda$) with eligibility traces
+6406532335356. ❌ None of these
+
+Question Number : 159 Question Id : 640653699373 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2

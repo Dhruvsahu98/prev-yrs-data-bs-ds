@@ -1,0 +1,33 @@
+Which of the following is the correct formulation of an RL agent to maximize influence in an unknown network? 
+
+Note: 
+$G_t$: the sub-graph discovered after $t$ queries. 
+$G_T$: discovered graph. 
+$G^*$: Entire graph. 
+$I_{G^*}(G_T)$: Number of nodes influenced with the discovered graph. 
+
+**Options :**
+
+6406532335414. ❌ State: The discovered graph $G_t$. 
+Action: all nodes in $G_t$ that have been queried. 
+Reward: at the end based on the number of nodes influenced in $G^*$ after discovering graph $G_T$ (denoted by $I_{G^*}(G_T)$)
+
+6406532335415. ❌ State: The complete graph $G_t$. 
+Action: all nodes in $G_t$ that have not been queried. 
+Reward: at the end based on the number of nodes influenced in $G^*$ after discovering graph $G_T$ (denoted by $I_{G^*}(G_T)$)
+
+6406532335416. ❌ State: The undiscovered graph $G_t$. 
+Action: all nodes in $G_t$ that have not been queried. 
+Reward: at every step, small reward proportional to number of nodes discovered.
+
+6406532335417. ✅ State: The undiscovered graph $G_t$. 
+Action: all nodes in $G_t$ that have not been queried. 
+Reward: at the end based on the number of nodes influenced in $G^*$ after discovering graph $G_T$ (denoted by $I_{G^*}(G_T)$)
+
+6406532335418. ❌ None of these
+
+Sub-Section Number : 4
+Sub-Section Id : 640653103762
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 166 Question Id : 640653699359 Question Type : MSQ Is Question

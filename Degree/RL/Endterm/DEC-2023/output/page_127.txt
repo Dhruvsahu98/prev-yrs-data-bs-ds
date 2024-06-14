@@ -1,0 +1,26 @@
+Question Label : Multiple Choice Question
+
+As a consequence of the proposed fix for the non-stationarity of the target in DQN, the target network changes at a ______ rate than the online network.
+
+Options :
+
+640653233557. ✖ faster
+640653233558. ✔ slower
+640653233559. ✖ None of these
+
+Question Number : 160 Question Id : 640653699374 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Which of the following is the correct update rule for $\theta$ (representing the policy) with the policy gradient method?
+
+Options :
+
+640653233560. ✔ $\theta \leftarrow \theta + \alpha \nabla J(\theta)$
+640653233561. ✖ $\theta \leftarrow \theta - \alpha \nabla J(\theta)$
+640653233562. ✖ $\theta \leftarrow \theta + \nabla J(\theta)$
+640653233563. ✖ $\theta \leftarrow \theta - \nabla J(\theta)$
+640653233564. ✖ None of these
+
+Question Number : 161 Question Id : 640653699375 Question Type : MCQ Is Question

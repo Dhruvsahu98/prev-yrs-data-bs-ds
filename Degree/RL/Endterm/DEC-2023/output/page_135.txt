@@ -1,0 +1,30 @@
+Which of the following are characteristics of MCTS?
+
+**Options :**
+
+6406532335406.  ✔  Heuristic.
+6406532335407.  ✔  Anytime.
+6406532335408.  ✖  Symmetric.
+6406532335409.  ✖  None of these.
+
+**Sub-Section Number :** 5
+**Sub-Section Id :** 640653103763
+**Question Shuffling Allowed :** Yes
+**Is Section Default? :** null
+
+**Question Number :** 172 **Question Id :** 640653699362 **Question Type :** MSQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 2 **Max. Selectable Options :** 0
+
+**Question Label :** Multiple Select Question
+
+Select the correct statements from the options below:
+
+**Options :**
+
+6406532335318.  ✔  Asynchronous DP is a type of generalized policy iteration.
+6406532335319.  ✖  Value iteration algorithm is not a type of generalized policy iteration.
+6406532335320.  ✔  Policy iteration algorithm is a type of generalized policy iteration.
+6406532335321.  ✔  If an algorithm is some form of generalized policy iteration, it is guaranteed to converge to an optimal policy.
+
+**Question Number :** 173 **Question Id :** 640653699369 **Question Type :** MSQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 2 **Max. Selectable Options :** 0

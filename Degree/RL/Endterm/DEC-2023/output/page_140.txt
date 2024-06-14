@@ -1,0 +1,29 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+10
+
+Question Number : 179 Question Id : 640653699366 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+What is the every-visit estimator of the value of the nonterminal state?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5.5
+
+Intro to BigData
+Section Id : 64065349327
+Section Number : 8
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 24
+Number of Questions to be attempted : 24
+Section Marks : 50

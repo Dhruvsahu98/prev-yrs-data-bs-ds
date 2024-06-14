@@ -1,0 +1,23 @@
+Question Label : Multiple Select Question
+Which of the following are correct about the notion of eligibility traces?
+Options :
+6406532335338. ✅ It is the backward view of the TD($\lambda$) algorithm.
+6406532335339. ❌ It is the forward view of the TD($\lambda$) algorithm.
+6406532335340. ✅ The motivation behind eligibility traces is, if an agent receives a reward/punishment at any time step, then which decisions in the past are eligible to get credit for it.
+6406532335341. ❌ None of these
+
+Question Number : 174 Question Id : 640653699381 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Choose the correct components of an option:
+Options :
+6406532335393. ✅ Initiation.
+6406532335394. ✅ Policy.
+6406532335395. ✅ Termination.
+6406532335396. ❌ Set of actions.
+6406532335397. ❌ None of these
+
+Question Number : 175 Question Id : 640653699383 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
