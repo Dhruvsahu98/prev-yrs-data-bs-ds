@@ -1,0 +1,26 @@
+Possible Answers :
+3
+
+Stat computing
+
+Section Id : 64065357831
+Section Number : 10
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 3
+Number of Questions to be attempted : 3
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653120769
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 213 Question Id : 640653820883 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DEGREE LEVEL : STATISTICAL COMPUTING (PEN AND PAPER EXAM)" 

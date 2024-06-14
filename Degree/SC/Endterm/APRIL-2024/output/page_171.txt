@@ -1,0 +1,28 @@
+1. Let a random variable $X$ have the following cumulative distribution function:
+$$F(x) = 1 - (1-x^a)^b, \qquad x \in \mathbb{R},$$
+and $a, b > 0$. Write down the steps of the inverse transform algorithm to sample from this distribution.
+[3 marks]
+
+2. Let $X \sim Normal(0, 1)$. Suppose we want to estimate $\theta = E[e^{-X^4}]$ using the simple importance sampling method.
+(a) Find the optimal proposal density $g^*$.
+[3 marks]
+(b) For the above obtained $g^*$, find the simple importance sampling estimator $\hat{\theta}_g$.
+[3 marks]
+
+3. Suppose we want to generate random samples from a truncated Gamma(2, 1) defined on $(5, \infty)$ using the accept-reject algorithm with truncated exponential($\lambda$) defined on $(5, \infty)$ as a proposal distribution. Truncated Gamma(2, 1) is given by
+$$f(x) = \frac{xe^{-x}}{6e^{-5}}, \qquad \text{where } x \in (5, \infty)$$
+and truncated exponential($\lambda$) is given by
+$$g(x) = \frac{\lambda e^{-\lambda x}}{e^{-5 \lambda}}, \qquad \text{where } x \in (5, \infty)$$
+What is the optimal value of $\lambda$?
+[7 Marks]
+
+4. Suppose we want to minimize the objective function $f(x) = cos(x)$ using the MM algorithm.
+(a) Find a majorising function $\tilde{f}(x|x_n)$.
+[4 marks]
+(b) Write the iterates of the MM algorithm.
+[2 marks]
+
+5. Let $(X_1, Y_1), (X_2, Y_2), \dots, (X_n, Y_n)$ iid $\sim F$, where $F$ is some unknown bivariate distribution with mean vector $(\theta, \theta)^T$ and finite marginal variances. In order to estimate $\theta$, we choose the estimator:
+$$\hat{\theta} = \frac{1}{n} \sum_{i=1}^n \frac{X_i + Y_i}{2}$$
+Write down the steps of bootstrapping to obtain a 100(1 - $\alpha$)% confidence interval around $\hat{\theta}$. Write all the steps clearly.
+[5 marks]

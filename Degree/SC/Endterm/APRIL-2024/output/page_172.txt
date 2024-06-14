@@ -1,0 +1,39 @@
+6. Let $X_1, X_2, ..., X_n \stackrel{iid}{\sim} F$, where $F$ is a 2-component Bernoulli($p$) mixture distribution with pmf
+
+$f(x | p_1, p_2, \pi_1, \pi_2) = \pi_1 f_1(x | p_1) + \pi_2 f_2(x | p_2)$,
+
+where $0 \le p_1, p_2 \le 1$ and $\pi_1, \pi_2 \in (0, 1), \pi_1 + \pi_2 = 1$. Suppose we want to obtain the maximum likelihood estimate of $\theta = (\pi_1, \pi_2, p_1, p_2)$ using the EM algorithm. Recall that the E-step has the function:
+
+$Q(\theta | \theta^{(k)}) = E[log f(x, z | \theta) | X = x, \theta = \theta^{(k)}]$
+
+(a) Write the E-step $Q(\theta | \theta^{(k)})$ for the EM algorithm. [5 marks]
+
+(b) Write the M-step for the EM algorithm. [6 marks]
+
+7. Study the below code and answer the following sub-questions.
+```python
+n <- 100
+p <- 50
+X <- matrix(rnorm(n*p), nrow = n, ncol = p)
+# Linear regression: Y = X.beta + epsilon
+y <- X %*% (rnorm(p, mean = 2) + rnorm(n, mean = 0, sd = 2)) + rnorm(n, mean = 0, sd = 2)
+lam.vec <- c(10^seq(-10, 10, by = .1))
+error <- numeric(length = length(lam.vec))
+for (l in 1:length(lam.vec)) {
+  track.error <- 0
+  for (i in 1:n) {
+    X.train <- X[-i,]
+    y.train <- y[-i]
+    beta.train <- solve(t(X.train) %*% X.train + lam.vec[l]*diag(1, p)) %*% t(X.train) %*% y.train
+    track.error <- track.error + abs(y[i] - X[i,] %*% beta.train)
+  }
+  error[l] <- track.error/n
+}
+lam.star <- lam.vec[which.min(error)]
+beta.ridge <- solve(t(X) %*% X + lam.star*diag(p)) %*% t(X) %*% y
+```
+(a) Which cross validation technique is being implemented in the above code? [2 marks]
+
+(b) Which loss function has been used to calculate the cross validation estimate? [2 marks]
+
+(c) Describe mathematically the output of the function lam.star. [3 marks]

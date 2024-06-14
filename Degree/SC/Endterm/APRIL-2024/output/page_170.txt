@@ -1,0 +1,4 @@
+Is Section Default? : null
+Question Number : 215 Question Id : 640653820885 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 50
+Question Label : Multiple Choice Question

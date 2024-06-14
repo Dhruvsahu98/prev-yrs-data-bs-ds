@@ -1,0 +1,41 @@
+Use the following PDFs and PMFs if required:
+
+* $X \sim Bernoulli(p)$, $Pr(X = k) = p^k(1 - p)^{1-k}$, for $k \in \{0, 1\}$.
+
+* $X \sim Binomial(n, p)$, $Pr(X = k) = {n \choose k}p^k(1 - p)^{n-k}$, for $k = 1, ..., n$.
+
+* $X \sim Geometric(p)$, $Pr(X = k) = (1 - p)^{k-1}p$, for $k = 1, 2, 3, ...$.
+
+* $X \sim Geometric(p)$, $Pr(X = k) = (1 - p)^{k}p$, for $k = 0, 1, 2, ...$.
+
+* $X \sim Uniform(1, 2, ..., n)$, $Pr(X = x) = \frac{1}{n}$, for $x \in \{1, 2, ..., n\}$
+
+* $X \sim Poisson(\lambda)$, $Pr(X = k) = \frac{e^{-\lambda} \lambda^k}{k!}$, for $k = 0, 1, 2, ...$.
+
+* $X \sim Uniform(a, b)$, $f_X(x) = \frac{1}{b - a}$, for $a \le x \le b$
+
+* $X \sim Exp(\lambda)$, $f_X(x) = \lambda e^{-\lambda x}$, for $x > 0$
+
+* $X \sim Normal(\mu, \sigma^2)$, $f_X(x) = \frac{1}{\sigma \sqrt{2 \pi}}exp\left(-\frac{(x - \mu)^2}{2 \sigma^2}\right)$, for $-\infty < x < \infty$
+
+* $X \sim Gamma(\alpha, \beta)$, $f_X(x) = \frac{\beta^\alpha}{\Gamma(\alpha)}x^{\alpha - 1}e^{-\beta x}$, for $x > 0$ and $\alpha, \beta > 0$.
+
+* $X \sim Beta(\alpha, \beta)$, $f_X(x) = \frac{\Gamma(\alpha + \beta)}{\Gamma(\alpha)\Gamma(\beta)}x^{\alpha - 1}(1 - x)^{\beta - 1}$, for $0 < x < 1$ and $\alpha, \beta > 0$.
+
+* $X \sim Cauchy(\mu, \lambda)$, $f_X(x) = \frac{1}{\pi \lambda} \left[ 1 + \left(\frac{x - \mu}{\lambda}\right)^2 \right]^{-1}$, for $x \in \mathbb{R}$ and $\lambda > 0, \mu \in \mathbb{R}$
+
+* $X \sim \chi_k^2$, $f_X(x) = \frac{x^{k/2 - 1}e^{-x/2}}{2^{k/2}\Gamma(k/2)}$, for $x \ge 0$ and $k = 1, 2, ...$.
+
+* $X \sim t_k$, $f_X(x) = \frac{\Gamma((k + 1)/2)}{\Gamma(k/2)\sqrt{\pi k}} \left( 1 + \frac{x^2}{k} \right)^{-(k+1)/2}$, for $-\infty < x < \infty$ and $k = 1, 2, ...$.
+
+Options :
+
+6406532755245. ✅ Useful Data has been mentioned above.
+
+6406532755246. ❌ This data attachment is just for a reference & not for an evaluation.
+
+Sub-Section Number : 2
+
+Sub-Section Id : 640653120770
+
+Question Shuffling Allowed : No

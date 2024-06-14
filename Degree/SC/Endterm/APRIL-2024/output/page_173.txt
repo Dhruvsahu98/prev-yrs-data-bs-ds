@@ -1,0 +1,30 @@
+8. Which of the following methods can be used to draw samples from a Cauchy distribution?
+Select all that apply. [3 marks]
+(a) Inverse transform
+(b) Ratio-of-uniforms
+(c) Accept reject using Exponential(1) proposal distribution
+(d) Accept reject using Normal(0,1) proposal distribution
+
+9. In regression, ridge estimates for $\lambda > 0$ are always closer to zero as compared to the MLE estimates. [2 marks]
+(a) True
+(b) False
+
+Options :
+6406532755247.  ✔️ I have written answers on the answer sheets
+6406532755248.  ✖ Not applicable
+
+Market Research
+Section Id : 64065357832
+Section Number : 11
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 4
+Number of Questions to be attempted : 4
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065312077
