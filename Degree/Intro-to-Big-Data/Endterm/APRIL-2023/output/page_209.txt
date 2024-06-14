@@ -1,0 +1,17 @@
+Publisher 1
+Topic 1
+Publisher 2
+Subscription 1
+Subscription 2
+Subscription 3
+Subscriber 1
+Subscriber 2
+Subscriber 3
+Options :
+6406531888273. ❌ Each subscriber gets one third of all messages published into Topic 1.
+6406531888274. ❌ Each subscriber gets one third of all messages published into Topic 1 by Publisher 1
+6406531888275. ✅ Each subscriber gets all messages published into Topic 1.
+Question Number : 266 Question Id : 64065364898 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A Spark Streaming application is configured to execute once per minute. However, each run takes 10+ minutes consistently resulting in a never-ending backlog of work. The code in a nutshell looks as follows: 

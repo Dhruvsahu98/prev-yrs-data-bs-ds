@@ -1,0 +1,25 @@
+centres such as Mumbai, Delhi, Chennai etc. She wants to see this be presented in a monitor mounted in her office wall that refreshes with the latest info on an India map every 1 minute along with the time of update so that she gets the confirmation that this is the latest data, so that she can plan for new summer-special trains as required. What solution option below best solves for the need?
+
+**Options :**
+
+6406531888304. ❌ Route a copy of the ticket purchase to a Kafka topic, use Spark Structured Streaming to continuously read from this topic and update the aggregates by destinations, and emit using output mode "Update".
+
+6406531888305. ✅ Route a copy of the ticket purchase to a Kafka topic, use Spark Structured Streaming to periodically read from this topic every 1 minute and update the aggregates by destinations, and emit top aggregates using the output mode "Complete".
+
+6406531888306. ❌ Route a copy of the ticket purchase to a Kafka topic, use Spark Structured Streaming to periodically read from this topic every 1 minute and count the destinations in that batch, and emit only top aggregates in that batch using the output mode "Append".
+
+**Sub-Section Number :** 4
+
+**Sub-Section Id :** 64065380646
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number :** 265 **Question Id :** 640653564892 **Question Type :** MCQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 3
+
+**Question Label :** Multiple Choice Question
+
+Observe the below image and select the options that are true.

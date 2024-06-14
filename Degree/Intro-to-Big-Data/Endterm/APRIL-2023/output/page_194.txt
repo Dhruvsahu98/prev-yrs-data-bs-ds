@@ -1,0 +1,17 @@
+Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+What are the core components for a Big Data Streaming application?
+Options :
+6406531888224. ✅ Data needs to be retrievable from a persistent store that supports message replay. Replay refers to being able to fetch a specific set of data from that persistent store on-demand, where the data is chosen based on filters usually defined on sequence numbers or timestamps
+6406531888225. ✅ Data processing needs to be splittable across machines using divide-and-conquer, and composable into steps that execute very quickly
+6406531888226. ❌ Hadoop needs to be setup for its big data capabilities
+6406531888227. ✅ The application needs to have the cloud-native properties of being resilient, manageable and observable
+6406531888228. ❌ Application needs to be deployable on public cloud natively using PaaS components
+Question Number : 249 Question Id : 640653564883 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+A big data streaming application that reads from using Kafka as source is observed to be really slow. The Kafka cluster has 2 broker nodes and this application is reading from 1 topic that has 10 partitions. On closer investigation, it was found that Kafka is not scaling to the velocity of input data coming in. How will you scale Kafka further?
+Options :
+6406531888234. ✅ Increase memory in each of the brokers in the cluster
+6406531888235. ❌ Add disks to each broker in the cluster

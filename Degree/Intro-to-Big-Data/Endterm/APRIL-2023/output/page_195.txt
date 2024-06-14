@@ -1,0 +1,20 @@
+6406531888236. ✅ Add new brokers to the cluster
+6406531888237. ❌ Create more topics and change input application to reroute data to all topics to be able to spread input data better
+6406531888238. ❌ Double the number of partitions for this single topic to be able to spread input data better
+
+Question Number : 250 Question Id : 640653564884 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+You are given the task of improving the performance of a Spark SQL program. You suspect that the culprit is the main transformation job in the program. When you run EXPLAIN on that SQL, you see that Spark wrongly estimates that there are only 10 values for the key being aggregated, whereas in reality the underlying data has a million values for that key. What actions would you perform from the below to ensure that the right estimates are used?
+
+Options :
+6406531888239. ✅ Create all tables as native Spark SQL tables (i.e. available as CatalogTables).
+6406531888240. ❌ Partition all tables on the same key on which the aggregate is happening.
+6406531888241. ✅ Ensure cost based optimizer (CBO) is ON.
+6406531888242. ✅ Run ANALYZE on all tables.
+6406531888243. ❌ Cache the table in a step with actions ahead of the SQL statement that is the culprit.
+
+Question Number : 251 Question Id : 640653564891 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0

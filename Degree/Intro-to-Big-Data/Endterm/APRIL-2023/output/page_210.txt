@@ -1,0 +1,48 @@
+```python
+clicks = (
+    # schema - adId: String, clickTime: Timestamp, ...
+    spark
+    .readStream
+    .format("kafka")
+    .option("subscribe", "clicks")
+    ...
+    .load()
+)
+
+clicks
+    .join(pages, "pageId")
+    .groupBy("pageName")
+    .count()
+```
+
+Your goal is to optimize the code to bring down execution of each iteration within 1 minute. Which of the following represent options that will help in this mission?
+
+**Options :**
+
+6406531888296. ❌ Convert to batch and use cron to schedule for every 1 minute since streaming computation has more overhead than batch processing
+
+6406531888297. ✅ Ensure "pages" dataframe is broadcast before the streaming begins so that each executor has access to its own copy without having to reshuffle
+
+Rewrite the join code as follows
+```python
+clicks
+    .groupBy("pageId")
+    .count()
+    .join(pages, "pageId")
+    .select("pagename", "count")
+```
+
+6406531888298. ❌ 
+
+Rewrite the join code as follows
+```python
+pages
+    .join(clicks, "pageId")
+    .groupBy("pageName")
+    .count()
+```
+
+6406531888299. ❌ 
+
+Question Number : 267 Question Id : 640653564899 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

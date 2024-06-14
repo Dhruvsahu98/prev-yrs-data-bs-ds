@@ -1,0 +1,22 @@
+```python
+def predict(content_series_iter):
+    model = model_fn()
+    model.eval()
+    ...
+```
+Why are these lines important in that pipeline of categorizing flowers?
+
+Options :
+6406531888261. ❌ They check the syntax of the model function so that there are no errors
+6406531888262. ✅ They load the model into memory so that the loop iteration over each image does not need to do the same operation again and again given model load times are prohibitively expensive for DL models
+6406531888263. ❌ They invoke PyTorch libraries that have already been setup for model scoring on GCP using APIs embedded within the function
+6406531888264. ❌ They are Map-style UDFs that make it an embarrassingly parallel computation thus making the execution parallelized and fast.
+
+Question Number : 258 Question Id : 640653564890 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+You are given a Spark Streaming pipeline that invokes a pre-trained DL model for every image it receives as input and produces the classification result in quick time. The model with the best recall rate from the PyTorch library takes 3.1 seconds on an average to execute on a Quad CPU Spark worker machine. However, the output is expected to be produced consistently within 3 seconds from having received the input. What is the best option to meet the expectations without compromising on false negatives and minimizing the amount of money & effort that is spent further?
+Options :
+6406531888265. ❌ Use a different DL model that is faster but has half the recall rate.
+6406531888266. ✅ Build a custom model that compresses the highest recall rate model just

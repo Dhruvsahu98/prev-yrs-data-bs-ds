@@ -1,0 +1,24 @@
+containerized applications. Google Datastore and HBase are both highly-scalable NoSQL database systems for interactive, real-time applications. Consider the following pipeline choices for effecting the same outcome:
+
+(i) Java producer on VM on GCP - Kafka VM on GCP - Spark Streaming on Hadoop VMs on GCP - HBase on same Hadoop VMs on GCP
+(ii) Java producer in Google Cloud Function - Pub/Sub - Dataflow - Datastore
+(iii) Java producer in Kubernetes on GCP - Pub/Sub - Spark Streaming on Google Dataproc - Datastore
+(iv) Java producer on VM on GCP - Pub/Sub - Dataflow - Datastore
+(v) Java producer in Kubernetes on GCP - Kafka VM on GCP - Spark Streaming on Hadoop VMs on GCP - HBase on same Hadoop VMs on GCP
+
+Which option below represents the correct order of pipeline options that has the "most Iaas" entry to the left and the "most PaaS" entry to the right?
+
+**Options :**
+
+6406531888291.  ✓ (iv), (v), (iii), (i), (ii)
+6406531888292.  ✕ (i), (ii), (iii), (iv), (v)
+6406531888293.  ✕ (ii), (iii), (i), (iv), (v)
+6406531888294.  ✕ (v), (iii), (i), (iv), (ii)
+6406531888295.  ✕ All are equally PaaaS / IaaaS
+
+Question Number : 264 Question Id : 640653564900 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Since it is the onset of summer, there is a surge in railway ticket bookings. The business head at IRCTC is interested in a real-time view of what are the top 10 destinations being booked in descending order of count of tickets purchased where port of origin is one of the tier-1 urban 

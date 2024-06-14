@@ -1,0 +1,22 @@
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+You are given a Spark program that runs on a Google Dataproc cluster on a daily schedule from 1AM-12PM to produce as output the total amount of purchases made by every customer the previous day. The data is coming into GCS every minute from a variety of sources as standalone files. Therefore, the business leader now feels that having to wait till 12PM the next day is no longer acceptable and instead wants approximate purchase information for each customer at least every hour. What's more, she wants to control the computation of the outcome completely with flexibility to change the schedule as she wishes without the need for you or any other developer to be involved. Which amongst the below represents the best option to achieve the above?
+
+**Options :**
+
+6406531888300. ❌ Change the code to assume hourly data instead of daily data, change scheduler to run every hour & let her manage the execution of the code on Dataproc
+
+6406531888301. ❌ Change the code to leverage Spark Streaming with streaming window as "1 hour", & let her manage the execution of the code on Dataproc
+
+6406531888302. ✅ Change the code to leverage Spark Streaming with streaming window as "1 hour", convert from Dataproc to Dataflow, & let her manage the execution of the code on Dataflow
+
+6406531888303. ❌ Write a Cloud Function to move all incoming per-minute standalone files from GCS to Pub/Sub, change the code to leverage Spark Streaming with streaming window as "1 hour", convert from Dataproc to Dataflow, point source to Pub/Sub, & let her manage the execution of the code on Dataflow
+
+**Design Thinking**
+
+Section Id : 64065338362
+Section Number : 15
+Section type : Online
+Mandatory or Optional : Mandatory

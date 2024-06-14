@@ -1,0 +1,17 @@
+aggregates over a grouping of values to arrive at a single value. UDAF structure differs saliently from UDFs in that it exposes the notion of a buffer as a way of maintaining intermediate state before finalizing aggregate output. Why is a buffer required for UDAF and not for a UDF? 
+
+**Options :**
+
+6406531888257. ❌ A UDF is a scalar operation executing on 1 row at a time and producing output immediately, and therefore there is no intermediate output necessary. Whereas, a UDAF operates on multiple rows which will require multiple passes for the final output thereby requiring a buffer.
+
+6406531888258. ❌ A UDF is a scalar operation executing on many rows at a time, grouped by a key and producing a single output, and therefore there is no intermediate output necessary. Whereas, a UDAF operates on multiple rows of unbounded size requiring a divide-and-conquer approach for computing aggregates, which uses the intermediate buffer to store partial values before finalizing the result aggregate.
+
+6406531888259. ✅ A UDF is a scalar operation executing on 1 row at a time and producing output immediately, and therefore there is no intermediate output necessary. Whereas, a UDAF operates on multiple rows of unbounded size requiring a divide-and-conquer approach for computing aggregates, which uses the intermediate buffer to store partial values before finalizing the result aggregate.
+
+6406531888260. ❌ A UDF is a scalar operation executing on many rows at a time, grouped by a key and producing a single output, and therefore there is no intermediate output necessary. Whereas, a UDAF operates on multiple rows of unbounded size requiring a divide-and-conquer approach for computing aggregates, which uses the intermediate buffer to store partial values before finalizing the result aggregate.
+
+Question Number : 257 Question Id : 640653564889 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 2 
+Question Label : Multiple Choice Question
+
+In the class, we saw the UDF for mobilenet\_v2. Specifically, the predict() function contained the below lines of code 

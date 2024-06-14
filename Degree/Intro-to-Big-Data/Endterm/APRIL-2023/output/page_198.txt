@@ -1,0 +1,21 @@
+Question Number : 254 Question Id : 640653564886 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+You are appointed as a Data Engineer in a company that has a legacy reporting application written in java which suffers from both performance and maintainability problems. The reporting application plots dashboards with near real-time refresh (once every minute) of key business indicators to help management take live decisions. The application reads data directly from the source database of MongoDB, aggregates using simple counts and shows them visually in a UI. The performance problem of this application comes because the source database is at times overloaded and therefore the dashboard is not able to refresh fast enough. The maintainability issue is because every time a new KPI summary is required, the source has to be changed to include it. Choose from the options below the option that best tackles both problems:
+
+**Options :**
+
+6406531888249. ❌ Since MongoDB is OLTP, it is not able to support business reporting. So, replace it with Hadoop which supports OLAP better
+
+6406531888250. ✅ Extract raw data from MongoDB using Change Data Capture (CDC) once every minute into Kafka, and then use Spark Streaming to compute the KPIs and then populate into a NoSQL DB like Redis for the UI to consume.
+
+6406531888251. ❌ Convert the application from using plain Java to using Spark Streaming in Java
+
+6406531888252. ❌ Query MongoDB every 1 minute for new data using a check on document inserted timestamp, use Spark Streaming to compute the KPIs with the queried data, and then populate into a NoSQL DB like Redis for the UI to consume.
+
+Question Number : 255 Question Id : 640653564887 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2

@@ -1,0 +1,23 @@
+6406531888280. ❌ Yes, the failure is visible. The only visible effect for the external world would be in the form of a slowdown in runtime for completion of that batch as Structured Streaming retries the batch that failed thus taking twice as much time as normal.
+
+6406531888281. ✅ Yes, the failure is visible because the side effect of emitting timestamps in a batch will be visible as 2 consecutive Start timestamps without any end timestamp as Structured Streaming retries the failed batch.
+
+6406531888282. ❌ No, no failure is visible since Structured Streaming uses transactions and idempotence to achieve exactly-once processing.
+
+6406531888283. ❌ No, no failure is visible since Structured Streaming can process the same data in a retry resulting in the same outputs again.
+
+**Question Number : 261 Question Id : 640653564895 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Let us say we are using structured streaming for continuously reading data from Kafka and storing the results back into a Kafka topic. Now, instead, we decide that we need to just perform a one-time batch operation, where there is a need to read specific data from Kafka (i.e. using pre-determined offsets). How will we need to modify the code to make it work?
+
+**Options :**
+
+6406531888284. ❌ The read and write commands will remain the same, but the remaining code will need to be modified, as operations on streaming dataframes are not supported on static dataframes.
+
+6406531888285. ✅ Only the read and write commands need to be modified to specify that it's a batch operation.
+
+6406531888286. ❌ The entire code will need to be modified as the APIs for stream and batch processing are completely different.

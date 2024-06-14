@@ -1,0 +1,19 @@
+Question Label : Multiple Select Question
+Which of the following statements are true?
+**Options :** 
+6406531888269.  ✅ In pull delivery, your subscriber application initiates requests to the Pub/Sub server to retrieve messages.
+6406531888270. ✅ In push delivery, Pub/Sub initiates requests to your subscriber application to deliver messages.
+6406531888271. ✅ Pull subscription is preferred when efficiency and throughput of message processing is critical.
+6406531888272. ❌ The rate of delivery needs to be controlled by the subscriber client in push subscription.
+**Sub-Section Number :** 3
+**Sub-Section Id :** 64065380645
+**Question Shuffling Allowed :** Yes
+**Is Section Default? :** null 
+Question Number : 252 Question Id : 640653564882 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+What happens when a Spark Structured Streaming pipeline operating with Kafka as source is subject to a machine failure?
+**Options :** 
+6406531888229. ❌ The data being processed when the failure happened will have produced partial results that result in incorrect outputs.
+6406531888230. ❌ The pipeline will not be restarted automatically.
+6406531888231. ✅ The pipeline will be restarted automatically by Spark which is able to pick up 

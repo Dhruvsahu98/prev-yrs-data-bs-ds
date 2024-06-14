@@ -1,0 +1,29 @@
+```python
+from pyspark.sql.types import StructType
+from typing import Iterator
+def imagenet_model_udf():
+    def predict(content_series : Iterator[pd.Series]) -> Iterator[pd.Series]:
+        model = models.mobilenet_v2(pretrained=True)
+        model.eval()
+        for content_series in content_series_iter:
+            dataset = ImageNetDataset(lists(content_series))
+            loader = DataLoader(dataset, batch_size=64)
+            with torch.no_grad():
+                for image_batch in loader:
+                    predictions = model(image_batch)
+                    predicted_labels = [x in decode_predictions(predictions, top=1) for x in predictions.labels]
+                    yield pd.DataFrame(predicted_labels, columns=["class", "desc", "score"], dtype="string, desc: string, score: float")
+        return pandas_udf(predict, "class: string, desc: string, score: float")
+imagenet = imagenet_model_udf()
+predictions = df.withColumn("prediction", imagenet(col("content")))
+predictions.select(col("label"), col("prediction")).show(50, truncate=False)
+```
+Question Number : 260 Question Id : 640653564894 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider a Structured Streaming application running on Google Dataproc firing up every 10 seconds, consuming any number of records from Kafka available since last read, and emitting some computed answers to another Kafka topic. Consider also that apart from the functional logic, the same application is also emitting into a file the start time and end time of every batch invocation for audit purposes.
+
+Assume there is a failure in one of the Dataproc machines that results in a failure of a specific run. For the external world (i.e. anybody consuming the outputs of this application), will they see the effect of the failure at all, or will it be as though there was no failure? Select the ones from the list below that answer this question.
+
+Options :

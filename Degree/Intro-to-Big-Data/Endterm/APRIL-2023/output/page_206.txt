@@ -1,0 +1,31 @@
+Question Number : 262 Question Id : 640653564896 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider a Kafka system that has two brokers with the exact same specifications. Let's consider a topic A with a single partition, whose two copies are being maintained by Kafka. Consider the following cases:
+
+Case 1: Both the copies reside in the same broker
+Case 2: Each broker has one copy of the partition
+
+Two of the key promises of Kafka are:
+
+(i) Availability
+(ii) Throughput
+
+Regarding which of the above promises, case 1 is at a disadvantage as compared to case 2?
+
+Options :
+```python
+6406531888287. ✅ Only (i)
+6406531888288. ❌ Only (ii)
+6406531888289. ❌ Both (i) and (ii)
+6406531888290. ❌ Neither (i) nor (ii)
+```
+
+Question Number : 263 Question Id : 640653564897 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Kubernetes is an open-source system for automating deployment, scaling and management of 
