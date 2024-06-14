@@ -1,0 +1,59 @@
+```python
+class Shapes {
+    private String owner="IITM";
+    public float area; // Variable representing area of the shape
+    public int side1;
+    public int side2;
+    public void setSide1(int s) {
+        side1 = s;
+    }
+    public void setSide2(int s) {
+        side2 = s;
+    }
+    public void setAreaGetFormula() {
+        System.out.println("The formula for area of ");
+    }
+    public void setNOS(int n) {
+        NOS=n;
+    }
+}
+class Circle extends Shapes {
+    public void setAreaGetFormula() {
+        super.setAreaGetFormula();
+        System.out.println("circle is pi*radius*radius ");
+        area = 3.14*side1*side1;
+    }
+}
+class Rectangle extends Shapes {
+    public void setAreaGetFormula() {
+        super.setAreaGetFormula();
+        System.out.println("rectangle is length*breadth ");
+        area=side1*side2;
+    }
+}
+class Main {
+    public static void main(String[] args) {
+        int numberOfSides, radius, length, breadth;
+        // Assume some code here that reads values into above variables
+        // ...
+        ***C1***
+        // ...
+        Shapes shape;
+        if (numberOfSides == 0) {
+            shape = new Circle();
+            // Circle
+            shape.setSide2(radius);
+            shape.setAreaGetFormula();
+        } else {
+            shape = new Rectangle();
+            shape.setSide1(length);
+            shape.setSide2(breadth);
+            shape.setAreaGetFormula;
+        }
+        shape.setAreaGetFormula;
+    }
+}
+```
+Which of the following methods will be run when the variable **numberOfSides** is read with a value of 4 in the code section labelled as **C1** in the main method?
+Options :
+6406531501150.  **Circle: setAreaGetFormula()**

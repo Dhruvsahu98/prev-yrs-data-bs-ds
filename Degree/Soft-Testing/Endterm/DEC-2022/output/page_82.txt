@@ -1,0 +1,24 @@
+6406531501134.  $\times$ $(a_0 < b_0, ((a_0 - 1)*(a_0-1)) \ge (b_0 + 1)))$
+6406531501135. $\checkmark$ $(a_0 \ge b_0, ((a_0 - 1)*(a_0-1)) < (b_0 + 1)))$
+6406531501136. $\times$ $(a_0 \ge b_0, (a_0 * a_0) < (b_0 + 1)))$
+6406531501137. $\times$ $(a_0 \le b_0, ((a_0 + 1)*(a_0+1)) < (b_0 - 1)))$
+
+Question Number : 107 Question Id : 640653451059 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+How many nodes will be there in the symbolic execution tree for the function *process()* ?
+Options : 
+6406531501138. $\checkmark$ 5 nodes
+6406531501139. $\times$ 6 nodes
+6406531501140. $\times$ 7 nodes
+6406531501141. $\times$ 8 nodes
+
+Sub-Section Number : 9
+Sub-Section Id : 64065364807
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653451060 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (108 to 109)

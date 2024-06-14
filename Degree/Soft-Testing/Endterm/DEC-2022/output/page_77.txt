@@ -1,0 +1,6 @@
+Question Number : 103 Question Id : 640653451063 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 5 Selectable Option : 0
+Question Label : Multiple Select Question
+Consider the below code to answer the following question. The below code may have some faults/errors.

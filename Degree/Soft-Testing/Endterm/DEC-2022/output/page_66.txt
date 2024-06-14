@@ -1,0 +1,28 @@
+```python
+ArrayList<String> studDtl = null;
+response.setContentType("text/html");
+PrintWriter out=response.getWriter();
+```
+
+P1
+```python
+out.println("<HTML><HEAD><TITLE>"+title+"</TITLE></HEAD><BODY>");
+String val = request.getParameter("roll");
+/*
+getProfile() take roll number of a student as input, 
+runs a query in the database, and returns a ArrayList 
+object containing the roll number, student name, and
+percetage of marks etc (all are String type).
+*/
+studDtl = getMarks(val);
+```
+
+P2
+```python
+if(studDtl != null){
+String roll = studDtl[0];
+String name = userdtl[1];
+double perMarks = Double.parseDouble(userdtl[2]); //convert String to double
+out.println("Roll : "+roll+", Name : "+name+"<BR>");
+if(perMark >= 50.0)
+```

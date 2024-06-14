@@ -1,0 +1,19 @@
+6406531501093. ✖ P1. (P2|P3). (P4|P5). P6
+
+Question Number : 93 Question Id : 640653451046 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+In dynamic web applications, which of the following provides data to the atomic section?
+Options :
+6406531501094. ✖ HTML form elements
+6406531501095. ✔ Content variables
+6406531501096. ✖ Component expressions
+6406531501097. ✖ Simple links
+
+Question Number : 94 Question Id : 640653451051 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question

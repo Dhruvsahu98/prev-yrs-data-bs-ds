@@ -1,0 +1,27 @@
+6406531501130. ❌ {designation = 'JO', rating = 11}
+6406531501131. ✅ {designation = 'JO', rating = 7}
+6406531501132. ❌ {designation = 'SO', rating = 7}
+6406531501133. ❌ {designation = 'CEO'}
+
+Question Number : 96 Question Id : 640653451064 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+
+Consider a graph defined by the following sets:
+$N = \{1, 2, 3, 4\}$
+$N_o = \{1\}$
+$N_f = \{4\}$
+$E = \{(1, 2), (2, 3), (3, 2), (2, 4)\}$
+Where N is the set of nodes, E is the set of edges, $N_o$ is the initial node and $N_f$ is the final node.
+
+Which of the following test path achieves Edge Coverage, but not Edge Pair Coverage?
+Options : 
+6406531501154. ❌ {1, 2, 3, 2}
+6406531501155. ❌ {1, 2, 4}
+6406531501156. ❌ {1, 2, 3, 2, 3, 4}
+6406531501157. ✅ {1, 2, 3, 2, 4}
+
+Sub-Section Number : 3
+Sub-Section Id : 64065364801
+Question Shuffling Allowed : Yes
+Is Section Default : null

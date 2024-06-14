@@ -1,0 +1,46 @@
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECT TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT ,PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406531501074. ✅ Yes
+6406531501075. ❌ No
+
+
+Sub-Section Number : 2
+Sub-Section Id : 64065364800
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 90 Question Id : 640653451042 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+
+Question Label : Multiple Choice Question
+Consider the FSM given below.
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=3cm,
+                thick,main node/.style={circle,draw,font=\sffamily\Large\bfseries}]
+
+  \node[main node] (1) {S1};
+  \node[main node] (2) [above right of=1] {S2};
+  \node[main node] (3) [below right of=1] {S3};
+  \node[main node] (4) [below right of=2] {S4};
+
+  \path[every node/.style={font=\sffamily\small}]
+    (1) edge [bend left] node {0} (2)
+    (2) edge [bend left] node {0} (1)
+    (1) edge [bend right] node {1} (3)
+    (3) edge [bend right] node {1} (1)
+    (3) edge [bend left] node {0} (4)
+    (4) edge [bend left] node {0} (3)
+    (2) edge [bend right] node {1} (4)
+    (4) edge [bend right] node {1} (2);
+\end{tikzpicture}.
+
+Consider $s1$ as the initial state, what state will the machine rest at for input 101101?
+
+Options :
+6406531501076. ✅ S1
+6406531501077. ❌ S2
+6406531501078. ❌ S3

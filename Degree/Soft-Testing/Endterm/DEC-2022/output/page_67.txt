@@ -1,0 +1,21 @@
+```python
+P3
+1	out.println("Status : Eligible<BR>");
+1	else
+P4
+1	out.println("Status : Not eligible<BR>");
+2	}
+3	else{
+P5
+1	out.println("Invalid roll number<BR>");
+2	}
+P6
+1	out.println("</BODY></HTML>");
+2	out.close()
+1	out.close();
+```
+Identify the component expression corresponding to the given code above.
+**Options :**
+6406531501090. ❌ $P1 \cdot (P2|P5) \cdot (P3|P4) \cdot P6$
+6406531501091. ✅ $P1 \cdot (P2 \cdot (P3|P4)|P5) \cdot P6$
+6406531501092. ❌ $P1 \cdot P2 \cdot (P3|P4) \cdot P5 \cdot P6$

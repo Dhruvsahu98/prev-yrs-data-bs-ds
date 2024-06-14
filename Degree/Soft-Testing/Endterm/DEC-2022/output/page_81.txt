@@ -1,0 +1,35 @@
+Consider the following code segment for symbolic testing.
+
+```python
+//code base
+int square(int n) {
+    return n * n;
+}
+int increase(int n) {
+    return n + 1;
+}
+int decrease(int n) {
+    return n - 1;
+}
+int process(int a, int b) {
+    int c = decrease(a);
+    if (a >= b) {
+        if (square(c) < increase(b)) //LINE-1
+            abort();
+    }
+    return c;
+}
+```
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 106 Question Id : 640653451058 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Let's consider the DART testing technique applied.
+
+Identify the path constraint that represents an equivalence class of input vectors containing all input values that leads to the error statement.
+
+Options :

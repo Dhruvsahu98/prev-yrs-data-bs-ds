@@ -1,0 +1,16 @@
+Question Number : 97 Question Id : 640653451043 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following is/are black box testing techniques?
+Options :
+6406531501080. ❌ Logic-based testing
+6406531501081. ✅ Load testing
+6406531501082. ✅ Testing based on partitioning inputs
+6406531501083. ❌ Data flow testing
+6406531501084. ✅ Performance testing
+6406531501085. ✅ Stress testing
+Question Number : 98 Question Id : 640653451049 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6 Selectable Option : 0
+Question Label : Multiple Select Question

@@ -1,0 +1,29 @@
+Question Number : 109 Question Id : 640653451062 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+How many unique $du$-paths are there for the variable: $x$, $y$ and $z$?
+
+Options :
+6406531501146. $\checkmark$ 7
+6406531501147. $\times$ 8
+6406531501148. $\times$ 9
+6406531501149. $\times$ 10
+
+## Industry 4.0
+Section Id : 64065329304
+Section Number : 5
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 45
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065364808
+Question Shuffling Allowed : No

@@ -1,0 +1,43 @@
+Consider test-driven development (TDD) for software where users can submit their applications for a particular job. The test cases for the user story Invalid age for the application can be recognized is given below.
+
+```python
+import static org.junit.Assert.*;
+import org.junit.Test;
+
+public class ValidAgeTest {
+ private ValidApplication obj;
+
+ @Test
+ public void testvalidRangeForAge() {
+  obj = new ValidApplication();
+  assertEquals(false, obj.validRangeForAge(17));
+  assertEquals(false, obj.validRangeForAge(39));
+  assertEquals(true, obj.validRangeForAge(20));
+ }
+}
+```
+
+Which of the following are the appropriate implementations for the user story?
+
+**Options :**
+
+```python
+public class ValidApplication {
+ public boolean validRangeForAge(int age) {
+  if (age < 18) {
+   System.out.println("age is below minimum");
+   return false;
+  } else if (age > 38) {
+   System.out.println("age is above maximum");
+   return false;
+  } else {
+   System.out.println("valid age");
+   return true;
+  }
+ }
+}
+```
+
+6406531501106. ✅
+
+6406531501107. ❌

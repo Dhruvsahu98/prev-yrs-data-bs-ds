@@ -1,0 +1,16 @@
+6406531501079. ✖ S4
+
+Question Number : 91 Question Id : 640653451044 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+What is bypass testing in the context of client-side testing?
+Options :
+6406531501086. ✖ Test inputs are chosen by the tester.
+6406531501087. ✖ Test inputs are generated randomly.
+6406531501088. ✖ Test inputs are generated from the user-session data collected from previous users of the software.
+6406531501089. ✔ Test inputs are the values that violate constraints on the inputs, as defined by client-side information.
+
+Question Number : 92 Question Id : 640653451045 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Consider the code segment of a Javaservlet below. The atomic sections are marked as P1, P2, P3 ... and so on.
