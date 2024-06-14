@@ -1,0 +1,20 @@
+Question Number : 209 Question Id : 640653820865 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Suppose the input sentence is "coffee i like much". What is the attention score between the word "coffee" with "much"?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.53
+Sub-Section Number : 8
+Sub-Section Id : 640653120768
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653820870 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (210 to 212)
+Question Label : Comprehension

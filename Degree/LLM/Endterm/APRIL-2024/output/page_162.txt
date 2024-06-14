@@ -1,0 +1,25 @@
+Possible Answers :
+2566
+
+Question Number : 207 Question Id : 640653820869 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Suppose we increase the context length from $T = 256$ to $T = 512$ keeping number of layers same (N = 3). How many parameters does the model need to learn **additionally** compared to the previous setting?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0
+
+Sub-Section Number : 7
+Sub-Section Id : 640653120767
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653820863 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (208 to 209)
+Question Label : Comprehension

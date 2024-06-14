@@ -1,0 +1,20 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Consider an attention matrix $A = softmax(QK^T)$. Suppose we implement the block-wise sparse attention mechanism by multiplying attention matrix $A$ by a masking matrix $M$ of the same size. Suppose further the matrix $M$ contains four identity blocks. Using this approach, what is the computational complexity of the self-attention module?
+
+Options : 
+6406532755237. $\times$ $O(\frac{T^2}{2})$
+6406532755238. $\times$ $O(\frac{T^2}{4})$
+6406532755239. $\times$ $O(\frac{T^2}{16})$
+6406532755240. $\checkmark$ $O(T^2)$
+
+Sub-Section Number : 4
+Sub-Section Id : 640653120764
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 201 Question Id : 640653820877 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

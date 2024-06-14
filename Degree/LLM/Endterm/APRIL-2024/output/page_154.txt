@@ -1,0 +1,21 @@
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+6406532755205. ✅ YES
+6406532755206. ❌ NO
+Question Number : 197 Question Id : 640653820862 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+General Note:
+* If the information is insufficient in any of the Numerical Answer Type (NAT) questions, enter -1 as the answer.
+* Follow zero-based indexing if not mentioned otherwise
+* In all your calculations, take at least two digits. For example, if the intermediate result is 1.860875, then take it as 1.86 to the next step.
+Options :
+6406532755207. ✅ Instruction has been mentioned above.
+6406532755208. ❌ This Instruction is just for a reference & not for an evaluation.
+Sub-Section Number : 2
+Sub-Section Id : 640653120762
+Question Shuffling Allowed : Yes
+Is Section Default? : null

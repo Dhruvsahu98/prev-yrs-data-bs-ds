@@ -1,0 +1,19 @@
+A vocabulary contains four words $V = (coffee, i, like, much)$ and the corresponding embedding matrix $E = \begin{bmatrix} 1 & 0 \\ 0 & 1 \\ 1 & -1 \\ 1 & 1 \end{bmatrix}$. Assume that no position information is added to the embeddings of input tokens. The parameters in the attention layer are 
+$W_Q = \begin{bmatrix} 1 & 0.5 \\ 0.5 & -1 \end{bmatrix}$, $W_K = \begin{bmatrix} 1 & -0.5 \\ -1 & 0.25 \end{bmatrix}$, $W_V = \begin{bmatrix} 0.1 & 1 \\ 1 & 0.5 \end{bmatrix}$, $W_O = \begin{bmatrix} 1 & 1 \\ -1 & 1 \end{bmatrix}$. Suppose the input sentence is "i like coffee much". The corresponding attention matrix $A = softmax(QK^T)$ is given below 
+$A = \begin{bmatrix} 0.13 & 0.22 & 0.28 & 0.36 \\ 0.45 & 0.06 & 0.15 & 0.35 \\ 0.25 & 0.06 & 0.17 & 0.53 \\ 0.12 & 0.04 & 0.17 & 0.67 \end{bmatrix}$. Then answer the given sub-questions. If you think the given information is insufficient, then enter -1 as the answer.
+
+Sub questions
+```python
+Question Number : 208 Question Id : 640653820864 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Compute the representation for the word "coffee" and enter the sum of the elements in it.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+1.75 to 1.95
+```

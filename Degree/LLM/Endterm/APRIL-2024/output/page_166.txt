@@ -1,0 +1,31 @@
+Question Label : Multiple Select Question
+
+Suppose the dimension of value vector, $d_v = 16$, then which of the following could be the dimensions of the key and query vectors ($d_k$, $d_q$)?
+
+Options :
+
+6406532755218. $\checkmark$ (8,8)
+
+6406532755219. $\checkmark$ (64,64)
+
+6406532755220. $\checkmark$ (32,32)
+
+6406532755221. $\checkmark$ (16,16)
+
+6406532755222. $\times$ (8,16)
+
+6406532755223. $\times$ (16,8)
+
+Question Number : 212 Question Id : 640653820873 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+Suppose we pass this $Q^T$ through the softmax function to compute the final attention score. Following **zero-based** indexing, at time step $t_3$, the attention score for the query $q_3$ is highest for the $i$-th key $k_i$. Enter the value of $i$.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

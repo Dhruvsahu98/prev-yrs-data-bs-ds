@@ -1,0 +1,31 @@
+**Correct Marks : 3 Max. Selectable Options : 0**
+
+**Question Label : Multiple Select Question**
+
+A user runs inference on the model $N$ times with an input text that contains 712 tokens (including the special [start] token). However, the user observed that in each run the model generated the exact same summary. Based on this observation, select the decoding strategy that the model might be using
+
+**Options :**
+
+6406532755229. ✅ Greedy decoding strategy
+6406532755230. ✅ Beam search with beam size $K$ > 2
+6406532755231. ❌ Top-k sampling with $K$ > 3
+6406532755232. ❌ Top-P sampling with $p$ = 0.25
+6406532755233. ❌ Greedy decoding by varying the temperature parameter $T$ in the softmax function for each run
+
+**Question Id : 640653820878 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Question Numbers : (204 to 205)**
+
+**Question Label : Comprehension**
+
+Consider the following vocabulary learnt using the Byte Pair Encoding (BPE) algorithm. The base vocabulary contains letters from $a$ - $z$ and digits from 0 - 9. The rest of the tokens are learned from the dataset
+
+$\mathcal{V} = (a, b, c, ..., z, 0, 1, ..., 9, in, th, ing, et, ve, est, st, 10, [unk])$
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number : 204 Question Id : 640653820879 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**

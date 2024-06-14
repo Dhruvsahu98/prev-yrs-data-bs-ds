@@ -1,0 +1,33 @@
+Consider a vocabulary $V$, 
+
+$V = \{[start], waiting, is, incredible, something, somewhere, to, be, known, [end]\}$.
+
+Assume that we have a pre-trained GPT model for text generation and the first input token to the model is always the special token $[start]$. The prediction probabilities output by the model are given below:
+
+$\hat{Y} = \begin{bmatrix}
+0.05 & 0.02 & 0.14 & 0.07 & 0.09 & 0.41 & 0.08 & 0.05 & 0.08 & 0.01 \\
+0.10 & 0.04 & 0.06 & 0.16 & 0.43 & 0.01 & 0.06 & 0.09 & 0.01 & 0.04 \\
+0.05 & 0.07 & 0.28 & 0.29 & 0.03 & 0.08 & 0.04 & 0.08 & 0.04 & 0.04 \\
+0.10 & 0.02 & 0.48 & 0.02 & 0.01 & 0.07 & 0.06 & 0.14 & 0.07 & 0.01 \\
+0.08 & 0.29 & 0.04 & 0.01 & 0.04 & 0.03 & 0.25 & 0.05 & 0.15 & 0.06 \\
+0.14 & 0.03 & 0.13 & 0.08 & 0.01 & 0.03 & 0.06 & 0.23 & 0.08 & 0.22 
+\end{bmatrix}$
+
+The zeroth row of the matrix is the output probability distribution by the model given the special $[Start]$ token as input. Following the Greedy Search decoding strategy, the subsequent rows give the conditional probability distribution conditioned over the previous tokens. Enter the generated text.
+
+Note, enter the **predicted tokens** as in the vocabulary. Give a single space between predicted tokens. Leave no space before/after the first/last tokens.
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+
+somewhere something incredible is waiting be
+
+Sub-Section Number : 5
+Sub-Section Id : 640653120765
+Question Shuffling Allowed : No
+Is Section Default? : null

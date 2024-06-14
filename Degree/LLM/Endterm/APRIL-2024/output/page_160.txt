@@ -1,0 +1,25 @@
+Question Label : Short Answer Question 
+Suppose the input word to the tokenizer is "SomeThing". Assume that input text is normalized before applying pre-tokenization. Enter the number of tokens returned by the tokenizer. Ignore the special token used to represent the boundary of the word/token. 
+Response Type : Numeric
+Evaluation Required For SA : Yes 
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+Question Number : 205 Question Id : 640653820880 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Suppose the input word to the tokenizer is "1000000". Enter the number of tokens returned by the tokenizer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+Sub-Section Number : 6
+Sub-Section Id : 640653120766
+Question Shuffling Allowed : No
+Is Section Default? : null

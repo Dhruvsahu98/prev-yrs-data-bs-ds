@@ -1,0 +1,28 @@
+Question Id : 640653820867 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Label : Comprehension
+
+Consider the encoder layer of vanilla transformer architecture with the following configurations
+
+- Context length $T = 256$
+- Embedding dim $d_{embed} = d_{model} = 256$
+- Projected dimension $d_q = d_k = d_v = 32$
+- Number of heads $n_h = 8$
+- feed-forward layer dimension $d_{ff} = 1024$
+
+The parameters in the feed-forward neural network layer comprise both weights and biases. The input and output embeddings are shared. The model uses Absolute Position Embedding (APE) using fixed sinusoidal encoding scheme.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 206 Question Id : 640653820868 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+
+Suppose the number of encoder layers $N = 3$. What is the total number of learnable parameters, including the parameters of the input and position embedding layers, in the model? Enter the final answer in thousands. For example, if the answer is 12,238, then enter 12 as the answer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

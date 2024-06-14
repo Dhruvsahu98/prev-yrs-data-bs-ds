@@ -1,0 +1,29 @@
+Question Id : 640653820874 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Label : Comprehension
+
+Suppose a GPT model is pre-trained using the Causal Language Modelling (CLM) objective and fine-tuned on a text summarization task. The context length $T$ of the model was kept at 1024 during both pre-training and fine-tuning. Assume that the model uses Absolute Position Embedding (APE) with **learnable** parameters.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 202 Question Id : 640653820875 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+A user runs inference on the model $N$ times with an input text that contains 712 tokens (including the special [start] token), then which of the following could be the possible length of summarized text
+
+Options :
+
+6406532755225. $\checkmark$ 256
+
+6406532755226. $\checkmark$ 16
+
+6406532755227. $\times$ 1024
+
+6406532755228. $\times$ 512
+
+Question Number : 203 Question Id : 640653820876 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

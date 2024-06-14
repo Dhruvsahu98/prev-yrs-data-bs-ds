@@ -1,0 +1,26 @@
+Question Number : 198 Question Id : 640653820866 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+BERT stands for
+Options :
+640653275521. ❌ Bidirectional Encoder Representation for Text
+6406532755212. ✅ Bidirectional Encoder Representation from Transformer
+6406532755213. ❌ Bidirectionally Extracted Representation from Transformer
+6406532755214. ❌ Bidirectionally Extracted Representation of Text
+
+Question Number : 199 Question Id : 640653820882 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The statement that, in general, position information can also be injected into the attention layers of a transformer model instead of the embedding of input tokens is
+Options :
+6406532755241. ✅ TRUE
+6406532755242. ❌ FALSE
+
+Sub-Section Number : 3
+Sub-Section Id : 640653120763
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 200 Question Id : 640653820881 Question Type : MCQ Is Question
