@@ -1,0 +1,25 @@
+Question Label : Multiple Choice Question
+Which type of risk is caused by gold plating activities by the developers?
+Options :
+6406531500633. ❌ Project risk
+6406531500634. ✅ Business risk
+6406531500635. ❌ Technical risk
+6406531500636. ❌ None of these
+
+Question Number : 151 Question Id : 640653450900 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following risk table related to the risk assessment of a software project.
+| Risk | Probability | Impact |
+|---|---|---|
+| Personnel shortfall | 50% | 3 |
+| Insufficient domain knowledge | 30% | 3 |
+| Schedule slippage | 60% | 2 |
+| Shortcomings in external components | 20% | 4 |
+Identify the option that orders the risk factors in descending order of the associated risk.
+Options :
+6406531500637. ❌ Shortcomings in external components, Personnel shortfall, Insufficient domain knowledge, Schedule slippage
+6406531500638. ❌ Schedule slippage, Personnel shortfall, Insufficient domain knowledge, Shortcomings in external components
+6406531500639. ❌ Shortcomings in external components, Insufficient domain knowledge, Schedule slippage, Personnel shortfall
+6406531500640. ✅ Personnel shortfall, Schedule slippage, Insufficient domain knowledge, Shortcomings in external components

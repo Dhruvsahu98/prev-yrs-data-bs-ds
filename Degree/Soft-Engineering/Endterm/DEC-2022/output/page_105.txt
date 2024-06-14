@@ -1,0 +1,49 @@
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+The extent to which different modules are dependent upon each other is called
+
+**Options :**
+
+6406531500584. ✅ Coupling
+
+6406531500585. ❌ Cohesion
+
+6406531500586. ❌ Modularity
+
+6406531500587. ❌ Stability
+
+
+**Question Number : 141 Question Id : 640653450890 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+Consider testing a module that takes annual income as input. If the income is $<$ 0 then it prints "invalid input". If the input is valid and it is $\le$ 2,00,000 then it prints "non-taxable income" else prints "taxable income".
+
+Identify the number of equivalent classes for black box testing.
+
+**Options :**
+
+6406531500596. ❌ 2
+
+6406531500597. ✅ 3
+
+6406531500598. ❌ 4
+
+6406531500599. ❌ 5
+
+
+**Question Number : 142 Question Id : 640653450891 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+Consider a crypto trading system, that allows its users to buy or sell cryptocurrencies directly with others without the presence of a centralized exchange. The system is run by the computation 

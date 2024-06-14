@@ -1,0 +1,37 @@
+1 Feature: Search for medicines
+2 
+3 As a customer,
+4 
+5 I want to search for a medicine by its generic name,
+6 
+7 So that I get a list of brand names along with the price for the given generic name.
+8 The website must show the list in a reasonable amount of time.
+
+The user story is rectified as follows:
+1 Feature: Search for medicines
+2 
+3 As a customer,
+4 
+5 I want to search for a medicine by its generic name,
+6 
+7 So that I get a list of brand names along with the price for the given generic name.
+8 The website must show the list within a second.
+
+Which of the SMART characteristics is achieved by rectification?
+
+**Options :**
+6406531500657. ❌ Specific
+6406531500658. ✅ Measurable
+6406531500659. ❌ Achievable
+6406531500660. ❌ Timeboxed
+
+**Question Number :** 157 **Question Id :** 640653450906 **Question Type :** MCQ Is Question
+**Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+
+**Question Label :** Multiple Choice Question
+
+In which of the software development models is it more important to respond to changes than to stick to a plan?
+
+**Options :**
+6406531500661. ❌ Waterfall

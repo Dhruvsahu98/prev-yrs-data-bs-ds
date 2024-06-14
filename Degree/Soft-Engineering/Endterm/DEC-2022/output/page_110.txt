@@ -1,0 +1,26 @@
+**Question Number : 148 Question Id : 640653450897 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 4**
+**Question Label : Multiple Choice Question**
+Consider the design of a music player application where each *Playlist* object consists of various *Music* objects.
+Identify the relationship between the *Playlist* class and the *Music* class.
+**Options :**
+6406531500625. ❌ Association
+6406531500626. ✅ Composition
+6406531500627. ❌ Inheritance
+6406531500628. ❌ Dependency
+
+**Question Number : 149 Question Id : 640653450898 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 4**
+**Question Label : Multiple Choice Question**
+Consider that the effort estimated for a project is 120 person-month. How many developers are required to complete the project in one year?
+**Options :**
+6406531500629. ❌ 12
+6406531500630. ✅ 10
+6406531500631. ❌ 100
+6406531500632. ❌ 120
+
+**Question Number : 150 Question Id : 640653450899 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 4**

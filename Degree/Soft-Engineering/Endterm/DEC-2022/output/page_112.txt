@@ -1,0 +1,26 @@
+Question Number : 152 Question Id : 640653450901 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Match the following terms with their appropriate descriptions from the agile perspective.
+
+| Terms | Descriptions |
+|---|---|
+| 1. Sprint | A. Daily meeting which involves - the development team, scrum owner, product manager |
+| 2. Product Backlog | B. The team member who ensures all activities are being done well |
+| 3. Standup | C. A short, time-boxed period when a scrum team works to complete a set amount of work |
+| 4. Scrum Master | D. Prioritized list of work for the development team that is derived from user stories and requirements |
+
+Options : 
+6406531500641. ❌ 1-B, 2-A, 3-D, 4-C
+6406531500642. ❌ 1-B, 2-C, 3-D, 4-A
+6406531500643. ❌ 1-C, 2-B, 3-A, 4-D
+6406531500644. ✅ 1-C, 2-D, 3-A, 4-B
+
+Question Number : 153 Question Id : 640653450902 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Multiple Choice Question

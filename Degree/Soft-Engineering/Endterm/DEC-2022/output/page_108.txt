@@ -1,0 +1,21 @@
+Consider that a company has developed a web application to sell various computer components. Customers can select the components and place the order by making payment, after order confirmation the ordered components will be packed and delivered to the customer locations. The web application has the feature to track the order from start to delivery. 
+The design of the web application includes an interface *DeliveryProcessing* that is associated with *Product* class ( *Product* class objects are the computer components). The interface *DeliveryProcessing* has abstract methods: *placeOrder()*, *packageOrder()*, *deliverOrder()* , etc. The development team implements the interface *DeliveryProcessing* and defines the methods for processing the delivery. However, now the company also decided to sell software licenses, which can be delivered via email, and that do not require physical delivery. Therefore, some of the methods like *packageOrder()* of the *DeliveryProcessing* interface are not relevant for implementing the delivery process of the software licences.
+Which of the SOLID principles is violated in the design? 
+**Options :**
+6406531500608. ❌ Single responsibility principle
+6406531500609. ❌ Open-close principle
+6406531500610. ❌ Liskov substitution principle
+6406531500611. ✅ Interface segregation principle
+6406531500612. ❌ Dependency inversion principle
+
+**Question Number :** 145 **Question Id :** 640653450894 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+**Correct Marks :** 4
+**Question Label :** Multiple Choice Question
+Which of the following is true about the *dump* and *diff* debugging technique?
+
+**Options :**
+6406531500613. ❌ Inserting print statements at the strategic locations and examining the output to identify where the error in the code
+6406531500614. ✅ Using a tool to find differences between outputs and compare between the correct execution and incorrect execution
+6406531500615. ❌ Use the stepping function of the debugger to identify the error
+6406531500616. ❌ Use tools to get statistics about how often or how long various parts of the 

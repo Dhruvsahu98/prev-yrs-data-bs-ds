@@ -1,0 +1,13 @@
+program are executed
+
+**Question Number : 146 Question Id : 640653450895 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Question Label : Multiple Choice Question In a given software, which of the following represents high cohesion and high coupling? Options :**
+6406531500617. ❌ The functions in each module perform various functions, and a lot of data is interchanged or shared between the modules.
+6406531500618. ✅ The functions in each module perform a specific function, and a lot of data is interchanged or shared between the modules.
+6406531500619. ❌ The functions in each module are performing various functions, and no or very little data is interchanged or shared between the modules.
+6406531500620. ❌ The functions in each module are performing specific functions, and no or very little data is interchanged or shared between the modules.
+
+**Question Number : 147 Question Id : 640653450896 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Question Label : Multiple Choice Question In which type of cohesion, do all the functions of a module refer to or update the same data structure? Options :**
+6406531500621. ❌ Sequential cohesion
+6406531500622. ✅ Communicational cohesion
+6406531500623. ❌ Procedural cohesion
+6406531500624. ❌ Coincidental cohesion

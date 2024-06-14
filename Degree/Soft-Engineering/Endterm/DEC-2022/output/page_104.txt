@@ -1,0 +1,29 @@
+Match the following regarding deployment environments.
+
+| Deployment environment | Key activity |
+|---|---|
+| 1. Development | A. Live environment where real users interact with the system |
+| 2. Testing | B. Provides the local environment of a developer |
+| 3. Staging | C. Integration and system testing are performed |
+| 4. Production | D. Exactly resembles the production environment to conduct various performance and stress testing |
+
+Options :
+6406531500576. ❌ 1-B, 2-C, 3-A, 4-D
+6406531500577. ✅ 1-B, 2-C, 3-D, 4-A
+6406531500578. ❌ 1-A, 2-C, 3-D, 4-B
+6406531500579. ❌ 1-A, 2-C, 3-B, 4-D
+
+Question Number : 139 Question Id : 640653450885 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which software deployment strategies keep all the versions of the software alive and allow the users to choose a version?
+
+Options :
+6406531500580. ❌ Blue/Green deployment
+6406531500581. ❌ Canary deployment
+6406531500582. ✅ Versioned deployment
+6406531500583. ❌ None of these
+
+Question Number : 140 Question Id : 640653450886 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,15 @@
+power and storage capabilities of all or some of the nodes present in the network.
+
+Identify the type of software architecture used for the crypto trading system.
+
+**Options :**
+6406531500600. ❌ Client-server system
+6406531500601. ❌ Pipe and filter
+6406531500602. ❌ Model view controller
+6406531500603. ✅ Peer-to-peer architecture
+
+
+**Question Number :** 143 **Question Id :** 640653450892 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+**Question Label :** Multiple Choice Question

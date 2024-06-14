@@ -1,0 +1,14 @@
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following requirement-gathering techniques is best for highlighting areas of conflict while also assisting in the development of consensus?
+Options :
+6406531500653. ❌ Questionnaires
+6406531500654. ❌ Interviews
+6406531500655. ✅ Focus groups and workshops
+6406531500656. ❌ Naturalistic observations
+
+Question Number : 156 Question Id : 640653450905 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider a web application that allows its users to purchase medicines online. The user story for searching for medicine is given below.

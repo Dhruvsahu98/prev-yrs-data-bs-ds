@@ -1,0 +1,17 @@
+Question Number : 135 Question Id : 640653450855 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Question Label : Multiple Choice Question Choose the correct term from the Column B for the description given in Column A. Note that one to-one mapping in the table is not necessary 
+| Column A | Column B |
+|---|---|
+| a.1 A customer can book a product on Amazon, but can collect the product from the showroom | b.1 Impulse buying |
+| a.2 You are waiting at the cash counter of a shopping mall. While waiting, you could see chocolates lying in the adjacent shelves. So you picked a couple of those. | b.2 Multi-channel retailing |
+| a.3 You picked up tea packets to your trolley while shopping at the shopping mall. You could see sugar and coffee packets also on the nearby shelves. You suddenly remember that sugar is out of stock at home. So you picked up a couple of sugar packets. So, Tea and Sugar are--- | b.3 Complementary product |
+|  | b.4 Omni-channel retailing |
+|  | b.5 Substitution product |
+|  | b.6 Inventory-dependent demand |
+
+Options : 
+6406531500518. ✅ a.1: b.4, a.2: b.1, a.3: b.3
+6406531500519. ❌ a.1: b.1, a.2: b.2, a.3: b.3
+6406531500520. ❌ a.1: b.3, a.2: b.1, a.3: b.4
+6406531500521. ❌ None of these
+
+Sw Engg

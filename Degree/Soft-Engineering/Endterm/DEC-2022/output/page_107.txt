@@ -1,0 +1,46 @@
+Consider a scenario where we use a class *PaymentManager* to make payment for one or more objects of the class *Order*. Class *PaymentManager* can make the payment using either cash or a credit card. However, in future, more payment methods can be added without violating the open-close principle. 
+
+We apply a design pattern *X*, and the designed class diagram is given as follows:
+
+| Order |
+|---|---|
+| - productName: String |
+| - price: Float |
+| + setProductName(productName): void |
+| + getProductName(): String |
+| + setPrice(price): void |
+| + getPrice(): Float |
+
+| PaymentManager |
+|---|---|
+| - method: PaymentMethod |
+| - order: Order |
+| + setPaymentMethod(method): void |
+| + makePayment(order): boolean |
+
+| <<interface>> PaymentMethod |
+|---|---|
+| + makePayment(order): boolean |
+
+| PayByCash |
+|---|---|
+| + makePayment(order): boolean |
+
+| PayByCreditCard |
+|---|---|
+| + makePayment(order): boolean |
+
+Identify the design pattern referred to as *X*.
+
+**Options :**
+
+6406531500604. ❌ Iterator design pattern
+6406531500605. ❌ Adapter design pattern
+6406531500606. ✅ Strategy design pattern
+6406531500607. ❌ Facade design pattern
+
+**Question Number : 144 Question Id : 640653450893 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+**Question Label : Multiple Choice Question**

@@ -1,0 +1,29 @@
+6406531500662. ❌ Prototype
+6406531500663. ❌ Spiral
+6406531500664. ✅ Agile
+Sub-Section Number : 3
+Sub-Section Id : 64065364772
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 158 Question Id : 640653450883 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+
+What are the primary applications of knowledge sharing tools in software development?
+
+Options :
+6406531500572. ✅ The tools can be used for sharing documents and archiving decisions.
+6406531500573. ❌ The tools enable all members of the team to get a big picture of the project along with a detailed view of its progress.
+6406531500574. ✅ The tools can be used to apply the knowledge gained in one project to another project.
+6406531500575. ❌ The tools mainly include IDEs that help the developers to be more productive.
+
+Question Number : 159 Question Id : 640653450907 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+
+You want to add a feature to the git repository *TaskSchedular* for which you need to add two files *task.java* and *main.java* in the repository. For this task, you are planning on doing your first commit to this repository. Select all commands which are required to do your first commit.
+
+Options :

@@ -1,0 +1,28 @@
+A company website is supposed to allow its users to submit applications for various jobs posted on the site. Each application consists of several forms that users must complete in a step-by-step manner. In each form there are several buttons, including the Back button, by clicking which the user can move to the previous form to change any entry they have already submitted, the Cancel button to delete all the entries in the current form at a time, close button to be clicked to cancel the entire application when users feel they do not want to continue with the application.
+
+Which of the following heuristics of UI evaluation is fulfilled in this case?
+
+**Options :**
+6406531500645. ❌ Recognition over recall
+6406531500646. ❌ Consistency
+6406531500647. ❌ Clean and functional design
+6406531500648. ✅ Freedom
+
+**Question Number :** 154 **Question Id :** 640653450903 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0 
+**Correct Marks :** 4
+
+**Question Label :** Multiple Choice Question
+
+Mr Dubey has installed an application in his smartphone that can be used as a remote control for his television. The app displays five buttons, four labelled A, B, C, and D, and one labelled Manual. The buttons A, B, and C have different functionalities. However, Mr Dubey finds them difficult to remember, and he has to click on the Manual button to get the manual and understand how those buttons work. It frustrates Mr Dubey and discourages him from using the application.
+
+Which of the following usability goals is not achieved by the application?
+
+**Options :**
+6406531500649. ❌ Effectiveness
+6406531500650. ❌ Safety
+6406531500651. ✅ Memorability
+6406531500652. ❌ Safe to use
+
+**Question Number :** 155 **Question Id :** 640653450904 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0 
