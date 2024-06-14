@@ -1,0 +1,30 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9
+
+Question Number : 95 Question Id : 640653699299 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Suppose we consider the three words (wood,woodchuck, much). Assume we use one-hot encoded
+vector representation for all these words. The statement that, "The cosine similarity between the
+pair (wood,woodchuck) is greater than the pair (wood,much)" is
+
+Options :
+6406532335149. ❌ True
+6406532335150. ✅ False
+
+Sub-Section Number : 8
+Sub-Section Id : 640653103747
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653699301 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (96 to 98)
+Question Label : Comprehension

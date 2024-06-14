@@ -1,0 +1,28 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+10
+
+Question Number : 98 Question Id : 640653699304 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Suppose we train the model using the BPTT algorithm for 200 iterations. In each iteration, we feed the input sentence and make a prediction, compute the loss, back-propagate through time and update the parameter. How many times does the parameter matrix $W$ get updated over 200 iterations?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+200
+
+Sub-Section Number : 9
+Sub-Section Id : 640653103748
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 99 Question Id : 640653699300 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

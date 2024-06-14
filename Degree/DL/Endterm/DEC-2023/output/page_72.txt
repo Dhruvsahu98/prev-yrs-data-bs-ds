@@ -1,0 +1,27 @@
+Sub-Section Number : 2
+Sub-Section Id : 640653103741
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 83 Question Id : 640653699285 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+The diagram below shows a decision boundary of a perceptron. The weight vector $w$ is perpendicular to the decision boundary initially. The current decision boundary misclassifies some data points. After running the perceptron learning algorithm for a few iterations, the weight gets updated and the corresponding decision boundary separates all the data points correctly. Then the angle between the updated weight vector and its corresponding decision boundary 
+
+```python
+# Code block
+```
+
+\begin{tabular}{c|c}
+  & \\
+  & \\
+  & \\
+  & \\
+  & \\
+\end{tabular}
+
+Options : 
+6406532335109. ❌ reduces
+6406532335110. ✅ remains 90°
+6406532335111. ❌ increases

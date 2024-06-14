@@ -1,0 +1,24 @@
+Sub-Section Id : 640653103743
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 85 Question Id : 640653699286 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Consider a sigmoid function 
+$f(x) = \frac{1}{1 + e^{-(wx+b)}}$
+
+Suppose that $w$ is restricted to take only negative values ($w < 0$). Suppose further that we define the steepness of the curve as absolute value of the slope. Then, select all the correct statements about the function
+
+Options :
+6406532335113. ❌ Increasing the value of $b$ shifts the sigmoid function to the left (i.e., towards negative infinity)
+6406532335114. ✅ Increasing the value of $b$ shifts the sigmoid function to the right (i.e., towards positive infinity)
+6406532335115. ❌ Increasing the value of $w$ increases the steepness of the sigmoid function
+6406532335116. ✅ Increasing the value of $w$ decreases the steepness of the sigmoid function
+
+Question Number : 86 Question Id : 640653699292 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Suppose that a neural network has millions of parameters (weights and biases). A team decides to use an optimization algorithm with a learning rate scheme that is local to each parameter in the

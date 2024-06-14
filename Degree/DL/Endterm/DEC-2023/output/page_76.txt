@@ -1,0 +1,22 @@
+Sub-Section Number : 5
+Sub-Section Id : 640653103744
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 88 Question Id : 640653699293 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Select all correct statements about the bias and variance of deep learning models.
+
+Options :
+640653235134. ✅ A model with high bias produces high training error and high validation error
+640653235135. ❌ A model with high variance produces high training error and low validation error
+640653235136. ✅ A model with high variance produces low training error and high validation error
+640653235137. ✅ Bias and variance can be both made zero if the underlying distribution of the samples are known and also the samples are not corrupted by noise
+
+Question Number : 89 Question Id : 640653699294 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Suppose that we use Dropout scheme to regularize the deep learning model. Assume that the dropout probability $p=0.75$ for all the layers in the model and the model is trained using a Stochastic Gradient Descent (SGD) optimizer. Choose the correct statements about Dropout regularization.
+
+Options :

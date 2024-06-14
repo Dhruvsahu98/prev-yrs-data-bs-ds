@@ -1,0 +1,52 @@
+Suppose we have a fully connected neural network with three hidden layers containing 10 neurons each. All the neurons in the network use the standard ReLU activation function. Suppose we use cross entropy loss with Adam optimizer with $\beta_1 = 0.9, \beta_2 = 0.99$ to update the parameters. The figure below shows the change in the value of one of the weights $w$ in the first hidden layer over the entire training duration.
+
+```python
+# This is the python code for the above paragraph.
+import numpy as np
+import matplotlib.pyplot as plt
+# Define the number of neurons in each hidden layer
+num_neurons = 10
+# Define the number of hidden layers
+num_hidden_layers = 3
+# Define the activation function
+activation_function = 'relu'
+# Define the loss function
+loss_function = 'cross entropy'
+# Define the optimizer
+optimizer = 'adam'
+# Define the learning rate
+beta1 = 0.9
+beta2 = 0.99
+# Define the weight
+w = np.random.randn(num_neurons)
+# Define the training duration
+training_duration = 1000
+# Define the change in the weight over the training duration
+change_in_weight = np.random.randn(training_duration)
+# Plot the change in the weight over the training duration
+plt.plot(change_in_weight)
+plt.xlabel('t')
+plt.ylabel('w')
+plt.show()
+```
+Based on the given information and from the figure, it is implied that.
+
+**Options :**
+
+6406532335143. ❌  definitely, the loss value at the end of the training is zero
+
+6406532335144. ✅ The neuron in the hidden layer might be experiencing a vanishing gradient problem
+
+6406532335145. ✅ The loss could have converged to the local minimum after a finite number of iterations
+
+6406532335146. ✅ The loss value at the end of the training may not necessarily be zero
+
+**Sub-Section Number :** 7
+
+**Sub-Section Id :** 640653103746
+
+**Question Shuffling Allowed :** No
+
+**Is Section Default? :** null
+
+**Question Id :** 640653699288 **Question Type :** COMPREHENSION **Sub Question Shuffling**

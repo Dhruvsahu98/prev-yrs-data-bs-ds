@@ -1,0 +1,40 @@
+Assign consistent labels to all the edges and junctions in the 2D line drawing shown below.
+
+Enter the labels of the junctions 1, 2, 3, 4 in the text box, in that order. Otherwise enter NIL if the drawing has no consistent label assignment.
+
+```python
+#  Write your code here
+```
+
+\begin{tikzpicture}[scale=0.8]
+\node (1) at (0,0) {1};
+\node (2) at (3,0) {2};
+\node (3) at (3,2) {3};
+\node (4) at (1.5,3.5) {4};
+\node (5) at (0,2) {5};
+\node (6) at (1.5,1) {6};
+\draw (1)--(2)--(3)--(4)--(5)--(1);
+\draw (4)--(6);
+\draw (1)--(-1,0);
+\draw (2)--(4,0);
+\end{tikzpicture}
+
+Enter a comma separated list of junction labels, or enter NIL.
+
+NO SPACES, TABS, DOTS, BRACKETS OR EXTRANEOUS CHARACTERS.
+
+**Answer format: x9,y9,z9,w9**
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+NIL
+
+Deep Learning
+Section Id : 6406534932
+Section Number : 4
+Section type : Online

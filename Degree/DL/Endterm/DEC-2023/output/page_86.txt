@@ -1,0 +1,38 @@
+Consider an intermediate feature map $H$ obtained after applying convolution operation on the input $X$ using kernel $F$.
+
+$H = \begin{bmatrix}
+1 & 2 & 0 & 0 & -1 & 1 \\
+3 & 0 & 2 & 1 & 3 & 0 \\
+1 & 1 & 0 & 0 & 1 & 0 \\
+1 & -1 & 1 & 2 & 0 & 0 \\
+4 & 0 & 0 & 3 & -2 & 1
+\end{bmatrix}$
+
+Apply the max-pooling operation with stride $s = 2$ and no padding ($p = 0$) and store the resultant output in matrix $H_m$. The prediction $\hat{y}$ is simply the sum of elements in $H_m$. Suppose $\frac{\partial L}{\partial \hat{y}} = 1.5$ (that is, the gradient of loss with respect to the prediction). What is the gradient $\frac{\partial L}{\partial H_{10}}$ where $H_{10}$ is the element at the 1-st row and 0-th column? If you think the given info is insufficient, enter -1 as the answer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+1.5
+
+```python
+# This is a sample code block
+print("Hello world!")
+```
+
+Programming in C
+
+Section Id : 64065349324
+Section Number : 5
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 26
+Number of Questions to be attempted : 26
+Section Marks : 100
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Yes

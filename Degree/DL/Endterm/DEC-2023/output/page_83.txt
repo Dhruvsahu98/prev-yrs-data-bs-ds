@@ -1,0 +1,36 @@
+Suppose that we need to develop an RNN model for sentiment classification tasks. The input to the model is a sentence composed of 10 words and the output is the sentiment (positive or negative). Assume that each word is represented as a vector of length 100 x 1 and the output labels are one-hot encoded. Further, the state vector $s_t$ and the prediction $\hat{y}_t$ are computed as follows
+
+$s_t = \sigma(Ux_t + Ws_{t-1} + b)$
+
+$\hat{y}_t = \sigma(Vs_t + c)$
+
+The state vector $s_t$ is initialized with all zeros of size 50 x 1.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 96 Question Id : 64065369302 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+How many parameters (including bias) are there in the network?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+7652
+
+Question Number : 97 Question Id : 64065369303 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+For the given input sentence containing 10 words, how many sequential time steps does RNN take to make a final prediction?
+
+Response Type : Numeric

@@ -1,0 +1,41 @@
+Question Label : Short Answer Question
+How many parameters (including bias) does the network have to learn? Assume dropout regularization is applied.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers : 
+19293
+
+Question Id : 640653699297 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (94 to 95)
+
+Question Label : Comprehension
+Construct a vocabulary $V$ from the following text corpus
+- How much wood could a woodchuck chuck
+- If a woodchuck could chuck wood
+- as much wood as a woodchuck could chuck
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 94 Question Id : 640653699298 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+What is the size of the vocabulary $|V|$?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes

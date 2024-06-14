@@ -1,0 +1,15 @@
+6406532335138. ✖ Dropout reduces (removes) 25 percent of weights from the model during training and inference
+6406532335139. ✖ For each iteration, 75% of neurons are dropped randomly from the model
+6406532335140. ✔ For each iteration, 25% of neurons are dropped randomly from the model
+6406532335141. ✔ Each weight gets multiplied by a factor $p$ during inference.
+6406532335142. ✖ Each weight gets multiplied by a factor $1-p$ during inference.
+
+Sub-Section Number : 6
+Sub-Section Id : 640653103745
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 90 Question Id : 640653699291 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Max. Selectable Options : 0
+Question Label : Multiple Select Question

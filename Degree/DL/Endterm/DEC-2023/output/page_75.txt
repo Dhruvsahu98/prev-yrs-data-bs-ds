@@ -1,0 +1,21 @@
+network. Moreover, the learning rate changes in each iteration such that it should decrease on the steep surface and increase on the gentle surface. Which of the following optimization algorithms satisfy the team's requirements?
+
+**Options :**
+
+6406532335128. ❌ GD with an exponentially decaying learning rate scheduler
+6406532335129. ❌ AdaGrad
+6406532335130. ✅ Adam
+6406532335131. ✅ NADAM
+6406532335132. ✅ RMSProp
+6406532335133. ❌ SGD with line search
+
+**Question Number : 87 Question Id : 640653699305 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Max. Selectable Options : 0 Question Label : Multiple Select Question**
+
+Suppose we divide the available training samples into mini batches of size 32 to train a model with mini-batch gradient descent. Assume that we have 33 different machines to train the model. One out of 33 machines acts as a master machine. The actual weight update happens in the master machine. The master machine can send one sample for the rest of the machines along with a copy of the model in its current state to compute the gradients. We call this entire set-up parallelization. Which of the following deep learning architectures can be trained in parallel then?
+
+**Options :**
+
+6406532335155. ✅ Fully connected Feed forward neural network
+6406532335156. ✅ Convolutional Neural network
+6406532335157. ✅ Recurrent Neural Network
+6406532335158. ✅ Transformers

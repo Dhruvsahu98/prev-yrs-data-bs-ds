@@ -1,0 +1,28 @@
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (92 to 93)
+Question Label : Comprehension
+Consider a fully connected feed forward neural network with 3 hidden layers. The weight matrix $W_1$ connecting the input layer to the first hidden layer is of shape $20 \times 150$, similarly, the shape of other weight matrices are as follows $W_2: 150 \times 100$, $W_3: 100 \times 10$, and the weight $W_4$ connecting the final hidden layer and the output layer is of shape $10 \times 3$. The network solves the multi-class classification problem by using the cross-entropy loss function. Moreover, the labels are one hot encoded. 
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 92 Question Id : 640653699289 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+How many neurons are there in the network? Every neuron in the network has bias associated with it? 
+Note: A neuron is a computation unit that takes in some inputs and produces an output.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+263
+
+Question Number : 93 Question Id : 640653699290 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
