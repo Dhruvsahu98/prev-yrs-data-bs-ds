@@ -1,0 +1,23 @@
+4. (3 points) we discussed a technique (Word2Vec) to obtain word embeddings given a text corpus. We noted that these representations have interesting properties like syntactically similar words are ‘closer’ to each other compared to dissimilar words. Say we wish to extend this idea to obtain representations for words across 2 languages (English and French). Further we wish to have similar words across language to have representations that are ‘close’. We are given a corpus of English and French text. We are also given a dictionary D of words that maps words in English to equivalent words in French. Write down the objective function for training a Word2Vec model for the above task. A good language model assigns higher probability for “valid” sentences in a language and low probabilities for sentences which are incorrect (for instance - sentences which do not follow language grammar rules).
+
+5. (3 points) Describe the RNN encoder-decoder block for machine translation and how the attention mechanism is embedded. List down the three popular techniques for calculating attention.
+
+6. (3 points) We saw that for a given decoder timestep t, the attention weights over the S encoder states (timesteps) are constrained to sum up to 1 (i.e., $\sum_{t=1}^S \alpha_{it} = 1$). However, there is no constraint on how the attention weights behave across timesteps. This could result in a situation where the attention weights are always concentrated on the same set of encoder states across different decoder timesteps. This may be undesirable (for example, in the case of translation this might mean that some words in the source sentence never get attention). Suggest a way to tweak the loss function to explicitly prevent this problem?
+
+7. (5 points) Draw the block diagram of the Transformer network. Explain all the components in detail.
+
+**Options :**
+
+6406531516037. ✅ I have written answers on the answer sheets
+
+6406531516038. ❌ Not applicable
+
+**Sub-Section Number :** 7
+
+**Sub-Section Id :** 64065366023
+
+**Question Shuffling Allowed :** No
+
+**Is Section Default :** null
+
+**Question Number : 168 Question Id : 640653455966 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 10 Question Label : Multiple Choice Question**

@@ -1,0 +1,30 @@
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+Identify the sets of valid test cases for branch coverage.
+
+Options : 
+6406531515946. ❌ {day = 0, day = 5}
+6406531515947. ❌ {day = -1, day = 5, day = 8}
+6406531515948. ✅ {day = 0, day = 5, day = 7}
+6406531515949. ✅ {day = 5, day = 6, day = 9}
+
+Question Number : 161 Question Id : 640653455941 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Identify the sets of valid test cases for multiple condition coverage.
+
+Options : 
+6406531515950. ✅ {day = 0, day = 8, day = 5, day = 7}
+6406531515951. ❌ {day = -1, day = 8, day = 5, day = 1}
+6406531515952. ❌ {day = 0, day = 5, day = 7}
+6406531515953. ❌ {day = 5, day = 6, day = 9}
+
+## Speech Tech
+Section Id : 64065329459
+Section Number : 7
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 7
+Number of Questions to be attempted : 7
+Section Marks : 40

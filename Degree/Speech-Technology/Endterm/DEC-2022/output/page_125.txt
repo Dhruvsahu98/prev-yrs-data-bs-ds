@@ -1,0 +1,43 @@
+8. (5 points) Consider a weather prediction based HMM problem with three hidden states: Sunny, Cloudy and Rainy. There are four different observable states that depend on the hidden states, namely: Dry, Dryish, Damp, and Soggy. The transition and observation probabilities are shown in fig. Given initial Cloudy weather condition on Day 0. It was observed that the weather was Dry followed by Damp for the next two days. Compute the best possible weather forecast sequence which best explains these two observations (hint: Use Viterbi Algorithm).
+
+\begin{tabular}{c|c|c|c|c|c}
+\multicolumn{6}{c}{Grass}\\
+\cline{2-6}
+\multicolumn{1}{c|}{} & \multicolumn{5}{c}{Weather}\\
+\cline{2-6}
+\multicolumn{1}{c|}{} & Dry & Dryish & Damp & Soggy\\
+\cline{2-6}
+Weather & Sunny & 0.60 & 0.20 & 0.15 & 0.05 \\
+& Cloudy & 0.25 & 0.25 & 0.25 & 0.25 \\
+& Rainy & 0.05 & 0.10 & 0.35 & 0.50\\
+\end{tabular}
+
+\begin{tabular}{c|c|c|c|c}
+\multicolumn{5}{c}{Today}\\
+\cline{2-5}
+\multicolumn{1}{c|}{} & \multicolumn{4}{c}{Yesterday}\\
+\cline{2-5}
+\multicolumn{1}{c|}{} & Sunny & Cloudy & Rainy\\
+\cline{2-5}
+Sunny & 0.5 & 0.375 & 0.125 \\
+Cloudy & 0.25 & 0.125 & 0.625 \\
+Rainy & 0.25 & 0.075 & 0.675 \\
+\end{tabular}
+
+9. (5 points) We discussed Bidirectional Encoder Representations from Transformer (BERT) as a way to obtain embeddings, which can be helpful in many NLP tasks. List the mechanism used for training the BERT model and highlight differences with the *Word2Vec* training.
+
+**Options :**
+
+6406531516039. ✅ I have written answers on the answer sheets
+
+6406531516040. ❌ Not applicable
+
+**Design Thinking**
+
+Section Id : 6406532946
+
+Section Number : 8
+
+Section type : Online
+
+Mandatory or Optional : Mandatory

@@ -1,0 +1,26 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+1.1 MCQ
+1. (1 point) For a given set of data points $X = \{x_1, x_2, ..., x_N \}$, log-likelihood for a GMM with k mixtures can be defined as:
+A. $\sum_{i=1}^N log(\sum_{j=1}^k \pi_j N(x_i, \mu_i, \sigma_i^2))$
+B. $log(\prod_{j=1}^N \sum_{i=1}^k \pi_i N(x_j, \mu_i, \sigma_i^2))$
+C. both A and B
+D. None of these
+2. (1 point) Given a HMM with N hidden states and M observation symbols, let $b_j(k)$ represent the probability of observing event j when in state k. Also, let $\pi_j$ represent the probability of being in state j initially ($\pi_j$s represent the initial state probabilities). Which of the following statements is True?
+A. $\sum_{k=1}^M b_j(k) \geq 1$ and $\sum_{j=1}^N \pi_j \leq 1, \forall 1 \leq j \leq N.$
+B. $\sum_{j=1}^N b_j(k) = 1$ and $\sum_{j=1}^N \pi_j = 1, \forall 1 \leq k \leq M.$
+C. $\sum_{k=1}^M b_j(k) = 1$ and $\sum_{j=1}^N \pi_j \leq 1, \forall 1 \leq k \leq M.$
+D. $\sum_{j=1}^N b_j(k) \geq 1$ and $\sum_{j=1}^N \pi_j \leq 1, \forall 1 \leq k \leq M.$
+3. (1 point) If $f(z) = tanh(z)$, then the derivative of $f(z)$ will be?
+A. $f(z)$
+B. $1 - f(z)$
+C. $1 - f^2(z)$
+D. $f^2(z)$
+Options :
+6406531516029. ✅ I have written answers on the answer sheets
+6406531516030. ❌ Not applicable
+Sub-Section Number : 3
+Sub-Section Id : 64065366019
+Question Shuffling Allowed : No
+Is Section Default? : null

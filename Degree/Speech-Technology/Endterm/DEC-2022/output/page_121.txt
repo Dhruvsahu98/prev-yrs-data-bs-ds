@@ -1,0 +1,35 @@
+Question Number : 164 Question Id : 640653455962 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+4. (1 point) Recurrent Neural Networks(RNN) with basic RNN cells exhibit which of the following problems?
+A. Vanishing gradient problem
+B. Exploding gradient problem
+C. both (A) and (B)
+D. None of the above
+
+5. (1 point) Which of the following ideas is used by LSTM-based RNN networks to capture long range dependencies?
+A. Pooling
+B. Convolution
+C. Gates
+D. None of the above
+
+6. (1 point) State whether the following statement is true or false: A Transformer Encoder layer can compute the hidden representation of all time steps simultaneously.
+A. True
+B. False
+
+7. (1 point) Which of the following is correct according to Bayes rule?
+A. $P(A|B) = \frac{P(A)}{P(B)}$
+B. $P(A|B) = \frac{P(A \cap B)}{P(A)}$
+C. $P(A|B) = \frac{P(A \cap B)}{P(B)}$
+D. $P(A|B) = \frac{P(A \cup B)}{P(B)}$
+
+Options :
+6406531516031.  ✅ I have written answers on the answer sheets
+6406531516032. ❌ Not applicable
+
+Sub-Section Number : 4
+
+Sub-Section Id : 64065366020
