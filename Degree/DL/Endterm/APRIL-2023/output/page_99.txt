@@ -1,0 +1,24 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the statement "the attention coefficients in RNN based Encoder-Decoder architecture are computed for each time step of the decoder". The statement is
+Options : 
+6406531887714. ✅ TRUE
+6406531887715. ❌ FALSE
+
+## PSM
+Section Id : 64065338353
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 5
+Number of Questions to be attempted : 5
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065380608
+Question Shuffling Allowed : No
+Is Section Default? : null

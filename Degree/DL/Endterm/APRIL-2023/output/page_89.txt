@@ -1,0 +1,29 @@
+**Correct Marks : 3**
+
+**Question Label : Short Answer Question**
+
+A CNN model takes an input image of size 100 x 100. The first convolution layer uses 30 kernels(filters) each of size 3 x 3, the output from the first convolution layer is passed as an input to the second convolution layer. The second convolution layer uses 20 kernels each of size 5 x 5. How many parameters (including bias) are there in the network? Assume stride=1,padding=0 if required. 
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+15320
+
+**Question Number : 112 Question Id : 640653564745 Question Type : SA Calculator : None**
+
+**Response Time : N/A Think Time : N/A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Short Answer Question**
+
+Consider a skip-gram model shown below. Each word in the vocabulary is represented as one-hot vector of size 100x1. The embedding dimension $h$ is 5x1. Enter the number of parameters (exclude bias) in the entire network 

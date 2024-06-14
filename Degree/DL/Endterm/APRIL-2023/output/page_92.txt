@@ -1,0 +1,27 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+2.9 to 3.1
+
+Question Number : 115 Question Id : 640653564737 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Assume that we use backpropagation to compute the gradient of the loss w.r.t. all the parameters. Then the statement that the gradients w.r.t. all the parameters are zero is 
+Options :
+6406531887687. ❌ TRUE
+6406531887688. ✅ FALSE
+6406531887689. ❌ Need more information to validate the statement
+
+Sub-Section Number : 5
+Sub-Section Id : 64065380604
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 116 Question Id : 640653564738 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+The plot below shows contours of a function $f(w, b)$. Choose the correct statements

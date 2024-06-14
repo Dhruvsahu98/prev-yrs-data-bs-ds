@@ -1,0 +1,29 @@
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+396
+
+Sub-Section Number : 5
+Sub-Section Id : 640653120747
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653820797 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (135 to 137)
+Question Label : Comprehension
+
+Given a scenario where there are 5 possible letters represented as one-hot encoded vectors of length 5, the RNN employs the following formulas for the state vector and output at time step $t$:
+ $$s_t = \sigma(Ux_i + Ws_{t-1} + b)$$
+ $$\hat{y}_t = O(Vs_t + c)$$
+ Here, $\sigma$ and $O$ denote the sigmoid and softmax functions, respectively.
+ Assume that $s_t \in \mathbb{R}^2$ and $y_t \in \mathbb{R}^5$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 135 Question Id : 640653820798 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+With a total of 10 time steps (T = 10, implying prediction for a word of length 9), what is the total count of parameters (including bias) within the network?

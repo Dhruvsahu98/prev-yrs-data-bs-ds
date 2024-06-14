@@ -1,0 +1,26 @@
+Question Label : Multiple Choice Question
+Suppose you are working with a sparse dataset and using Momentum-based Gradient Descent (GD) and AdaGrad algorithms for optimization. Which of the following statements accurately describes the behavior of weight and bias term updates?
+Options:
+6406532754988. ❌ Bias vector will update frequently only in the case of the AdaGrad algorithm.
+6406532754989. ✅ Weight vector will have very few updates in the case of Momentum-based GD.
+6406532754990. ❌ Weight vector will have frequent updates in both cases.
+6406532754991. ❌ Bias vector will have very few updates in the case of Momentum-based GD.
+
+Sub-Section Number : 3
+Sub-Section Id : 640653120745
+Question Shuffling Allowed : Yes
+Is Section Default?: null
+
+Question Number : 125 Question Id : 640653820786 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+State True or False. Sigmoid activation function helps mitigating vanishing gradient problem better than ReLU activation function.
+Options:
+6406532754978. ✅ FALSE
+6406532754979. ❌ TRUE
+
+Question Number : 126 Question Id : 640653820802 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

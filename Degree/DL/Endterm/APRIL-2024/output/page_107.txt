@@ -1,0 +1,26 @@
+If all the parameters (including bias) in the network are initialized to zero, what will be the total loss after 10 time steps (assume that indices start with 1) for the input [0, 0, 1, 0, 0]$^T$? assume the loss to be cross-entropy at each time step. Write your answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+16 to 16.2
+Sub-Section Number :
+16.2
+Sub-Section Id :
+640653120748
+Question Shuffling Allowed :
+Yes
+Is Section Default? :
+null
+Question Number : 138 Question Id : 640653820801 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Select the correct statement regarding the vanishing and exploding gradient problem in RNN.
+Options :
+6406532755005.  ✅ The vanishing gradient problem in RNNs occurs when the gradient approaches zero during backpropagation, hindering the training of long sequences.
+6406532755006.  ✅ The exploding gradient problem in RNNs occurs when the gradient grows uncontrollably during backpropagation, leading to numerical instability and difficulty in training.
+6406532755007.  ❌ The vanishing gradient problem in RNNs can be mitigated by using the Rectified Linear Unit (ReLU) activation function
+6406532755008.  ✅ The vanishing gradient problem in RNNs can be mitigated by using gradient 

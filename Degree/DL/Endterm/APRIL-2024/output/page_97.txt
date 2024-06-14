@@ -1,0 +1,21 @@
+6406532754974. ✅ Both A and R are true, and R is the correct explanation of A.
+6406532754975. ❌ Both A and R are true, but R is not the correct explanation of A.
+6406532754976. ❌ A is true, but R is false.
+6406532754977. ❌ A is false, but R is true.
+
+Question Number : 122 Question Id : 640653820787 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Consider a feedforward neural network with one hidden layer trained using backpropagation for a binary classification task. The network has the following architecture:
+- Input layer with 15 neurons
+- Hidden layer with 25 neurons
+- Output layer with 1 neuron
+
+During the backpropagation process, the derivative of the sigmoid activation function $\sigma(z)$ with respect to its argument $z$ is given by:
+$\sigma'(z) = \sigma(z) \cdot (1-\sigma(z))$
+
+If the loss function used for binary classification is the binary cross-entropy loss, and the activation function at hidden layer and output layer is sigmoid. The output of the neural network is denoted as $\hat{y}$, and the true label is denoted as $y$, what is the expression for $\frac{\partial L}{\partial w_j}$, where $w_j$ represents the weights connecting the $j$th neuron of hidden layer to the output layer? Assume that the output of $j$th neuron of hidden layer is $h_j$ and no biases in the network.
+
+Options :
+6406532754980. ❌ $\frac{\partial L}{\partial w_j} = -(y-\hat{y}) \cdot \sigma'(w_jh_j) \cdot h_j$

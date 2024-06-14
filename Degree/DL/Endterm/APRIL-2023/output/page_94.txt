@@ -1,0 +1,20 @@
+✓ Reduce the complexity of the model by driving less important weights to close to zero
+6406531887697. ✖ This might decrease training error
+
+Question Number : 118 Question Id : 640653564750 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Suppose we divide the available training samples into mini batches of size 32 to train a model with mini-batch gradient descent. Assume that we have 33 different machines to train the model. One out of 33 machines acts as a master machine. The actual weight update happens in the master machine. The master machine can send one sample for the rest of the machines along with a copy of the model in its current state to compute the gradients. We call this entire set-up parallelization. Which of the following deep learning architectures can be trained in parallel then?
+Options :
+6406531887716. ✓ Fully connected Feed forward neural network
+6406531887717. ✓ Convolutional Neural network
+6406531887718. ✓ Recurrent Neural Network
+6406531887719. ✓ Transformers
+
+Sub-Section Number : 6
+Sub-Section Id : 64065380605
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653564740 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (119 to 120)
+Question Label : Comprehension

@@ -1,0 +1,28 @@
+clipping, where gradients are capped to a maximum value during training.
+
+6406532755009. ✅ Both vanishing and exploding gradient problems in RNNs can occur due to the nature of the recurrent connections and the repeated multiplication of weight matrices.
+
+CSD
+
+Section Id : 64065357827
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 21
+Number of Questions to be attempted : 21
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653120749
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 139 Question Id : 640653820804 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "**DEGREE LEVEL : COMPUTER SYSTEM DESIGN**"

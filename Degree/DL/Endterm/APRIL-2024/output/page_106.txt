@@ -1,0 +1,23 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+31
+
+Question Number : 136 Question Id : 640653820799 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+If all the parameters (including bias) in the network are initialized to zero, what will be the predicted $\hat{y}_2$ at time step 2 (assume that indices start with 1) for the input [0, 0, 1, 0, 0]$^T$?
+Options :
+6406532755000.  [0, 0.5, 0.5, 0, 0]$^T$
+6406532755001.  [0, 1, 0.1, 0.6, 0.1, 0.1]$^T$
+6406532755002.  [0, 0, 1, 0, 0]$^T$
+6406532755003.  [0.2, 0.2, 0.2, 0.2, 0.2]$^T$
+
+Question Number : 137 Question Id : 640653820800 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question

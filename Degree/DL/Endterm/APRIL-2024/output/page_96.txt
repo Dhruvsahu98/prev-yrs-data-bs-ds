@@ -1,0 +1,27 @@
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406532754972. ✅ YES
+6406532754973. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 640653120744
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 121 Question Id : 640653820785 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Consider a scenario where you have a dataset with overlapping classes (that is instances from different classes share similar or identical feature values), and you decide to train a perceptron model for classification.
+
+**Assertion (A):** The perceptron model may struggle to classify instances accurately when classes overlap in the feature space.
+
+**Reason (R):** The perceptron learning algorithm aims to find a linear decision boundary that separates the classes, and in the presence of overlapping classes, it may not be able to capture the underlying patterns effectively.
+
+Select the correct option:
+
+Options :

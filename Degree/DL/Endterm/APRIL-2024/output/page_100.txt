@@ -1,0 +1,21 @@
+**Correct Marks :** 2
+**Question Label :** Multiple Choice Question
+How many weight matrices does a LSTM unit and GRU unit learns respectively during backpropagation?
+**Options :**
+6406532755010. ❌ 2,3
+6406532755011. ❌ 3,4
+6406532755012. ❌ 4,3
+6406532755013. ✅ 8,6
+
+**Question Number :** 127 **Question Id :** 640653820803 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : **None Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 2
+**Question Label :** Multiple Choice Question
+Which statements about LSTM and GRU units in handling the problem of exploding/vanishing gradients are correct?
+**Options :**
+6406532755014. ❌ LSTM units are more susceptible to exploding gradients compared to GRU units due to their complex gating mechanisms.
+6406532755015. ❌ The gating mechanisms in LSTM and GRU units implicitly handle exploding gradients without the need for additional techniques.
+6406532755016. ❌ GRU units mitigate both vanishing and exploding gradient problems more effectively than LSTM units due to their simplified architecture.
+6406532755017. ✅ Both LSTM and GRU units utilize gating mechanisms to address vanishing gradient problems, but GRU units typically converge faster due to their simpler design.
+**Sub-Section Number :** 4
+**Sub-Section Id :** 640653120746

@@ -1,0 +1,32 @@
+6406531887708. ✅ FALSE
+6406531887709. ❌ Insufficient information
+Sub-Section Number : 3
+Sub-Section Id : 64065380602
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 110 Question Id : 640653564733 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider a sigmoid neuron shown below. The input to the neuron is a real number. Suppose that input $x = 10$, output $y = 1$ and the parameters, $w = 0.1, b = 0.1$. Update the parameters once using GD with $\eta=1$. Enter the sum of updated parameter values. The loss function is $L = \frac{1}{2}(y-\hat{y})^2$. 
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2cm,
+                thick,main node/.style={circle,draw,font=\sffamily\Large\bfseries}]
+
+  \node[main node] (1) {$\sigma(\cdot)$};
+  \node[node distance=1.5cm] (2) [left of=1] {$x$};
+  \node[node distance=1.5cm] (3) [right of=1] {$\hat{y}$};
+  \node[node distance=1cm] (4) [above of=1] {$1$};
+  \path[every node/.style={font=\sffamily\small}]
+    (2) edge node {$w$} (1)
+    (1) edge node {} (3)
+    (4) edge node {$b$} (1);
+\end{tikzpicture}
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.68 to 0.72
+Question Number : 111 Question Id : 640653564744 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

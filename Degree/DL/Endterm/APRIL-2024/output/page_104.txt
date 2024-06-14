@@ -1,0 +1,26 @@
+Text Areas : PlainText
+Possible Answers :
+3.9 to 4.0
+
+Question Number : 133 Question Id : 640653820795 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+In a Skip-gram model with a window size of 2 (on each side), how many unique pairs of target and context words will be generated for the following sentence:
+'The idea is to die young as late as possible'
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+31
+
+Question Number : 134 Question Id : 640653820796 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+In a Skip-gram model with a vocabulary of 15000 words, if you choose a negative sampling rate of 10 negative samples for each positive sample, how many **total** samples will be generated for a sentence with 8 unique words and a window size of 3 (on each side)?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

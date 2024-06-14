@@ -1,0 +1,26 @@
+Question Label : Short Answer Question
+What is the loss value? Use cross entropy loss with natural logarithm.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+2 to 2.1
+Question Number : 122 Question Id : 640653564748 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Short Answer Question
+Compute the gradients for the weight matrix, that is $\nabla W$ and enter the sum of its (main) diagonal elements?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+0.80 to 0.92
+Sub-Section Number : 8
+Sub-Section Id : 64065380607
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 123 Question Id : 640653564749 Question Type : MCQ Is Question

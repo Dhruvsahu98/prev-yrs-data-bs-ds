@@ -1,0 +1,27 @@
+$y = \begin{bmatrix} 0 \\ 1 \end{bmatrix}$
+
+$s_0 = \begin{bmatrix} 0 \\ 0 \end{bmatrix}$
+
+$x_1 = \begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+
+$x_2 = \begin{bmatrix} 0 \\ 1 \end{bmatrix}$
+
+Suppose the weight matrices $U$, $V$, $W$ are initialized as follows
+
+$W = U = V = \begin{bmatrix} 1 & -1 \\ -1 & 1 \end{bmatrix}$
+
+The state vector $s_t$ is computed as follows
+
+$s_t = tanh(Ux_t + Ws_{t-1})$
+
+Note: In all your calculations, consider only the first two decimal places of any number (input, intermediate results..). That is, if the number is -1.0234, take it as -1.02.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 121 Question Id : 640653564747 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5

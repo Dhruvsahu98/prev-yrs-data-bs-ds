@@ -1,0 +1,29 @@
+A neural network contains an input layer $h_0 = X$, five hidden layers ($h_1, h_2,...,h_5$) and an output layer $O$. All the hidden layers use Relu activation and the output layer uses softmax activation.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 113 Question Id : 640653564735 Question Type : SA Calculator : None 
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 3
+
+Question Label : Short Answer Question
+Suppose the input $x \in \mathbb{R}^{900}$ and all the hidden layers contains 10 neurons each. The output layer contains 20 neurons. How many parameters are there in the entire network?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9670
+
+Question Number : 114 Question Id : 640653564736 Question Type : SA Calculator : None 
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 3
+
+Question Label : Short Answer Question
+Suppose that all the elements in the input vector are zero and the corresponding true label is also 0. Further, suppose that all the parameters are initialized to zero. What is the loss value if cross entropy loss is used? Use natural logarithm ln.
+
+Response Type : Numeric

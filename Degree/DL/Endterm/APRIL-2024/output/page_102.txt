@@ -1,0 +1,27 @@
+Calculate the squared bias ($bias^2$) for these models evaluated in a regression task. Assume that each model uses the same parameters but is trained on different subsets of the training data. 
+(Enter your answer up to 3 decimal places.) 
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :**
+0.02 to 0.03
+
+**Question Number :** 130 **Question Id :** 640653820792 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Short Answer Question
+Consider a Convolutional Neural Network (CNN) architecture for image classification with the following layers:
+1. Convolutional layer with 32 filters of size $3 \times 3$, with a stride of 1 and no padding.
+2. Max pooling layer with a pool size of $2 \times 2$ and a stride of 2.
+3. Convolutional layer with 64 filters of size $4 \times 4$, with a stride of 1 and no padding.
+4. Max pooling layer with a pool size of $2 \times 2$ and a stride of 2.
+5. Fully connected layer with 128 neurons.
+6. Output layer with 10 neurons (for 10 classes) using softmax activation.
+
+If the input image size is $64 \times 64 \times 3$, and the network has no bias term, how many parameters are there in the CNN?
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal

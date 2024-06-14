@@ -1,0 +1,25 @@
+```python
+6406532754981. ❌
+6406532754982. ❌
+6406532754983. ✅
+```
+$\frac{\partial L}{\partial w_j} = -(y-\hat{y}) \cdot \sigma'( \sum_{i=1}^{25} w_i ) \cdot h_j$
+$\frac{\partial L}{\partial w_j} = -(y-\hat{y}) \cdot \sigma'(h_j) \cdot h_j$
+$\frac{\partial L}{\partial w_j} = -(y-\hat{y}) \cdot \sigma'( \sum_{i=1}^{25} w_ih_i ) \cdot h_j$
+Question Number : 123 Question Id : 640653820788 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+In the context of mini-batch gradient descent, if doubling the size of the mini-batch makes your model take twice as many epochs to reach convergence, how does this affect the total number of parameter updates compared to using the original mini-batch size? Assume everything else remains constant.
+Options :
+```python
+6406532754984. ❌
+6406532754985. ❌
+6406532754986. ❌
+6406532754987. ✅
+```
+The number of updates required is doubled.
+The number of updates required is four times.
+The number of updates required is halved.
+The number of updates remains the same.
+Question Number : 124 Question Id : 640653820789 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
