@@ -1,0 +1,37 @@
+6406532755140. ❌ Create all tables as external tables.
+6406532755141. ✅ Ensure cost based optimizer (CBO) is ON.
+6406532755142. ❌ Partition all tables on the same key on which the aggregate is happening.
+6406532755143. ✅ Run ANALYZE on all tables to ensure the right estimates are available to the optimizer.
+6406532755144. ✅ Cache the table in a step with actions ahead of the SQL statement that is the culprit.
+
+Question Number : 195 Question Id : 640653820853 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Observe the below image and select the options that are true.
+
+\begin{tikzpicture}[scale=0.7]
+\node (pub1) at (0,4) [draw, rectangle] {Publisher 1};
+\node (pub2) at (0,0) [draw, rectangle] {Publisher 2};
+\node (topic) at (4,2) [draw, rectangle] {Topic 1};
+\node (sub11) at (8,4) [draw, rectangle] {Subscription 1};
+\node (sub21) at (8,2) [draw, rectangle] {Subscription 2};
+\node (sub31) at (8,0) [draw, rectangle] {Subscription 3};
+\node (sub12) at (12,4) [draw, rectangle] {Subscriber 1};
+\node (sub22) at (12,2) [draw, rectangle] {Subscriber 2};
+\node (sub32) at (12,0) [draw, rectangle] {Subscriber 3};
+
+\draw[->,>=stealth,thick] (pub1) to[bend right=45] (topic);
+\draw[->,>=stealth,thick] (pub2) to[bend right=45] (topic);
+\draw[->,>=stealth,thick] (topic) to (sub11);
+\draw[->,>=stealth,thick] (topic) to (sub21);
+\draw[->,>=stealth,thick] (topic) to (sub31);
+\draw[->,>=stealth,thick] (sub11) to (sub12);
+\draw[->,>=stealth,thick] (sub21) to (sub22);
+\draw[->,>=stealth,thick] (sub31) to (sub32);
+\end{tikzpicture}
+
+Options :
+6406532755172. ❌ Each subscriber gets one third of all messages published into Topic 1.
+6406532755173. ❌ Publisher 1 can safely send data only for Subscriber 1's consumption while restricting access to Subscribers 2 & 3.
+6406532755174. ❌ Subscriber 2 gets all messages published into Topic 1 by Publisher 1 but only half of Publisher 2's messages.

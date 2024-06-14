@@ -1,0 +1,26 @@
+6406532755175. ✅ Each subscriber gets all messages published into Topic 1.
+
+LLM
+Section Id : 64065357830
+Section Number : 9
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 11
+Number of Questions to be attempted : 11
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653120761
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 196 Question Id : 640653820861 Question Type : MCQ is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "**DEGREE LEVEL : INTRODUCTION TO LARGE LANGUAGE MODELS (COMPUTER BASED EXAM)**"

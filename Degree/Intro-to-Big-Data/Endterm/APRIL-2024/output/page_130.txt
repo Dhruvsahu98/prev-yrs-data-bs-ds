@@ -1,0 +1,21 @@
+6406532755072. ❌ Spark and Map
+6406532755073. ❌ Serverless and Message Broker
+6406532755074. ✅ Hadoop and Spark
+6406532755075. ❌ MapReduce and Google Cloud Functions
+
+Question Number : 168 Question Id : 640653820834 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+A website sees 1 Billion hits every month. The website owner wants to count average hits per customer in the latest month, where a customer is denoted by the IP address of the device from which the customer is accessing the website. The owner has at his disposal a Hadoop cluster of 5 workers and 2 masters each with 1GB of RAM. Which of the following methods is the most likely to finish fastest?
+
+Options :
+
+6406532755081. ❌ Write a MapReduce program where the Map does nothing useful, Combine computes the aggregated hits per customer, Shuffle combined data based on IP address across workers, and in the Reduce, build hash table on each machine with hash key = IP address and hash value = counter, followed by another Reduce that finally computes the avg on top of all hash values.
+
+6406532755082. ❌ Write a Spark program that forms a Dataframe as grouping by IP address with count as aggregate, followed by a take into a list in the Spark driver which further computes the average of all the individual counts in the list
+
+6406532755083. ✅ Write a Spark program that forms a Dataframe as grouping by IP address with count as aggregate, followed by another stage that computes the avg on top of the Dataframe of the first stage
+
+6406532755084. ❌ Write a MapReduce program where 2 pairs of Map Reduce are chained together: 1st pair is where the Map does nothing useful, Shuffle data based on IP address across

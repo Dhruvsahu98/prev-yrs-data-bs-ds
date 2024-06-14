@@ -1,0 +1,18 @@
+* MapReduce leverages memory heavily, while Spark optimizes for disk-based computations
+6406532755077.  ✔ MapReduce forces barrier synchronization after every step, while Spark uses directed acyclic graphs to execute as many steps as possible in parallel
+6406532755078.  ✔ MapReduce leverages disk heavily, while Spark optimizes for memory-based computations
+6406532755079.  ✖ MapReduce enables massively parallel computation, while Spark's driver program sequentially executes each worker
+6406532755080.  ✖ MapReduce is restricted in flexibility since only Map and Reduce are possible steps, while Spark has a variety of Actions possible making it highly flexible
+
+Question Number : 189 Question Id : 640653820837 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+You are provided with a Spark program that picks out a list of suspicious transactions. It's logic is based on both the financial value of the transaction and the geographic location of the transaction. If the financial value is higher than a threshold and the geographic location is from a set of suspected locations (provided as a 1MB file), then the program deems the transaction as suspicious. The version of the Spark program given to you is written in such a way that it pulls all the transactions from the Workers to the Driver and then applies the logic. Which 2 changes from the list below will get you the most benefit in performance?
+
+Options :
+6406532755094.  ✔ Use broadcast variables for the 1MB file
+6406532755095.  ✖ Hardcode threshold value as a filter condition in the Driver program
+6406532755096.  ✖ Reorder operations on the Driver such that geographic location is checked first before filtering high value transactions
+6406532755097.  ✔ Hardcode threshold value as a filter condition in the Workers itself

@@ -1,0 +1,47 @@
+REGISTERED BY YOU)
+
+Options :
+
+6406532755066. ✅ YES
+
+6406532755067. ❌ NO
+
+Sub-Section Number : 2
+
+Sub-Section Id : 640653120759
+
+Question Shuffling Allowed : yes
+
+Is Section Default? : null
+
+Question Number : 166 Question Id : 640653820831 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+What best describes "big data"?
+
+Options :
+
+6406532755068. ❌ Big data is used to refer to the set of technologies built around Hadoop
+
+6406532755069. ❌ Big data refers to the cloud-native design principle
+
+6406532755070. ✅ Big data is about All data, Any Time, Any Method
+
+6406532755071. ❌ Big data is about volume, velocity, variety
+
+Question Number : 167 Question Id : 640653820832 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of these are implementations of the divide-and-conquer paradigm?
+
+Options :

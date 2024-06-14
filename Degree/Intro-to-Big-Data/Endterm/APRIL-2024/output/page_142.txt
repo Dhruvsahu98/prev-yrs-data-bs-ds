@@ -1,0 +1,16 @@
+Question Number : 182 Question Id : 640653820855 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Let us say we are using structured streaming for continuously reading data from Kafka and storing the results back into a Kafka topic using window function aggregates. Now, instead, we decide that we need to just perform a one-time batch operation using the same logic, where there is a need to read specific data from Kafka (i.e. using pre-determined offsets). How will we need to modify the code to make it work?
+Options :
+6406532755181. ❌ The read and write commands will remain the same, but the remaining code will need to be modified, as operations on streaming dataframes are not supported on static dataframes.
+6406532755182. ❌ The entire code will need to be modified as the APIs for stream and batch processing are completely different.
+6406532755183. ❌ The read and write commands need to be modified to specify that it's a batch operation. Further, the specific logic of window functions will also need to be modified since there are no time windows anymore in batch processing.
+6406532755184. ✅ Only the read and write commands need to be modified to specify that it's a batch operation.
+
+Question Number : 183 Question Id : 640653820856 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider a Kafka system that has two brokers with the exact same resources. Let's consider a topic A with a single partition, whose two copies are being maintained in sync by Kafka. Consider the following cases:

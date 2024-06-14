@@ -1,0 +1,15 @@
+Question Number : 193 Question Id : 640653820843 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following are best practices associated with Streaming applications?
+Options:
+6406532755125.  ✔ Use a message store that supports message replay so that no data is lost in processing.
+6406532755126.  ✔ "Hot potato" principle is when the streaming application operates on the minimum amount of processing to produce valid output, which then becomes input for the next minimal processor, and so on, thus ensuring that no single process is doing too many things in one go.
+6406532755127.  ✘ Hadoop is best suited for executing Streaming applications.
+6406532755128.  ✔ Use checkpointing when faced with mission-critical workloads that require 100% accuracy.
+6406532755129.  ✘ Handle state pollution by restarting the persistent store software periodically.
+Question Number : 194 Question Id : 640653820846 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+You are given the task of improving the performance of a Spark SQL program that is doing a simple count after a series of transformations. You suspect that the culprit is the main transformation job in the program. When you run EXPLAIN on that SQL, you see that Spark wrongly estimates that there are only 10 values for the key on which the main transformation job is hinged upon, whereas in reality the underlying data has a million values for that key. What actions would you perform from the below to improve performance of the program?
+Options:

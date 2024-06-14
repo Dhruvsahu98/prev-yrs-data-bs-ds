@@ -1,0 +1,21 @@
+dashboard is not able to refresh fast enough. Choose the best option that gives the best performance with minimal maintenance effort.
+
+**Options :**
+
+6406532755150. ❌ Since MongoDB is OLTP, it is not able to support business reporting. So, replace it with Hadoop which supports OLAP better
+
+6406532755151. ❌ Convert the application from using plain Java to using Spark Streaming in Java
+
+6406532755152. ✅ Extract raw data from MongoDB using Change Data Capture (CDC) once every minute into Kafka, and then use Spark Streaming to compute the KPIs and then populate into a NoSQL DB like Redis for the UI to consume.
+
+6406532755153. ❌ Query MongoDB every 1 minute for new data using a check on document inserted timestamp, use Spark Streaming to compute the KPIs with the queried data, and then populate into a NoSQL DB like Redis for the UI to consume.
+
+6406532755154. ❌ Convert application to using Python along with a NoSQL database for storing and retrieving the aggregated counts.
+
+**Question Number : 177 Question Id : 640653820849 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Dhoni is on the crease with a bat in hand that has sensors embedded throughout. The sensors talk to the spider cam every second. The spider cam is itself a powerful ARM based computer which has connectivity to the cloud through the wire on which it hangs. Using this connectivity, it can send as much or as little data as required and also receive instructions from the cloud. There is a machine learning model which suggests to the batsman to loosen the grip on his bat or tighten it based on the shots played using the sensor measurements. The way the suggestion happens is using dynamic vibration intensity communicated to the sensors embedded in the bat handle. Your task is to design the data pipeline that enables such feedback to Dhoni ideally before every ball with as much accuracy as possible throughout the match. Which of the following options best satisfies the requirements?

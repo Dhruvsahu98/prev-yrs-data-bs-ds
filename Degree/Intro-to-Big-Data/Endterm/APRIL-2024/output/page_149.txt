@@ -1,0 +1,20 @@
+Question Number : 190 Question Id : 640653820840 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following types of data sources can you read successfully without missing data using a program that extracts once every day? If no data is missed, then all data in source will match data extracted successfully. 
+Options :
+6406532755108. ✅ A MySQL table that is modelled as a Type II SCD where all Creates are new rows and all Updates are appended only, and these can happen anytime during the day. 
+6406532755109. ✅ A Linux machine's system.log file into which all processes append their events 
+6406532755110. ❌ Share transactions stored as facts & share prices updated in-place in a PostgreSQL database 
+6406532755111. ❌ A weather API that provides the temperature & rainfall readings for all its weather stations in India for the specific time instant when being queried
+6406532755112. ✅ Google drive account that stores all historical census data for India 
+
+Question Number : 191 Question Id : 640653820841 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following is true?
+Options :
+6406532755113. ✅ Snapshots of source systems can be created using an event capture tool like CDC and then replaying the events in sequence for that time period.
+6406532755114. ❌ A data lake is a collection of data to be provided as input for data science

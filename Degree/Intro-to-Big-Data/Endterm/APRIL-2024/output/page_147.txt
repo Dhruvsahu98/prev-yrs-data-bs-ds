@@ -1,0 +1,26 @@
+Question Label : Multiple Choice Question
+
+Since it is the onset of summer, there is a surge in railway ticket bookings. The business head at IRCTC is interested in a real-time view of all of her stations irrespective of whether there were bookings or not. She wants to see this be presented in a monitor mounted in her office wall that refreshes with the latest info on an India map every 1 minute. Along with the info, there also needs to be the current time so that she gets a visual confirmation that this is the latest data. This dashboard allows her to plan for new summer-special trains as required. What solution option below best solves for the need?
+
+Options :
+
+6406532755202. ❌ Route a copy of the ticket purchase to a Kafka topic, use Spark Structured Streaming to continuously read from this topic and update the aggregates by destinations, and emit using output mode "Update".
+
+6406532755203. ✅ Route a copy of the ticket purchase to a Kafka topic, use Spark Structured Streaming to periodically read from this topic every 1 minute and update the aggregates by destinations, and emit all aggregates using the output mode "Complete".
+
+6406532755204. ❌ Route a copy of the ticket purchase to a Kafka topic, use Spark Structured Streaming to periodically read from this topic every 1 minute and count the destinations in that batch, and emit only all aggregates in that batch using the output mode "Append".
+
+Sub-Section Number : 3
+Sub-Section Id : 640653120760
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 188 Question Id : 640653820833 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+What option(s) best describe the differences between MapReduce and Spark?
+
+Options :
+
+6406532755076. 

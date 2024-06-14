@@ -1,0 +1,15 @@
+Options :
+6406532755155. ❌ Ingest all data into Pub/Sub, process using Google Cloud Dataflow, invoke the ML model, and then write back output from Cloud to the spider cam to relay to the bat.
+6406532755156. ❌ Compress the ML model to fit into the spider cam's available resource, and write pipelines to execute the model in the spider cam itself
+6406532755157. ✅ Compress the ML model to fit into the spider cam's available resource, and write pipelines to execute in the spider cam itself, with periodically data being sent to the cloud, retrain the model using Google Cloud ML and then redeploy the model to the spider cam.
+6406532755158. ❌ Compress the data in the spider cam every 5 seconds, write to Pub/Sub the compressed data, invoke the ML model and then write back output from Cloud to the spider cam to relay to the bat.
+
+Question Number : 178 Question Id : 640653820850 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+In the class, we saw the UDF for mobilenet\_v2. By definition, UDFs are scalar. In Spark, there is another class of user defined routines called UDAFs, which stand for User Defined Aggregator Functions. UDAFs are meant to provide a means to write a custom aggregation function which aggregates over a grouping of values to arrive at a single value. UDAF structure differs saliently from UDFs in that it provides a buffer to keep track of intermediate state before finalizing aggregate output. Why is a buffer required for UDAF and not for a UDF?
+
+Options :
+6406532755159. ❌ A UDF is a scalar operation executing on 1 row at a time and producing output immediately, and therefore there is no intermediate output necessary. Whereas, a UDAF operates on multiple rows which will require multiple passes for the final output thereby requiring a buffer.
+6406532755160. ✅ A UDF is a scalar operation executing on 1 row at a time and producing output immediately, and therefore there is no intermediate output necessary. Whereas, a UDAF operates on multiple rows of unbounded size requiring a divide-and-conquer approach for computing 

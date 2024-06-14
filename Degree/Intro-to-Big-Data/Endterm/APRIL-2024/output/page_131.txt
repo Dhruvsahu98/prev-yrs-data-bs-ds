@@ -1,0 +1,19 @@
+workers, and in the Reduce, build hash table on each machine with hash key = IP address and hash value = counter, while the 2nd pair is another Map that does nothing useful followed by a Reduce that finally computes avg on top of all hash values. 
+6406532755085. ✖ All will finish in approximately the same time. 
+
+Question Number : 169 Question Id : 640653820835 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+An enterprise software designer wants to leverage the best of Google cloud to minimize the number of administrative overheads associated with her big data pipeline while also getting on-demand scalability without sacrificing flexibility. What option should she choose to best serve these needs?
+**Options :**
+6406532755086. ✖ Build the data pipeline using VMs - one for Python & one for storing files
+6406532755087. ✖ Build the data pipeline using Python running on Google Cloud Functions where the data is stored on GCS
+6406532755088. ✖ Build the data pipeline using MapReduce on, data storage on HDFS, and deploy both on Dataproc
+6406532755089. ✅ Build the data pipeline using Dataflow on top of data stored on GCS
+
+Question Number : 170 Question Id : 640653820836 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider an application that can scale from handling 1000 users to handling 100 million users by simply making copies of itself, logs information about its workings on a central logger backed by Kafka, but has no automation to detect task failures and retry. Which of the following statements 

@@ -1,0 +1,31 @@
+algorithms.
+
+6406532755115. ✅ Zookeeper is a library for ensuring that critical services used in big data are able to stay in sync with each other as to the health of those services.
+
+6406532755116. ❌ A single Spark cluster can have multiple "leader" master nodes.
+
+6406532755117. ✅ Spark is optimized for in-memory computation.
+
+6406532755118. ✅ Given the RDD underlying a Dataframe, you can recreate the same Dataframe provided you know the schema
+
+**Question Number : 192 Question Id : 640653820842 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2 Max. Selectable Options : 0**
+
+**Question Label : Multiple Select Question**
+
+What are some capabilities common to both "streaming processing" & "batch processing" when using Spark for big data?
+
+**Options :**
+
+6406532755119. ✅ Batch operates on a set of data elements taken together while streaming can also operate on a set of data elements as determined by the window
+
+6406532755120. ❌ Batch operates on data that is static while streaming operates on data that is dynamically changing
+
+6406532755121. ❌ Batch processing can assume data as fully specified and complete while streaming cannot make that assumption
+
+6406532755122. ❌ Batch processing is typically high latency while streaming processing is necessary for real-time latencies
+
+6406532755123. ✅ Both Streaming & Batch processing can operate on massively large data sets
+
+6406532755124. ✅ Both Streaming and Batch processing in Spark can use the same syntax for programming the main functional logic of the application

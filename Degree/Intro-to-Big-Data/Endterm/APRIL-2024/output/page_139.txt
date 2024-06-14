@@ -1,0 +1,24 @@
+aggregates, which uses the intermediate buffer to store partial values before finalizing the result aggregate.
+
+6406532755161. ✖ A UDF is a scalar operation executing on many rows at a time, grouped by a key and producing a single output, and therefore there is no intermediate output necessary. Whereas, a UDAF operates on multiple rows which will require multiple passes for the final output thereby requiring a buffer.
+
+6406532755162. ✖ A UDF is a scalar operation executing on many rows at a time, grouped by a key and producing a single output, and therefore there is no intermediate output necessary. Whereas, a UDAF operates on multiple rows of unbounded size requiring a divide-and-conquer approach for computing aggregates, which uses the intermediate buffer to store partial values before finalizing the result aggregate.
+
+Question Number : 179 Question Id : 640653820851 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+In the class, we saw the UDF for mobilenet\_v2. Specifically, the predict() function contained the below lines of code
+```python
+def predict(content_series_iter):
+  model = model_fn()
+  model.eval()
+  ...
+```
+Suppose there's a new transformer model from Facebook that is orders of magnitude bigger than mobilenet\_v2 but that is able to provide better F1 score. Will these lines of code still be required in the pipeline?
+
+Options :
+
+6406532755163. ✖ Yes, since they check the syntax of the model function so that there are no errors
+
+6406532755164. 

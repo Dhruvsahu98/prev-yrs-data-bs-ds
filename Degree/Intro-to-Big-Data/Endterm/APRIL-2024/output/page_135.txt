@@ -1,0 +1,16 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+A big data streaming application that uses Kafka as source is observed to be really lagging behind currently live data. The Kafka cluster has 2 broker nodes and this application is reading from 1 topic that has 10 partitions. On closer investigation, it was found that Kafka is not scaling to the velocity of input data coming in. What can you first try to do to scale Kafka further while incurring minimal overall costs?
+Options :
+6406532755135. ❌ Add disks to each broker in the cluster, and disks are the cheapest computer component
+6406532755136. ✅ Increase memory in each of the brokers in the cluster. While cost of memory is more than cost of disks, it is still cheaper than adding brokers and helps to scale.
+6406532755137. ❌ Add new brokers to the cluster, even though this is more expensive than the other options this is the only foolproof way to scale.
+6406532755138. ❌ Create more topics and change input application to reroute data to all topics to be able to spread input data better. This is nearly the least expensive since only developer effort is required to change application.
+6406532755139. ❌ Double the number of partitions for this single topic to be able to spread input data better. This is the least expensive since only administrator effort is required without changing application.
+
+Question Number : 175 Question Id : 640653820847 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+A company with headquarters (HQ) in the Middle East operates on a Sunday-Thursday weekday schedule with Friday & Saturday as weekend days. It computes end of week revenue numbers 

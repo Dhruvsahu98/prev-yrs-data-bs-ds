@@ -1,0 +1,24 @@
+Case 1: Each broker has one copy of the partition
+Case 2: Both the copies reside in the same broker
+
+Two of the key promises of Kafka are:
+(i) Availability
+(ii) Throughput
+
+Regarding which of the above promises, case 1 is at an advantage as compared to case 2?
+
+Options:
+6406532755185. ❌ Only (ii)
+6406532755186. ✅ Only (i)
+6406532755187. ❌ Both (i) and (ii)
+6406532755188. ❌ Neither (i) nor (ii)
+
+Question Number : 184 Question Id : 640653820857 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Kubernetes is an open-source system for automating deployment, scaling and management of containerized applications. Google Datastore and HBase are both highly-scalable NoSQL database systems for interactive, real-time applications. Consider the following pipeline choices for effecting the same outcome:
+
+(i) Shell producer on VM on GCP  →  Pub/Sub  →  Spark Streaming on Hadoop VMs on GCP  →  HBase
+(ii) Shell producer in Google Cloud Function  →  Kafka VM on GCP  →  Dataflow  →  Datastore
+(iii) Shell producer in Kubernetes on GCP  →  Pub/Sub  →  Spark Streaming on Google Dataproc  →  Datastore

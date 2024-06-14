@@ -1,0 +1,20 @@
+6406532755102. ❌ i and 1
+6406532755103. ❌ i and 1 followed by 2
+6406532755104. ❌ i and 1 followed by 2 & 3
+6406532755105. ❌ ii and both 2 & 3
+6406532755106. ✅ ii and 2
+6406532755107. ❌ ii and 3
+
+Question Number : 173 Question Id : 640653820844 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+What happens when a Spark Structured Streaming pipeline operating with Kafka as source is subject to a failure of a machine in either of the Kafka cluster or the Spark cluster?
+Options :
+6406532755130. ❌ Failure of a machine in the Kafka cluster will result in an Exception in the Spark pipeline which will then fail and halt.
+6406532755131. ❌ The Spark pipeline will not be able to start again from previously committed offset by restarting itself, resulting in at least-once processing semantics
+6406532755132. ❌ Irrespective of whatever machine fails, Spark will throw an error and halt.
+6406532755133. ❌ Data that is being processed will not be processed again, resulting in almost-once semantics.
+6406532755134. ✅ The pipeline will be restarted automatically by Spark which is able to pick up the exact data from Kafka which was being processed at the time of error, resulting in exactly-once semantics.
+
+Question Number : 174 Question Id : 640653820845 Question Type : MCQ Is Question

@@ -1,0 +1,15 @@
+ ❌ Yes, they invoke PyTorch libraries that have already been setup for model scoring on GCP using APIs embedded within the function
+6406532755165. ❌ No, since the primary function of these lines of code is to eliminate repeated DL model loads as DL models are large in size
+6406532755166. ❌ Yes, they are Map-style UDFs that make it an embarrassingly parallel computation thus making the execution parallelized and fast.
+6406532755167. ✅ Yes, since the new model will potentially have large load times.
+
+**Question Number : 180 Question Id : 640653820852 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+You are given a Spark Streaming pipeline that invokes a pre-trained DL model for every image it receives as input and produces the classification result in quick time. The model with the best recall rate from the PyTorch library already runs in under 3 seconds on an average, when executing on a single GPU Spark worker machine. However, your management has instructed you to reduce the cost of AI projects significantly. What is the best option to explore to meet the expectations without compromising on false negatives while also being within 10-20% of the average execution time?
+
+**Options :**
+6406532755168. ✅ Build a custom model that compresses the highest recall rate model just enough to be able to execute within the stipulated time, and measure recall
+6406532755169. ❌ Use a different DL model from PyTorch that is already compressed to half the size.
+6406532755170. ❌ Remove complexity associated with Spark Streaming and convert the model execution pipeline into a single threaded Python application running on the same GPU machine.
+6406532755171. ❌ Change Spark machine to use CPUs and train a fresh pipeline to achieve objectives.

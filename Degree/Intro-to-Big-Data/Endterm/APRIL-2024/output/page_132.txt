@@ -1,0 +1,18 @@
+is true?
+**Options :**
+6406532755090. ❌ This application has adopted cloud-native design
+6406532755091. ❌ This application cannot be called as cloud-native since it is not observable at all times
+6406532755092. ❌ This application cannot be called as cloud-native since it is not manageable easily
+6406532755093. ✅ This application cannot be called as cloud-native since it is not resilient
+
+Question Number : 171 Question Id : 640653820838 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider a file "data.bin" which is formatted as follows: every data record has 10 key-value pairs of the format "key:value", with each pair separated by a comma. Every data record occurs in its own line. You are asked to write a data processing script using Python that scales with big data. Which of the following represents your approach?
+**Options :**
+6406532755098. ✅ Since data.bin is compliant with the RFC 4180, use PySpark's read\_csv() to read the data as is.
+6406532755099. ❌ Rename the file data.bin to data.csv to make it compliant with RFC 4180 and then use PySpark's read\_csv() to read the data
+6406532755100. ❌ The problem cannot be solved since the file cannot be converted to a valid format for reading consistently without additional information
+6406532755101. ❌ Write PySpark code to read all lines in data.bin, use string split on "," as delimiter, and then collect all column names and corresponding values into a RDD for further processing

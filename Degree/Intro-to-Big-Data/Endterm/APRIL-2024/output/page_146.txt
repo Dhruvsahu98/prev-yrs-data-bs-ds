@@ -1,0 +1,21 @@
+Question Number : 186 Question Id : 640653820859 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+You are given a Spark program that runs on a Google Dataproc cluster on a daily schedule from 8PM-10PM to produce as output the total amount of purchases made by every customer the previous day. The data is coming into GCS every minute from a variety of sources as standalone files. Therefore, the business leader now feels that having to wait till 10PM the next day is no longer acceptable and instead wants approximate purchase information for each customer at least every 5 minutes. What's more, she wants to be able to change this time window later as she pleases without involving you. Which amongst the below represents the best option to achieve the above?
+
+Options :
+
+6406532755198. ❌ Change the code to run every 5 minutes, no other change required
+
+6406532755199. ❌ Change the code to leverage Spark Streaming with streaming window as "5 minutes", & let her manage the execution of the code on Dataproc
+
+6406532755200. ✅ Change the code to leverage Spark Streaming with streaming window as "5 minutes", convert from Dataproc to Dataflow, & let her manage the execution of the code on Dataflow
+
+6406532755201. ❌ Write a Cloud Function to move all incoming per-minute standalone files from GCS to Pub/Sub, change the code to leverage Spark Streaming with streaming window as "5 mins", convert from Dataproc to Dataflow, point source to Pub/Sub, & let her manage the execution of the code on Dataflow
+
+Question Number : 187 Question Id : 640653820860 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
