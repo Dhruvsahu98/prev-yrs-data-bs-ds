@@ -1,0 +1,22 @@
+6406531887555. ✅ Complex : print()
+6406531887556. ❌ Real : print()
+6406531887557. ✅ Number : print()
+
+Sub-Section Number : 6
+Sub-Section Id : 64065380589
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 75 Question Id : 640653564689 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+
+Question Label : Multiple Select Question
+Identify the predicate/s which is/are in Disjunctive Normal Form (DNF).
+Options :
+6406531887586. ❌ $a \land b \land c$
+6406531887587. ✅ $(a \land b) \lor (c \land d)$
+6406531887588. ❌ $(a_1 \lor a_2 \lor a_3) \land (b_1 \lor b_2) \land c_1$
+6406531887589. ✅ $a \lor (b_1 \land b_2) \lor (c_1 \land c_2 \land c_3)$
+
+Question Number : 76 Question Id : 640653564693 Question Type : MSQ Is Question

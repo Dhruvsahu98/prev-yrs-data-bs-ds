@@ -1,0 +1,21 @@
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 77 Question Id : 640653564686 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+What will be $p_a$?
+Options :
+6406531887574. ❌  ¬(b ∨ c)
+6406531887575. ✅  ¬(b ∧ c)
+6406531887576. ❌  (b ∧ c)
+6406531887577. ❌  (b ∨ c)
+
+Question Number : 78 Question Id : 640653564687 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6
+Question Label : Multiple Choice Question
+From the given options identify all pairs test requirements to satisfy restricted active clause coverage (RACC) for clause a.
+Options :
+6406531887578. ❌  { (a = T, b = T, c = F), (a = F, b = T, c = F)
+(a = F, b = T, c = T), (a = F, b = F, c = T) }

@@ -1,0 +1,22 @@
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Match the following.
+
+| Type of metrics | Example |
+|---|---|
+| 1. Software metrics | A. Mean time to failure |
+| 2. Product quality metrics | B. Fix backlog and backlog management |
+| 3. In-process quality metrics | C. Defect Removal Effectiveness |
+| 4. Maintenance quality metrics | D. Cyclomatic complexity |
+
+Options :
+
+6406531887541. ❌ 1-B, 2-C, 3-A, 4-D
+6406531887542. ❌ 1-D, 2-C, 3-A, 4-B
+6406531887543. ✅ 1-D, 2-A, 3-C, 4-B
+6406531887544. ❌ 1-B, 2-A, 3-C, 4-D
+
+Question Number : 64 Question Id : 640653564681 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Consider the following Java code. 

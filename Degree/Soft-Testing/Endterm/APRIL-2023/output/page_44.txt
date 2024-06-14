@@ -1,0 +1,37 @@
+```python
+class Person{
+protected String name;
+public Person(){
+name = "Unknown";
+}
+public Person(String n){
+name = n;
+}
+}
+class Employee extends Person{
+protected int eid;
+public Employee(){
+eid = -1;
+}
+public Employee(String n, int i){
+super(n);
+eid = i;
+}
+public void print(){
+System.out.println(eid + " " + name);
+}
+}
+public class T2 {
+public static void main(String[] args) {
+Employee e = new Employee("kevin", 10);
+e.print();
+}
+}
+```
+Which of the following mutation operator can be used to create a new mutant by removing the statement at LINE 17?
+Options :
+6406531887558. ❌ Actual type change (ATC) operator
+6406531887559. ✅ Parent constructor deletion (PCD) operator
+6406531887560. ❌ Overriding method deletion (OMD) operator
+6406531887561. ❌ Hiding variable deletion (HVD) operator
+Question Number : 65 Question Id : 640653564682 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

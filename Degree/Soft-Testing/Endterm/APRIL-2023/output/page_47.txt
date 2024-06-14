@@ -1,0 +1,32 @@
+Question Number : 68 Question Id : 640653564688 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Consider the following code segment as the code base for symbolic testing.
+```python
+//code base
+int square(int n) {
+    return n * n;
+}
+int double(int n) {
+    return 2 * n;
+}
+void compute(int x, int y, int z) {
+    int u = double(x);
+    if(u == z) {
+        int v = square(y);
+        if(u >= v) {
+            abort();
+        }
+        if(u < v) {
+            abort();
+        }
+    }
+}
+```
+Identify the appropriate program condition (PC) to reach the abort() statement in the above code.
+Options :
+6406531887582. ❌ ($2 * x_0 >= y_0 * y_0$)
+6406531887583. ❌ ($x_0 == z_0$) $\land$ ($x_0 >= y_0$)
+6406531887584. ✅ ($2 * x_0 == z_0$) $\land$ ($2 * x_0 >= y_0 * y_0$)
+6406531887585. ❌ ($2 * x_0 \neq z_0$) $\land$ ($2 * x_0 < y_0 * y_0$)

@@ -1,0 +1,26 @@
+6406531887613. ✖ Minimum of 2 test path is required to satisfy node coverage, and minimum 3 test paths is required to satisfy edge coverage.
+
+Question Number : 80 Question Id : 640653564697 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6
+
+Question Label : Multiple Choice Question
+Find the total number of prime paths in the given CFG?
+
+Options :
+6406531887614. ✖ 5
+6406531887615. ✖ 6
+6406531887616. ✔ 7
+6406531887617. ✖ 8
+
+AI
+Section Id : 64065338351
+Section Number : 4
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 9
+Number of Questions to be attempted : 9
+Section Marks : 25
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes

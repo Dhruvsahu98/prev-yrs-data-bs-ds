@@ -1,0 +1,49 @@
+```python
+class Number{
+    protected double a, b;
+    public void setA(double a){
+        this.a = a;
+    }
+    public void setB(double b){
+        this.b = b;
+    }
+    public void print(){
+        System.out.print("Num = ");
+        System.out.print();
+    }
+}
+class Complex extends Number{
+    public void print(){
+        super.print();
+        System.out.println(a + " + i" + b);
+    }
+}
+class Real extends Number{
+    public void print(){
+        super.print();
+        System.out.println(a);
+    }
+}
+public class NumberExample{
+    public static void main(String[] args){
+        boolean flag;
+        //LINE-1: flag = true/false;
+        Number n;
+        if(flag){
+            n = new Complex();
+            n.setA(10);
+            n.setB(20);
+            n.print();
+        }
+        else{
+            n = new Real();
+            n.setB(10);
+            n.print();
+        }
+    }
+}
+```
+Which of the following methods will be invoked when the variable flag is read with a value of true at LINE-1?
+Options :
+6406531887553.  Number: setA()
+6406531887554.  Number: setB()

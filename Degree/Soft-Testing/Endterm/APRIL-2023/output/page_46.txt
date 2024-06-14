@@ -1,0 +1,23 @@
+6406531887568. ✅ Relational operator replacement
+6406531887569. ❌ Unary Operator Insertion
+
+**Question Number : 67 Question Id : 640653564684 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 5**
+**Question Label : Multiple Choice Question**
+
+Consider a software application that needs to be tested. The application computes the percentage of discount to be given for a given total purchase price. The input to the system is an integer that represents the total purchase price, and the output is the percentage of discount to be given. The percentage of discount to be given on the total purchase price is calculated as follows:
+
+* If the total purchase price is Rs. 0/- and < Rs. 5,000/-, then no discount will be given.
+* If the total purchase price is Rs. 5,000/- and < Rs. 10,000/-, then the discount is 5%.
+* If the total purchase price is Rs. 10,000/- and < Rs. 50,000/-, then the discount is 10%.
+* If the total purchase price is Rs. 50,000/-, then the discount is 15%.
+
+What is the minimum number of test cases to be prepared for testing the software system using equivalence class partitioning technique?
+
+**Options :**
+
+6406531887570. ❌ 4
+6406531887571. ✅ 5
+6406531887572. ❌ 6
+6406531887573. ❌ 7

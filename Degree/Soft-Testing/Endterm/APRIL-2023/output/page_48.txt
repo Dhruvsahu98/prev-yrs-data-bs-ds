@@ -1,0 +1,32 @@
+Question Number : 69 Question Id : 640653564690 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Suppose, for a particular web application, the invalid inputs cause an abnormal server error. Identify the category of server response in this case.
+Options :
+6406531887590. ❌ Valid response
+6406531887591. ✅ Faults and failures
+6406531887592. ❌ Exposure
+6406531887593. ❌ None of these
+
+Question Number : 70 Question Id : 640653564692 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Consider the below finite state machine (FSM) and choose the correct option.
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2cm,
+                scale = 1,transform shape]
+  \node[state] (A) {A};
+  \node[state,accepting] (B) [right of=A] {B};
+  \node[state] (C) [above of=B] {C};
+  \node[state] (D) [below of=B] {D};
+
+  \path (A) edge node {1} (B)
+  (B) edge node {1} (D)
+  (C) edge node {0} (B)
+  (D) edge [loop below] node {0} (D)
+        edge [bend left] node {1} (B)
+  ;
+\end{tikzpicture}
+Options :

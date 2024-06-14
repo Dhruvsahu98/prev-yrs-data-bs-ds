@@ -1,0 +1,24 @@
+```python
+import matplotlib.pyplot as plt
+import networkx as nx
+
+G = nx.DiGraph()
+G.add_nodes_from([1,2,3,4,5,6,7,8])
+G.add_edges_from([(1,2),(2,3),(2,4),(3,5),(4,5),(5,6),(6,7),(7,6),(6,8)])
+nx.draw(G, with_labels=True)
+plt.show()
+```
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+Question Number : 79 Question Id : 640653564696 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 6
+Question Label : Multiple Choice Question
+Identify the correct statement about node and edge coverage of the given CFG.
+
+Options :
+6406531887610.  ✔️ Minimum 2 test paths are required satisfy both the node and edge coverage.
+6406531887611.  ❌ Minimum 1 test path is required to satisfy node coverage, and minimum 2 test paths is required to satisfy edge coverage.
+6406531887612.  ❌ Minimum 3 test paths are required satisfy both the node and edge coverage.

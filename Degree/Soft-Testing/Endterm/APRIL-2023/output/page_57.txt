@@ -1,0 +1,30 @@
+6406531887579. ❌
+$\begin{cases}
+(a = T, b = T, c = F), (a = F, b = T, c = F) \\
+(a = T, b = F, c = F), (a = F, b = F, c = F) \\
+(a = F, b = T, c = T), (a = F, b = F, c = T)
+\end{cases}$
+
+6406531887580. ✅
+$\begin{cases}
+(a = T, b = T, c = F), (a = F, b = T, c = F) \\
+(a = T, b = F, c = T), (a = F, b = F, c = T) \\
+(a = T, b = F, c = F), (a = F, b = F, c = F)
+\end{cases}$
+
+6406531887581. ❌
+$\begin{cases}
+(a = T, b = T, c = F), (a = F, b = T, c = F) \\
+(a = T, b = F, c = T), (a = F, b = F, c = T) \\
+(a = F, b = T, c = T), (a = F, b = F, c = F)
+\end{cases}$
+
+Sub-Section Number : 8
+Sub-Section Id : 64065380591
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653564695 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (79 to 80)
+Question Label : Comprehension
+Consider the CFG given below.

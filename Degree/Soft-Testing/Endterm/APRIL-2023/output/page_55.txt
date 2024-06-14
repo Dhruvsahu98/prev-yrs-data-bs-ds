@@ -1,0 +1,30 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Given a graph with set of vertices (or nodes) $V$ and set of edges $E$. From among the given options, identify the correct one/s.
+
+Options :
+
+6406531887602.  ✅ For both directed and undirected graphs, adjacency list representation requires $\Theta(|V| + |E|)$ memory.
+
+6406531887603.  ❌ Total running time of BFS using an adjacency lists is $O(V + E)$.
+
+6406531887604.  ❌ For both directed and undirected graphs, Adjacency matrix representation requires $\Theta(|V| + |E|)$ memory.
+
+6406531887605.  ✅ For both directed and undirected graphs, Adjacency matrix representation requires $\Theta(|V|^2)$ memory.
+
+Sub-Section Number : 7
+Sub-Section Id : 64065380590
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653564685 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (77 to 78)
+
+Question Label : Comprehension
+
+Consider the predicate $p = (a \lor b) \land (a \lor c)$.

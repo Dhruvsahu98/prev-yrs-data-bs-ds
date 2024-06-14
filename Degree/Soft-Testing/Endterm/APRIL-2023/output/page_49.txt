@@ -1,0 +1,25 @@
+6406531887598. ❌ The FSM accepts the input, if the number of 0s are odd.
+6406531887599. ❌ The FSM accepts the input, if the number of 0s are even, and there are at least two 0s.
+6406531887600. ✅ The FSM accepts the input, if the number of 1s are odd.
+6406531887601. ❌ The FSM accepts the input, if the number of 1s are even and, there are at least two 0s.
+
+Question Number : 71 Question Id : 640653564694 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+A. ______ with respect to a variable v is a simple path that is def-clear from a def of v to a use of v .
+
+Fill in the blank with appropriate option
+Options :
+6406531887606. ✅ du-path
+6406531887607. ❌ def-clear path
+6406531887608. ❌ du-pair
+6406531887609. ❌ du-tour
+
+Sub-Section Number : 4
+Sub-Section Id : 64065380587
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 72 Question Id : 640653564679 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction

@@ -1,0 +1,24 @@
+and also to determine how the system performs if the current load goes well above the expected maximum?
+**Options :**
+6406531887537. ❌ Load testing
+6406531887538. ✅ Stress testing
+6406531887539. ❌ Soak testing
+6406531887540. ❌ Spike testing
+
+**Question Number :** 62 **Question Id :** 640653564678 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 4
+**Question Label :** Multiple Choice Question
+Which type of client-side testing can verify the inter-value constraints of the different parameters of the input, like the selected country, selected state, selected city, entered zip code, etc.?
+**Options :**
+6406531887545. ❌ Value level bypass testing
+6406531887546. ✅ Parameter level bypass testing
+6406531887547. ❌ Control flow level bypass testing
+6406531887548. ❌ User-session data based testing
+**Sub-Section Number :** 3
+**Sub-Section Id :** 64065380586
+**Question Shuffling Allowed :** Yes
+**Is Section Default? :** null
+
+**Question Number :** 63 **Question Id :** 640653564677 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

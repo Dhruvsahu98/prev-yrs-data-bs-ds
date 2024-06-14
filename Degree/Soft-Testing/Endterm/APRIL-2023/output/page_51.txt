@@ -1,0 +1,38 @@
+6406531887551. ✖ $P_1 \cdot (P_2 || (P_3 \cdot P_4 || P_5)) \cdot P_6$
+
+6406531887552. ✖ $P_1 \cdot (P_2 || ((P_4 || P_5))) \cdot P_6$
+
+Question Number : 73 Question Id : 640653564691 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 6
+
+Question Label : Multiple Choice Question
+
+Consider the control flow graph (CFG) given below.
+
+\begin{tikzpicture}[scale=0.8,node distance=1cm,auto]
+
+\node (1) [circle,draw] {1};
+\node (2) [circle,draw,below of=1] {2};
+\node (3) [circle,draw,right of=2] {3};
+\node (4) [circle,draw,below of=2] {4};
+\node (5) [circle,draw,right of=4] {5};
+\node (6) [circle,draw,double,below of=4] {6};
+
+\draw[->] (1) -- (2);
+\draw[->] (2) -- (3);
+\draw[->] (2) -- (4);
+\draw[->] (4) -- (5);
+\draw[->] (4) -- (6);
+\draw[->] (3) to [bend left] (2);
+\draw[->] (5) to [bend left] (4);
+
+\end{tikzpicture}
+
+What is cyclomatic complexity of the above CFG?
+
+Options :
+
+6406531887594. ✖ 2
+
+6406531887595. ✔ 3

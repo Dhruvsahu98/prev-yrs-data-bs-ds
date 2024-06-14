@@ -1,0 +1,27 @@
+Question Label : Multiple Choice Question
+Consider the following
+1. Great slide presentations contain appropriate content arranged in the most efficient, graceful manner without superfluous decoration.
+2. Good slide designs have plenty of negative space.
+
+Which of the statement(s) given above is/are true?
+
+Options :
+6406531887531. ❌ 1 only
+6406531887532. ❌ 2 only
+6406531887533. ✅ Both 1 and 2
+6406531887534. ❌ Neither 1 nor 2
+
+Sw Testing
+Section Id : 64065338350
+Section Number : 3
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 19
+Number of Questions to be attempted : 19
+Section Marks : 100
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Yes
+Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
