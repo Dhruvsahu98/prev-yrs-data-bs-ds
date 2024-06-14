@@ -1,0 +1,25 @@
+6406532334845. ❌ There is an inheritance relation between class Task and TaskList
+6406532334846. ❌ There is a composition relation between class Task and TimeBoundedTask
+6406532334847. ✅ There is an inheritance relation between class Task and TimeBoundedTask
+
+**Question Number : 6 Question Id : 640653699198 Question Type : MSQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3 Max. Selectable Options : 0**
+Question Label : Multiple Select Question
+Which of the following are dynamic behavioural views?
+**Options :**
+6406532334848. ❌ Class diagram
+6406532334849. ✅ State machine diagram
+6406532334850. ✅ Activity diagram
+6406532334851. ✅ Interaction diagram
+
+**Question Number : 7 Question Id : 640653699200 Question Type : MSQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3 Max. Selectable Options : 0**
+Question Label : Multiple Select Question
+Which of the following statements about the flask framework is/are correct?
+**Options :**
+6406532334856. ❌ It is a mobile application framework
+6406532334857. ✅ It is a web application framework
+6406532334858. ✅ It is a micro-framework
+6406532334859. 

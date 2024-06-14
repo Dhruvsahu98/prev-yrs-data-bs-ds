@@ -1,0 +1,22 @@
+integration testing 6406532334925. ✅ It provides an environment that exactly resembles the production environment 6406532334926. ❌ It provides the actual production environment 
+Sub-Section Number : 8
+Sub-Section Id : 640653103724
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 23 Question Id : 640653699202 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+During debugging, a developer finds out the event that triggers an incorrect behavior. He follows the data control flow ahead until the incorrect state is reached.
+Which of the following debugging strategies was chosen by the developer?
+Options :
+6406532334864. ❌ Input manipulation
+6406532334865. ❌ Backwards strategy
+6406532334866. ✅ Forwards strategy
+6406532334867. ❌ Blackbox debugging
+
+Question Number : 24 Question Id : 640653699205 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

@@ -1,0 +1,105 @@
+6406532334888. ✅ Top-down approach
+6406532334889. ✅ Mixed approach
+
+Sub-Section Number : 3
+Sub-Section Id : 640653103719
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 5 Question Id : 640653699197 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+Consider the class diagram given below.
+
+```python
+class User:
+    def __init__(self, userid, name, address, email):
+        self.userid = userid
+        self.name = name
+        self.address = address
+        self.email = email
+
+    def register(self):
+        return True
+
+class TaskList:
+    def __init__(self):
+        self.tasks = []
+
+    def addTask(self, task):
+        self.tasks.append(task)
+        return True
+
+    def removeTask(self, task_id):
+        for task in self.tasks:
+            if task.task_id == task_id:
+                self.tasks.remove(task)
+                return True
+        return False
+
+    def updateTask(self, task):
+        for i, t in enumerate(self.tasks):
+            if t.task_id == task.task_id:
+                self.tasks[i] = task
+                return True
+        return False
+
+class Task:
+    def __init__(self, task_id, description, dt):
+        self.task_id = task_id
+        self.description = description
+        self.dt = dt
+
+    def createTask(self, description, dt):
+        self.task_id = len(self.taskList.tasks) + 1
+        self.description = description
+        self.dt = dt
+        self.taskList.addTask(self)
+        return True
+
+class TimeBoundTask(Task):
+    def __init__(self, task_id, description, dt, duration):
+        super().__init__(task_id, description, dt)
+        self.duration = duration
+
+    def createTask(self, description, dt, duration):
+        self.task_id = len(self.taskList.tasks) + 1
+        self.description = description
+        self.dt = dt
+        self.duration = duration
+        self.taskList.addTask(self)
+        return True
+```
+
+\begin{tabular}{|c|c|c|}
+\hline
+User & TaskList & Task \\
+\hline
+- userid: String & - tasks: List\<Task\> & - task\_id: Integer \\
+- name: String & + addTask(task): Boolean & - description: String \\
+- address: String & + removeTask(task\_id): Boolean & - dt: DateTime \\
+- email: String & + updateTask(task): Boolean & + createTask(des, dt): Boolean \\
+\hline
++ register(): Boolean & & \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|}
+\hline
+TimeBoundTask \\
+\hline
+- duration: Double \\
+\hline
++ createTask(des, dt, durations): \\
+\hline
+\end{tabular}
+
+Which of the following is true about the class diagram?
+
+Options :
+
+6406532334842. ✅ There is an association relation between class User and TaskList
+6406532334843. ❌ There is an inheritance relation between class User and TaskList
+6406532334844. ✅ There is a composition relation between class Task and TaskList

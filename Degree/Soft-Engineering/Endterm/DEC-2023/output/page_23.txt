@@ -1,0 +1,27 @@
+Question Label : Multiple Choice Question
+
+Which of the following teams in a software organization is primarily responsible for laying down the terms of service for its software products?
+
+Options :
+6406532334945. ❌ Sales team
+6406532334946. ❌ Support team
+6406532334947. ✅ Ethics and policy specialists
+6406532334948. ❌ Data scientists
+
+Question Number : 32 Question Id : 640653699225 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+IDEs are very useful in the software development process, mainly because ______.
+
+Options :
+6406532334949. ❌ they are useful in documenting and archiving knowledge of one project so that it can be reused in another project
+6406532334950. ❌ they are useful for sharing documents and archiving decisions
+6406532334951. ❌ they enable all the members of the team to get a big picture as well as a detailed view of progress in the software development
+6406532334952. ✅ they help the developers become more productive
+
+Sub-Section Number : 12
+Sub-Section Id : 640653103728
+Question Shuffling Allowed : Yes
+Is Section Default? : null

@@ -1,0 +1,24 @@
+* It imposes several restrictions on developing applications, like the kind of databases that can be used and the type of web servers that can be used
+
+**Question Number : 8 Question Id : 640653699214 Question Type : MSQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3 Max. Selectable Options : 0**
+**Question Label : Multiple Select Question**
+Which of the following software deployment strategies have the drawback of maintaining multiple versions?
+
+**Options :**
+6406532334907. ❌ Blue/Green deployment
+6406532334908. ✅ Canary deployment
+6406532334909. ✅ Versioned deployment
+6406532334910. ❌ None of these
+
+**Question Number : 9 Question Id : 640653699220 Question Type : MSQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3 Max. Selectable Options : 0**
+**Question Label : Multiple Select Question**
+Choose the correct statements regarding software organizations.
+
+**Options :**
+6406532334932. ✅ In a flat organizational structure, there are fewer levels of hierarchy, promoting a more collaborative environment
+6406532334933. ❌ Agile methodologies are primarily suitable for large, bureaucratic organizations
+6406532334934. ✅ DevOps is a cultural and professional movement that aims to improve 

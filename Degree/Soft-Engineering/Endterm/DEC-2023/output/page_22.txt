@@ -1,0 +1,23 @@
+Question Number : 30 Question Id : 640653699212 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following sets of test cases provide/s multiple condition coverage of the given code segment?
+Options :
+6406532334898.  $\{18, 60\}$
+6406532334899.  $\{30, 75\}$
+6406532334900.  $\{10, 75\}$
+6406532334901.  $\checkmark \{10, 30, 75\}$
+Sub-Section Number : 11
+Sub-Section Id : 640653103727
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653699223 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (31 to 32)
+Question Label : Comprehension
+Answer the given subquestions.
+Sub questions
+Question Number : 31 Question Id : 640653699224 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2

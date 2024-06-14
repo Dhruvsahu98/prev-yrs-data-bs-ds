@@ -1,0 +1,31 @@
+✓ Jenkins and Travis CI are examples of CI tools
+6406532334929. ✓ CI helps identify and fix integration issues early in the development process
+6406532334930. ✖ Continuous Deployment (CD) is synonymous with continuous integration
+6406532334931. ✖ CI is only beneficial for small development teams
+Sub-Section Number : 6
+Sub-Section Id : 640653103722
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 15 Question Id : 640653699194 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+An organisation decided to develop an online medicine selling app. So a team from the
+organisation visited some medical shops to observe the process of selling the medicines. Identify
+the type of requirement collection technique used in the given scenario.
+
+Options :
+6406532334829. ✖ Questionnaires
+6406532334830. ✖ Focus group
+6406532334831. ✓ Naturalistic observations
+6406532334832. ✖ Documentations
+
+Question Number : 16 Question Id : 640653699195 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question

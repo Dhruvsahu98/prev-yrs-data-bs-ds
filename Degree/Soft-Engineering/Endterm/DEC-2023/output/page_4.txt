@@ -1,0 +1,32 @@
+Component design
+User interface
+Database schema
+Tasks
+Task planner
+Task manager
+Task reviewer
+Update status
+Reschedule status
+0
+30
+60
+90
+Time
+
+Select the correct observations from the given Gantt chart.
+
+Options :
+6406532334838. ❌ Component design starts once the user interface and database schema are completed
+6406532334839. ✅ User interface and database design can start at the same time
+6406532334840. ✅ Update status and reschedule task both are done concurrently
+6406532334841. ✅ Task manager must complete before task reviewer starts
+
+Question Number : 4 Question Id : 640653699208 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which kinds of integration testing approaches must require the use of stubs?
+
+Options :
+6406532334886. ❌ Big Bang approach
+6406532334887. ❌ Bottom-Up approach

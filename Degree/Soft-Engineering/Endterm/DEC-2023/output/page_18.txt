@@ -1,0 +1,29 @@
+**Question Label : Multiple Choice Question**
+
+Match the following:
+
+| Deployment environment | Key activity |
+|---|---|
+| 1. Caching | A. Generate reports, analyze page resources, calculate the performance score, etc. |
+| 2. Task Queues | B. Minify code and compress static pages |
+| 3. Loading and rendering Pages | C. Store results of common operations in memory |
+| 4. Monitoring tools | D. Applications execute resource- and time-consuming tasks asynchronously |
+
+**Options :**
+
+6406532334911. ❌ 1-B, 2-D, 3-C, 4-A
+6406532334912. ❌ 1-B, 2-A, 3-C, 4-D
+6406532334913. ✅ 1-C, 2-D, 3-B, 4-A
+6406532334914. ❌ 1-C, 2-A, 3-B, 4-D
+
+**Question Number : 26 Question Id : 640653699216 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4**
+
+**Question Label : Multiple Choice Question**
+
+Which of the deployment environments exactly resembles the production environment and is used for testing the web application for its performance before it goes live?
+
+**Options :**
+
+6406532334915. ❌ Development
+6406532334916. ❌ Testing
+6406532334917. ✅ Staging

@@ -1,0 +1,19 @@
+6406532334918. ✖ Production
+Question Number : 27 Question Id : 640653699221 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Identify the type of decision making required for the following situations: 
+Situation 1: To decide which software architecture to be used for developing a specific software system
+Situation 2: To decide which data structure to be used for developing a specific software module
+Options :
+6406532334937. ✖ Both are macro decisions
+6406532334938. ✖ Both are micro decisions
+6406532334939.  ✔ 1 is a macro decision, but 2 is a micro decision
+6406532334940. ✖ 1 is a micro-decisions, but 2 is a macro decision
+Sub-Section Number : 9
+Sub-Section Id : 640653103725
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 28 Question Id : 640653699226 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question

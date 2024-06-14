@@ -1,0 +1,23 @@
+6406532334855. ✅ The relationship between class Payment and class CardPayment is inheritance
+
+Question Number : 11 Question Id : 640653699209 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following integration testing approaches may require drivers?
+Options :
+6406532334890. ❌ Big bang approach
+6406532334891. ✅ Bottom up approach
+6406532334892. ❌ Top down approach
+6406532334893. ✅ Mixed approach
+
+Question Number : 12 Question Id : 640653699222 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+What are the primary applications of knowledge sharing tools in software development?
+Options :
+6406532334941. ✅ The tools can be used for sharing documents and archiving decisions
+6406532334942. ❌ The tools enable all members of the team to get a big picture of the project along with a detailed view of its progress
+6406532334943. ✅ The tools can be used to apply the knowledge gained in one project to another project
+6406532334944. ❌ The tools mainly include IDEs that help the developers to be more productive

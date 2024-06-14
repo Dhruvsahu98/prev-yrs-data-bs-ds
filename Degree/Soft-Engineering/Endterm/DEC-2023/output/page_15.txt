@@ -1,0 +1,29 @@
+6406532334871. ✖ Facade design pattern
+
+Question Number : 21 Question Id : 640653699204 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Consider a program that has classes CashPayment, CardPayment and UPIPayment, which are derived from class Payment. However, in the functions, changing the object types from derived class to the base class causes various errors in the program.
+
+Which of the SOLID principles is violated by the program?
+
+Options :
+
+6406532334872. ✖ Open-Closed principle
+6406532334873. ✔ Liskov Substitution principle
+6406532334874. ✖ Interface Segregation principle
+6406532334875. ✖ Dependency Inversion principle
+
+Question Number : 22 Question Id : 640653699218 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Which of the following statements are true about the staging environment?
+
+Options :
+
+6406532334923. ✖ It provides the local environment to a software developer which contains the tools like IDE
+6406532334924. ✖ It provides an environment with several testing tools and focuses on

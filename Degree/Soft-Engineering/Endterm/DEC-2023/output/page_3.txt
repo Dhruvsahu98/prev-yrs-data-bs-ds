@@ -1,0 +1,23 @@
+6406532334824. ✖ NO
+Sub-Section Number : 2
+Sub-Section Id : 640653103718
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 2 Question Id : 640653699193 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Presently a lot of software development takes place in a distributed environment, the developer is expected to write precise interface definitions. From the given options, which is/are TRUE about interface definition.
+
+Options :
+6406532334825. ✔ It describes the capabilities of a function
+6406532334826. ✖ It provides the implementation details of a function
+6406532334827. ✔ It tells which requests are allowed and specifies the format of the output
+6406532334828. ✖ The code implementing the interface should remain unchanged for a given interface definition
+
+Question Number : 3 Question Id : 640653699196 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Consider the Gantt chart as follows:

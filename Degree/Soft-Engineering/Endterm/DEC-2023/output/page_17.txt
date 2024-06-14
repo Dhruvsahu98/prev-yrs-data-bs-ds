@@ -1,0 +1,72 @@
+Consider the following classes: BMI, HeightConverter, and WeightConverter. Class BMI considers the height and weight of a person in CMS and KGs respectively and then computes the person's BMI(body mass index). However, the input is collected in the form of Feet and Pounds. Class HeightConverter converts the height from Feet to CM, and class WeightConverter converts weight from Pound to KG. But, unfortunately, the class BMI is not compatible with HeightConverter, and WeightConverter.
+
+Therefore, we apply design pattern X to solve the problem, and represent the class diagram as follows:
+
+```python
+class HeightConverter:
+    def convertFeetToCM(height):
+        pass
+class WeightConverter:
+    def convertPoundToKG(weight):
+        pass
+class BMI:
+    def __init__(self):
+        self.height = 0
+        self.weight = 0
+    def setHeight(height):
+        pass
+    def setWeight(weight):
+        pass
+    def getBMI():
+        pass
+class CustomConverter:
+    def __init__(self):
+        self.hc = HeightConverter()
+        self.wc = WeightConverter()
+    def getConvertedHeight(height):
+        pass
+    def getConvertedWeight(weight):
+        pass
+```
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{HeightConverter} \\ \hline
+\multicolumn{2}{|c|}{+ convertFeetToCM(height): Float} \\ \hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{WeightConverter} \\ \hline
+\multicolumn{2}{|c|}{+ convertPoundToKG(weight): Float} \\ \hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{BMI} \\ \hline
+- height: Float \\ - weight: Float \\ \hline
++ setHeight(height): void \\ + setWeight(weight): void \\ + getBMI(): Float \\ \hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{CustomConverter} \\ \hline
+- hc: HeightConverter \\ - wc: WeightConverter \\ \hline
++ getConvertedHeight(height): Float \\ + getConvertedWeight(weight): Float \\ \hline
+\end{tabular}
+
+Identify the design pattern referred to above as X.
+
+Options :
+
+6406532334876. ❌ Factory design pattern
+
+6406532334877. ❌ Builder design pattern
+
+6406532334878. ✅ Adapter design pattern
+
+6406532334879. ❌ Facade design pattern
+
+Question Number : 25 Question Id : 640653699215 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4

@@ -1,0 +1,23 @@
+Sub-Section Number : 5
+Sub-Section Id : 640653103721
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 13 Question Id : 640653699213 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Choose the correct statements regarding Test-Driven Development (TDD).
+Options :
+6406532334902. ❌ TDD involves writing test cases after the implementation of the code
+6406532334903. ✅ TDD follows the cycle of "Red-Green-Refactor"
+6406532334904. ❌ TDD encourages developers to write production code without any testing
+6406532334905. ✅ In TDD, tests are written to validate the expected behavior of the code before the code is implemented
+6406532334906. ❌ TDD is not suitable for agile development methodologies
+
+Question Number : 14 Question Id : 640653699219 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Choose the correct statements about continuous integration (CI).
+Options :
+6406532334927. ✅ CI is a software development practice where code changes are tested and integrated into the main codebase frequently
+6406532334928. 

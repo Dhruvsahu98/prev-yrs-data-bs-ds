@@ -1,0 +1,27 @@
+An employee payroll software provides its users with several services. For each service, a tutorial video is provided along with step-by-step examples. Which of the following **usability goals** is fulfilled by the payroll software?
+
+**Options :**
+
+6406532334833. ❌ Effectiveness
+6406532334834. ❌ Efficiency
+6406532334835. ❌ Safe to use
+6406532334836. ✅ Learnability
+6406532334837. ❌ Memorability
+
+**Question Number : 17 Question Id : 640653699207 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+Which of the following types of testing determines whether a software product meets nonfunctional requirements or not?
+
+**Options :**
+
+6406532334881. ❌ Unit testing
+6406532334882. ❌ Alpha testing
+6406532334883. ❌ Beta testing
+6406532334884. ❌ Smoke testing
+6406532334885. ✅ Performance testing
+
+**Question Number : 18 Question Id : 640653699217 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**

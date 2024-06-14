@@ -1,0 +1,73 @@
+collaboration between software development and IT operations 
+6406532334935. ❌ Waterfall model is an agile software development methodology
+6406532334936. ✅ The Scrum framework defines roles, events, and artifacts for organizing and managing work
+Sub-Section Number : 4
+Sub-Section Id : 640653103720
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 10 Question Id : 640653699199 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the class diagram given below.
+
+```python
+class Payment:
+    def __init__(self, paymentID: int, paymentAmount: float):
+        self.paymentID = paymentID
+        self.paymentAmount = paymentAmount
+    def pay(self, od: Order):
+        pass
+class Order:
+    def __init__(self, orderNum: int, items: list, price: float):
+        self.orderNum = orderNum
+        self.items = items
+        self.price = price
+    def addItem(self, it: Item):
+        pass
+    def removeItem(self, it: Item):
+        pass
+class Item:
+    def __init__(self, itemNum: int, itemName: str, itemPrice: float):
+        self.itemNum = itemNum
+        self.itemName = itemName
+        self.itemPrice = itemPrice
+    def updateItemPrice(self, price: float):
+        pass
+class UPIPayment(Payment):
+    def __init__(self, upiNum: str, secCode: str):
+        self.upiNum = upiNum
+        self.secCode = secCode
+class CardPayment(Payment):
+    def __init__(self, cardNum: str, secCode: str):
+        self.cardNum = cardNum
+        self.secCode = secCode
+```
+\begin{tabular}{|c|c|c|}
+\hline
+Payment & Order & Item\\
+\hline
+- paymentID: Integer & - orderNum: Integer & - itemNum: Integer\\
+- paymentAmount: Double & - items: List\<Item\> & - itemName: String\\
+& - price: Double & - itemPrice: Double\\
+\hline
++ pay(od: Order): void & + addItem(it: Item): void & + updateItemPrice(price: Double): void\\
+& + removeItem(it: Item): void &\\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+UPIPayment & CardPayment\\
+\hline
+- upiNum: String & - cardNum: String\\
+- secCode: String & - secCode: String\\
+\hline
+\end{tabular}
+
+Identify the statements that can be inferred from the given class diagram.
+
+Options :
+6406532334852. ✅ The relationship between class Payment and class Order is association
+6406532334853. ❌ The relationship between class Payment and class UPIPayment is composition
+6406532334854. ❌ The relationship between class Order and class Item is inheritance

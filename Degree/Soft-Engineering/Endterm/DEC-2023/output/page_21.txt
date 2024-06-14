@@ -1,0 +1,29 @@
+Sub-Section Id : 640653103726
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653699210 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (29 to 30)
+Question Label : Comprehension
+Consider the following code segment.
+
+```python
+1	if age >= 18 and age <= 60:
+2		print("eligible")
+3	else:
+4		print("not eligible")
+```
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 29 Question Id : 640653699211 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following sets of test cases provide/s branch coverage of the given code segment?
+
+Options :
+6406532334894.  $\times$ {18, 60}
+6406532334895.  $\checkmark$ {30, 75}
+6406532334896.  $\times$ {10, 75}
+6406532334897.  $\checkmark$ {10, 30, 75}

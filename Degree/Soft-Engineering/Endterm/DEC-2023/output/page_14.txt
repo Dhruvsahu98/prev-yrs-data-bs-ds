@@ -1,0 +1,40 @@
+6406532334862. ✖ Stepping in debugger
+6406532334863. ✖ Profiling tool
+Question Number : 20 Question Id : 640653699203 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following class diagram representing a class Customer.
+
+| Customer |
+|---|---|
+| - customerId: Integer |
+| - name: String |
+| - contactNumber: Integer |
+| - contactAddress: String |
+| - dob: Date |
+| + Customer(customerId, name, contactNumber) |
+| + Customer(customerId, name, contactNumber, contactAddress) |
+| + Customer(customerId, name, contactNumber, contactAddress, dob) |
+| + printCustomerDetails(): void |
+
+We apply a design pattern X and the redesigned class diagram as given below:
+
+| Customer | CustomerCreator |
+|---|---|
+| - customerId: Integer | - customerId: Integer |
+| - name: String | - name: String |
+| - contactNumber: Integer | - contactNumber: Integer |
+| - contactAddress: String | - contactAddress: String |
+| - dob: Date | - dob: Date |
+| + Customer(CustomerCreator cust) | + CustomerCreator(customerId, name, contactNumber) |
+| + printCustomerDetails(): void | + ContactAddress(String contactAddress): void |
+|  | + DOB(Date dob): void |
+|  | + create(): Customer |
+
+Identify the design pattern referred to as X.
+
+Options :
+6406532334868. ✖ Factory design pattern
+6406532334869. ✅ Builder design pattern
+6406532334870. ✖ Adapter design pattern
