@@ -1,0 +1,32 @@
+Question Number : 206 Question Id : 640653699413 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 32
+Question Label : Multiple Choice Question
+## 1.2 Subjective Questions
+32 points
+1. (2 points) Which of the following are valid activation functions you could use to train neural networks? Draw graphs representing the result of using activation function at the input, similar to graphs for activation functions shown in the class. Justify your answer.
+- $f(x) = sin(x)$
+- $f(x) = 0.2x^2 + x + 1$
+
+2. (2 points) Recurrent Neural Networks do not need position encoding. Explain.
+
+3. (3 points) Explain how the HMM and GMM are used in classical ASR.
+
+4. (5 points) Explain speaker embedding based speaker diarisation in detail.
+
+5. (10 points) Explain the FastSpeech TTS system in detail.
+
+6. (10 points) Describe the difference in the attention mechanisms of LSTM-based encoder-decoder model and of the Transformer. Also explain the multi-head self attention in Transformers in detail.
+
+## Options :
+6406532335522. ✅ I have written answers on the answer sheets
+6406532335523. ❌ Not applicable
+
+## Section Id : SPG
+64065349329
+Section Number : 10
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 23
+Number of Questions to be attempted : 23

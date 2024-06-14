@@ -1,0 +1,23 @@
+Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following are best practices associated with Streaming applications?
+Options :
+6406532335421. ✅ Use a message store that supports message replay so that no data is lost in processing.
+6406532335422. ❌ "Hot potato" principle is when the streaming application operates on data from cache (i.e. the hot area of memory) and therefore is able to produce very high throughput
+6406532335423. ❌ Hadoop is best suited for executing Streaming applications
+6406532335424. ✅ Use checkpointing when faced with mission-critical workloads that require 100% accuracy.
+6406532335425. ❌ Handle state pollution by restarting the persistent store software periodically.
+
+## Speech Tech
+Section Id : 64065349328
+Section Number : 9
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 3
+Number of Questions to be attempted : 3
+Section Marks : 40
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes

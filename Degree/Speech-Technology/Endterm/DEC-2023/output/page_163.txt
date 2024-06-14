@@ -1,0 +1,29 @@
+Question Label : Multiple Choice Question
+1.1 MCQ (Note: Please explain your choice)
+1. (2 points) Consider a language with a total of 50 phonemes, how many separate models for a single phoneme will need to be created considering a tri-phone model setup?
+    A. 2401
+    B. 2500
+    C. 3
+    D. None of these
+2. (2 points) Recurrent Neural Networks(RNN) with basic RNN cells exhibit which of the following problems?
+    A. Vanishing gradient problem
+    B. Exploding gradient problem
+    C. both (A) and (B)
+    D. None of the above
+3. (2 points) What is the primary purpose of an activation function in a neural network?
+    A. To normalize the input data
+    B. To introduce non-linearity to the network
+    C. To control the learning rate
+    D. To regularize the weights
+4. (2 points) Which of the following is correct according to Bayes rule?
+    A. $P(A|B) = \frac{P(A)}{P(B)}$
+    B. $P(A|B) = \frac{P(A \cap B)}{P(A)}$
+    C. $P(A|B) = \frac{P(A \cap B)}{P(B)}$
+    D. $P(A|B) = \frac{P(A \cup B)}{P(B)}$
+Options:
+6406532335520.  ✅ I have written answers on the answer sheets
+6406532335521.  ❌ Not applicable
+Sub-Section Number : 3
+Sub-Section Id : 640653103771
+Question Shuffling Allowed : Yes
+Is Section Default? : null
