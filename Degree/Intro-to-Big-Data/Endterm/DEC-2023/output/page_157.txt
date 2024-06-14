@@ -1,0 +1,29 @@
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+You are responsible for a Spark Streaming application that processes data from Kafka and provides real-time analytics. Currently, the application runs on a cluster managed by your team. The business stakeholders have expressed a need for more flexibility in adjusting the processing interval and want to explore options for real-time or near-real-time processing. Which of the following options is the best choice to meet the business requirements?
+
+**Options :**
+
+6406532335514. ❌ Modify the existing Spark Streaming code to run every 5 minutes and deploy it on the existing cluster.
+
+6406532335515. ✅ Rewrite the application using Spark Structured Streaming and allow the business stakeholders to configure the processing interval.
+
+6406532335516. ❌ Develop a Cloud Function to trigger the Spark Streaming job every 5 minutes and deploy it on a cloud platform.
+
+6406532335517. ❌ Convert the Spark Streaming application to use Apache Flink for better real-time processing capabilities.
+
+**Sub-Section Number :** 3
+
+**Sub-Section Id :** 640653103767
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number : 200 Question Id : 640653699397 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question

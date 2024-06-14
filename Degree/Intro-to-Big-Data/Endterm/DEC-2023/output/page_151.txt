@@ -1,0 +1,22 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider a Structured Streaming application running on Google Dataproc firing up every 10 seconds, consuming any number of records from Kafka available since last read, and emitting some computed answers to another Kafka topic. Consider also that apart from the functional logic, the same application is also emitting into a file the start time and end time of every batch invocation for audit purposes.
+
+Assume there is a failure in one of the Dataproc machines that results in a failure of a specific run. For the external world (i.e. anybody consuming the outputs of this application), will they see any change in output as a result of the failure at all, or will the only impact of failure be one of slower performance for the failed-and-retried run? Pick the ones from the list below that answer this question.
+
+**Options :**
+
+6406532335470. ❌ No, the failure is not visible. The only visible effect for the external world would be in the form of a slowdown in runtime for completion of that batch as Structured Streaming retries the batch that failed thus taking twice as much time as normal.
+
+6406532335471. ❌ No, no failure is visible since Structured Streaming uses transactions and idempotence to achieve exactly-once processing.
+
+6406532335472. ✅ Yes, the failure is visible because the side effect of emitting timestamps in a batch will be visible as 2 consecutive Start timestamps without any end timestamp as Structured Streaming retries the failed batch.
+
+6406532335473. ❌ No, no failure is visible since Structured Streaming can process the same data in a retry resulting in the same outputs again.
+
+Question Number : 191 Question Id : 640653699400 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2

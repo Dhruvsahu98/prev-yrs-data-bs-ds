@@ -1,0 +1,28 @@
+Whereas, a UDAF operates on multiple rows of unbounded size requiring a divide-and-conquer approach for computing aggregates, which uses the intermediate buffer to store partial values before finalizing the result aggregate.
+
+Question Number : 187 Question Id : 640653699395 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+In the class, we saw the UDF for mobilenet\_v2. Specifically, the predict() function contained the below lines of code
+```python
+def predict(content_series_iter):
+  model = model_fn()
+  model.eval()
+  ...
+```
+
+Suppose there's a simpler XGBoost model that is able to provide the same or better F1 score than the mobilenet\_v2. Will these lines of code still be required in the pipeline?
+
+Options :
+
+6406532335454. ❌ Yes, since they check the syntax of the model function so that there are no errors
+
+6406532335455. ❌ They invoke PyTorch libraries that have already been setup for model scoring on GCP using APIs embedded within the function
+
+6406532335456. ✅ No, since the primary function of these lines of code is to eliminate repeated DL model loads as DL models are large in size but with XGBoost this isn't required since model load time is negligible
+
+6406532335457. ❌ They are Map-style UDFs that make it an embarrassingly parallel computation thus making the execution parallelized and fast.
+
+Question Number : 188 Question Id : 640653699396 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2

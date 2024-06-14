@@ -1,0 +1,12 @@
+6406532335437. ❌ Since time zone has changed as well as week definition too, the definition of business time has changed. So, the ETL has to be rewritten entirely. 
+6406532335438. ❌ Nothing needs to change since daily sales is available at 1AM Middle East time which is anyway behind India time and so the numbers will be available before leadership comes in at 9AM. 
+6406532335439. ❌ Event time has changed since the event of week ending has changed in definition, and so the ETL needs to be changed to consider the new event in the data. 
+6406532335440. ✅ No change required since neither event time nor business time is changing whereas only the operational time is changing. 
+
+**Question Number : 184 Question Id : 640653699392 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2 Question Label : Multiple Choice Question** 
+
+You are appointed as a Data Engineer in a company that has a legacy reporting application written in Java which suffers from performance problems. The reporting application plots dashboards with near real-time refresh (once every minute) of key business indicators to help management take live decisions. The application reads data directly from the source database of MongoDB, aggregates using simple counts and shows them visually in a UI. The performance problem of this application comes because the source database is at times overloaded and therefore the dashboard is not able to refresh fast enough. Choose from the options below the option that best addresses performance with minimal maintenance effort: 
+**Options :** 
+6406532335441. ❌ Since MongoDB is OLTP, it is not able to support business reporting. So, replace it with Hadoop which supports OLAP better
+6406532335442. ❌ Convert the application from using plain Java to using Spark Streaming in Java
+6406532335443. ❌ Query MongoDB every 1 minute for new data using a check on document inserted timestamp, use Spark Streaming to compute the KPIs with the queried data, and then 

@@ -1,0 +1,25 @@
+Question Label : Multiple Choice Question
+
+Let us say we are using structured streaming for continuously reading data from Kafka and storing the results back into a Kafka topic using window function aggregates. Now, instead, we decide that we need to just perform a one-time batch operation using the same logic, where there is a need to read specific data from Kafka (i.e. using pre-determined offsets). How will we need to modify the code to make it work?
+
+Options :
+
+6406532335474. ❌ The read and write commands will remain the same, but the remaining code will need to be modified, as operations on streaming dataframes are not supported on static dataframes.
+
+6406532335475. ✅ Only the read and write commands need to be modified to specify that it's a batch operation.
+
+6406532335476. ❌ The entire code will need to be modified as the APIs for stream and batch processing are completely different.
+
+6406532335477. ❌ The read and write commands need to be modified to specify that it's a batch operation. Further, the specific logic of window functions will also need to be modified since there are no time windows anymore in batch processing.
+
+Question Number : 192 Question Id : 640653699401 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Kubernetes is an open-source system for automating deployment, scaling and management of containerized applications. Google Datastore and HBase are both highly-scalable NoSQL database systems for interactive, real-time applications. Consider the following pipeline choices for effecting the same outcome:
+
+(i) Shell producer on VM on GCP → Pub/Sub → Spark Streaming on Hadoop VMs on GCP → HBase
+
+(ii) Shell producer in Google Cloud Function → Kafka VM on GCP → Dataflow → Datastore

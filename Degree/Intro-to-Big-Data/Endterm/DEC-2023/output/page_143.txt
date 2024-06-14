@@ -1,0 +1,15 @@
+6406532335431. ❌ Add disks to each broker in the cluster, and disks are the cheapest computer component
+6406532335432. ❌ Add new brokers to the cluster, even though this is more expensive than the other options this is the only foolproof way to scale.
+6406532335433. ✅ Increase memory in each of the brokers in the cluster. While cost of memory is more than cost of disks, it is still cheaper than adding brokers and helps to scale.
+6406532335434. ❌ Create more topics and change input application to reroute data to all topics to be able to spread input data better. This is nearly the least expensive since only developer effort is required to change application.
+6406532335435. ❌ Double the number of partitions for this single topic to be able to spread input data better. This is the least expensive since only administrator effort is required without changing application.
+
+Question Number : 183 Question Id : 64065369391 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+A company with headquarters (HQ) in the Middle East operates on a Sunday-Thursday weekday schedule with Friday & Saturday as weekend days. It computes end of week revenue numbers using an ETL pipeline by first computing sales for each day at 1AM local time of the next day, and then summing up the weekly sales every Sunday early morning at 3AM local time. This number gets reported to leadership every Sunday morning 9AM local time, so the ETL pipeline is scheduled to run every Sunday morning at 8AM local time. As a result of management change, it has decided to relocate its HQ to India. Which of the following changes will need to be done to its ETL pipeline to ensure the correct output continues to be produced?
+
+Options :
+6406532335436. ❌ The business time for the final weekly sum operation needs to be changed to that of Monday 3AM India time instead of Sunday 3AM Middle East time.

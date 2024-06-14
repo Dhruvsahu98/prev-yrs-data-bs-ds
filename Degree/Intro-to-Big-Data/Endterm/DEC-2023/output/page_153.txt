@@ -1,0 +1,20 @@
+(iii) Shell producer in Kubernetes on GCP → Pub/Sub → Spark Streaming on Google Dataproc → Datastore
+(iv) Shell producer on VM on GCP → Pub/Sub → Dataflow → Datastore
+(v) Shell producer in Kubernetes on GCP → Pub/Sub → Spark Streaming on Hadoop VMs on GCP → HBase on same Hadoop VMs on GCP
+
+Which option below represents the correct order of pipeline options that has the "most Iaas" entry to the left and the "most PaaS" entry to the right?
+
+Options :
+6406532335478. ✅ (i), (v), (iii), (ii)
+6406532335479. ❌ (i), (ii), (iii), (v)
+6406532335480. ❌ (ii), (iii), (i), (v)
+6406532335481. ❌ (v), (iii), (i), (ii)
+6406532335482. ❌ All are equally PaaS / Iaas
+
+Question Number : 193 Question Id : 640653699404 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Since it is the onset of summer, there is a surge in railway ticket bookings. The business head at IRCTC is interested in a real-time view of all of her stations irrespective of whether there were bookings or not. She wants to see this be presented in a monitor mounted in her office wall that refreshes with the latest info on an India map every 1 minute along with the time of update so that she gets the confirmation that this is the latest data, so that she can plan for new summer-special trains as required. What solution option below best solves for the need?
+
+Options :
+6406532335491. ❌ Route a copy of the ticket purchase to a Kafka topic, use Spark Structured Streaming to continuously read from this topic and update the aggregates by destinations, and emit using output mode "Update".

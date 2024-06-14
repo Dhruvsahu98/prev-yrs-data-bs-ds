@@ -1,0 +1,25 @@
+Question Label : Multiple Choice Question
+
+You are given a Spark Streaming pipeline that invokes a pre-trained DL model for every image it receives as input and produces the classification result in quick time. The model with the best recall rate from the PyTorch library already runs in under 3 seconds on an average executing on a single GPU Spark worker machine. However, your management has instructed you to reduce the cost of AI projects significantly. What is the best option to explore to meet the expectations without compromising on false negatives while also being within 10-20% of the average execution time?
+
+Options :
+
+6406532335458. ❌ Use a different DL model from PyTorch that is already compressed to half the size.
+
+6406532335459. ❌ Build a custom model that compresses the highest recall rate model just enough to be able to execute within the stipulated time, and measure recall.
+
+6406532335460. ❌ Remove complexity associated with Spark Streaming and convert the model execution pipeline into a single threaded Python application running on the same GPU machine.
+
+6406532335461. ✅ Change Spark machine to use CPUs and train a fresh pipeline to achieve objectives.
+
+Question Number : 189 Question Id : 640653699398 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following code snippets will give a runtime error? (Note: df is a spark dataframe. It has a column called content which has images represented as byte array)
+
+Options :
+
+6406532335466. ❌ 

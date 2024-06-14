@@ -1,0 +1,33 @@
+Options :
+6406532335498. ✅ The watermark defines the maximum allowed lateness for events.
+6406532335499. ❌ It controls the frequency of checkpointing in the streaming application.
+6406532335500. ❌ The watermark is a timestamp indicating the current processing time.
+6406532335501. ❌ It specifies the size of the time window for aggregations.
+
+Question Number : 196 Question Id : 640653699407 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+```python
+from kafka import KafkaProducer
+producer = KafkaProducer(bootstrap_servers='localhost:9092')
+```
+
+Which of the following callbacks is used to handle successful message sends?
+
+Options :
+6406532335502. ✅ on_completion
+6406532335503. ❌ on_failure
+6406532335504. ❌ on_acknowledge
+6406532335505. ❌ on_success
+
+Question Number : 197 Question Id : 640653699408 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+```python
+from kafka import KafkaConsumer
+consumer = KafkaConsumer('my-topic', group_id='my-consumer-group', bootstrap_servers='localhost:9092')
+```

@@ -1,0 +1,40 @@
+What is the purpose of the group\_id parameter in the KafkaConsumer constructor?
+
+**Options :**
+
+6406532335506. ❌ It specifies the Kafka topic to consume messages from.
+
+6406532335507. ✅ It uniquely identifies the consumer group to which the consumer belongs.
+
+6406532335508. ❌ It defines the deserialization format for consumer records.
+
+6406532335509. ❌ It sets the maximum number of records to be polled in each request.
+
+**Question Number : 198 Question Id : 640653699409 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**
+
+```python
+from kafka import KafkaProducer
+producer = KafkaProducer(
+    bootstrap_servers='localhost:9092',
+    key_serializer=str.encode,
+    partitioner=lambda key, partitions: 0 if int(key) % 2 == 0 else 1
+)
+```
+
+What does the provided partitioner lambda function do?
+
+**Options :**
+
+6406532335510. ❌ It uses the default partitioning strategy.
+
+6406532335511. ❌ It forces all records to be sent to partition 0.
+
+6406532335512. ✅ It dynamically selects the partition based on the key value.
+
+6406532335513. ❌ It partitions records based on a round-robin distribution.
+
+**Question Number : 199 Question Id : 640653699410 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**

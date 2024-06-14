@@ -1,0 +1,37 @@
+Observe the below image and select the options that are true.
+
+\begin{tikzpicture}[node distance=2cm]
+\node (p1) [rectangle, draw] {Publisher 1};
+\node (p2) [rectangle, draw, below of=p1] {Publisher 2};
+\node (t1) [rectangle, draw, right of=p1, xshift=2cm] {Topic 1};
+\node (s1) [rectangle, draw, right of=t1, xshift=2cm] {Subscription 1};
+\node (s2) [rectangle, draw, below of=s1] {Subscription 2};
+\node (s3) [rectangle, draw, below of=s2] {Subscription 3};
+\node (sub1) [rectangle, draw, right of=s1, xshift=2cm] {Subscriber 1};
+\node (sub2) [rectangle, draw, below of=sub1] {Subscriber 2};
+\node (sub3) [rectangle, draw, below of=sub2] {Subscriber 3};
+
+\draw[->] (p1) -- (t1);
+\draw[->] (p2) -- (t1);
+\draw[->] (s1) -- (sub1);
+\draw[->] (s2) -- (sub2);
+\draw[->] (s3) -- (sub3);
+\end{tikzpicture}
+
+Options :
+
+6406532335462. ❌ Each subscriber gets one third of all messages published into Topic 1.
+6406532335463. ❌ Publisher 1 can safely send data only for Subscriber 1's consumption while restricting access to Subscribers 2 & 3.
+6406532335464. ❌ Subscriber 2 gets all messages published into Topic 1 by Publisher 1 but only half of Publisher 2's messages.
+6406532335465. ✅ Each subscriber gets all messages published into Topic 1.
+
+Question Number : 201 Question Id : 640653699402 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+A Spark Streaming application is configured to execute once per minute. However, each run takes 10+ minutes consistently resulting in a never-ending backlog of work. The code in a nutshell looks as follows:
+
+```python
+# Code block
+```
