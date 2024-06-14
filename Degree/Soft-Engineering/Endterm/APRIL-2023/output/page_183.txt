@@ -1,0 +1,18 @@
+```python
+def getDiscount(price):
+  if price <= 0:
+    print('Invalid input')
+    discount = 0
+  elif price < 2000:
+    discount = price * 0.1
+  else:
+    discount = price * 0.2
+  return discount
+```
+Identify the set of valid test cases for black box testing using the equivalence class technique.
+**Options :**
+6406531888180.  $\{price = 0, price = 2000\}$
+6406531888181.  $\{price = -10, price = 0, price = 1200\}$
+6406531888182.  $\{price = 0, price = 1800, price = 3800\}$
+6406531888183.  $\{price = -10, price = 0, price = 1010, price = 1999\}$
+Question Number : 234 Question Id : 640653564878 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 5 Question Label : Multiple Choice Question

@@ -1,0 +1,34 @@
+Question Label : Multiple Choice Question
+
+Suppose a company wants to develop a web application for selling footwear online. During the requirement-gathering phase, the company wants to visit some popular footwear shops to explore what additional items they should sell along with the footwear using the same web application.
+
+Which requirement-gathering technique can be used to list down recommendations for the additional items to sell?
+
+Options :
+
+6406531888114. ❌ Questionnaires
+
+6406531888115. ❌ Interviews
+
+6406531888116. ❌ Focus groups and workshops
+
+6406531888117. ✅ Naturalistic observations
+
+Question Number : 222 Question Id : 640653564854 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Which of the following UI heuristics allows the user to quickly correct mistakes and/or backtrack on the choices made?
+
+Options :
+
+6406531888123. ❌ Use familiar languages and metaphors
+
+6406531888124. ❌ Clean and functional design
+
+6406531888125. ✅ Freedom
+
+6406531888126. ❌ Recognition over recall
+
+Question Number : 223 Question Id : 640653564855 Question Type : MCQ Is Question

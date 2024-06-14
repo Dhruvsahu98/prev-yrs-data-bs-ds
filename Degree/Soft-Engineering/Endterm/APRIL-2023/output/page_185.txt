@@ -1,0 +1,20 @@
+Sub-Section Number : 4
+Sub-Section Id : 64065380639
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 235 Question Id : 640653564856 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Suppose you are using an application to access cloud storage, where you can backup your files from your laptops, computers, or smartphones. The application includes a feature that allows you to recover accidentally deleted files from a separate trash drive.
+This feature achieves which of the following usability goals?
+Options :
+6406531888131. ✖ Efficiency
+6406531888132. ✖ Effectiveness
+6406531888133. ✅ Safe to use
+6406531888134. ✖ Learnability
+6406531888135. ✖ Memorability
+Question Number : 236 Question Id : 640653564862 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

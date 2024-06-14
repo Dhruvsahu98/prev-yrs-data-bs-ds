@@ -1,0 +1,24 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Identify the appropriate technique to create  `digital`  mock-ups.
+Options :
+6406531888127. ❌ Using hand-drawn comics
+6406531888128. ❌ Using a hand-drawn interface on multiple pieces of paper
+6406531888129. ✅ Using software like Photoshop, Powerpoint
+6406531888130. ❌ Using web applications with fake data
+
+Question Number : 224 Question Id : 640653564861 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider two modules of a software project, `Module-X` and `Module-Y`. The project was developed in java. Some codes in `Module-X` refer to the internals of `Module-Y`.
+Identify the type of coupling in this case.
+Options :
+6406531888148. ❌ Data coupling
+6406531888149. ❌ Control coupling
+6406531888150. ❌ Common coupling
+6406531888151. ✅ Content coupling
+
+Question Number : 225 Question Id : 640653564865 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

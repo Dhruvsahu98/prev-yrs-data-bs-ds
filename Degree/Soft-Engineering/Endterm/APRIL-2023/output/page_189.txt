@@ -1,0 +1,24 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Identify the type of risk in the given scenario.
+Options :
+6406531888136. ❌ Technical risk
+6406531888137. ✅ Project risk
+6406531888138. ❌ Business risk
+6406531888139. ❌ None of these
+
+Question Number : 242 Question Id : 640653564859 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following can help in mitigating the risk identified from the previous question?
+Options :
+6406531888140. ✅ Hire developers with relevant experience, within the company, or outside the company
+6406531888141. ❌ Communicate with clients, and build prototypes
+6406531888142. ❌ Explore the market for similar products
+6406531888143. ✅ Outsource to third-party vendors
+Sub-Section Number : 6
+Sub-Section Id : 64065380641
+Question Shuffling Allowed : No
+Is Section Default? : null

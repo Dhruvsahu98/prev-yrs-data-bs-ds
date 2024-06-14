@@ -1,0 +1,26 @@
+Question Id : 640653564867 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (243 to 244)
+Question Label : Comprehension
+Consider the following code base in Python.
+
+```python
+def checkEligibility(year) :
+  if ((year % 400 == 0) or ((year % 100 != 0) and (year % 4 == 0))) :
+    print("it is a leap year")
+  else :
+    print("it is not a leap year")
+```
+
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 243 Question Id : 640653564868 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Selectable Option : 0
+Question Label : Multiple Select Question
+Using the branch coverage criteria, identify all the appropriate sets of valid test cases for whitebox testing.
+Options :
+6406531888172. ❌ {year = 2200, year = 657}
+6406531888173. ✅ {year = 2000, year = 1755}
+6406531888174. ✅ {year = 2000, year = 2200, year = 1755}
+6406531888175. ✅ {year = 2000, year = 2200, year = 2022}
+
+Question Number : 244 Question Id : 640653564869 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

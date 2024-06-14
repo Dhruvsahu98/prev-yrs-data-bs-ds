@@ -1,0 +1,23 @@
+Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+Which kinds of integration testing approaches must require the use of drivers?
+Options :
+6406531888176. ❌ Big Bang approach
+6406531888177. ✅ Bottom-Up approach
+6406531888178. ❌ Top-down approach
+6406531888179. ✅ Mixed approach
+Sub-Section Number : 7
+Sub-Section Id : 64065380642
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 245 Question Id : 640653564875 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following are the benefits of continuous integration?
+Options :
+6406531888200. ✅ Reduces deployment time
+6406531888201. ❌ No initial effort is required to set up the process
+6406531888202. ✅ Users can see the initial prototype
+6406531888203. ❌ Discourage modular coding

@@ -1,0 +1,26 @@
+Options :
+6406531888107. ✅ YES
+6406531888108. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065380637
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 220 Question Id : 640653564851 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+A software company has to develop a mobile game. The developers have already written the code. In the current phase, the team is conducting some procedures to ensure that the implemented code behaves according to the requirements. The mobile game is in what stage of the software development cycle?
+
+Options :
+6406531888109. ❌ Requirements gathering
+6406531888110. ❌ Design
+6406531888111. ✅ Development
+6406531888112. ✅ Testing
+6406531888113. ❌ Maintenance
+
+Question Number : 221 Question Id : 640653564852 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

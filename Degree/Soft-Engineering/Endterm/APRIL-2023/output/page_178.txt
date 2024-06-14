@@ -1,0 +1,18 @@
+(versions) and allow the users to choose which version to use?
+**Options :**
+6406531888188. ❌ Blue/Green deployment
+6406531888189. ❌ Canary deployment
+6406531888190. ✅ Versioned deployment
+6406531888191. ❌ None of these
+**Question Number :** 228 **Question Id :** 640653564874 **Question Type :** MCQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question
+How minifying the code can increase the efficiency of a website?
+**Options :**
+6406531888196. ❌ It results in fetching the pages from memory instead of the database.
+6406531888197. ❌ It enables an asynchronous work queue to be executed outside the HTTP request-response cycle to perform some of the resource and time-consuming tasks.
+6406531888198. ✅ It compresses the static pages and enables fast loading and rendering of pages.
+6406531888199. ❌ It enables continuous performance monitoring of the website.
+**Question Number :** 229 **Question Id :** 640653564876 **Question Type :** MCQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question

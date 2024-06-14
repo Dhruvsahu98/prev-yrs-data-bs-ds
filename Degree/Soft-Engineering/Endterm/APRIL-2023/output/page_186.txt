@@ -1,0 +1,33 @@
+Consider designing an application for playing songs. Using the application, users can create or update playlists. A playlist consists of a number of songs. There are two kinds of songs that are available -- classical and nonclassical.
+
+Suppose a designer wants to generate a class diagram from the description. Let the identified classes be `User`, `PlayList`, `Song`, `Classical`, and `NonClassical`. Consider the relation between `PlayList` and `Song` as x, and between `Classical` and `Song` as y. Identify x and y.
+
+**Options :**
+
+6406531888152. ❌ X: association, Y: Composition
+
+6406531888153. ❌ X: association, Y: Inheritance
+
+6406531888154. ✅ X: Composition, Y: Inheritance
+
+6406531888155. ❌ X: Composition, Y: association
+
+Question Number : 237 Question Id : 640653564864 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+During debugging a third-party API, the development team consults the available documentation and example codes for a proper understanding of the usage of the API. Which kind of debugging strategy is considered in this case?
+
+**Options :**
+
+6406531888160. ❌ Input manipulation
+
+6406531888161. ❌ Backwards debugging
+
+6406531888162. ❌ Forwards debugging
+
+6406531888163. ✅ Blackbox debugging
+
+Question Number : 238 Question Id : 640653564866 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

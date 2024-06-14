@@ -1,0 +1,23 @@
+Which of the following teams in a software organization is responsible for all the tasks listed below?
+- Find patterns in application usage.
+- Track sales targets
+- Analyze business data
+
+**Options :** 
+6406531888204. ❌ Marketing team
+6406531888205. ❌ Sales team
+6406531888206. ✅ Data scientists
+6406531888207. ❌ Ethics and policy specialists
+6406531888208. ❌ Support Team
+
+Sub-Section Number : 3
+Sub-Section Id : 64065380638
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 230 Question Id : 640653564853 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+
+Question Label : Multiple Choice Question
+An investment firm wants to develop a mobile application, that the investors can use to search the current fund values of their investments. Consider a user story for the application.

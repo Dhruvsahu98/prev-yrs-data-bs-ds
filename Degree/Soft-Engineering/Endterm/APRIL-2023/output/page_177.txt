@@ -1,0 +1,25 @@
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Flask is an example of ___.
+Options :
+6406531888164. ❌ Text editor
+6406531888165. ❌ Integrated development environment
+6406531888166. ✅ Web application framework
+6406531888167. ❌ Interpreter
+
+Question Number : 226 Question Id : 640653564871 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+In what type of testing is the integrated system tested by a test team in an organization?
+Options :
+6406531888184. ❌ Integration testing
+6406531888185. ✅ Alpha testing
+6406531888186. ❌ Beta testing
+6406531888187. ❌ Acceptance testing
+
+Question Number : 227 Question Id : 640653564872 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which deployment strategies maintain multiple instances of the production environment

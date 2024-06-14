@@ -1,0 +1,84 @@
+Consider the following class diagram representing a class *Package*.
+
+| Package |
+|---|---|
+| - destinationAddr: String |
+| - senderAddr: String |
+| - weight: double |
+| - isFragile: boolean |
+| - isFlammable: boolean |
+|---|---|
+| + Package(destinationAddr, senderAddr, weight) |
+| + Package(destinationAddr, senderAddr, weight, isFragile) |
+| + Package(destinationAddr, senderAddr, weight, isFragile, isFlammable) |
+| + printPackageDetails(type): void |
+
+We apply a design pattern *x* and the redesigned class diagram is as given below:
+
+| Package | | PackageMaker |
+|---|---|---|
+| - destinationAddr: String | | - destinationAddr: String |
+| - senderAddr: String | | - senderAddr: String |
+| - weight: double | | - weight: double |
+| - isFragile: boolean | | - isFragile: boolean |
+| - isFlammable: boolean | | - isFlammable: boolean |
+|---|---|---|
+| + Package(PackageMaker pck) | | + PackageMaker(destinationAddr, senderAddr, weight) |
+| + printPackageDetails(type): void | | + setFragile(): void |
+| | | + setFlammable(): void |
+| | | + make(): Package |
+
+Identify the design pattern referred to as *x*.
+
+**Options :**
+
+6406531888156. ❌ Factory design pattern
+6406531888157. ✅ Builder design pattern
+6406531888158. ❌ Adapter design pattern
+6406531888159. ❌ Facade design pattern
+
+**Question Number : 233 Question Id : 640653564870 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 5 Question Label : Multiple Choice Question**
+
+Consider the following code base in Python.
+
+```python
+class PackageMaker:
+    def __init__(self, destinationAddr, senderAddr, weight):
+        self.destinationAddr = destinationAddr
+        self.senderAddr = senderAddr
+        self.weight = weight
+        self.isFragile = False
+        self.isFlammable = False
+
+    def setFragile(self):
+        self.isFragile = True
+
+    def setFlammable(self):
+        self.isFlammable = True
+
+    def make(self):
+        return Package(self)
+
+class Package:
+    def __init__(self, pck):
+        self.destinationAddr = pck.destinationAddr
+        self.senderAddr = pck.senderAddr
+        self.weight = pck.weight
+        self.isFragile = pck.isFragile
+        self.isFlammable = pck.isFlammable
+
+    def printPackageDetails(self, type):
+        print(f"Package Details: {type}")
+        print(f"Destination Address: {self.destinationAddr}")
+        print(f"Sender Address: {self.senderAddr}")
+        print(f"Weight: {self.weight}")
+        print(f"Is Fragile: {self.isFragile}")
+        print(f"Is Flammable: {self.isFlammable}")
+
+# Example usage
+pckMaker = PackageMaker("New York", "Los Angeles", 10.5)
+pckMaker.setFragile()
+pckMaker.setFlammable()
+pck = pckMaker.make()
+pck.printPackageDetails("Normal")
+```

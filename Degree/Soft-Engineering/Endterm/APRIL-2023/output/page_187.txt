@@ -1,0 +1,31 @@
+**Correct Marks : 4**
+
+**Question Label : Multiple Choice Question**
+
+Consider designing a web application where there is a class named `Calculator` with methods providing basic arithmetic operations: `addition()`, `subtraction()`, `multiplication()`, `division()` and `remainder()`.
+
+However, the customer has additional requirements that will necessitate some statistical operations on the class `Calculator`. The designer considered an approach where he directly adds the advanced methods: `mean()`, `median()`, `st_division()` and `variance()` to the existing `Calculator` class.
+
+Which of the following SOLID principles is violated by this design approach for the class `Calculator`?
+
+**Options :**
+
+6406531888168. ❌ Single responsibility principle
+6406531888169. ✅ Open-closed principle
+6406531888170. ❌ Liskov substitution principle
+6406531888171. ❌ Interface segregation principle
+
+**Question Number : 239 Question Id : 640653564873 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+**Question Label : Multiple Choice Question**
+
+A company InitX has developed a web application. For hosting the web application, the company has purchased all the required hardware. Which kind of hosting option has the company chosen?
+
+**Options :**
+
+6406531888192. ✅ Bare metal servers
+6406531888193. ❌ Infrastructure-as-a-service
+6406531888194. ❌ Platform-as-a-service
+6406531888195. ❌ None of these

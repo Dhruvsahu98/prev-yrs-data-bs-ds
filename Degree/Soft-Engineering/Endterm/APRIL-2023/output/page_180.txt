@@ -1,0 +1,31 @@
+1 Feature: Retrieve fund value
+2 
+3 As an investor,
+4 
+5 I want to search for my investments,
+6 
+7 So that I can get the combined fund value of the investments.
+
+The user story is rectified as follows:
+
+1 Feature: Retrieve fund value
+2 
+3 As an investor,
+4 
+5 I want to search for my investments through the investment account numbers,
+6 
+7 So that I can get the combined fund value for the investments.
+
+Which of the SMART characteristics is achieved by the rectification?
+
+**Options :**
+
+6406531888118. ✅ Specific
+6406531888119. ❌ Measurable
+6406531888120. ❌ Achievable
+6406531888121. ❌ Relevant
+6406531888122. ❌ Timeboxed
+
+**Question Number : 231 Question Id : 640653564860 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question**

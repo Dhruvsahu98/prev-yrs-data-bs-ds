@@ -1,0 +1,33 @@
+A software company has to develop a task planner application. The application has 3 modules.
+and the estimated number of lines of source code are given as follows:
+
+* Task creation - 40000 LOC
+* Task allocation - 50000 LOC
+* Alert generation - 30000 LOC
+
+The team formed for development is moderate in size and the members are a mix of experienced and
+inexperienced people.
+
+The values for the constants in the COCOMO model for the different types of the project are given below:
+
+* Organic project: $a=2.4$, $b=1.05$
+* Semi-detached project: $a=3.0$, $b=1.12$
+* Embedded project: $a=3.6$, $b=1.20$
+
+What is the initial estimated effort for the project?
+
+**Options :**
+
+6406531888144. ❌ 365.89 person months
+
+6406531888145. ✅ 639.45 person months
+
+6406531888146. ❌ 1,125.43 person months
+
+6406531888147. ❌ 14,64,887.42 person months
+
+**Question Number : 232 Question Id : 640653564863 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction**
+**Time : 0**
+**Correct Marks : 5**
+**Question Label : Multiple Choice Question**

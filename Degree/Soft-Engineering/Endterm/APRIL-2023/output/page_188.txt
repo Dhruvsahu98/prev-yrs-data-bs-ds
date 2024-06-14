@@ -1,0 +1,21 @@
+Question Number : 240 Question Id : 640653564877 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+What is the primary responsibility of the product owner in a scrum team?
+Options :
+6406531888209. ❌ Monitoring and ensuring that all the activities of a given sprint are properly performed.
+6406531888210. ✅ Interfacing between the clients and the development team.
+6406531888211. ❌ Participating in sprint planning.
+6406531888212. ❌ Preparing product backlog.
+Sub-Section Number : 5
+Sub-Section Id : 64065380640
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653564857 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (241 to 242)
+Question Label : Comprehension
+A software company has taken up a project to develop an application related to telecommunications. However, after the project was started, the project manager found out that the team members did not have the sufficient domain knowledge to develop the software.
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 241 Question Id : 640653564858 Question Type : MCQ Is Question
