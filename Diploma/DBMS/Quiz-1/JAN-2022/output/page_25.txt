@@ -1,0 +1,31 @@
+Question Number : 35 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+Consider the table shown in Figure 5.
+
+| B | D |
+|---|---|
+| 5 | 8 |
+| 6 | 8 |
+| 7 | 4 |
+| 8 | 3 |
+| 7 | 9 |
+| 6 | 4 |
+| 5 | 7 |
+| 8 | 9 |
+
+Figure 5: Relation R
+
+Find the number of tuples returned by the following query:
+$\Pi_D(\sigma_{B<D}(R))$
+
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+
+AppDev-1

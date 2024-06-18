@@ -1,0 +1,31 @@
+Patients($Pid$, Patients\_Name, date)
+Doctors($Did$, Doctor\_name, date)
+Nurse($Nid$, Nurse\_name, Shift, date)
+D. $\times$
+
+Question Number : 29 Question Type : MSQ
+Correct Marks : 2
+Question Label : Multiple Select Question
+Which among the following is/are not a part of Query Processing?
+Options :
+A. $\times$ Optimization
+B. $\times$ Parsing and translation
+C. $\checkmark$ Indexing
+D. $\times$ Evaluation Engine
+
+Question Number : 30 Question Type : MSQ
+Correct Marks : 3
+Question Label : Multiple Select Question
+Consider the following query:
+```python
+SELECT product, SUM(SalesAmount) AS totalSales
+FROM Sales
+GROUP BY product
+WHERE SUM(SalesAmount)>100
+```
+Which among the following is correct, when we try to execute the given query?
+Options :
+A. $\times$ It executes and gives an output
+B. $\times$ It executes if GROUP BY is replaced by ORDER BY
+C. $\checkmark$ It executes if WHERE is replaced by HAVING
+D. $\times$ None of these

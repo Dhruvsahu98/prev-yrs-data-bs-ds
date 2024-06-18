@@ -1,0 +1,15 @@
+1. Flat file-based data management systems need to be installed separately and updated regularly, which is costly.
+2. As compared to a flat file based data management systems, an SQL query will take lesser time to process a 1 GB file.
+3. DBMS provides extensive support for performing arithmetic and logical operations on data.
+4. In flat file-handling, backup and recovery of the data is done manually.
+
+**Options :**
+Choose the correct option.
+A.  ❌ Statement 1, 2 & 3 are correct.
+B.  ❌ Statement 1 & 3 are correct.
+C.  ✅ Statement 2 & 4 are correct.
+D.  ❌ Statement 2 & 3 are correct.
+
+**Question Number : 24 Question Type : MCQ**
+**Correct Marks : 3**
+Question Label : Multiple Choice Question

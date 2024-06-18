@@ -1,0 +1,55 @@
+C. $\checkmark$ (6,1,1),(7,4,1) and (8,4,7)
+D. $\times$ (6,1,1),(7,4,1) and (2,2,5)
+
+Question Number : 28 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Consider the E-R diagram as shown in Figure 3.
+
+\begin{tikzpicture}[scale=0.8]
+\node[ellipse,draw] (pid) at (0,0) {Pid};
+\node[ellipse,draw] (pname) at (2,0) {Patients\_Name};
+\node[rectangle,draw] (patients) at (1,-1) {Patients};
+\node[rectangle,draw] (doctors) at (5,-1) {Doctors};
+\node[ellipse,draw] (did) at (4,0) {Did};
+\node[ellipse,draw] (dname) at (6,0) {Doctor\_name};
+\node[rectangle,draw] (nurse) at (9,-1) {Nurse};
+\node[ellipse,draw] (nid) at (8,0) {Nid};
+\node[ellipse,draw] (nname) at (10,0) {Nurse\_name};
+\node[diamond,draw] (hos) at (5,-2.5) {hospitalization};
+\node[ellipse,draw] (date) at (6,-3.5) {date};
+\node[ellipse,draw] (shift) at (9,-2.5) {Shift};
+
+\draw (pid)--(patients);
+\draw (pname)--(patients);
+\draw (did)--(doctors);
+\draw (dname)--(doctors);
+\draw (nid)--(nurse);
+\draw (nname)--(nurse);
+\draw (patients)--(hos);
+\draw (doctors)--(hos);
+\draw (nurse)--(hos);
+\draw (hos)--(date);
+\draw (nurse)--(shift);
+\end{tikzpicture}
+
+Figure 3: ERD Hospital
+
+Which among the following is the correct relational schema of ERD Hospital?
+
+**Options :** 
+
+A. $\times$  Patients($\underline{Pid}$,Patients\_Name)
+Doctors($\underline{Did}$,Doctor\_name)
+Nurse($\underline{Nid}$,Nurse\_name,Shift)
+
+B. $\checkmark$ Patients($\underline{Pid}$,Patients\_Name)
+Doctors($\underline{Did}$,Doctor\_name)
+Nurse($\underline{Nid}$,Nurse\_name,Shift)
+hospitalization($\underline{Pid}$,$\underline{Did}$,$\underline{Nid}$,date)
+
+C. $\times$ Patients($\underline{Pid}$,Patients\_Name)
+Doctors($\underline{Did}$,Doctor\_name)
+Nurse($\underline{Nid}$,Nurse\_name,Shift)
+hospitalization(date)

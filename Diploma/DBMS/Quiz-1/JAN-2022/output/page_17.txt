@@ -1,0 +1,52 @@
+Output:
+| Q | S |
+|---|---|
+| q3 | s2 |
+| q2 | s3 |
+| q1 | s1 |
+
+Output:
+| Q | S |
+|---|---|
+| q2 | s1 |
+| q2 | s2 |
+| q3 | s1 |
+
+D. $\times$
+
+Question Number : 25 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the relational schema as shown in **Figure 2**.
+
+| employee |  |
+|---|---|
+| name | string |
+| job\_title | string |
+| emp\_id | integer |
+| project\_id | integer |
+| email | string |
+| phone | integer |
+| salary | integer |
+
+| emp\_detail |  |
+|---|---|
+| emp\_id | integer |
+| pan\_no | string |
+| account\_no | integer |
+
+| project |  |
+|---|---|
+| project\_id | integer |
+| project\_name | string |
+| location | string |
+
+Figure 2: Employee Schema
+
+What will be the output of the following query?
+```python
+SELECT pan_no FROM emp_detail
+WHERE emp_id IN 
+(SELECT e1.emp_id FROM employee e1
+WHERE e1.salary >= ALL (SELECT e2.salary FROM employee e2))
+```

@@ -1,0 +1,44 @@
+Consider the relations shown in Figure 1.
+
+| A1 | P | Q | R | S |
+|:---|:---:|:---:|:---:|:---:|
+|  | p2 | q1 | r3 | s3 |
+|  | p1 | q3 | r2 | s2 |
+|  | p2 | q1 | r2 | s2 |
+|  | p3 | q2 | r1 | s3 |
+|  | p1 | q1 | r3 | s1 |
+
+| A2 | P | Q | R | S |
+|:---|:---:|:---:|:---:|:---:|
+|  | p1 | q2 | r3 | s1 |
+|  | p2 | q1 | r2 | s2 |
+|  | p3 | q2 | r1 | s2 |
+|  | p2 | q1 | r2 | s3 |
+|  | p1 | q3 | r1 | s1 |
+
+Figure 1: Relations A1 and A2
+
+Identify the correct output tuple(s) that will be the result of the given operation:
+
+$\Pi_{Q,S}(A1) - \Pi_{Q,S}(A2)$
+
+Options:
+
+A. Output: 
+
+| Q | S |
+|:---:|:---:|
+| q1 | s3 |
+| q1 | s2 |
+
+B. Output:
+
+| Q | S |
+|:---:|:---:|
+| q1 | s3 |
+| q3 | s2 |
+| q1 | s2 |
+| q2 | s3 |
+| q1 | s1 |
+
+C. $\checkmark$

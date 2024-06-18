@@ -1,0 +1,32 @@
+```python
+create view IRDAI as (select i.company_name from insurance as i, claims as c where i.ratings > 3 and c.amount > 200000)
+```
+```python
+create view IRDAI where (select i.company_name from insurance as i natural join claims as c where i.ratings > 3 and c.amount > 200000)
+```
+```python
+create view IRDAI as (select i.company_name from insurance as i natural join claims as c where i.ratings > 3 and c.amount > 200000)
+```
+```python
+create view IRDAI where (select i.company_name from insurance as i, claims as c where i.ratings > 3 and c.amount > 200000)
+```
+Question Number : 27 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following table which has three attributes: X, Y and Z, where X is the primary key and Z is the foreign key referencing X.
+
+| X | Y | Z |
+|---|---|---|
+| 1 | 1 | 5 |
+| 2 | 2 | 5 |
+| 3 | 1 | 5 |
+| 4 | 2 | 4 |
+| 5 | 2 | 4 |
+| 6 | 1 | 1 |
+| 7 | 4 | 1 |
+| 8 | 4 | 7 |
+
+Which of the following sets of tuples are additionally deleted when the tuple (1,1,5) is deleted and ON DELETE CASCADE construct is applied over the table?
+Options :
+A. (2,2,5) and (3,1,5)
+B. (6,1,1) and (7,4,1)

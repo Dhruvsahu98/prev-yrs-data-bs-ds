@@ -1,0 +1,29 @@
+Consider a relational schema:
+Parts($Pid$, $Pname$, $Price$, $Quantity$)
+Vendors($Vid$, $Vname$, $Location$, $Pid$)
+
+Choose the correct relational algebra expressions to find out the name of vendors from Mumbai who sell parts for less than Rs. 5000.
+
+**Options :**
+A. $\times$ $\Pi_{Vname}(\sigma_{Price<5000}(Parts)) \land \Pi_{Vname}(\sigma_{Location='Mumbai'}(Vendors))$
+B. $\checkmark$ $\Pi_{Vname}(\sigma_{Location='Mumbai'} \land Price<5000 (Parts \times Vendors))$
+C. $\times$ $\Pi_{Vname} (Parts \times Vendors) \land (\sigma_{Location='Mumbai'} \land Price<5000 (Parts \times Vendors))$
+D. $\checkmark$ $\Pi_{Vname}(\sigma_{Location='Mumbai'} \land Price<5000 \land Parts.Pid=Vendors.Pid (Parts \times Vendors))$
+
+
+**Question Number : 33 Question Type : MSQ**
+**Correct Marks : 4**
+
+**Question Label : Multiple Select Question**
+
+Consider the relational schema given below:
+Parts($Pid$, $Pname$, $Price$, $Quantity$)
+Vendors($Vid$, $Vname$, $Location$, $Pname$)
+
+Choose the correct DRC expression equivalent to the TRC expression given below:
+$\{M | \exists X \in Parts \exists Y \in Vendors(Y.Location='Pune' \land Y.Vname='IITM Enterprise' \land X.Quantity<100 \land X.Pname=Y.Pname \land M.Price=X.Price)\}$
+
+**Options :**
+A. $\times$ $\{<C> | \exists A, B, D(<A, B, C, D> \in Parts \land D<100) \land \exists E, F, G, H(<E, F, G, H> \in Vendors \land B=H \land M.Price=C)\}$
+B. $\times$ $\{<C> | (<A, B, C, D> \in Parts \land D<100) \land (<E, F, G, H> \in Vendors \land G='Pune' \land F='IITM Enterprise' \land B=H)\}$
+C. $\times$ *

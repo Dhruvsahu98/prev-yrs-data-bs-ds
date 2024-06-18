@@ -1,0 +1,19 @@
+Options :
+A.  * Physical Level
+B.  ✓ View Level
+C.  * Programming Level
+D.  * Logical Level
+
+Question Number : 20 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which among the following provides the interface between the low-level data stored in the DBMS and the application programs and queries submitted to the system?
+Options :
+A.  ✓ Storage Manager
+B.  * Query Processor
+C.  * Concurrency-control Manager
+D.  * Database Administrator
+
+Question Number : 21 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question

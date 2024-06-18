@@ -1,0 +1,28 @@
+**Question Number : 22 Question Type : MCQ**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**
+Consider the employee table shown in Figure 8.
+
+| eid | ename | salary | deptid |
+|---|---|---|---|
+| E001 | Arun | 50000 | D001 |
+| E003 | Ramesh | 45000 | D004 |
+| E004 | Rekha | 35000 | D003 |
+| E006 | Gurpreet | 80000 | D003 |
+| E007 | Susan | 85000 | D004 |
+| E010 | Ramesh | 10000 | D009 |
+
+Figure 8: employee
+
+Choose the correct SQL statement, which will remove the records having deptid D003 from the employee table.
+
+**Options :**
+A. ❌ DROP Table employee WHERE deptid = 'D003'
+B. ✅ DELETE FROM employee WHERE deptid = 'D003'
+C. ❌ DELETE deptid = 'D003' FROM employee
+D. ❌ TRUNCATE Table deptid = 'D003' FROM employee
+
+**Question Number : 23 Question Type : MCQ**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+Consider the following statements.

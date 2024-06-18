@@ -1,0 +1,33 @@
+$\{ < C > | \exists A, B, D(< A, B, C,  E, F, G, H > \in Vendors \land G = 'Pune' \land F = 'IITM Enterprise' ) \}$
+D. $\checkmark$  $\{ < C > | \exists A, B, D(< A, B, C, D > \in Parts \land D < 100) \land \exists E, F, G, H(< E, F, G, H > \in Vendors \land G = 'Pune' \land F = 'IITM Enterprise' \land B = H) \}$
+
+**Question Number : 34 Question Type : SA**
+**Correct Marks : 4**
+**Question Label : Short Answer Question**
+Consider the Table 1 and predict the output of the query that follows.
+
+| class | house\_name | no\_of\_student |
+|---|---|---|
+| Class 9 | Aravali | 50 |
+| Class 10 | Nilgiri | 40 |
+| Class 11 | Shiwalik | 60 |
+| Class 12 | Nilgiri | 55 |
+
+Table 1 : house\_distribution
+
+```python
+SELECT COUNT(house_name)
+FROM ( ( SELECT class, house_name
+FROM house_distribution) as X
+NATURAL JOIN ( SELECT house_name, no_of_student
+FROM house_distribution) as Y);
+```
+
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Equal**
+**Text Areas : PlainText**
+**Possible Answers :**
+6

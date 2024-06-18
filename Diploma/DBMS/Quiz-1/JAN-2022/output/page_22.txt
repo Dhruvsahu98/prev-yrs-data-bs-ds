@@ -1,0 +1,57 @@
+Question Number : 31 Question Type : MSQ
+Correct Marks : 3
+Question Label : Multiple Select Question
+Consider the E-R diagram as shown in Figure 4.
+
+\begin{tikzpicture}
+\node[ellipse, draw] (name) at (0,4) {Name};
+\node[ellipse, draw] (mobile_no) at (2,4) {Mobile\_no};
+\node[ellipse, draw, dashed] (age) at (4,4) {Age};
+\node[ellipse, draw] (patient_id) at (0,2) {Patient\_id};
+\node[rectangle, draw] (patients) at (2,2) {Patients};
+\node[ellipse, draw] (dob) at (0,0) {DOB};
+\node[diamond, draw, double] (admit) at (2,0) {Admit};
+\node[rectangle, draw] (ward) at (2,-2) {Ward};
+\node[ellipse, draw] (ward_no) at (1,-3.5) {Ward\_no};
+\node[ellipse, draw] (num_beds) at (3,-3.5) {Num\_beds};
+\node[ellipse, draw] (hosp_id) at (6,3) {Hosp\_ID};
+\node[ellipse, draw] (hosp_name) at (8,3) {Hosp\_name};
+\node[rectangle, draw] (hospital) at (7,2) {Hospital};
+\node[diamond, draw] (hospitalization) at (4,2) {hospitalization};
+\node[ellipse, draw] (date) at (4,0) {date};
+\node[ellipse, draw] (address) at (7,0) {Address};
+\node[ellipse, draw] (street_name) at (6,-1) {Street\_name};
+\node[ellipse, draw] (pincode) at (8,-1) {Pincode};
+
+\draw (name) -- (patients);
+\draw (mobile_no) -- (patients);
+\draw (age) -- (patients);
+\draw (patient_id) -- (patients);
+\draw (dob) -- (patients);
+\draw (patients) -- (admit);
+\draw (admit) -- (ward);
+\draw (ward) -- (ward_no);
+\draw (ward) -- (num_beds);
+\draw (hosp_id) -- (hospital);
+\draw (hosp_name) -- (hospital);
+\draw (hospital) -- (address);
+\draw (address) -- (street_name);
+\draw (address) -- (pincode);
+\draw (patients) -- (hospitalization);
+\draw (hospitalization) -- (date);
+\draw (hospitalization) -- (hospital);
+\end{tikzpicture}
+
+Figure 4: ERD Hospital
+
+Which of the following is/are true about ERD Hospital?
+
+Options :
+A.  Address is a multivalued attribute.
+B. Ward represents weak entity and there is partial participation of Ward in relationship Admit.
+C. Admit table will not exist in the database.
+D. Age is a derived attribute and Mobile\_no is a composite attribute.
+
+Question Number : 32 Question Type : MSQ
+Correct Marks : 4
+Question Label : Multiple Select Question

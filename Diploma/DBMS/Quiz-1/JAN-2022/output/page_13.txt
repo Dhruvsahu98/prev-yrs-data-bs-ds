@@ -1,0 +1,60 @@
+Consider the relational schema as shown in Figure 6.
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{customers} \\ \hline
+cus\_id & varchar(10) \\ \hline
+cus\_name & varchar(10) \\ \hline
+mobile & integer \\ \hline
+credit\_score & integer \\ \hline
+pan & varchar(10) \\ \hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{insurance} \\ \hline
+ins\_id & varchar(10) \\ \hline
+company\_name & varchar(10) \\ \hline
+ins\_type & varchar(10) \\ \hline
+ratings & int \\ \hline
+cus\_id & varchar(10) \\ \hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{claims} \\ \hline
+ins\_id & varchar(10) \\ \hline
+claim\_date & date \\ \hline
+agent\_name & varchar(10) \\ \hline
+amount & integer \\ \hline
+\end{tabular}
+
+Figure 6: Insurance Policy
+
+Choose the appropriate query to retrieve the name of the customer(s) whose names begin with 'Kum' but do not end with 'ar'.
+
+Options :
+A. \(\times\)
+```python
+SELECT cus_name from customers where cus_name like '%Kum'
+EXCEPT
+SELECT cus_name from customers where cus_name like 'ar%'
+```
+B. \(\times\)
+```python
+SELECT cus_name from customers where cus_name like '%Kum'
+EXCEPT
+SELECT cus_name from customers where cus_name like 'ar%'
+```
+C. \(\times\)
+```python
+SELECT cus_name from customers where cus_name like '%Kum'
+EXCEPT
+SELECT cus_name from customers where cus_name like 'ar%'
+```
+D. \(\checkmark\)
+```python
+SELECT cus_name from customers where cus_name like 'Kum%'
+EXCEPT
+SELECT cus_name from customers where cus_name like '%ar'
+```

@@ -1,0 +1,64 @@
+Options :
+A. ❌ It will return pan\_no of the employee with the lowest salary.
+B. ✅ It will return pan\_no of the employee with the highest salary.
+C. ❌ It will return pan\_no of the employee with second highest salary.
+D. ❌ It will return pan\_no of the employee with second lowest salary.
+
+Question Number : 26 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the relational schema shown in Figure 7.
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{customers} \\
+\hline
+cus\_id & varchar(10) \\
+\hline
+cus\_name & varchar(10) \\
+\hline
+mobile & integer \\
+\hline
+credit\_score & integer \\
+\hline
+pan & varchar(10) \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{insurance} \\
+\hline
+ins\_id & varchar(10) \\
+\hline
+company\_name & varchar(10) \\
+\hline
+ins\_type & varchar(10) \\
+\hline
+ratings & int \\
+\hline
+cus\_id & varchar(10) \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{claims} \\
+\hline
+ins\_id & varchar(10) \\
+\hline
+claim\_date & date \\
+\hline
+agent\_name & varchar(10) \\
+\hline
+amount & integer \\
+\hline
+\end{tabular}
+
+Figure 7: Insurance Policy
+
+Assume that you are a database administrator of the database whose schema is shown in Figure 7. The regulatory authority of insurance companies periodically wants a list of all insurance companies having ratings value greater than 3 and who have claimed amount exceeding ₹200000. In order to provide such a list, you decide to create a view by the name 'IRDAI'.
+
+Choose the correct SQL query which is used to create a view 'IRDAI'.
+
+Options :
