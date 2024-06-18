@@ -1,0 +1,50 @@
+Consider the tables **FoodItems** and **ItemInfo** as shown below:
+
+| ItemName | Brand | Rating |
+|---|---|---|
+| Chocolate | Amul | 5 |
+| Ice-cream | Nestle | 4 |
+| Cake | Amul | 5 |
+| Ice-cream |  Keventers | 3 |
+| Chocolate | Nestle | 4 |
+| Candy | Amul | 5 |
+| Cake | Nestle | 4 |
+| Candy | Nestle | 3 |
+
+Table 1: **FoodItems**
+
+
+| Brand | Rating |
+|---|---|
+| Amul | 5 |
+| Nestle | 4 |
+
+Table 2: **ItemInfo**
+
+Which item name(s) will be returned by the operation **FoodItems** ÷ **ItemInfo**?
+
+**Options :**
+
+6406532467805.  × Chocolate
+
+6406532467806.  × Chocolate, Candy
+
+6406532467807.  × Chocolate, Ice-cream
+
+6406532467808.  ✓ Chocolate, Cake
+
+**Sub-Section Number :** 4
+
+**Sub-Section Id :** 640653107610
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number : 89 Question Id : 640653737363 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**

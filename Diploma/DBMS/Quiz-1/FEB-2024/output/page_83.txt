@@ -1,0 +1,38 @@
+Consider the following SQL statement:
+```python
+CREATE TABLE Cars(
+CarID VARCHAR (8),
+CarName VARCHAR (20),
+CarColour VARCHAR (8),
+YearOfPurchase INTEGER,
+PRIMARY KEY (CarID),
+CHECK (YearofPurchase IN ('2001', '2002', '2003', '2004'))
+);
+```
+The following tuples have already been inserted:
+
+| CarID | CarName | CarColour | YearOfPurchase |
+|---|---|---|---|
+| C1 | Ferrari | Red | 2001 |
+| C2 | Mercedes | Black | 2002 |
+
+Table 3. Cars
+
+Which among the following will cause an integrity constraint violation in the Cars table?
+
+**Options :**
+
+6406532467829. ❌ INSERT INTO Cars('C3', 'McLaren', 'Orange', 2003);
+
+6406532467830. ✅ INSERT INTO Cars('C2', 'Alpine', 'Green', 2001);
+
+6406532467831. ❌ INSERT INTO Cars('C4', 'Williams', 'Black', 2002);
+
+6406532467832. ✅ INSERT INTO Cars('C5', 'AlphaTauri', 'Blue', 2005);
+
+
+Sub-Section Number : 7
+Sub-Section Id : 640653107613
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 93 Question Id : 640653737368 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

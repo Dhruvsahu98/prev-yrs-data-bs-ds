@@ -1,0 +1,53 @@
+Question Shuffling Allowed : Yes
+Is Section Default : null
+
+Question Number : 94 Question Id : 640653737369 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the following relations $X(A,B,C), Y(A,B,D), Z(A,F)$.
+
+|A|B|C|
+|:---:|:---:|:---:|
+|A1|B1|C1|
+|A2|B2|C2|
+|A3|B3|C3|
+|A3|B1|C2|
+|A4|B1|C1|
+
+Table 4: X
+
+|A|B|D|
+|:---:|:---:|:---:|
+|A1|B1|D2|
+|A2|B3|D2|
+|A1|B2|D3|
+|A3|B1|D2|
+
+Table 5: Y
+
+|A|F|
+|:---:|:---:|
+|A2|F3|
+|A1|F2|
+|A1|F2|
+|A3|F4|
+
+Table 6: Z
+
+How many tuples will be returned by the following relational algebra query?
+
+$\Pi_A(\sigma((X.B=Y.B)\wedge(Y.D=D_2))(X\times Y))\cup \Pi_A(\sigma((Y.A=Z.A)\wedge(Z.F=F_3))(Y\times Z))$
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+
+Question Number : 95 Question Id : 640653737371 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

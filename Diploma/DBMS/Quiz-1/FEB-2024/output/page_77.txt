@@ -1,0 +1,31 @@
+as all Ferrari drivers
+
+Question Number : 86 Question Id : 640653737362 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Consider the relational schema player(player\_id, name, jersey\_no, dob, team\_id). Identify the correct SQL command to create a view player\_name, by selecting two columns name and team\_id from the player relation. Select those players having names containing at least 4 characters and jersey number as 9.
+Options :
+```python
+6406532467809.  CREATE VIEW player_name (name, team_id) AS
+                SELECT name, team_id FROM player
+                WHERE name like '%____%' AND jersey_no=9
+```
+```python
+6406532467810.  CREATE VIEW player_name (name, team_id) AS
+                SELECT name, team_id FROM player
+                WHERE name like '%____%' OR jersey_no=9
+```
+```python
+6406532467811.  CREATE VIEW player_name (name, team_id) AS
+                SELECT name, team_id FROM player
+                WHERE name like '____%' AND jersey_no=9
+```
+```python
+6406532467812.  CREATE VIEW player_name (name, team_id) AS
+                SELECT name, team_id FROM player
+                WHERE name like '____%' AND jersey_no=9
+```
+
+Question Number : 87 Question Id : 640653737365 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

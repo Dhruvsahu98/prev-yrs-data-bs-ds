@@ -1,0 +1,25 @@
+Consider an entity relationship in which entity sets *student* and *course* have a many-to-many relationship. The attributes of *student* entity are *id*, *name*, *dept\_name*, *email* and *mobile\_no* where *id* is the primary key attribute, *mobile\_no* and *email* are multi-valued attributes. The attributes of *course* entity are *c\_id*, *name*, *dept\_name* and *credits* where *c\_id* is the primary key attribute.
+
+What is the minimum number of tables needed to represent the above entity relationship?
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Equal
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+5
+
+**Question Number :** 96 **Question Id :** 640653737372 **Question Type :** SA Calculator : None
+
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 4
+
+**Question Label :** Short Answer Question

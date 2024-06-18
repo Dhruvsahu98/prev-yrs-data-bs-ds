@@ -1,0 +1,80 @@
+Question Label : Short Answer Question
+
+Consider the relational schema given in Figure 4.
+
+\begin{tabular}{|c|c|c|}
+\hline
+Product & & \\
+\hline
+\multicolumn{1}{|c|}{\(\leftarrow\) product\_id} & varchar(25) & \\
+\hline
+\multicolumn{1}{|c|}{category\_id} & varchar(20) & \\
+\hline
+\multicolumn{1}{|c|}{product\_name} & varchar(255) & \\
+\hline
+\multicolumn{1}{|c|}{price} & Integer & \\
+\hline
+\multicolumn{1}{|c|}{quantity} & Integer & \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|c|}
+\hline
+Orders & & \\
+\hline
+\multicolumn{1}{|c|}{\(\leftarrow\) order\_id} & varchar(20) & \\
+\hline
+\multicolumn{1}{|c|}{product\_id} & varchar(20) & \\
+\hline
+\multicolumn{1}{|c|}{user\_id} & varchar(20) & \\
+\hline
+\multicolumn{1}{|c|}{quantity} & Integer & \\
+\hline
+\multicolumn{1}{|c|}{date\_ordered} & date & \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|c|}
+\hline
+Users & & \\
+\hline
+\multicolumn{1}{|c|}{\(\leftarrow\) user\_id} & varchar(20) & \\
+\hline
+\multicolumn{1}{|c|}{user\_name} & varchar(255) & \\
+\hline
+\multicolumn{1}{|c|}{email} & varchar(255) & \\
+\hline
+\multicolumn{1}{|c|}{mobile\_no} & varchar(20) & \\
+\hline
+\multicolumn{1}{|c|}{billing\_address} & varchar(255) & \\
+\hline
+\end{tabular}
+
+Figure 4: eshop Schema
+
+If the relations Orders, Product and Users have 15, 6, 8 rows respectively, (Note: Consider all the attributes are having NOT NULL constraint.)
+
+Query:
+
+```python
+SELECT * FROM Orders RIGHT OUTER JOIN Users
+ON orders.user_id = Users.user_id;
+```
+
+A = Maximum number of rows returned by the above query.
+
+B = Minimum number of rows returned by the above query.
+
+What is the value of A-B?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :

@@ -1,0 +1,30 @@
+Question Label : Multiple Choice Question
+
+Consider the following relations:
+
+```python
+auto_part(pid, pname, color)
+auto_suppliers(sid, sname, location)
+catalog(pid, sid, price)
+```
+
+Which of the TRC expression will return the sid of auto_suppliers and pname of auto_part, whose price is equal to 5000 and suppliers location is 'Mumbai'?
+
+Options :
+
+6406532467821. ❌  $\{x | \exists s \in auto\_suppliers \exists c \in catalog(s.location = 'Mumbai' \land c.price = 5000 \land x.sid = c.sid \land s.sid = c.sid)\}$
+
+6406532467822. ❌  $\{x | \exists s \in auto\_suppliers \exists c \in catalog \exists p \in auto\_part(s.location = 'Mumbai' \land c.price = 5000 \land s.sid = c.sid \land p.pid = c.pid)\}$
+
+6406532467823. ❌  $\{x | \exists s \in auto\_suppliers \exists c \in catalog \exists p \in auto\_part(s.location = 'Mumbai' \land c.price = 5000 \land x.sid = c.sid \land x.pname = p.pname)\}$
+
+6406532467824. ✅  $\{x | \exists s \in auto\_suppliers \exists c \in catalog \exists p \in auto\_part(s.location = 'Mumbai' \land c.price = 5000 \land x.sid = c.sid \land x.pname = p.pname \land s.sid = c.sid \land p.pid = c.pid)\}$
+
+Sub-Section Number : 3
+Sub-Section Id : 640653107609
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 88 Question Id : 640653737361 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

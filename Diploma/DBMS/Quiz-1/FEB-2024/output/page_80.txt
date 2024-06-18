@@ -1,0 +1,45 @@
+Consider the two relations A and B.
+
+| A | B | C | D |
+|---|---|---|---|
+| 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 |
+| 1 | 2 | 3 | 4 |
+
+Table 1
+
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+| 1 | 1 | 1 |
+
+Table 2
+
+How many columns will be there in the union of the above two relations?
+
+Options :
+
+6406532467813.  \(\times\) 4
+6406532467814.  \(\times\) 6
+6406532467815.  \(\times\) 7
+6406532467816.  \(\checkmark\) Union not possible
+
+Question Number : 90 Question Id : 640653737364 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider a relational schema instructor(id, name, dept\_name, salary). To change the data type of id, which of the following categories of SQL command is used for this purpose?
+
+Options :
+
+6406532467817.  \(\times\) DML
+6406532467818.  \(\times\) TCL
+6406532467819.  \(\times\) DCL
+6406532467820.  \(\checkmark\) DDL
+
+Sub-Section Number : 
+Sub-Section Id : 
+                                                                                                          5
+                                                                                                640653107611

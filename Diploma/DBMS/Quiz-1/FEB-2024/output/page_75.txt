@@ -1,0 +1,23 @@
+Sub-Section Id : 640653107607
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 84 Question Id : 640653737359 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL : DATABASE MANAGEMENT SYSTEMS (COMPUTER BASED EXAM)"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options : 
+6406532467799. YES
+6406532467800. NO
+
+Sub-Section Number : 2
+Sub-Section Id : 640653107608
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 85 Question Id : 640653737360 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

@@ -1,0 +1,35 @@
+```python
+select name
+from instructor I, department D
+where D.dept_name = I.dept_name
+and (I.dept_name = 'Finance'
+or building in ('Watson', 'Taylor'));
+```
+6406532467826. ❌
+
+```python
+select name
+from instructor I, department D
+where D.dept_name = I.dept_name
+and (I.dept_name = 'Finance'
+and building in ('Watson', 'Taylor'));
+```
+6406532467827. ❌
+
+```python
+select name
+from instructor I Natural Join department D
+where I.dept_name = 'Finance'
+or building in ('Watson', 'Taylor');
+```
+6406532467828. ✅
+
+Sub-Section Number : 6
+Sub-Section Id : 640653107612
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 92 Question Id : 640653737367 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question

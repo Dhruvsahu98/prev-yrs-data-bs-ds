@@ -1,0 +1,48 @@
+Sub-Section Number : 10
+Sub-Section Id : 640653107616
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653737374 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (99 to 100)
+Question Label : Comprehension
+
+Consider the tables Players and Points as shown below and answer the given subquestions.
+
+| Player\_ID | Name | Jersey\_No |
+|---|---|---|
+| 1 | Harry | 9 |
+| 2 | Jake | 22 |
+| 3 | Louis | 10 |
+| 4 | John | 55 |
+| 5 | Joseph | 6 |
+| 6 | Luke | 4 |
+
+Table 10: Players
+
+| Match\_ID | Score | Player\_ID |
+|---|---|---|
+| 10 | 200 | 1 |
+| 5 | 170 | 2 |
+| 9 | 166 | 3 |
+| 6 | 250 | 4 |
+
+Table 11: Points
+
+Sub questions
+
+Question Number : 99 Question Id : 640653737375 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+How many rows will be returned by the output of below query?
+
+```python
+select *
+from Players left outer join Points
+on Players.Player_ID=Points.Player_ID
+where name like 'J%';
+```
+
+Response Type : Numeric

@@ -1,0 +1,37 @@
+Consider the relational schema given below:
+
+| Drivers |  |
+|---|---|
+| DriverID | integer |
+| DriverName | string |
+| BrandID | integer |
+| DesgID | integer |
+| Add field |  |
+
+| Brands |  |
+|---|---|
+| BrandID | integer |
+| BrandName | string |
+| Add field |  |
+
+| Designations |  |
+|---|---|
+| DesgID | integer |
+| Salary | integer |
+| Add field |  |
+
+What will be the result of the following query?
+
+```python
+SELECT DriverName FROM Drivers D NATURAL JOIN Designations T WHERE T.Salary > ALL (SELECT salary FROM Designations T, Brands B, Drivers D WHERE T.DesgID = D.DesgID AND B.BrandID = D.BrandID AND B.BrandName = 'Mercedes') INTERSECT SELECT DriverName FROM Drivers D NATURAL JOIN Designations T WHERE T.Salary < ALL (SELECT salary FROM Designations T, Brands B, Drivers D WHERE T.DesgID = D.DesgID AND B.BrandID = D.BrandID AND B.BrandName = 'Ferrari') 
+```
+
+Options :
+
+6406532467801.  ✔ Names of all the drivers whose salary is greater than all Mercedes drivers but less than all Ferrari drivers
+
+6406532467802. ✖ Names of all the drivers whose salary is less than all Mercedes drivers but greater than all Ferrari drivers
+
+6406532467803. ✖ Names of all the drivers whose salary is greater than all Mercedes drivers as well as all Ferrari drivers
+
+6406532467804. ✖ Names of all the drivers whose salary is less than all Mercedes drivers as well
