@@ -1,0 +1,44 @@
+```python
+CREATE TABLE insurance (ins_id varchar(20) primary key, policyHolderName varchar(20) not null, age int not null, premium int not null)
+```
+
+```python
+CREATE TABLE nominee (nominee_id varchar(20) primary key, NomineeName varchar(20), relationship varchar(20), ins_id varchar(20), foreign key (ins_id) references insurance(ins_id) ON DELETE CASCADE)
+```
+
+The instance of the table insurance and nominee is as shown below:
+
+| ins\_id | policyHolderName | age | premium |
+|---|---|---|---|
+| INS001 | Ramesh | 28 | 9800 |
+| INS002 | Sumesh | 29 | 8800 |
+| INS003 | Suresh | 33 | 12200 |
+| INS004 | Rajesh | 31 | 11100 |
+
+Table 9: insurance
+
+| nominee\_id | NomineeName | relationship | ins\_id |
+|---|---|---|---|
+| NM001 | Shakti | Wife | INS001 |
+| NM002 | Mukti | Wife | INS002 |
+| NM003 | Yukti | Daughter | INS003 |
+
+Table 10: nominee
+
+Sub questions
+
+Question Number : 82 Question Id : 640653668520 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+The following SQL query is executed:
+
+```python
+delete from insurance where ins_id = 'INS001';
+```
+
+What will be the value of x, if x represents the total number of rows in insurance and nominee table counted together?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

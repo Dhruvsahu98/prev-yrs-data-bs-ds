@@ -1,0 +1,30 @@
+Choose the SQL query that will give output FirstName and Email of all teachers whose phone numbers end with '8' and who do not teach 'History'
+
+**Options :**
+
+6406532239717. ✅ Select Teachers.FirstName, Teachers.Email
+From Teachers Natural Join Courses
+Where Phone like '%8' AND CourseName <> 'History'
+
+6406532239718. ✖ Select Teachers.FirstName, Teachers.Email
+From Teachers Join Courses
+Where Phone like '%8' AND CourseName not like 'History'
+
+6406532239719. ✖ Select Teachers.FirstName, Teachers.Email
+From Teachers Natural Join Courses
+Where Phone like '%8' AND CourseName <> 'History'
+
+6406532239720. ✖ Select Teachers.FirstName, Teachers.Email
+From Teachers Natural Join Courses
+Where Phone like '%8' AND CourseName <> 'History'
+
+**Sub-Section Number :** 8
+**Sub-Section Id :** 64065395154
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null
+
+**Question Id :** 640653668519 **Question Type :** COMPREHENSION **Sub Question Shuffling Allowed :** No Group Comprehension Questions : **No Question Pattern Type :** NonMatrix **Calculator :** None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Question Numbers :** (82 to 84)
+**Question Label :** Comprehension
+
+Consider the SQL query to create a table **Insurance** and **Nominee** as shown below and answer the given subquestions

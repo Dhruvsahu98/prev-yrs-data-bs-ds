@@ -1,0 +1,37 @@
+Question Number : 78 Question Id : 640653668511 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Consider the tables customer and bank\_name as shown below.
+
+| customer\_name | bank\_name |
+|---|---|
+| Ram | SBI |
+| Rajib | Axis |
+| Rajib | SBI |
+| Rakesh | Axis |
+| Rajib | PNB |
+| Rahul | SBI |
+| Vijay | PNB |
+
+Table 5: customer
+
+| bank\_name |
+|---|
+| SBI |
+| Axis |
+| PNB |
+
+Table 6: bank\_name
+
+Which of the following relational algebra expressions gives the customer\_name of customers who have accounts in all branches of the bank?
+
+Options :
+
+6406532239709.  $\prod_{customer\_name} (customer \bowtie bank\_name)$
+
+6406532239710.  $\prod_{customer\_name} (customer \times bank\_name)$
+
+6406532239711.  $\checkmark$ customer $\div$ bank\_name
+
+6406532239712.  $\checkmark$ $\prod_{customer\_name} (\sigma_{customer\_name='Rajib'}(customer \bowtie bank\_name))$

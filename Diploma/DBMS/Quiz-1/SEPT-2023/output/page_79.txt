@@ -1,0 +1,58 @@
+Question Label : Multiple Choice Question
+
+Consider the following relation in university database.
+`student(ID, name, dept_name)`
+`takes(ID, course_id)`
+`course(course_id, title, dept_name)`
+
+Which of the following queries returns the ID and name of students who have taken all the courses offered by the Biology department?
+
+Options :
+
+```python
+select distinct S.ID, S.name
+from student as S
+where not exists ( select course_id
+from course
+where dept_name = 'Biology')
+union
+(select T.course_id
+from takes as T
+where S.ID = T.ID)
+```
+6406532239704. ❌
+
+```python
+select distinct S.ID, S.name
+from student as S
+where not exists ( select course_id
+from course
+where dept_name = 'Biology')
+except
+(select T.course_id
+from takes as T
+where S.ID = T.ID)
+```
+6406532239705. ❌
+
+```python
+select distinct S.ID, S.name
+from student as S
+where not exists ( select course_id
+from course
+where dept_name = 'Biology')
+except 
+(select T.course_id
+from takes as T
+where S.ID = T.ID))
+```
+6406532239706. ✅
+
+```python
+select distinct S.ID, S.name
+from student as S
+where not exists ( select course_id
+from course
+where dept_name = 'Biology')
+```
+6406532239707. ❌

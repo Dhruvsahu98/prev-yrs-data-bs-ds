@@ -1,0 +1,28 @@
+```python
+select distinct S.ID, S.name
+from student as S
+where not exists (select course_id
+from course
+where dept_name = 'Biology'
+intersect
+(select T.course_id
+from takes as T
+where S.ID = T.ID))
+```
+
+Question Number: 72 Question Id : 640653668516 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Consider the following relational schema:
+Passenger($P\_id$, $P\_name$, $B\_id$)
+Pilot($Pilot\_id$, $Pilot\_name$, $Flight\_No$)
+Bookings($Booking\_id$, $Boarding$, $Destination$, $Flight\_No$, $P\_id$, $Pilot\_id$)
+
+Choose the suitable query that will find the names of all passengers who flew from New York with pilot named James Wan in flight number 3005.
+
+Options :
+6406532239725.  $\Pi_{P\_name} (Passenger \bowtie \Pi_{P\_id} (\sigma_{Boarding='NewYork' \land Flight\_No='3005' \land Pilot\_name='James Wan'}(Pilot \bowtie Bookings)))$
+6406532239726.  $\Pi_{P\_name} (Passenger \bowtie \Pi_{Pilot\_name} (\sigma_{Boarding='NewYork' \land Flight\_No='3005' \land Pilot\_name='James Wan'}(Pilot \bowtie Bookings)))$
+6406532239727.  $\Pi_{P\_name} (Passenger \bowtie \Pi_{P\_id} (\sigma_{Boarding='NewYork' \land Flight\_No='3005' \land Pilot\_name='James Wan'}(Passenger \bowtie Bookings)))$
+6406532239728.  $\Pi_{P\_name} (Passenger \bowtie \Pi_{P\_id} (\sigma_{Destination='NewYork' \land Flight\_No='3005' \land Pilot\_name='James Wan'}(Pilot \bowtie Passenger)))$

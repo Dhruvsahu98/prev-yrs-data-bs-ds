@@ -1,0 +1,32 @@
+Sub questions
+
+Question Number : 80 Question Id : 640653668513 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Choose the query that will output the distinct first and last names of all students who enrolled in at least one course before '2023-08-03'.
+
+Options : 
+6406532239713. ❌ Select Distinct FirstName, LastName
+From Students Join Enrollments
+on students.studentid = enrollments.courseid and EnrollmentDate < '2023-08-03'
+
+6406532239714. ✅ Select Distinct FirstName, LastName
+From Students Natural Join Enrollments
+Where EnrollmentDate < '2023-08-03'
+
+6406532239715. ❌ Select Distinct FirstName, Distinct LastName
+From Students Natural Join Enrollments
+Where EnrollmentDate < '2023-08-03'
+
+6406532239716. ❌ Select Distinct FirstName, Distinct LastName
+From Students Join Enrollments
+on EnrollmentDate < '2023-08-03'
+
+Question Number : 81 Question Id : 640653668514 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question

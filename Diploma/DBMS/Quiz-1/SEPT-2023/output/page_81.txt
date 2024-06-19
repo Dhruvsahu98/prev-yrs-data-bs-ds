@@ -1,0 +1,44 @@
+Question Number : 73 Question Id : 640653668517 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+What is the minimum number of tables required to convert the given ER Diagram into the relational model?
+
+\begin{tikzpicture}[node distance=1.5cm]
+  \node (students) [rectangle, draw] {Students};
+  \node (name) [ellipse, draw, left of=students] {Name};
+  \node (roll) [ellipse, draw, above of=students] {Roll No.};
+  \node (phone) [ellipse, draw, right of=students, double] {Phone No.};
+  \node (courses) [rectangle, draw, below of=students] {Courses};
+  \node (enroll) [diamond, draw, below of=students, yshift=-0.5cm] {Enrolled};
+  \node (courseid) [ellipse, draw, below of=courses, xshift=-1.5cm] {Course ID};
+  \node (coursename) [ellipse, draw, below of=courses] {Course Name};
+  \node (instr1) [diamond, draw, right of=students] {Instructor};
+  \node (teachers) [rectangle, draw, right of=instr1] {Teachers};
+  \node (teacherid) [ellipse, draw, below of=teachers, xshift=-1.5cm] {Teacher ID};
+  \node (teachername) [ellipse, draw, below of=teachers] {Teacher Name};
+  \node (phone2) [ellipse, draw, below of=teachers, xshift=1.5cm] {Phone No.};
+  \node (instr2) [ellipse, draw, below of=courses, xshift=1.5cm] {Instructor};
+
+  \draw (students) -- (name);
+  \draw (students) -- (roll);
+  \draw (students) -- (phone);
+  \draw (students) -- (enroll);
+  \draw (enroll) -- (courses);
+  \draw (courses) -- (courseid);
+  \draw (courses) -- (coursename);
+  \draw (courses) -- (instr2);
+  \draw (students) -- (instr1);
+  \draw (instr1) -- (teachers);
+  \draw (teachers) -- (teacherid);
+  \draw (teachers) -- (teachername);
+  \draw (teachers) -- (phone2);
+\end{tikzpicture}
+
+Figure 2: ER Diagram
+
+Options :
+6406532239729. 5
+6406532239730. 7
+6406532239731. 3
+6406532239732. 4

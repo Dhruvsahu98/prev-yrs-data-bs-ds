@@ -1,0 +1,30 @@
+With A as(select roll\_no, marks from student\_marks where assignment\_id='Quiz-1'),
+B as(select roll\_no, marks from student\_marks where assignment\_id='Quiz-2'),
+C as(select roll\_no, marks from student\_marks where assignment\_id='End-Term')
+select C.roll\_no, A.marks as Quiz1, B.marks as Quiz2, C.marks as EndTerm
+From C left join A on C.roll\_no=A.roll\_no
+left join B on B.roll\_no=C.roll\_no
+order by roll\_no
+
+With A as(select roll\_no, marks from student\_marks where assignment\_id='Quiz-1'),
+B as(select roll\_no, marks from student\_marks where assignment\_id='Quiz-2'),
+C as(select roll\_no, marks from student\_marks where assignment\_id='End-Term')
+select B.roll\_no, A.marks as Quiz1, B.marks as Quiz2, C.marks as EndTerm
+From C left join A on C.roll\_no=A.roll\_no
+left join B on B.roll\_no=C.roll\_no
+order by roll\_no
+
+6406532239702. 
+
+With A as(select roll\_no, marks from student\_marks where assignment\_id='Quiz-1'),
+B as(select roll\_no, marks from student\_marks where assignment\_id='Quiz-2'),
+C as(select roll\_no, marks from student\_marks where assignment\_id='End-Term')
+select A.roll\_no, A.marks as Quiz1, B.marks as Quiz2, C.marks as EndTerm
+From C full join A on C.roll\_no=A.roll\_no
+full join B on B.roll\_no=C.roll\_no
+order by roll\_no
+
+6406532239703. 
+
+Question Number : 71 Question Id : 640653668509 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4

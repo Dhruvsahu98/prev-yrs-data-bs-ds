@@ -1,0 +1,28 @@
+Question Number : 74 Question Id : 640653668524 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following relations:
+auto\_part($pid$, $pname$, $color$)
+auto\_suppliers($sid$, $sname$, $location$)
+catalog($pid$, $sid$, $price$)
+Consider the TRC expression:
+$\{x \mid \exists s \in auto\_suppliers \exists c \in catalog \ p.price = 5000 \land x.sid = c.sid \land x.pname = p.pname \land s.sid = c.sid \land p.pid = c.pid \}$
+Choose the correct DRC expression equivalent to the TRC expression shown above.
+
+Options :
+```python
+6406532239750.  ✓  {< p, n > |  ∃m, n, o(< m, n, o > ∈ auto_parts) ∧ ∃p, q, r(< p, q, r > ∈ auto_suppliers) ∧ r = 'Mumbai' ∧ ∃a, b, c(< a, b, c > ∈ catalog ∧ c = 5000 ∧ m = a ∧ p = b)}
+```
+```python
+6406532239751.  ✗  {< q, n > |  ∃m, n, o(< m, n, o > ∈ auto_parts) ∧ ∃p, q, r(< p, q, r > ∈ auto_suppliers) ∧ r = 'Mumbai' ∧ ∃a, b, c(< a, b, c > ∈ catalog ∧ c = 5000 ∧ m = a ∧ p = b)}
+```
+```python
+6406532239752.  ✗  {< p, n > |  ∃m, n, o(< m, n, o > ∈ auto_parts) ∧ ∃p, q, r(< p, q, r > ∈ auto_suppliers) ∧ r = 'Mumbai' ∧ ∃a, b, c(< a, b, c > ∈ catalog ∧ c = 5000)}
+```
+```python
+6406532239753.  ✗  {< q, n > |  ∃m, n, o(< m, n, o > ∈ auto_parts) ∧ ∃p, q, r(< p, q, r > ∈ auto_suppliers) ∧ r = 'Mumbai' ∧ ∃a, b, c(< a, b, c > ∈ catalog ∧ c = 5000)}
+```
+Sub-Section Number : 3
+Sub-Section Id : 64065395149
+Question Shuffling Allowed : Yes
+Is Section Default? : null

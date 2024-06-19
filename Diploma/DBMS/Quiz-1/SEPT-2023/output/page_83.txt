@@ -1,0 +1,39 @@
+Question Number : 75 Question Id : 640653668515 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the tables Employee and Manager as shown below:
+
+| EmpID | Name | Age |
+|---|---|---|
+| 1 | Percy | 16 |
+| 2 | Jason | 17 |
+| 3 | Nico | 14 |
+| 4 | Leo | 15 |
+| 5 | Frank | 16 |
+
+Table 7: Employee Table
+
+| Manager ID | Name | Age |
+|---|---|---|
+| 5 | Annabeth | 20 |
+| 2 | Piper | 18 |
+| 3 | Hazel | 19 |
+
+Table 8: Manager Table
+
+How many tuples will be there as a result of the following query?
+
+```python
+SELECT EmpID
+FROM Employee
+WHERE Employee.Age > ALL (SELECT Manager.Age
+FROM Manager
+WHERE Manager.Name = 'Rayna')
+```
+
+Options :
+6406532239721.  ✓ 5
+6406532239722.  ✗ 0
+6406532239723.  ✗ 3
+6406532239724.  ✗ 1

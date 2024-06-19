@@ -1,0 +1,50 @@
+Question Number : 76 Question Id : 640653668523 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A university database contains information about professors (identified by empid) and courses (identified by courseid). Professors have a name, and address. Courses have a name and a number of credits. Professors teach courses. 
+Draw an ER diagram for the following situation:
+Every professor teaches exactly one course, and every course must be taught by some professors.
+Choose the correct option.
+Options :
+```python
+# This is a code block in python format
+```
+\begin{tabular}{ccc}
+\begin{tabular}{|c|}
+\hline
+Professors \\ \hline
+\end{tabular} & \begin{tabular}{|c|}
+\hline
+Teach \\ \hline
+\end{tabular} & \begin{tabular}{|c|}
+\hline
+Courses \\ \hline
+\end{tabular} \\
+\end{tabular}
+\begin{tabular}{ccc}
+\begin{tabular}{|c|}
+\hline
+Professors \\ \hline
+\end{tabular} & \begin{tabular}{|c|}
+\hline
+Teach \\ \hline
+\end{tabular} & \begin{tabular}{|c|}
+\hline
+Courses \\ \hline
+\end{tabular} \\
+\end{tabular}
+\begin{tabular}{ccc}
+\begin{tabular}{|c|}
+\hline
+Professors \\ \hline
+\end{tabular} & \begin{tabular}{|c|}
+\hline
+Teach \\ \hline
+\end{tabular} & \begin{tabular}{|c|}
+\hline
+Courses \\ \hline
+\end{tabular} \\
+\end{tabular}
+6406532239746. ❌
+6406532239747. ✅
+6406532239748. ❌

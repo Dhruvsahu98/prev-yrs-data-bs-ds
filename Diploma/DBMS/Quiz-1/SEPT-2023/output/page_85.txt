@@ -1,0 +1,41 @@
+6406532239749. 
+
+Sub-Section Number : 4
+Sub-Section Id : 64065395150
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 77 Question Id : 640653668518 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following describes the concept that any change made to the physical schema should not affect the logical schema of the DBMS?
+Options :
+6406532239733.  Logical Data Independence
+6406532239734.  Physical Data Independence
+6406532239735.  View Data Independence
+6406532239736.  None of these
+
+Sub-Section Number : 5
+Sub-Section Id : 64065395151
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw, ellipse] (empid) at (-5, 3) {empid};
+\node[draw, ellipse] (name) at (-3, 3) {Name};
+\node[draw, ellipse] (address) at (-2, 2) {Address};
+\node[draw, rectangle] (professors) at (-4, 1) {Professors};
+\node[draw, diamond] (teach) at (0, 1) {Teach};
+\node[draw, ellipse] (courseid) at (2, 3) {courseid};
+\node[draw, ellipse] (cname) at (3, 3) {cname};
+\node[draw, ellipse] (credit) at (5, 2) {credit};
+\node[draw, rectangle] (courses) at (3, 1) {Courses};
+\draw[->] (empid) -- (professors);
+\draw[->] (name) -- (professors);
+\draw[->] (address) -- (professors);
+\draw[->] (professors) -- (teach);
+\draw[->] (teach) -- (courses);
+\draw[->] (courseid) -- (courses);
+\draw[->] (cname) -- (courses);
+\draw[->] (credit) -- (courses);
+\end{tikzpicture}

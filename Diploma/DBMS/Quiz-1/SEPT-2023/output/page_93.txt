@@ -1,0 +1,24 @@
+| nominee\_id | NomineeName | relationship | ins\_id |
+|---|---|---|---|
+| NM001 | Shakti | Wife | INS001 |
+| NM002 | Mukti | Wife | INS002 |
+| NM003 | Yukti | Daughter | INS003 |
+| NM004 | Sonu | Son | INS005 |
+| NM010 | NULL | NULL | INS005 |
+
+6406532239741. 
+
+Question Number : 84 Question Id : 640653668522 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+The information about the insurance policy holder having a premium greater than 9000 is stored in a VIEW by name **premiumholder**.
+The SQL query is shown below:
+```python
+create view premiumholder as
+select * from insurance natural join nominee
+where premium > 9000
+```
+What will be the output of relational algebra expression shown below?
+$$\prod_{nomineename}(\sigma_{age>25}(premiumholder))$$
+Options :

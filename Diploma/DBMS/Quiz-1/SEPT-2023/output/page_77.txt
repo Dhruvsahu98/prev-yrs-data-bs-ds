@@ -1,0 +1,49 @@
+**Question Label : Multiple Choice Question**
+
+Consider the instance of the student\_marks table in the IIT Madras BS degree database, as shown in Table 1.
+
+| roll\_no | course\_id | assignment\_id | marks |
+|---|---|---|---|
+| 21f12 | CS2001 | Quiz-1 | 65 |
+| 21f12 | CS2001 | Quiz-2 | 72 |
+| 21f12 | CS2001 | End-Term | 79 |
+| 21f13 | CS2001 | End-Term | 81 |
+| 21f13 | CS2001 | Quiz-2 | 90 |
+| 21f11 | CS2001 | Quiz-1 | 59 |
+| 21f11 | CS2001 | End-Term | 95 |
+
+Table 1: student\_marks
+
+The professor is interested in the data shown in Table 2.
+
+| roll\_no | Quiz1 | Quiz2 | EndTerm |
+|---|---|---|---|
+| 21f11 | 59 | null | 95 |
+| 21f12 | 65 | 72 | 79 |
+| 21f13 | null | 90 | 81 |
+
+Table 2: student\_marks
+
+Which of the following SQL queries will produce the resultant data shown in Table 2.
+
+**Options :**
+
+With A as(select roll\_no,marks from student\_marks where assignment\_id='Quiz-1'),
+B as(select roll\_no,marks from student\_marks where assignment\_id='Quiz-2'),
+C as(select roll\_no,marks from student\_marks where assignment\_id='End-Term')
+
+```python
+select A.roll_no, A.marks as Quiz1, B.marks as Quiz2, C.marks as EndTerm
+From C left join A on C.roll_no=A.roll_no
+left join B on B.roll_no=C.roll_no
+order by roll_no
+```
+6406532239700. ❌
+
+```python
+select A.roll_no, A.marks as Quiz1, B.marks as Quiz2, C.marks as EndTerm
+From C left join A on C.roll_no=A.roll_no
+left join B on B.roll_no=C.roll_no
+order by roll_no
+```
+6406532239701. ✅

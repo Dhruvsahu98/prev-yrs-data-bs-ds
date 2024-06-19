@@ -1,0 +1,53 @@
+## Answers Type : Equal
+## Text Areas : PlainText
+## Possible Answers :
+## 5
+
+## Question Number : 83 Question Id : 640653668521 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+## Correct Marks : 4
+## Question Label : Multiple Choice Question
+
+The following insert statements are executed in the given sequence.
+
+```python
+insert into insurance values ('INS005', 'Rakesh', 24, 7000);
+insert into nominee values ('NM004', 'Sonu', 'Son', 'INS005');
+insert into nominee values ('NM004', 'Suman', 'Wife', 'INS004');
+insert into nominee values ('NM004', 'Monu', 'Son', 'INS005');
+insert into nominee(nominee_id, ins_id) values ('NM010', 'INS005');
+```
+
+What will be the output of the below query?
+
+```python
+SELECT * FROM nominee
+```
+
+## Options :
+
+| nominee_id | NomineeName | relationship | ins_id |
+|---|---|---|---|
+| NM001 | Shakti | Wife | INS001 |
+| NM002 | Mukti | Wife | INS002 |
+| NM003 | Yukti | Daughter | INS003 |
+
+6406532239738. ❌
+
+| nominee_id | NomineeName | relationship | ins_id |
+|---|---|---|---|
+| NM001 | Shakti | Wife | INS001 |
+| NM002 | Mukti | Wife | INS002 |
+| NM003 | Yukti | Daughter | INS003 |
+| NM004 | Sonu | Son | INS005 |
+
+6406532239739. ❌
+
+| nominee_id | NomineeName | relationship | ins_id |
+|---|---|---|---|
+| NM001 | Shakti | Wife | INS001 |
+| NM002 | Mukti | Wife | INS002 |
+| NM003 | Yukti | Daughter | INS003 |
+| NM004 | Sonu | Son | INS005 |
+| NM010 |  |  | INS005 |
+
+6406532239740. ✅

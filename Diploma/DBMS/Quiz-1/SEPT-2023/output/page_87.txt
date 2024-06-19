@@ -1,0 +1,51 @@
+Sub-Section Number : 6
+Sub-Section Id : 64065395152
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 79 Question Id : 640653668510 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider the tables *student* and *course* as shown below.
+\begin{tabular}{|c|c|c|}
+\hline
+ID & name & dept\_name \\
+\hline
+21f11 & Ram & CS \\
+\hline
+21f12 & Rakesh & ME \\
+\hline
+21f13 & Pranav & EE \\
+\hline
+21f14 & Rajib & CS \\
+\hline
+21f15 & Vikash & BT \\
+\hline
+\end{tabular}
+Table 3: *student*
+\begin{tabular}{|c|c|c|}
+\hline
+course\_id & title & dept\_name \\
+\hline
+C001 & DBMS & CS \\
+\hline
+C002 & CAD & ME \\
+\hline
+C003 & Digital & EE \\
+\hline
+C004 & PDSA & CS \\
+\hline
+\end{tabular}
+Table 4: *course*
+How many rows are returned by the below query?
+```python
+SELECT ID FROM student, course
+EXCEPT ALL
+SELECT ID FROM student
+EXCEPT ALL
+SELECT ID FROM student
+```
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
