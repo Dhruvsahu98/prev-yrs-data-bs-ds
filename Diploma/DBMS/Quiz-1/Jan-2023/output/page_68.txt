@@ -1,0 +1,33 @@
+```python
+CREATE VIEW player_name (name, team_id) ON
+SELECT name, team_id from player
+Where name like 'K%' AND jersey_no=10
+```
+6406531562724. ❌
+```python
+CREATE VIEW player_name (name, team_id) AS
+SELECT name, team_id from player
+where name like '%K' AND jersey_no=10
+```
+6406531562725. ✅
+```python
+CREATE VIEW player_name (name, team_id) AS
+SELECT name, team_id from player
+where name like '%K' AND jersey_no=10
+```
+Question Number : 72 Question Id : 640653470277 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The ability to modify the physical schema without changing the logical schema is known as 
+Options :
+6406531562731. ❌ Logical Data Independence
+6406531562732. ✅ Physical Data Independence
+6406531562733. ❌ View Data Independence
+6406531562734. ❌ None of these
+Question Number : 73 Question Id : 640653470279 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following languages defines and manipulates the schema of a database? 
+Options :

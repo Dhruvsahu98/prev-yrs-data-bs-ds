@@ -1,0 +1,28 @@
+```python
+{s | ∃e ∈ employee ∃d ∈ department ∃de ∈ designation(d.dept_name = 'Finance' ∧ de.salary > 50000 ∧ e.dept_id = d.dept_id ∧ e.desg_id = de.desg_id)}
+```
+6406531562754. ✅
+```python
+{s | ∃e ∈ employee ∃d ∈ department ∃de ∈ designation(s.emp_name = e.emp_name ∧ s.dob = e.dob ∧ d.dept_name = 'Finance' ∧ de.salary > 50000 ∧ e.dept_id = d.dept_id ∧ e.desg_id = de.desg_id)}
+```
+6406531562755. ❌
+```python
+{< b, c > | ∃a, b, c, d, e(< a, b, c, d, e > ∈ employee) ∧ y = 'Finance' ∧ ∃p, q, r(< p, q, r > ∈ designation ∧ r > 50000) ∧ ∃x, y(< x, y > ∈ department ∧ y = 'Finance' ∧ ∃p, q, r(< p, q, r > ∈ designation ∧ r > 50000))}
+```
+6406531562756. ❌
+```python
+{< b, c > | ∃a, b, c, d, e((< a, b, c, d, e > ∈ employee) ∧ y = 'Finance' ∧ ∃p, q, r(< p, q, r > ∈ designation ∧ r > 50000 ∧ e = p ∧ d = x))}
+```
+6406531562757. ✅
+Question Number : 85 Question Id : 640653470286 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the DRC expression given below:
+```python
+{< p, q > | ∃p, q, r(< p, q, r > ∈ designation ∧ r < 80000)}
+```
+Among the following options, choose the correct statement equivalent to the given DRC expression.
+Options :
+6406531562758. ❌ ID and name of the designation with salary more than 80000.
+6406531562759. ❌ ID of the designation with salary less than 8000.
+6406531562760. ✅ ID and name of the designation with salary less than 80000.

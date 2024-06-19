@@ -1,0 +1,43 @@
+Consider the following entity set given in Figure 1:
+
+| employee |
+|---|---|
+| id |
+| name |
+| first\_name |
+| last\_name |
+| \{mobile\_no\} |
+| annual\_income |
+| monthly\_salary() |
+
+Figure 1: employee
+
+Which among the following options is/are correct?
+
+Options :
+
+6406531562744. ❌  id: simple attribute
+ name: composite attribute
+ first\_name: composite attribute
+ last\_name: composite attribute
+ mobile\_no: multivalued attribute
+ annual\_income: derived attribute
+
+6406531562745. ✅  id: simple attribute
+ name: composite attribute
+ mobile\_no: multivalued attribute
+ monthly\_salary: derived attribute
+
+6406531562746. ❌  id: simple attribute
+ name: multivalued attribute
+ mobile\_no: composite attribute
+ annual\_income: derived attribute
+
+6406531562747. ❌  id: simple attribute
+ name: multivalued attribute
+ first\_name: composite attribute
+ last\_name: composite attribute
+ mobile\_no: multivalued attribute
+ monthly\_salary: composite attribute
+
+Question Number : 82 Question Id : 640653470283 Question Type : MCQ Is Question

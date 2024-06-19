@@ -1,0 +1,49 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Consider the table hotel\_db given in Figure 2.
+
+| name | no\_of\_rooms | address | no\_of\_vacant\_rooms |
+|---|---|---|---|
+| The Paradise | 50 | Delhi | 10 |
+| Beach View | 20 | Chennai | 7 |
+| Spring Valley | 25 | Bhopal | 15 |
+| Hillsight | 25 | Shillong | 20 |
+| Dream Desert | 35 | Jaipur | 5 |
+| The View | 40 | Pondicherry | 15 |
+| Five Seasons | 70 | Delhi | 25 |
+
+Figure 2: hotel\_db
+
+Which among the given SQL queries will return the name and number of vacant rooms available in the hotels located in either 'Delhi' or 'Chennai', where the total number of rooms is less than the maximum number of rooms among all the hotels?
+
+Options :
+
+```python
+SELECT name, no_of_vacant_rooms
+FROM hotel
+WHERE address IN ('Delhi'), ('Chennai')
+AND no_of_rooms < (SELECT MAX(no_of_rooms) FROM hotel)
+```
+6406531562749. ❌
+
+```python
+SELECT name, no_of_vacant_rooms
+FROM hotel
+WHERE address = 'Delhi' AND 'Chennai'
+AND no_of_rooms > MAX(no_of_rooms)
+```
+6406531562750. ❌
+
+```python
+SELECT name, no_of_vacant_rooms
+FROM hotel
+WHERE address IN ('Delhi', 'Chennai')
+AND no_of_rooms < (SELECT MAX(no_of_rooms) FROM hotel)
+```
+6406531562751. ✅
+
+```python
+6406531562752. ❌
+```

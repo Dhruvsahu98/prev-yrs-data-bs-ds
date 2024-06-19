@@ -1,0 +1,37 @@
+Question Number : 80 Question Id : 640653470280 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the SQL query shown below.
+
+```python
+create table person (
+ID char(10) primary key,
+name char(40) NOT NULL,
+father char(10),
+foreign key father references person(ID)
+);
+```
+
+With respect to the above query, which constraint does the table person violate?
+
+| ID | name | father |
+|---|---|---|
+| P001 | Rudra | NULL |
+| P002 | Advik | P001 |
+| P003 | Raghab | P006 |
+| P004 | Krishna | P002 |
+| P005 | Rudria | P004 |
+
+Table 4: person
+
+Options :
+6406531562740. ❌ NOT NULL
+6406531562741. ❌ PRIMARY KEY
+6406531562742. ✅ FOREIGN KEY
+6406531562743. ❌ None of these
+
+Question Number : 81 Question Id : 640653470281 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

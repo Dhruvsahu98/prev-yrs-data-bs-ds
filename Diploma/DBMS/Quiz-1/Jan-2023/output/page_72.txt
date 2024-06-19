@@ -1,0 +1,46 @@
+Text Areas : PlainText
+Possible Answers :
+4
+Question Number : 79 Question Id : 640653470282 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Let $ABC (a, b, c)$ and $BQR (b, q, r)$ be two relations with instances shown below:
+
+| a | b | c |
+|---|---|---|
+| 2 | 3 | 5 |
+| 4 | 3 | 1 |
+| 2 | 4 | 1 |
+| 1 | 1 | 2 |
+| 5 | 2 | 5 |
+
+Table 1: ABC
+
+| b | q | r |
+|---|---|---|
+| 1 | 4 | 2 |
+| 2 | 3 | 4 |
+| 5 | 1 | 2 |
+| 2 | 7 | 1 |
+
+Table 1: BQR
+
+What will be the number of tuples fetched by the given relational algebra operation?
+$\Pi_{q,r}(\sigma_{c>a}(ABC \times BQR))$
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+Sub-Section Number :
+5
+Sub-Section Id :
+64065367769
+Question Shuffling Allowed :
+Yes
+Is Section Default? :
+null

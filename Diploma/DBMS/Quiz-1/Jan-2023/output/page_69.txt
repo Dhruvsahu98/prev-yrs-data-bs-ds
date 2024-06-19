@@ -1,0 +1,28 @@
+6406531562736. ✖ Data Manipulation Language
+6406531562737. ✖ Data Control Language
+6406531562738. ✖ Transaction Control Language
+6406531562739. ✔ Data Definition Language
+
+Question Number : 74 Question Id : 640653470287 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which among the following options indicates the responsibility of a query processor?
+
+Options :
+6406531562762. ✖ To ensure that the database remains in a consistent state despite all the failures.
+6406531562763. ✔ To estimate the cost of query operations.
+6406531562764. ✖ To control the interaction among the concurrent transactions.
+6406531562765. ✖ To interact with the operating system file manager.
+
+Question Number : 75 Question Id : 640653470288 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which among the following forms of authorization is used for the creation of new relations in a database schema?
+
+Options :
+6406531562766. ✖ Read
+6406531562767. ✖ Alteration
+6406531562768. ✖ Index
+6406531562769. ✔ Resources

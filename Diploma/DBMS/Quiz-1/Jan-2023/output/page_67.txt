@@ -1,0 +1,36 @@
+6406531562727. ✖
+| dept\_name |
+|---|---|
+| Finance |
+| Physics |
+6406531562728. ✖
+| dept\_name |
+|---|---|
+| Finance |
+| Comp. Sci. |
+6406531562729. ✔
+| dept\_name |
+|---|---|
+| Finance |
+| Physics |
+| Comp. Sci. |
+
+Sub-Section Number : 3
+Sub-Section Id : 64065367767
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 71 Question Id : 640653470274 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+Consider the relational schema *player(player\_id, name, jersey\_no, dob, team\_id)*. Identify the correct SQL command to create a view *player\_name*, by selecting two columns *name* and *team\_id* from the player relation. Select those players having names starting with 'K' and jersey number as 10.
+Options :
+6406531562722. ✖
+```python
+CREATE VIEW player_name(name, team_id) TO
+SELECT name, team_id from player
+Where name like 'K%' AND jersey_no=10
+```
+6406531562723. ✖

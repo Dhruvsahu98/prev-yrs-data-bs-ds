@@ -1,0 +1,55 @@
+Consider the table instructor shown in Table 1.
+
+| id | name | salary |
+|---|---|---|
+| 6001 | Oliver | 45000 |
+| 6002 | Jack | 30000 |
+| 6003 | Oliver | 45000 |
+| 6004 | Jack | 30000 |
+| 6005 | Jacob | 70000 |
+| 6006 | Tommy | 60000 |
+| 6007 | Joseph | 65000 |
+| 6008 | Jacob | 70000 |
+
+Table 1: instructor
+
+What will be the output of the following query ?
+
+```python
+SELECT name
+FROM instructor AS a
+WHERE (SELECT COUNT(*)
+FROM instructor b
+WHERE b.salary>a.salary)>2
+EXCEPT ALL
+SELECT DISTINCT(name)
+FROM instructor
+```
+
+Options :
+
+6406531562718.  
+$\begin{array}{|c|}\hline
+\text{name}\\\hline
+\text{Tommy}\\\hline
+\text{Joseph}\\\hline
+\end{array}$
+
+6406531562719.  
+$\begin{array}{|c|}\hline
+\text{name}\\\hline
+\text{Oliver}\\\hline
+\text{Jack}\\\hline
+\end{array}$
+
+6406531562720.  
+$\begin{array}{|c|}\hline
+\text{name}\\\hline
+\text{Jacob}\\\hline
+\end{array}$
+
+6406531562721.  
+$\begin{array}{|c|}\hline
+\text{name}\\\hline
+\text{Tommy}\\\hline
+\end{array}$

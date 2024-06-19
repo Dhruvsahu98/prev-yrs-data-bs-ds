@@ -1,0 +1,41 @@
+Consider the table player and predict the output of the query that follows.
+
+| player\_id | name | jersey\_no |
+|---|---|---|
+| P001 | Rudra | 10 |
+| P002 | Advik | 20 |
+| P003 | Raghab | 30 |
+| P004 | Krishna | 40 |
+| P005 | Rudra | 80 |
+
+Table 3: player
+
+```python
+SELECT COUNT(name)
+FROM ( ( SELECT player_id, name, jersey_no
+FROM player) as P
+NATURAL JOIN ( SELECT name, jersey_no
+FROM player) as J)
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+7
+
+Question Number : 78 Question Id : 640653470278 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+
+Consider an entity relationship in which entity sets student and course have a many-to-many relationship. The attributes of student entity are $id$, $name$, $dept\_name$, and $mobile\_no$ where $id$ is the primary key attribute and $mobile\_no$ is the multivalued attribute. The attributes of course entity are $c\_id$, $name$, $dept\_name$, and $credits$ where $c\_id$ is the primary key attribute.
+
+What is the minimum number of tables needed to represent the above entity relationship?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

@@ -1,0 +1,25 @@
+Question Number : 76 Question Id : 640653470289 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Which among the following relational algebraic expressions is equivalent to the SQL statement given below?
+```python
+SELECT name FROM product WHERE rating < 10
+EXCEPT
+SELECT name FROM product WHERE rating < 7
+```
+
+Options :
+6406531562770.  $\prod_{name} ((\sigma_{rating<10} \vee \sigma_{rating<7}(product))$ 
+6406531562771. $\prod_{name} ((\sigma_{rating<10} \wedge \sigma_{rating<7}(product))$
+6406531562772. $\prod_{name} ((\sigma_{rating<10} \wedge \sigma_{rating\geq7}(product))$
+6406531562773. $\prod_{name} ((\sigma_{rating>7} \vee \sigma_{rating\leq10}(product))$
+
+Sub-Section Number : 4
+Sub-Section Id : 64065367768
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 77 Question Id : 640653470276 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

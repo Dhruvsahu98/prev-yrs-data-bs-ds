@@ -1,0 +1,51 @@
+SELECT name, no\_of\_vacant\_rooms
+FROM hotel
+WHERE address = 'Delhi' OR address 'Chennai'
+AND no\_of\_rooms < MAX(no\_of\_rooms)
+
+Sub-Section Number : 6
+Sub-Section Id : 6406536770
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 83 Question Id : 640653470290 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+
+Question Label : Multiple Select Question
+Consider the three relations given in Figure 3.
+
+| r1 | A | B |
+|---|---|---|
+|  | a1 | b1 |
+|  | a2 | b2 |
+|  | a3 | b3 |
+|  | a4 | b4 |
+|  | a5 | b5 |
+
+| r2 | A | B |
+|---|---|---|
+|  | a1 | b1 |
+|  | a4 | b4 |
+|  | a5 | b5 |
+
+| r3 | A | B |
+|---|---|---|
+|  | a2 | b2 |
+|  | a4 | b4 |
+|  | a5 | b5 |
+
+Figure 3: Relations r1, r2 and r3
+
+Choose the relational algebra expression that results in the relation given in Figure 4.
+
+|  | A | B |
+|---|---|---|
+|  | a4 | a4 |
+|  | a5 | a5 |
+
+Figure 4: Resulting relation
+
+Options :
+
+6406531562774.  $\checkmark$ r1 $\cap$ r2 $\cap$ r3
