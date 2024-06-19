@@ -1,0 +1,42 @@
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+
+Question Number : 81 Question Id : 640653577832 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Consider the relation student shown in Table 3
+
+| Roll.no | Name | marks |
+|---|---|---|
+| 1 | Ram | 50 |
+| 2 | Rakesh | 65 |
+| 3 | Ramv | 45 |
+| 4 | Pranav | 89 |
+| 5 | Rakesh | 99 |
+| 6 | Emily | 99 |
+| 7 | Grace | 100 |
+| 8 | Lily | 95 |
+
+Table 3: student
+
+What is the number of tuples returned by the following relational algebra expression $\Pi_{name}(\sigma_{marks>50}(student))$
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+Sub-Section Number : 
+8
+Sub-Section Id : 
+64065382584
+Question Shuffling Allowed : 
+Yes
+Is Section Default? : 
+null

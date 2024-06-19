@@ -1,0 +1,29 @@
+Question Label : Multiple Choice Question
+
+Consider the relation schema *company*(name, area, city) and *project*(pid, budget, location). The domain of attributes city and location is the same i.e. Indian cities. Which of the following relational algebra expression would list all cities that are common in company and project?
+
+Options :
+
+6406531929546. ❌  $\Pi_{city}(company) \cup \Pi_{location}(project)$
+
+6406531929547. ❌  $\Pi_{city}(company) - \Pi_{location}(project)$
+
+6406531929548. ❌  $\Pi_{city}(company) \bowtie \Pi_{location}(project)$
+
+6406531929549. ✅  $\Pi_{city}(company) - (\Pi_{city}(company) - \Pi_{location}(project))$
+
+Sub-Section Number : 4
+
+Sub-Section Id : 64065382580
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 75 Question Id : 640653577835 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question

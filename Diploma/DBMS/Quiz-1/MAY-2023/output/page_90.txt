@@ -1,0 +1,38 @@
+Question Label : Multiple Choice Question
+An instance of the relation **students** is given below.
+
+| sid | name | age | gpa |
+|---|---|---|---|
+| 53831 | Madayan | 11 | 1.8 |
+| 53832 | Guldu | 12 | 2 |
+| 53666 | Jones | 18 | 3.4 |
+| 53688 | Smith | 19 | 3.2 |
+| 53650 | Smith | 19 | 3.8 |
+
+Figure 3: Relation students
+
+Which of the following query executed on relation **students** would result in the output given below ?
+
+| sid | name | age | gpa |
+|---|---|---|---|
+| 53832 | Guldu | 12 | 2 |
+| 53666 | Jones | 18 | 3.4 |
+| 53831 | Madayan | 11 | 1.8 |
+| 53650 | Smith | 19 | 3.8 |
+| 53688 | Smith | 19 | 3.2 |
+
+Figure 4: Output
+
+Options :
+
+6406531929569. ❌ SELECT * FROM students
+
+6406531929570. ❌ SELECT * FROM students ORDER BY name
+
+6406531929571. ✅ SELECT * FROM students ORDER BY name, sid
+
+6406531929572. ❌ SELECT * FROM students ORDER BY name, sid desc
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065382579

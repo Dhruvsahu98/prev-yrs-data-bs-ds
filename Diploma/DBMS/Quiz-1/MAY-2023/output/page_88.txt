@@ -1,0 +1,21 @@
+Question Number : 70 Question Id : 640653577825 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider the following scenario:
+
+The Reserve Bank of India (RBI) has issued guidelines declaring that the Rs. 2000 note will no longer be considered legal tender, starting from a specific date. The RBI wants to update its database to reflect this change and ensure that transactions involving the Rs. 2000 note are flagged as invalid.
+
+Which DBMS concept would be most relevant for the RBI to update its database and flag transactions involving the Rs. 2000 note as invalid after the specified date?
+
+Options :
+6406531929555. ❌ CASCADE
+6406531929556. ❌ Data Definition Language (DDL)
+6406531929557. ✅ Triggers
+6406531929558. ❌ Indexing
+
+Question Number : 71 Question Id : 640653577829 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question

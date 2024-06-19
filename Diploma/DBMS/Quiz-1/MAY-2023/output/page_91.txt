@@ -1,0 +1,41 @@
+Question Shuffling Allowed : Yes
+Is Section Default : null
+
+Question Number : 73 Question Id : 640653577821 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider two relations R and S as shown below.
+
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 |
+| 2 | 4 | 6 |
+| 3 | 7 | 3 |
+| 4 | 3 | 4 |
+
+Table 1: R
+
+| B | C | D |
+|---|---|---|
+| 7 | 3 | 4 |
+| 2 | 3 | 5 |
+| 3 | 7 | 6 |
+| 2 | 3 | 7 |
+
+Table 2: S
+
+The number of tuples in R $\bowtie$ S are : [Note : $\bowtie$ denotes left outer join.]
+
+Options :
+
+6406531929542.  $\times$ 3
+6406531929543.  $\times$ 4
+6406531929544.  $\checkmark$ 5
+6406531929545.  $\times$ 16
+
+Question Number : 74 Question Id : 640653577822 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 3

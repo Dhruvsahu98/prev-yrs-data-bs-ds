@@ -1,0 +1,58 @@
+Consider the relational schema given in Figure 2.
+
+| Orders     |                  |
+| :---------- | :---------------- |
+| order\_id   | varchar(20)       |
+| product\_id | varchar(20)       |
+| user\_id   | varchar(20)       |
+| quantity   | integer           |
+| date\_ordered | date              |
+| Add field  |                  |
+
+| Product   |                  |
+| :--------- | :---------------- |
+| product\_id | varchar(25)       |
+| category\_id | varchar(20)       |
+| product\_name | varchar(255)      |
+| price      | integer           |
+| quantity   | integer           |
+| Add field  |                  |
+
+| Users     |                  |
+| :---------- | :---------------- |
+| user\_id   | varchar(20)       |
+| user\_name | varchar(255)      |
+| email     | varchar(255)      |
+| mobile\_no | varchar(20)       |
+| billing\_address | varchar(255)      |
+| Add field  |                  |
+
+Figure 2: eshop Schema
+
+If the relations Orders, Product and Users have 10, 6, 8 rows respectively, what is the maximum number of rows returned by the following query?
+(Note: Consider all the attributes are having NOT NULL constraint.)
+
+```python
+SELECT * FROM Orders RIGHT OUTER JOIN Users
+ON orders.user_id = Users.user_id;
+```
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+17
+
+Question Number : 84 Question Id : 640653577831 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4

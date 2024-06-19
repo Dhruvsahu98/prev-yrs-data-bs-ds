@@ -1,0 +1,62 @@
+Consider the ER Diagram given below. Identify the correct statements from the ER diagram.
+
+\begin{tikzpicture}[node distance=1.5cm]
+\node (person) [rectangle, draw] {Person};
+\node (staff) [rectangle, draw, below of=person, left of=person] {Staff};
+\node (student) [rectangle, draw, below of=person, right of=person] {Student};
+\node (securityofficer) [rectangle, draw, below of=staff] {Security Officer};
+\node (officesuperintendent) [rectangle, draw, below of=staff, right of=staff] {Office Superintendent};
+\node (regular) [rectangle, draw, below of=student] {Regular};
+\node (nonregular) [rectangle, draw, below of=student, right of=regular] {Non-Regular};
+\node (TA) [rectangle, draw, below of=regular, left of=regular] {TA};
+\node (RA) [rectangle, draw, below of=regular, right of=regular] {RA};
+\draw [->] (person) -- (staff);
+\draw [->] (person) -- (student);
+\draw [->] (staff) -- (securityofficer);
+\draw [->] (staff) -- (officesuperintendent);
+\draw [->] (student) -- (regular);
+\draw [->] (student) -- (nonregular);
+\draw [->] (regular) -- (TA);
+\draw [->] (regular) -- (RA);
+\draw [dotted,->] (staff) -- node[right] {total} (officesuperintendent);
+\end{tikzpicture}
+
+a A Student is a person.
+
+b A TA student can be an RA as well.
+
+c A staff can either be a Security Officer or Office Superintendent but not both.
+
+d \begin{tikzpicture}[node distance=1.5cm]
+\node (regular) [rectangle, draw] {Regular};
+\node (nonregular) [rectangle, draw, right of=regular] {Non-Regular};
+\node (student) [rectangle, draw, above of=regular] {Student};
+\draw [->] (student) -- (regular);
+\draw [->] (student) -- (nonregular);
+\end{tikzpicture} is partial and disjoint
+
+**Options :**
+
+6406531929583. ❌ Only a and b are correct
+
+6406531929584. ❌ Only b, c, and d are correct
+
+6406531929585. ❌ Only a, c and d are correct
+
+6406531929586. ✅ All a, b, c, d are correct
+
+**Sub-Section Number :** 5
+
+**Sub-Section Id :** 6406538258
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number :** 76 **Question Id :** 640653577823 **Question Type :** MSQ Is Question
+
+**Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 4 **Max. Selectable Options :** 0
+
+**Question Label :** Multiple Select Question

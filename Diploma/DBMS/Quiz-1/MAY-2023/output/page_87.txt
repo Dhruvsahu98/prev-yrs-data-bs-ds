@@ -1,0 +1,23 @@
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 68 Question Id : 640653577819 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The lowest level of data abstraction is 
+Options :
+6406531929534. $\checkmark$ physical level
+6406531929535. $\times$ logical level
+6406531929536. $\times$ view level
+6406531929537. $\times$ application level
+
+
+Question Number : 69 Question Id : 640653577820 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Suppose a company wants to determine whether the 'price' of the commodity will be an attribute in the shopping database or not. Which of the following holds good about this?
+Options :
+6406531929538. $\times$ This is a physical-level decision.
+6406531929539. $\checkmark$ This is a logical level decision.
+6406531929540. $\times$ This is an application-level decision.
+6406531929541. $\times$ This is a view-level decision.

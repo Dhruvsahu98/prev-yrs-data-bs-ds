@@ -1,0 +1,42 @@
+Consider the relation  *product(pid, name, price)*. Assume that no two product have the same price. Choose the appropriate query/queries to find the names of three most expensive product. 
+
+**Options :**
+
+6406531929560. ❌
+```python
+SELECT name FROM product
+ORDER BY price
+FETCH FIRST 3 ROWS ONLY
+```
+
+6406531929561. ✅
+```python
+SELECT name FROM product
+ORDER BY price DESC
+FETCH FIRST 3 ROWS ONLY
+```
+
+6406531929562. ✅
+```python
+SELECT name FROM product a
+WHERE (SELECT COUNT(price)
+FROM product b
+WHERE b.price>a.price) < 3
+```
+
+6406531929563. ❌
+```python
+SELECT name FROM product a
+WHERE (SELECT COUNT(price)
+FROM product b
+WHERE b.price>a.price) > 3
+```
+
+**Question Number : 78 Question Id : 640653577834 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Max. Selectable Options : 0 Question Label : Multiple Select Question**
+
+Consider the schema given below.
+*Customer(Cid,Cname,Area,Phone)*
+*Orders(Cid,lid)*
+*Item(lid,Iname,cuisine)*
+
+Which of the following is/are correct TRC to find the names of customers who have ordered an item 'Indian' cuisine?

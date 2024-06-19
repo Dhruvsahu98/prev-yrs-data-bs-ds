@@ -1,0 +1,59 @@
+Question Label : Short Answer Question
+Consider the E-R diagram in Figure 5.
+
+```python
+# this is a code block
+```
+
+\begin{tikzpicture}[scale=0.6, transform shape]
+\node[draw, ellipse, align=center](C) at (0, 4) {C};
+\node[draw, ellipse, align=center](D) at (3, 4) {D};
+\node[draw, rectangle, align=center](A) at (1.5, 2) {A};
+\node[draw, diamond, align=center](N) at (4.5, 2) {N};
+\node[draw, rectangle, align=center](B) at (7.5, 2) {B};
+\node[draw, ellipse, align=center](P) at (6, 4) {P};
+\node[draw, ellipse, align=center](Q) at (9, 4) {Q};
+\node[draw, ellipse, align=center](E) at (1.5, 0) {E};
+\node[draw, ellipse, align=center](X) at (0, -1) {X};
+\node[draw, ellipse, align=center](Y) at (1.5, -1) {Y};
+\node[draw, ellipse, align=center](Z) at (3, -1) {Z};
+\node[draw, ellipse, align=center](R) at (7.5, 0) {R};
+
+\draw (C) -- (A);
+\draw (D) -- (A);
+\draw (A) -- (N);
+\draw (N) -- (B);
+\draw (P) -- (B);
+\draw (Q) -- (B);
+\draw (E) -- (X);
+\draw (E) -- (Y);
+\draw (E) -- (Z);
+\draw (B) -- (R);
+\end{tikzpicture}
+
+Figure 5: ERD
+
+Consider the following assumptions :
+a : denotes the number of attributes in entity set A
+b : denotes the minimum number of table(s) required to represent this E-R diagram?
+
+What is the value of $a + b$?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+8
+
+Section Id : 
+Section Number : 
+Section type : 
+Mandatory or Optional : 
+
+PDSA
+64065339071
+6
+Online
+Mandatory

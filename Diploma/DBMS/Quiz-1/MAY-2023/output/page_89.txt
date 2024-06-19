@@ -1,0 +1,41 @@
+Consider the schema given below :
+**Emp** (*eid*, ename, age, salary)
+**Works** (*eid*, *did*, pct-time)
+**Dept** (*did*, budget, managerid)
+
+Identify the correct SQL command to create a view named, **EMPLOYEE**, by selecting attributes like *eid*, salary, and managerid. Select those employees whose salary is greater than 1,00,000 and are atleast 45 years old.
+
+**Options :**
+6406531929565.  ❌  
+```python
+SELECT E.eid, E.salary, D.managerid
+FROM Emp E, Works W, Dept D
+WHERE E.eid = W.eid AND W.did = D.did
+AND E.salary > 100000 AND E.age >= 45 AS VIEW
+```
+6406531929566.  ❌  
+```python
+CREATE TABLE EMPLOYEE (emp_id, salary, managerid)
+ON SELECT E.eid, E.salary, D.managerid
+FROM Emp E, Works W, Dept D
+WHERE E.eid = W.eid AND W.did = D.did
+AND E.salary >= 100000 AND E.age > 45 AS VIEW
+```
+6406531929567.  ❌  
+```python
+CREATE VIEW EMPLOYEE (emp_id, salary, managerid)
+ON SELECT E.eid, E.salary, D.managerid
+FROM Emp E, Works W, Dept D
+WHERE E.eid = W.eid AND W.did = D.did
+AND E.salary > 100000 AND E.age > 45
+```
+6406531929568. ✅  
+```python
+CREATE VIEW EMPLOYEE (emp_id, salary, managerid)
+AS SELECT E.eid, E.salary, D.managerid
+FROM Emp E, Works W, Dept D
+WHERE E.eid = W.eid AND W.did = D.did
+AND E.salary > 100000 AND E.age >= 45
+```
+Question Number : 72 Question Id : 640653577830 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2

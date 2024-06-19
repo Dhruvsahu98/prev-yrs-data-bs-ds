@@ -1,0 +1,28 @@
+Consider the relation G20(country\_name, foreign\_minister\_name, events, date, venue)
+
+Questions:
+1. Find the name of foreign ministers whose names start with 'j' and have at least 5 characters.
+2. Find out the number of events taking place in venue 'GIFT City'.
+3. Find out the venue name and number of events taking place in each venue
+
+SQL queries:
+a. Select foreign\_minister\_name from G20 where foreign\_minister\_name like 'j------'
+b. Select foreign\_minister\_name from G20 where foreign\_minister\_name like 'j------'
+c. Select count(events) from G20 where venue = 'GIFT City'
+d. Select count(events) from G20 where venue = 'GIFT City'
+Group By venue
+e. Select venue, count(events) from G20
+Group By venue
+f. Select venue, count(events) from G20
+
+Match the correct SQL queries with the corresponding Questions.
+
+Options :
+6406531929550. ❌ 1-a, 2-c, 3-f
+6406531929551. ✅ 1-b, 2-c, 3-e
+6406531929552. ❌ 1-a, 2-d, 3-f
+6406531929553. ✅ 1-b, 2-d, 3-e
+
+Question Number : 77 Question Id : 640653577827 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
