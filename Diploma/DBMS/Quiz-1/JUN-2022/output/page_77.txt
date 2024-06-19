@@ -1,0 +1,49 @@
+Consider the relations A and B shown in Table 5 and Table 6 respectively:
+
+| X | Y |
+|---|---|
+| 1 | a |
+| 2 | a |
+| 3 | b |
+| 4 | c |
+| 5 | b |
+
+Table 5: Relation A
+
+| W | Z |
+|---|---|
+| 4 | a |
+| 5 | b |
+| 6 | b |
+| 7 | c |
+| 8 | a |
+| 9 | a |
+| 10 | b |
+
+Table 6: Relation B
+
+What will be the number of tuples in the resulting table?
+
+```python
+SELECT y FROM A
+UNION ALL
+SELECT z FROM B
+EXCEPT ALL
+SELECT z FROM B
+```
+
+Options :
+
+6406531149104. 0
+
+6406531149105. 3
+
+6406531149106. 4
+
+6406531149107. 5
+
+Question Number : 83 Question Id : 640653345522 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question

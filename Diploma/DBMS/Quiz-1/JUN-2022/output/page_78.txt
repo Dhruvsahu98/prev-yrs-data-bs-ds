@@ -1,0 +1,40 @@
+Consider the relations shown in Figure 2.
+
+| Students |  |  | Course\_Section |  |  |
+|---|---|---|---|---|---|
+| **sname** | **course\_id** | **sec\_id** | **course\_id** | **sec\_id** |  |
+| Sklvia | DBMS | A | DBMS | A |  |
+| James | Python | A | Python | C |  |
+| Shawn | Maths | C |  |  |  |
+| Sklvia | Python | C |  |  |  |
+| James | DBMS | B |  |  |  |
+| Jass | DBMS | A |  |  |  |
+| Shawn | Python | B |  |  |  |
+
+Figure 2: Relations Students and Course\_Section
+
+What will the output of the operation Students ÷ Course\_Section be?
+
+Options :
+
+6406531149129. ✖ James
+6406531149130. ✖ Shawn
+6406531149131. ✔️ Sklvia
+6406531149132. ✖ Jass
+
+Question Number : 84 Question Id : 640653345523 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Consider the following relational schema and answer the question that follows.
+
+Account (*ac\_no*, *branch\_name*, *balance*)
+Branch (*branch\_name*, *address*)
+Customer (*cnum*, *ac\_no*, *branch\_name*, *name*, *address*)
+
+Which of the following queries is equivalent to the statement given below?
+
+Find the name of those customers who have an account at the 'ICICI Bank' and an account balance more than 50000.
+
+Options :

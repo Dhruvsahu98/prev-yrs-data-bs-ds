@@ -1,0 +1,35 @@
+Question Number : 78 Question Id : 640653345513 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Consider the relation Product shown in Table 3:
+
+| p\_id | p\_name | price |
+|---|---|---|
+| P1 | Sunscreen cream | 30 |
+| P2 | Face Wash | 40 |
+| P3 | Tooth Paste | 10 |
+| P4 | Brush | 20 |
+| P5 | Comb | NULL |
+| P6 | Carry bag | 0 |
+| P7 | Olive Oil | NULL |
+
+Table 3: Relation Product
+
+Identify the output for the following SQL statement.
+
+```python
+SELECT AVG(price) FROM Product;
+```
+
+Options :
+6406531149096. ❌ 14.29
+6406531149097. ✅ 16.67
+6406531149098. ❌ 20.00
+6406531149099. ❌ 25.00
+
+Question Number : 79 Question Id : 640653345514 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

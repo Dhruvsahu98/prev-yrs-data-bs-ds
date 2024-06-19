@@ -1,0 +1,23 @@
+6406531149081. ✅ Logical level
+6406531149082. ❌ View level
+6406531149083. ❌ None of these
+
+Question Number : 72 Question Id : 640653345510 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The ability to modify the physical schema without changing the logical schema is known as
+Options :
+6406531149084. ❌ Logical Data Independence
+6406531149085. ✅ Physical Data Independence
+6406531149086. ❌ View Data Independence
+6406531149087. ❌ None of these
+
+Question Number : 73 Question Id : 640653345511 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which among the following is used for accessing and manipulating the data organized by the appropriate data model?
+Options :
+6406531149088. ❌ Data Definition Language
+6406531149089. ✅ Data Manipulation Language
+6406531149090. ❌ Data Control Language
+6406531149091. ❌ Transaction Control Language

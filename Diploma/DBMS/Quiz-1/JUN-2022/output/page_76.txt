@@ -1,0 +1,16 @@
+```python
+CREATE TABLE order(
+o_id varchar(10) primary key,
+c_id varchar(10),
+p_id varchar(10),
+date DATE,
+FOREIGN KEY (c_id) REFERENCES customer,
+FOREIGN KEY (p_id) REFERENCES product)
+```
+Sub-Section Number : 4
+Sub-Section Id : 64065348860
+Question Shuffling Allowed : Yes
+Question Number : 82 Question Id : 640653345515 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

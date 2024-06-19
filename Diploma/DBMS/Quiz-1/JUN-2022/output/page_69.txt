@@ -1,0 +1,28 @@
+Question Label : Multiple Choice Question
+Consider the relational schema given below.
+instructor(id, name, dept\_name, salary)
+
+Choose the correct SQL command to create a view XYZ, by selecting two columns name and dept\_name from the instructor relation. Select those instructors having names starting with 'S' and from the 'Music' department.
+
+**Options :**
+
+6406531149117.  ✅ CREATE VIEW XYZ(name, dept\_name) AS
+SELECT name, dept\_name from instructor
+where name like 'S%' AND dept\_name='Music'
+
+6406531149118. ❌ CREATE VIEW XYZ(name, dept\_name) TO
+SELECT name, dept\_name from instructor
+where name like 'S%' AND dept\_name='Music'
+
+6406531149119. ❌ CREATE VIEW XYZ(name, dept\_name) ON
+SELECT name, dept\_name from instructor
+where name like 'S%' AND dept\_name='Music'
+
+6406531149120. ❌ CREATE VIEW XYZ(name, dept\_name) AS
+SELECT name, dept\_name from instructor
+where name like '%S' AND dept\_name='Music'
+
+Question Number : 76 Question Id : 640653345521 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question

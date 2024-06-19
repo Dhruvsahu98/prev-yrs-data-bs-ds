@@ -1,0 +1,50 @@
+Consider the relations shown in Figure 1.
+
+| Customers |
+|---|---|---|
+| cid | cname | age |
+| C101 |  Stenfen | 30 |
+| C202 | Jacob | 36 |
+| C403 | Nicolas | 29 |
+| C204 | Edward | 40 |
+| C105 | Stewart | 27 |
+
+| Orders |
+|---|---|---|
+| oid | cid | amount |
+| 122 | C101 | 40000 |
+| 222 | C202 | 20000 |
+| 111 | C403 | 30000 |
+| 233 | C403 | 25000 |
+
+Figure 1: Relations Customers and Orders
+
+Which of the following expressions will fetch the given tuple?
+
+| cname |
+|---|---|
+| Stenfen |
+
+Options :
+
+6406531149125.  $\prod_{cname}(\sigma_{age\leq30 \wedge amount\leq30000}(Customers \bowtie Orders))$
+
+6406531149126.  $\prod_{cname}(\sigma_{age>30 \vee amount>30000}(Customers \bowtie Orders))$
+
+6406531149127.  $\prod_{cname}(\sigma_{age\leq30 \wedge amount>30000}(Customers \bowtie Orders))$
+
+6406531149128.  $\prod_{cname}(\sigma_{age>30 \vee amount\leq30000}(Customers \bowtie Orders))$
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065348859
+
+Question Shuffling Allowed : Yes
+
+Question Number : 77 Question Id : 640653345512 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question

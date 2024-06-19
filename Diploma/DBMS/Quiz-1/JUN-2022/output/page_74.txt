@@ -1,0 +1,54 @@
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+Consider the relation student shown in Table 7.
+
+| roll\_no | name | house\_name |
+|---|---|---|
+| 1 | John | Nilgiri |
+| 2 | Ramesh | Nilgiri |
+| 3 | Dilip | Aravali |
+| 4 | Suresh | Shiwalik |
+| 5 | Kiran | Udaygiri |
+| 6 | Vijay | Nilgiri |
+
+Table 7: Relation student
+
+What will the output of the following query be?
+
+```python
+SELECT e.name AS student_name
+FROM student e,
+(SELECT house_name, COUNT(*) AS house_count
+FROM student
+GROUP BY house_name) AS dc
+WHERE e.house_name = dc.house_name
+AND dc.house_count>2
+```
+
+Options :
+
+6406531149108. 
+| student\_name |
+|---|---|
+| John |
+| Ramesh |
+
+6406531149109. 
+| student\_name |
+|---|---|
+| Ramesh |
+| Dilip |
+
+6406531149110. 
+| student\_name |
+|---|---|
+| John |
+| Ramesh |
+| Vijay |
+
+6406531149111. 
+| student\_name |
+|---|---|
+| Vijay |

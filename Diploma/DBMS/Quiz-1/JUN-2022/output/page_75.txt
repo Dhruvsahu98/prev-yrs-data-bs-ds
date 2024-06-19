@@ -1,0 +1,52 @@
+Question Number : 81 Question Id : 640653345520 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the relational schema given below.
+```python
+customer(c_id, c_name, contact_no, address)
+product(p_id, p_name, product_type, price)
+order(o_id, c_id, p_id, date)
+```
+Table order having two foreign keys $c\_id$ and $p\_id$.
+Identify the appropriate "CREATE TABLE" statement for table order.
+Options :
+```python
+CREATE TABLE order (
+    o_id varchar(10) primary key,
+    varchar(10) c_id,
+    varchar(10) p_id,
+    DATE date,
+    FOREIGN KEY (c_id) REFERENCES customer,
+    FOREIGN KEY (p_id) REFERENCES product)
+```
+6406531149121. ❌
+```python
+CREATE TABLE order (
+    o_id varchar(10) primary key,
+    c_id varchar(10),
+    p_id varchar(10),
+    DATE DATE,
+    FOREIGN KEY (p_id) REFERENCES customer,
+    FOREIGN KEY (c_id) REFERENCES product)
+```
+6406531149122. ❌
+```python
+CREATE TABLE order (
+    o_id varchar(10) primary key,
+    c_id varchar(10),
+    p_id varchar(10),
+    DATE DATE,
+    FOREIGN KEY (c_id) REFERENCES customer,
+    FOREIGN KEY (p_id) REFERENCES product)
+```
+6406531149123. ❌
+```python
+CREATE TABLE order (
+    o_id varchar(10) primary key,
+    c_id varchar(10),
+    p_id varchar(10),
+    DATE DATE,
+    FOREIGN KEY (c_id) REFERENCES customer,
+    FOREIGN KEY (p_id) REFERENCES product)
+```
+6406531149124. ✅

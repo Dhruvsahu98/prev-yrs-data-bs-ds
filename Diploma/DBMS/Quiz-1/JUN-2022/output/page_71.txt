@@ -1,0 +1,49 @@
+Consider the relation R shown in Table 1:
+
+| A | B | C |
+|---|---|---|
+| 1 | a | 4 |
+| 1 | a | 2 |
+| 2 | c | 4 |
+| 3 | d | 2 |
+| 2 | c | 1 |
+
+Table 1: Relation R
+
+What is the output of the following relational algebra expression?
+
+$$\Pi_{x.B}(\sigma_{x.A = y.C}(\rho_{x}(R) \times \rho_{y}(R)))$$
+
+Options:
+
+6406531149092. 
+| B |
+|---|---|
+| a |
+| a |
+| c |
+| c |
+| c |
+| c |
+
+6406531149093. 
+| B |
+|---|---|
+| a |
+| c |
+
+6406531149094. 
+| B |
+|---|---|
+| a |
+| c |
+| d |
+
+6406531149095. 
+| B |
+|---|---|
+| a |
+| a |
+| c |
+| d |
+| c |

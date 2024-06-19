@@ -1,0 +1,54 @@
+Consider the relation **Player** shown in Table 4:
+
+| p\_id | player\_name | Age | goal\_score |
+|---|---|---|---|
+| P1 | Aabhi | 32 | 49 |
+| P2 | Naba | 21 | 28 |
+| P3 | Sam | 19 | 22 |
+| P4 | Lee | 24 | 18 |
+| P5 | Baba | 23 | 31 |
+| P6 | Karan | 28 | 37 |
+| P7 | Mahabir | 25 | 32 |
+| P8 | Aakash | 20 | 42 |
+
+Table 4: Relation Player
+
+Result table:
+
+| p\_id | player\_name | Age | goal\_score |
+|---|---|---|---|
+| P1 | Aabhi | 32 | 49 |
+| P6 | Karan | 28 | 37 |
+| P8 | Aakash | 20 | 42 |
+
+Choose the correct SQL statement that will return the given resultant table.
+
+**Options :**
+
+```python
+6406531149100.  SELECT * FROM Player
+                WHERE Age >= 20 AND 
+                goal_score >= (SELECT AVG(goal_score) - MIN(goal_score) FROM Player)
+```
+
+```python
+6406531149101.  SELECT * FROM Player
+                WHERE Age >= 20 AND 
+                goal_score >= (SELECT AVG(goal_score) FROM Player)
+```
+
+```python
+6406531149102.  SELECT * FROM Player
+                WHERE Age >= 20 AND 
+                goal_score >= (SELECT AVG(goal_score) FROM Player)
+```
+
+```python
+6406531149103.  SELECT * FROM Player
+                WHERE Age >= 20 AND 
+                goal_score >= (SELECT MAX(goal_score) - AVG(goal_score) FROM Player)
+```
+
+Question Number : 80 Question Id : 640653345516 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0

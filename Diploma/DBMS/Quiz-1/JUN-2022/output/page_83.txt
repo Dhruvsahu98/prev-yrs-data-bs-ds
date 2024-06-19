@@ -1,0 +1,48 @@
+Sub-Section Number : 6
+Sub-Section Id : 6406534862
+Question Shuffling Allowed : Yes
+Question Number : 87 Question Id : 64065334518 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider the two relations *student* and *mobile\_no* shown in Table 9 and Table 10.
+\begin{tabular}{|c|c|}
+\hline
+roll\_no & name \\
+\hline
+1 & Oliver \\
+\hline
+2 & Jack \\
+\hline
+3 & Harry \\
+\hline
+4 & Thomas \\
+\hline
+\end{tabular}
+Table 9: Relation *student*
+\begin{tabular}{|c|c|}
+\hline
+roll\_no & contact\_no \\
+\hline
+1 & 123 \\
+\hline
+2 & 456 \\
+\hline
+2 & 131 \\
+\hline
+3 & 251 \\
+\hline
+\end{tabular}
+Table 10: Relation *mobile\_no*
+What is the output of the below SQL query?
+```python
+SELECT COUNT(s.roll_no)
+FROM student AS s
+NATURAL JOIN
+mobile_no AS m
+```
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

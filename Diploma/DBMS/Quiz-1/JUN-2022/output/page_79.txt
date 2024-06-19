@@ -1,0 +1,35 @@
+6406531149133. ✅  $\{T | \exists C \in Customer, \exists A \in Account (C.ac\_no = A.ac\_no \land C.branch\_name = "ICICI Bank" \land A.balance > 50000 \land C.branch\_name = A.branch\_name \land T.name = C.name)\}$
+6406531149134. ❌  $\{T | \exists C \in Customer; \exists A \in Account (C.ac\_no = A.ac\_no \land C.branch\_name = "ICICI Bank" \land A.balance > 50000 \lor C.branch\_name = A.branch\_name \land T.name = C.name)\}$
+6406531149135. ❌  $\{T | \exists C \in Customer (C.ac\_no = A.ac\_no \land C.branch\_name = "ICICI Bank" \lor A.balance > 50000)\}$
+6406531149136. ❌  $\{T | \exists C \in Customer, \exists A \in Account (C.ac\_no = A.ac\_no \lor C.branch\_name = "ICICI Bank" \lor A.balance > 50000 \lor C.branch\_name = A.branch\_name)\}$
+6406531149137. ❌ 
+
+Question Number : 85 Question Id : 640653345524 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following E-R Diagram.
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw,ellipse] (First_Name) at (0,0) {First\_Name};
+\node[draw,ellipse] (Middle_Name) at (2,1) {Middle\_Name};
+\node[draw,ellipse] (Last_Name) at (4,0) {Last\_Name};
+\node[draw,ellipse] (Emp_ID) at (-1,-2) {Emp\_ID};
+\node[draw,rectangle] (Employee) at (2,-2) {Employee};
+\node[draw,ellipse] (Emp_Name) at (2,-1) {Emp\_Name};
+\node[draw,dashed,ellipse] (Age) at (5,-2) {Age};
+\node[draw,ellipse] (DOB) at (4,-2) {DOB};
+\node[draw,ellipse] (Email_ID) at (-2,-3) {Email\_ID};
+\draw (First_Name) -- (Emp_Name);
+\draw (Middle_Name) -- (Emp_Name);
+\draw (Last_Name) -- (Emp_Name);
+\draw (Emp_ID) -- (Employee);
+\draw (Emp_Name) -- (Employee);
+\draw (Employee) -- (Age);
+\draw (Employee) -- (DOB);
+\draw (Email_ID) -- (Employee);
+\end{tikzpicture}
+
+Figure 3: E-R Diagram
+
+Which among the following is the equivalent of the given E-R diagram?
+Options :

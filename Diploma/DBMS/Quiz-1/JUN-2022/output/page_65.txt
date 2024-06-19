@@ -1,0 +1,33 @@
+```python
+1 a, b = 8, 28
+2 
+3 if a < b:
+4   start = b
+5 else:
+6   start = a
+7 
+8 end = a * b
+9 
+10 for x in range(start, end + 1):
+11   if (x % a == 0) and (x % b == 0):
+12     print(x)
+13     break
+```
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+56
+DBMS
+Section Id : 64065321871
+Section Number : 5
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 18
+Number of Questions to be attempted : 18
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes

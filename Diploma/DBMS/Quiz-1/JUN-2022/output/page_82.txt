@@ -1,0 +1,77 @@
+Consider the E-R diagram for a B.Sc. Degree Course Project database as given in Figure 4.
+
+```python
+# No code block provided.
+```
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{Member} \\
+\hline
+m\_num & name \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{Employee} \\
+\hline
+salary &  \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{Student} \\
+\hline
+grade &  \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{Instructor} \\
+\hline
+i\_id &  \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{Project\_lead} \\
+\hline
+p\_id &  \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{Foundation\_level} \\
+\hline
+f\_roll\_no & f\_course \\
+\hline
+\end{tabular}
+
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{Diploma\_level} \\
+\hline
+d\_roll\_no & d\_course \\
+\hline
+\end{tabular}
+
+Figure 4: E-R Diagram
+
+Which of the following statement describes the correct relation between the given entity sets?
+
+Note:
+* Employee and Student are disjoint specializations of Member.
+* Instructor and Project\_lead are overlapping specializations of Employee.
+* Foundation\_level and Diploma\_level are disjoint specializations of Student.
+
+Options:
+6406531149141. ✅ Each member can be either an employee or a student or just a member of the degree project. However, a member cannot be an employee and a student at the same time.
+6406531149142. ❌ Each employee can be an instructor or a project lead. However, an employee cannot be an instructor and a project lead at the same time.
+6406531149143. ❌ Each student can be either a foundation\_level student or a diploma\_level student or both at the same time.
+6406531149144. ✅ Each employee can be an instructor or a project lead or both at the same time.
+6406531149145. ❌ Each member can be either an employee or a student or both at the same time.

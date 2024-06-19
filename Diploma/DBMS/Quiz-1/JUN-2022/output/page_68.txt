@@ -1,0 +1,36 @@
+Question Number : 74 Question Id : 640653345517 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the relation *student* shown in Table 8.
+
+| roll\_no | name | house\_name |
+|---|---|---|
+| 1 | John | Nilgiri |
+| 2 | Ramesh | Nilgiri |
+| 3 | Dilip | Aravali |
+| 4 | Suresh | Shiwalik |
+| 5 | Kiran | Udaygiri |
+| 6 | Vijay | Nilgiri |
+
+Table 8 : Relation *student*
+
+Which of the following SQL command is used to provide INSERT authorization of the table *student* to *instructor*.
+
+**Options :**
+
+6406531149112. ❌  CREATE ROLE instructor;
+GRANT INSERT ON instructor TO student;
+
+6406531149113. ❌ CREATE ROLE instructor;
+GRANT student INSERT TO instructor;
+
+6406531149114. ❌ CREATE ROLE instructor;
+GRANT ROLE INSERT ON student TO instructor;
+
+6406531149115. ✅ CREATE ROLE instructor;
+GRANT INSERT ON student TO instructor;
+
+Question Number : 75 Question Id : 640653345519 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
