@@ -1,0 +1,22 @@
+SELECT name FROM bike a
+WHERE
+(SELECT COUNT(price)
+FROM bike b
+WHERE b.price>a.price)>4
+
+Question Number : 77 Question Id : 640653386725 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+Consider the following relations:
+$auto\_part(pid, name, color)$
+$auto\_suppliers(sid, sname, location)$
+$catalog(pid, sid, price)$
+Choose the correct relational algebra expressions to find the suppliers ID (sid) who supply auto parts of both the 'Red' and 'Black' colors.
+Options :
+6406531286088.  $\Pi_{sid}(\sigma_{color='Red'}(auto\_part \times catalog)) \land \Pi_{sid}(\sigma_{color='Black'}(auto\_part \times catalog))$
+6406531286089.  $\Pi_{sid}(\sigma_{color='Red' \land color='Black'}(auto\_part \times catalog))$
+6406531286090.  $\checkmark \Pi_{sid}(\sigma_{color='Red'}(auto\_part \times catalog)) \cap \Pi_{sid}(\sigma_{color='Black'}(auto\_part \times catalog))$
+6406531286091.  $\times \Pi_{sid}(\sigma_{color='Red'}(auto\_part \times auto\_suppliers)) \cup \Pi_{sid}(\sigma_{color='Black'}(auto\_part \times auto\_suppliers))$
+6406531286092.  $\times \Pi_{sid}(\sigma_{color='Red'}(auto\_part \times auto\_suppliers)) \cap \Pi_{sid}(\sigma_{color='Black'}(auto\_part \times catalog))$

@@ -1,0 +1,40 @@
+WITH house\_count AS (select house\_name, COUNT(*) AS house\_count FROM student GROUP BY house\_name) SELECT e.name AS student\_name, dc.house\_count AS count FROM student e, house\_count dc WHERE e.house\_name = dc.house\_name;
+
+6406531286077. ✅
+
+Question Number : 76 Question Id : 640653386721 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Select Question
+
+Consider the relation bike( *name*, *model*, *price*). Assume that no two bikes have the same price. Choose the appropriate query/queries to find the names of four most expensive bikes.
+
+Options :
+
+```python
+SELECT name FROM bike
+ORDER BY price
+FETCH FIRST 4 ROWS ONLY
+```
+
+6406531286078. ❌
+
+```python
+SELECT name FROM bike
+ORDER BY price DESC
+FETCH FIRST 4 ROWS ONLY
+```
+
+6406531286079. ✅
+
+```python
+SELECT name FROM bike a
+WHERE (SELECT COUNT(price)
+FROM bike b
+WHERE b.price>a.price)<4
+```
+
+6406531286080. ✅
+
+6406531286081. ❌

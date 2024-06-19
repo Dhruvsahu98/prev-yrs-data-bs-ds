@@ -1,0 +1,36 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the relation *insurance*(ins\_id, company\_name, ins\_type, ratings) shown in Figure 3.
+
+| ins\_id | company\_name | ins\_type | ratings |
+|---|---|---|---|
+| 10001 | Naturol | Health | 5 |
+| 10002 | Prismz | Health | 4 |
+| 10003 | Mind Free | Education | 2 |
+| 10004 | Capevirgo | Life-Term | 3 |
+
+Figure 3: insurance
+
+Which among the following options will be the correct output for the given query?
+```python
+SELECT 'Good' AS no_of_goodcompanies
+FROM insurance
+WHERE ratings >= 3
+```
+Options :
+Output:
+| no\_of\_goodcompanies |
+|---|---|
+| Naturol |
+| Prismz |
+| Capevirgo |
+6406531286113. ❌
+Output:
+| no\_of\_goodcompanies |
+|---|---|
+| Good |
+| Good |
+| Good |
+6406531286114. ✅
+6406531286115. ❌

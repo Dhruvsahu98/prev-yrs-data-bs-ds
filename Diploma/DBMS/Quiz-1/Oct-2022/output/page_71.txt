@@ -1,0 +1,52 @@
+```python
+SELECT cus_id, credit_score/2 AS credit score
+FROM customers
+WHERE cus_name NOT LIKE '%esh'
+AND cus_name LIKE '%a%';
+```
+
+6406531286110. ❌
+
+```python
+SELECT cus_id, credit_score/2 AS credit score
+FROM customers
+WHERE cus_name NOT LIKE '_r%'
+AND cus_name LIKE '%es%';
+```
+
+6406531286111. ✅
+
+```python
+SELECT cus_id, credit_score/2 AS credit score
+FROM customers
+WHERE cus_name NOT LIKE '%e_'
+ORDER by cus_name asc;
+```
+
+6406531286112. ❌
+
+Question Number : 73 Question Id : 640653386734 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Question Label : Multiple Choice Question
+
+Consider the two relational schemas Faculty ($f\_id$, $name$, $dept\_name$) and Student ($s\_id$, $name$, $dept\_name$) as shown in the Figure 4.
+
+| $f\_id$ | $name$ | $dept\_name$ |
+|---|---|---|
+| F001 | Marry | Biology |
+| F003 | Abhi | Zoology |
+| F007 | Harry | Physics |
+| F002 | Sunil | Biology |
+| F009 | Rose | Zoology |
+
+| $s\_id$ | $name$ | $dept\_name$ |
+|---|---|---|
+| S001 | Shima | Physics |
+| S002 | Rose | Zoology |
+| S003 | Henry | Zoology |
+| S004 | Abhi | Biology |
+| S005 | Abhi | Physics |
+
+Figure 4: Faculty and Student
+
+What will be the total numbers of tuples resulting from the following relational algebra expression?
+
+$\Pi_{name,dept\_name}(Faculty \bowtie Student)$

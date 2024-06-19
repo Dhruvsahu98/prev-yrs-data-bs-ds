@@ -1,0 +1,30 @@
+Consider the following SQL query.
+
+SELECT emp\_name FROM employees WHERE salary > 20000
+
+Which among the following steps of query processing will convert the above query to the given relational algebra expression?
+
+$\Pi_{emp\_name} (\sigma_{salary > 20000}(employees))$
+
+Options :
+
+6406531286105. ❌ Evaluation Engine
+6406531286106. ✅ Parser and Translator
+6406531286107. ❌ Optimizer
+6406531286108. ❌ Execution Plan
+
+Question Number : 67 Question Id : 640653386733 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+An organization called Super Kids offers educational and recreational opportunities for disabled children. The details of all the students have been added to Table Students. In the case that a student leaves the school, their names and details are removed from the table. Which among the following categories of SQL commands is used for removing the records from the table?
+
+Options :
+
+6406531286121. ❌ DDL
+6406531286122. ✅ DML
+6406531286123. ❌ DCL
+6406531286124. ❌ TCL
+
+Sub-Section Number : 3

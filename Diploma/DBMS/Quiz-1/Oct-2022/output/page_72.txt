@@ -1,0 +1,30 @@
+Options :
+6406531286125. ✖ 3
+6406531286126. ✖ 2
+6406531286127. ✅ 1
+6406531286128. ✖ 4
+
+Sub-Section Number :
+Sub-Section Id : 5 64065355344
+Question Shuffling Allowed : Yes
+
+Question Number : 74 Question Id : 640653386723 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Select Question
+Consider the following SQL statement:
+```python
+CREATE TABLE Student (
+    Roll_no varchar(8) primary key,
+    Name varchar(10),
+    Dept_name varchar(10),
+    Semester varchar(10),
+    check (Semester in ('Fall', 'Winter', 'Summer'))
+);
+```
+Identify the correct INSERT statement for table Student.
+Options :
+6406531286083. ✅ INSERT INTO Student values('CS101', 'Rakesh', 'CS', 'Winter')
+6406531286084. ✅ INSERT INTO Student (Roll_no, Name, Dept_name, Semester) values('CS102', 'Ram', 'CS', 'Summer')
+6406531286085. ✖ INSERT INTO Student (Roll_no, Name, Dept_name, Semester) values('CS104', 'Shyam', 'CS', 'Spring')
+6406531286086. ✖ INSERT INTO Student ('CS106', 'Mohan', 'CS', 'Winter')

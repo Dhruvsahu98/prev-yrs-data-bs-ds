@@ -1,0 +1,23 @@
+Question Number : 78 Question Id : 640653386726 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+Consider the following relations:
+auto\_part($pid$, $pname$, $color$)
+auto\_suppliers($sid$, $sname$, $location$)
+catalog($pid$, $sid$, $price$)
+TRC
+1. $\{x | \exists s \in auto\_suppliers \exists c \in catalog \exists p \in auto\_part(s.location = 'Mumbai' \land c.price = 5000 \land x.sid = c.sid \land x.pname = p.pname \land s.sid = c.sid \land p.pid = c.pid)\}$
+2. $\{x | \exists p \in auto\_parts \exists c \in catalog(p.pname = 'Suspension' \land c.price = 5000 \land x.pid = p.pid \land p.pid = c.pid)\}$
+3. $\{x | \exists p \in auto\_parts \exists c \in catalog \exists s \in auto\_suppliers(p.pname = 'Suspension' \land c.price = 5000 \land x.pid = p.pid \land x.sname = s.sname \land p.pid = c.sid \land s.sid = c.sid)\}$
+4. $\{x | \exists s \in auto\_suppliers \exists c \in catalog(s.location = 'Mumbai' \land c.price = 5000 \land x.sid = c.sid \land s.sid = c.sid)\}$
+DRC
+a. $\{<m> | \exists m, n, o(<m, n, o> \in auto\_parts \land n = 'Suspension') \land \exists a, b, c(<a, b, c> \in catalog \land c = 5000 \land m = a)\}$
+b. $\{<p> | \exists p, q, r(<p, q, r> \in auto\_suppliers \land r = 'Mumbai') \land \exists a, b, c(<a, b, c> \in catalog \land c = 5000 \land p = b)\}$
+c. $\{<p> | \exists p, q, r(<p, q, r> \in auto\_suppliers \land r = 'Mumbai') \land \exists a, b, c(<a, b, c> \in catalog \land c = 5000)\}$
+d. $\{<m> | (<m, n, o> \in auto\_parts \land n = 'Suspension') \land (<a, b, c> \in catalog \land c = 5000 \land m = a)\}$
+e. $\{<p, n> | \exists m, n, o(<m, n, o> \in auto\_parts \land p.pname = 'Suspension') \land \exists a, b, c(<a, b, c> \in catalog \land c = 5000 \land m = a \land p = b)\}$
+f. $\{<m, q> | \exists m, n, o(<m, n, o> \in auto\_parts \land q, r(<p, q, r> \in auto\_suppliers \land r = 'Mumbai') \land \exists a, b, c(<a, b, c> \in catalog \land c = 5000 \land m = a \land p = b)\}$
+g. $\{<p, n> | \exists m, n, o(<m, n, o> \in auto\_parts \land n = 'Suspension') \land \exists p, q, r(<p, q, r> \in auto\_suppliers \land r = 'Mumbai') \land \exists a, b, c(<a, b, c> \in catalog \land c = 5000)\}$
+h. $\{<m, q> | \exists m, n, o(<m, n, o> \in auto\_parts \land n = 'Suspension') \land \exists p, q, r(<p, q, r> \in auto\_suppliers \land \exists a, b, c(<a, b, c> \in catalog \land c = 5000))\}$
+Match the TRC expression to its correct equivalent DRC expression.
+Options :

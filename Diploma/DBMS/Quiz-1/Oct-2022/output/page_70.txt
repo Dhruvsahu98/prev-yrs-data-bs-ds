@@ -1,0 +1,35 @@
+6406531286098. 1
+6406531286099. 2
+6406531286100. 3
+Question Number : 72 Question Id : 640653386730 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the relation $customers(cus\_id, cus\_name, credit\_score)$ shown in Figure 2.
+
+| $cus\_id$ | $cus\_name$ | $credit\_score$ |
+|---|---|---|
+| C001 | Suresh | 200 |
+| C002 | Naksh | 180 |
+| C003 | Ramesh | 270 |
+| C004 | Ram | 300 |
+| C005 | Pratik | 400 |
+| C006 | Lokesh | 350 |
+
+Figure 2: customers
+
+Which among the following queries will return the output given below?
+
+| $cus\_id$ | $creditscore$ |
+|---|---|
+| C001 | 100 |
+| C006 | 175 |
+| C003 | 135 |
+
+Options :
+```python
+SELECT cus_id, credit_score/2 AS creditscore
+FROM customers
+WHERE cus_name LIKE '%e%'
+ORDER by cus_name desc
+```
+6406531286109. 

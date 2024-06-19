@@ -1,0 +1,39 @@
+Output:
+| no\_of\_goodcompanies |
+|---|---|
+| Naturól |
+| Prismz |
+| Mind Free |
+| Capevirgo |
+
+Output:
+| no\_of\_goodcompanies |
+|---|---|
+|  |
+
+6406531286116. ✖
+
+Question Number : 70 Question Id : 640653386732 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following relational schemas.
+
+```python
+employee(emp_id, emp_name, dob, dept_id, desg_id)
+department(dept_id, dept_name)
+designation(desg_id, desg_name, salary)
+```
+
+Choose the correct options to fill in the blanks of the given query so that it returns the highest salary in 'Computer Science' department.
+
+```python
+SELECT ____A____ (de.salary)
+FROM employee AS e
+INNER JOIN department AS d ON e.dept_id = d.dept_id
+INNER JOIN designation AS de ON e.desg_id = de.desg_id
+____B____ BY d.dept_name
+____C____ d.dept_name = 'Computer Science'
+```
+
+Options :
+6406531286117. ✖ A: MAX, B: GROUP, C: WHERE

@@ -1,0 +1,37 @@
+Sub-Section Id : 64065355342
+Question Shuffling Allowed : Yes
+Question Number : 68 Question Id : 640653386728 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following E-R diagram as shown in figure 1:
+
+\begin{tikzpicture}
+  \node[ellipse,draw] (s1) at (0,0) {student\_num};
+  \node[ellipse,draw] (s2) at (2,0) {student\_name};
+  \node[rectangle,draw] (s) at (1,-1) {Student};
+  \node[diamond,draw] (e) at (3,-1) {enrolls};
+  \node[ellipse,draw] (c1) at (6,0) {course\_num};
+  \node[ellipse,draw] (c2) at (8,0) {course\_name};
+  \node[rectangle,draw] (c) at (7,-1) {Course};
+
+  \draw (s1) -- (s);
+  \draw (s2) -- (s);
+  \draw (s) -- (e);
+  \draw (e) -- (c);
+  \draw (c1) -- (c);
+  \draw (c2) -- (c);
+\end{tikzpicture}
+
+Figure 1: ER-Diagram
+Which among the following is the correct relational schema for the given ER Diagram?
+Options :
+6406531286101.  \(\checkmark\)  **Student(student\_num, student\_name, course\_num)**
+**Course(course\_num, course\_name)**
+6406531286102.  \(\times\)  **Student(student\_num, student\_name)**
+**Course(course\_num, course\_name)**
+6406531286103.  \(\times\)  **Student(student\_num, student\_name)**
+**Course(course\_num, course\_name, student\_name)**
+6406531286104.  \(\times\)  **Student(student\_num, student\_name, course\_num)**
+**Course(course\_num, course\_name, student\_num)**
+Question Number : 69 Question Id : 640653386731 Question Type : MCQ Is Question

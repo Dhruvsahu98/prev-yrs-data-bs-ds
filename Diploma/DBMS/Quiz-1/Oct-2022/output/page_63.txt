@@ -1,0 +1,31 @@
+R is a zero-matrix (all entries are zeros) of size 3 x 3 and 
+$$P = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} , Q = \begin{bmatrix} 1 & -1 & 1 \\ 1 & -1 & 1 \\ 1 & -1 & 1 \end{bmatrix}$$
+What is the output of the following snippet of code?
+```python
+val = 0
+for i in range(3):
+    for j in range(3):
+        R[i][j] = P[i][j] * Q[i][j]
+val = val + R[i][j]
+print(val)
+```
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+15
+
+DBMS
+Section Id : 64065323901
+Section Number : 5
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No

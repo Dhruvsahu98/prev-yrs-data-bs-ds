@@ -1,0 +1,47 @@
+Consider the following relations as shown in Table 2 and Table 3
+
+| shop\_no | name |
+|---|---|
+| SH01 | Tea stall |
+| SH02 | Modern Store |
+| SH03 | Balaji Store |
+| SH04 | Modern Store |
+
+Table 2: Shop
+
+| shop\_no | item\_name | price |
+|---|---|---|
+| SH01 | Sugar | 200 |
+| SH01 | Tea leaf | 500 |
+| SH02 | Cookies | 800 |
+| SH02 | Namkeen | 400 |
+| SH03 | Mustard oil | 700 |
+| SH04 | Cookies | 500 |
+
+Table 3: Shop\_order
+
+```python
+SELECT name, AVG(price)
+FROM Shop
+NATURAL JOIN Shop_order
+GROUP BY name
+HAVING AVG(price)>400
+```
+
+The number of tuples returned by the above SQL query.
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+2
