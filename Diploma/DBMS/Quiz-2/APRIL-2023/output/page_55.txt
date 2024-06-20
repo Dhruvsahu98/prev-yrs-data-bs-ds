@@ -1,0 +1,24 @@
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Consider the relational schema R(A, B, C, D, E, F) with the following sets of functional dependencies:
+X = {BC → D, D → E, AF → E, E → CF}
+Y = {C → BE, D → A, AF → BC, E → BF}
+Which among the following statements is/are incorrect?
+Options :
+6406531736695.  ✓ X covers Y
+6406531736696.  ✗ Y doesn't cover X
+6406531736697.  ✓ Y covers X
+6406531736698.  ✗ Neither X covers Y nor Y covers X
+Sub-Section Number : 8
+Sub-Section Id : 64065373929
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 62 Question Id : 64065321049 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the relational schema Contacts(name, age, aadhar\_no, address, mobile\_no) with the multivalued dependency (aadhar\_no → name; address). Identify the correct rule from the following options (which can be applied once), such that (aadhar\_no → age, mobile\_no) holds.
+Options :
+6406531736703.  ✗ Augmentation
+6406531736704.  ✗ Transitivity
+6406531736705.  ✗ Replication
+6406531736706.  ✓ Complementation

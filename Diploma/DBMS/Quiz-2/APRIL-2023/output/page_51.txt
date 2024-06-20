@@ -1,0 +1,76 @@
+```python
+# This is a code block in Python
+print("Hello World!")
+```
+
+\begin{tikzpicture}[scale=0.8]
+\tikzstyle{every node}=[draw,circle,inner sep=1pt,minimum size=1.2cm]
+\node (A) at (0,0) {A};
+\node (B) at (-3,-1) {B};
+\node (C) at (3,-1) {C};
+\node (D) at (-1,-2) {D};
+\node (E) at (1,-2) {E};
+\node (F) at (3,-3) {F};
+\node (G) at (5,-3) {G};
+\node (I) at (-2,-4) {I};
+\node (J) at (1,-4) {J};
+\node (K) at (3,-5) {K};
+\node (L) at (6,-5) {L};
+\draw (A) -- (B);
+\draw (A) -- (C);
+\draw (B) -- (D);
+\draw (C) -- (F);
+\draw (C) -- (G);
+\draw (D) -- (I);
+\draw (E) -- (J);
+\draw (F) -- (K);
+\draw (G) -- (L);
+\end{tikzpicture}
+
+Figure 1: Tree
+
+What is the arity of the given tree?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+3
+
+Sub-Section Number :
+
+6
+
+Sub-Section Id :
+
+64065373927
+
+Question Shuffling Allowed :
+
+Yes
+
+Is Section Default? :
+
+null
+
+Question Number : 56 Question Id : 64065321044 Question Type : MCQ Is Question
+
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider the relational schema $R(A,B,C,D)$ with the following set of functional dependencies
+$$
+\mathcal{F} = \{A \rightarrow B, B \rightarrow C, C \rightarrow D, D \rightarrow A\}
+$$
+If $R$ is decomposed into $R1(A,B)$, $R2(B,C)$ and $R3(C,D)$, then which of the following options is true?

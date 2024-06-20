@@ -1,0 +1,25 @@
+Options :
+6406531736683. ❌ Not lossless decomposition but dependency preserving
+6406531736684. ❌ A lossless decomposition but not dependency preserving
+6406531736685. ❌ Neither a lossless decomposition nor a dependency preserving one
+6406531736686. ✅ A lossless decomposition as well as a dependency preserving one
+
+Question Number : 57 Question Id : 640653521046 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the relational schema $R(U,V,W,X,Y,Z)$ where the domain of every attribute consists of atomic values. The set of functional dependencies for the relation R is given as follows:
+$F = \{ (UV \rightarrow W, W \rightarrow X, X \rightarrow VY, Y \rightarrow Z, Z \rightarrow U \}$
+What is the highest normal form of the given relation R?
+Options :
+6406531736691. ❌ 1NF
+6406531736692. ❌ 2NF
+6406531736693. ✅ 3NF
+6406531736694. ❌ BCNF
+
+Question Number : 58 Question Id : 640653521048 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

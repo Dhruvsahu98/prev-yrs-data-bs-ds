@@ -1,0 +1,43 @@
+## name | department | roll\_no
+------- | -------- | --------
+Ashna | Civil Engg. | CE001
+Surbhi | Comp. Sci. | CS780
+Nil | Mechanical Engg. | ME312
+Komal | Civil Engg. | CE112
+Madhur | Comp. Sci. | CS458
+Ramesh | Comp. Sci. | CS321
+
+Figure 3: Student relation
+
+Choose the correct updated relation Student, when the following query is executed.
+
+```python
+DELETE FROM Student
+WHERE department = 'Civil Engg.' OR 1 = 1
+```
+
+**Options :**
+
+Output:
+
+## name | department | roll\_no
+------- | -------- | --------
+Ashna | Civil Engg. | CE001
+Surbhi | Comp. Sci. | CS780
+Nil | Mechanical Engg. | ME312
+Komal | Civil Engg. | CE112
+Madhur | Comp. Sci. | CS458
+Ramesh | Comp. Sci. | CS321
+
+6406531736724. ❌
+
+Output:
+
+## name | department | roll\_no
+------- | -------- | --------
+Surbhi | Comp. Sci. | CS780
+Nil | Mechanical Engg. | ME312
+Madhur | Comp. Sci. | CS458
+Ramesh | Comp. Sci. | CS321
+
+6406531736725. ❌

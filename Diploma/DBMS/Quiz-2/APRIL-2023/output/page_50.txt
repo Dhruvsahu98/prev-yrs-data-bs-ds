@@ -1,0 +1,23 @@
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 54 Question Id : 640653521045 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider a relation schema student\_info(roll\_no, name, subject, marks) with (roll\_no, name) as candidate key. Which among the following functional dependencies violates the Third Normal Form (3NF)?
+Options :
+6406531736687. ❌  $roll\_no, name \rightarrow marks$
+6406531736688. ❌  $roll\_no, name \rightarrow subject$
+6406531736689. ❌  $roll\_no \rightarrow name$
+6406531736690. ✅  $subject \rightarrow marks$
+
+
+Sub-Section Number : 5
+Sub-Section Id : 64065373926
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 55 Question Id : 640653521043 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Consider the tree as shown in Figure 1.

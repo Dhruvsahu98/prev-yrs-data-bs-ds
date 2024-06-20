@@ -1,0 +1,23 @@
+87000
+**Question Number :** 51 **Question Id :** 640653521042 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Short Answer Question
+Consider a complete binary search tree that consists of 31 elements. What is the minimum height of the given binary search tree?
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+4
+**Sub-Section Number :** 3
+**Sub-Section Id :** 64065373924
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null
+**Question Id :** 640653521039 **Question Type :** COMPREHENSION **Sub Question Shuffling Allowed :** No Group Comprehension Questions : No **Question Pattern Type :** NonMatrix
+**Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Question Numbers :** (52 to 53)
+**Question Label :** Comprehension
+Consider a magnetic disk with 32 platters, 2 surfaces/platter, 4096 tracks/surface, 1024 sectors/track, and 1024 bytes/sector. The disk rotates with 2000 revolutions per minute.
+Based on the above data, answer the given subquestions.

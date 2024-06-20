@@ -1,0 +1,16 @@
+Question Number : 63 Question Id : 640653521051 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following Flask functions serves as a decorator for telling the application which URL should be used to call the associated function?
+Options :
+6406531736711.  ✔️ route()
+6406531736712.  ❌ run()
+6406531736713.  ❌ cursor()
+6406531736714.  ❌ connect()
+
+Question Number : 64 Question Id : 640653521054 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the relation **Student** as shown in Figure 3.

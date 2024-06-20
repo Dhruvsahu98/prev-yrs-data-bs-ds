@@ -1,0 +1,35 @@
+Consider the relational schema **movie**(m\_id, title, year, producer\_id, producer\_name, director\_id, rating) with the following set of functional dependencies.
+
+$F = \{$
+m\_id $\rightarrow$ title,
+title $\rightarrow$ producer\_id, producer\_name,
+producer\_id $\rightarrow$ producer\_name,
+m\_id $\rightarrow$ producer\_id, director\_id,
+m\_id, title $\rightarrow$ rating, year
+$\}$.
+
+Identify the number of candidate keys along with the total number of super keys for the above relation movie.
+
+**Options :**
+
+6406531736699.  ❌ candidate keys = 2, super keys = 32
+6406531736700.  ❌ candidate keys = 1, super keys = 2
+6406531736701.  ✅ candidate keys = 1, super keys = 64
+6406531736702.  ❌ candidate keys = 2, super keys = 16
+
+**Question Number : 59 Question Id : 640653521050 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+**Question Label : Multiple Choice Question**
+
+Consider the relational schema **Customer** (c\_id, purchased\_item, store\_id, store\_name). A customer can purchase multiple items and from multiple stores. However, store\_id determines the store\_name, i.e., store\_id $\rightarrow$ store\_name.
+
+Identify the most appropriate 4NF decomposition of the given schema.
+
+**Options :**
+
+6406531736707.  ❌ **R1**(c\_id, store\_id), **R2**(c\_id, purchased\_item, store\_name).
+6406531736708.  ❌ **R1**(store\_id, store\_name), **R2**(c\_id, purchased\_item).
+6406531736709.  ✅ **R1**(store\_id, store\_name), **R2**(c\_id, store\_id), and **R3**(c\_id, purchased\_item).
+6406531736710.  ❌ **R1**(store\_id, store\_name), **R2**(store\_id, c\_id, purchased\_item).

@@ -1,0 +1,37 @@
+Sub questions
+
+Question Number : 52 Question Id : 640653521040 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+What is the minimum number of bits required for addressing all the tracks?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+
+Possible Answers :
+18
+
+Question Number : 53 Question Id : 640653521041 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Given that the rotational speed of the disk is 2000 revolutions per minute and the seek time is 5ms, what will be the disk access time?
+
+Consider disk access time= seek time + rotational latency.
+
+Options :
+6406531736677. ❌ 20 sec
+6406531736678. ❌ 35 ms
+6406531736679. ✅ 20 ms
+6406531736680. ❌ 35 sec
+
+Sub-Section Number : 4
+Sub-Section Id : 64065373925
