@@ -1,0 +1,31 @@
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (191 to 192)
+Question Label : Comprehension
+A k-means++ algorithm with k = 3 was applied to following 2D points:
+
+(0,0),(1,2),(3,1),(4,7),(-1,9),(4,-2)
+
+(0,0) is chosen as the first cluster mean.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 191 Question Id : 640653470400 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which point has the highest probability of being chosen as the $2^{nd}$ cluster mean? Use the manhattan distance to compute the distances.
+
+Options :
+6406531563140.  * (3,1)
+6406531563141.  ✓ (4,7)
+6406531563142.  * (-1,9)
+6406531563143.  * (4,-2)
+
+Question Number : 192 Question Id : 640653470401 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+If the point with the highest score is chosen as the $2^{nd}$ cluster mean (answer from previous

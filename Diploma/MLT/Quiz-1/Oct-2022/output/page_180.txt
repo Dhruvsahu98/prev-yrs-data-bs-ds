@@ -1,0 +1,29 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0
+Sub-Section Number : 9
+Sub-Section Id : 64065355383
+Question Shuffling Allowed : No
+
+Question Id : 640653386842 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (185 to 186)
+Question Label : Comprehension
+Assume that you have a dataset of four points $\{x_1, x_2, x_3, x_4\}$, all of which lie in $[0, 1]$. You hypothesise that the data points are iid random variables with the following density:
+ $$
+ f(x; \theta) = 
+ \begin{cases}
+ \theta x^{\theta - 1}, & 0 \leq x \leq 1 \\
+ 0, & \text{otherwise}
+ \end{cases}
+ $$
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 185 Question Id : 640653386843 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+What is the log-likelihood of this dataset under this distribution?

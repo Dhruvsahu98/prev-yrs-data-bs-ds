@@ -1,0 +1,29 @@
+Text Areas : PlainText
+Possible Answers :
+0.380 to 0.386
+
+Question Number : 92 Question Type : SA
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the recall metric?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.524 to 0.530
+
+Question Number : 93 Question Type : SA
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the F-1 Score metric?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.440 to 0.447
+
+Question Type : COMPREHENSION

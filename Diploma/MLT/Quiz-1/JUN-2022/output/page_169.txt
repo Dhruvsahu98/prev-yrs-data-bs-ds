@@ -1,0 +1,28 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.55 to 0.57
+Question Number : 174 Question Id : 640653345613 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Find the value of the precision. Write your answer correct upto 2 decimal places, do not round up or off.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.43 to 0.45
+Question Number : 175 Question Id : 640653345614 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Find the value of the recall. Write your answer correct upto 2 decimal places, do not round up or off.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes

@@ -1,0 +1,30 @@
+Sub-Section Id : 64065367805
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653470387 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (182 to 183)
+Question Label : Comprehension
+
+Consider a centered dataset in $\mathbb{R}^{100}$ that has 1000 data-points. Call this dataset $D_1$. Standard PCA is performed on $D_1$ and the scalar projections of $D_1$ on the top 5 principal components are computed. Call the resulting dataset $D_2$.
+
+NOTE: $D_2$ is only made up of the scalar projections. All the principal components are thrown out after computing the scalar projections and are not a part of $D_2$.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 182 Question Id : 640653470388 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2.5
+Question Label : Short Answer Question
+
+Each data-point in $D_2$ belongs to $\mathbb{R}^k$. What is the value of $k$?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+5

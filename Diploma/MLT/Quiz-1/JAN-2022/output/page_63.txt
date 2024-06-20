@@ -1,0 +1,33 @@
+B.  $\ast$ $w = X@X.T@y$
+C.  $\ast$ $w = X.T@np.linalg.inv(X)@y$
+D.  $\ast$ $w = X.T@np.linalg.pinv(X@y)@y$
+
+# Question Number : 86 Question Type : MCQ
+## Correct Marks : 2
+## Question Label : Multiple Choice Question
+
+Raj trains his linear regression model with two different values of learning rate, i.e. $\alpha_1$ and $\alpha_2$, for the same training set. He gets learning curves as displayed in the following chart.
+
+\begin{tikzpicture}[scale=0.8]
+    \draw[thick,->] (0,0) -- (5,0);
+    \draw[thick,->] (0,0) -- (0,4);
+    \draw[thick] (0,3.5) -- (0.2,3.5);
+    \draw[thick] (0,2.5) -- (0.2,2.5);
+    \draw[thick] (4.5,0) -- (4.5,0.2);
+    \draw[thick,blue] (0.5,3.5) .. controls (1,0.5) and (2.5,0.5) .. (4.5,0.5);
+    \draw[thick,brown] (0.5,0.5) .. controls (1.5,1) and (3,2) .. (4.5,3.5);
+    \node[below] at (2.5,0) {No. of epochs};
+    \node[left] at (0,1.5) {$J(w)$};
+    \node[left] at (0,1) {Loss};
+    \node[right] at (0.2,3.5) {$\alpha_1$};
+    \node[right] at (0.2,2.5) {$\alpha_2$};
+    \node[above] at (4.5,3.5) {$\alpha_2$};
+    \node[above] at (4.5,0.5) {$\alpha_1$};
+\end{tikzpicture}
+
+Which of the following correctly explains relationship between $\alpha_1$ and $\alpha_2$?
+
+## Options :
+A.  $\ast$ $\alpha_1 > \alpha_2$
+B.  $\checkmark$ $\alpha_1 < \alpha_2$
+C.  $\ast$ $\alpha_1 = \alpha_2$

@@ -1,0 +1,44 @@
+Question Number : 186 Question Id : 640653345620 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The gradient of function $f(x_1,x_2) = x_1^2 + x_1x_2 + x_2^2$ at point $(x_1,x_2) = (1,2)$ is:
+Options :
+6406531149449. $\checkmark [4, 5]^T$
+6406531149450. $\times [5, 4]^T$
+6406531149451. $\times [2, 3]^T$
+6406531149452. $\times [4, 6]^T$
+
+Question Number : 187 Question Id : 640653345624 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Brijmohan trains his linear regression model with three different values of learning rate, i.e. $\alpha_1$, $\alpha_2$ and $\alpha_3$, for the same training set. He gets learning curves as displayed in the following chart.
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create some sample data
+x = np.linspace(0, 10, 100)
+y1 = np.exp(-x/2)
+y2 = np.exp(-x/3)
+y3 = np.exp(-x/4)
+
+# Plot the data
+plt.plot(x, y1, label='$\alpha_1$', color='brown')
+plt.plot(x, y2, label='$\alpha_2$', color='steelblue')
+plt.plot(x, y3, label='$\alpha_3$', color='forestgreen')
+
+# Add labels and title
+plt.xlabel('# of epochs')
+plt.ylabel('Loss\nFunction\n$J(W)$')
+plt.title('')
+plt.legend()
+
+# Show the plot
+plt.show()
+```
+
+Which of the following correctly explains relationship among $\alpha_1$, $\alpha_2$ and $\alpha_3$?
+Options :

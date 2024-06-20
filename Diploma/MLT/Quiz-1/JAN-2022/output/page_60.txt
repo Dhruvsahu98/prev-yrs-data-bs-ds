@@ -1,0 +1,24 @@
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+90
+
+**Question Number :** 81 **Question Type :** SA
+**Correct Marks :** 3
+**Question Label :** Short Answer Question
+Suppose a line goes through the origin and is in the direction of the weight vector $w = \begin{bmatrix} 2 \\ 2 \end{bmatrix}$. Given the data point (10, 0.1) calculate the normal distance from the line to the data point. Write your answer correct upto 2 decimal places, do not round up or off.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :**
+0.61 to 0.65
+
+**Question Number :** 82 **Question Type :** SA
+**Correct Marks :** 4
+**Question Label :** Short Answer Question

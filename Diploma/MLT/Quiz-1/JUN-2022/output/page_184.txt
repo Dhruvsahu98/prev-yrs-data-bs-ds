@@ -1,0 +1,36 @@
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+**X<sub>2</sub>**
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+**X<sub>1</sub>**
+Perceptron model
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type:** Numeric
+**Evaluation Required For SA:** Yes
+**Show Word Count:** Yes
+**Answers Type:** Equal
+**Text Areas:** PlainText
+**Possible Answers:**
+5
+**Question Number:** 195 **Question Id:** 640653345637 **Question Type:** SA **Calculator:** None
+**Response Time:** N.A **Think Time:** N.A **Minimum Instruction Time:** 0
+**Correct Marks:** 2
+**Question Label:** Short Answer Question

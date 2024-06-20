@@ -1,0 +1,26 @@
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. 
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406531563084. ✅ YES
+6406531563085. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065367802
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 170 Question Id : 640653470375 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Standard-PCA is performed on a centered dataset in $\mathbb{R}^3$. Two principal components are given below:
+$\frac{1}{2}\begin{bmatrix} 1 \\ \sqrt{2} \\ -1 \end{bmatrix}$, $\frac{1}{\sqrt{2}}\begin{bmatrix} 1 \\ 0 \\ 1 \end{bmatrix}$
+
+Which of the following could be the third?
+
+Options : 
+6406531563086. ✅ $\frac{1}{2}\begin{bmatrix} 1 \\ -\sqrt{2} \\ -1 \end{bmatrix}$
+6406531563087. ❌ $\begin{bmatrix} 0 \\ 0 \\ 0 \end{bmatrix}$

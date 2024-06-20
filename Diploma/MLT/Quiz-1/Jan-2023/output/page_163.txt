@@ -1,0 +1,23 @@
+**Question Number :** 179 **Question Id :** 640653470384 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 5
+**Question Label :** Short Answer Question
+
+Consider a dataset of 20 points where the $i^{th}$ data-point is given by:
+$$x_i = a_i \begin{bmatrix} 1 \\ 1 \\ 2 \end{bmatrix} + b_i \begin{bmatrix} -1 \\ 1 \\ 0 \end{bmatrix},$$
+where $a_i$ and $b_i$ are real numbers such that $\sum_{i=1}^{20} a_i = \sum_{i=1}^{20} b_i = 0$. Standard PCA is performed on this dataset. If the top two principal components are retained and used to reconstruct the dataset, what is the reconstruction error?
+
+**Hint:** Think about what happens in $\mathbb{R}^2$ or $\mathbb{R}^3$ for a similar situation and extend this idea to $\mathbb{R}^4$.
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+0
+
+**Question Number :** 180 **Question Id :** 640653470385 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 5
+**Question Label :** Short Answer Question

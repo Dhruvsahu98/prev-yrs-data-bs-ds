@@ -1,0 +1,29 @@
+640653224062. ✖ None of these
+
+Sub-Section Number : 7
+Sub-Section Id : 6406539519
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653668620 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (178 to 180)
+Question Label : Comprehension
+
+Suppose that we have a dataset (data matrix) $X \in \mathbb{R}^{d \times n}$, where $d$ denotes the number of features and $n$ denotes the number of samples. Assume that $d >> n$ and the data is centered. The representative line is given by the unit vector, pointing in the direction of the line, w. 
+In all the cases, we maximize the objective function given below 
+
+$f(w) = w^T C w$
+
+where $C = \frac{1}{n} X X^T$ is a covariance matrix. The kernel matrix is defined to be $K = X^T X$. 
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 178 Question Id : 640653668621 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Which of the following statements are true?
+
+Options :

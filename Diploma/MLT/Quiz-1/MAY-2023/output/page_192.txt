@@ -1,0 +1,19 @@
+6406531929891. ✖ $\phi([x_1, x_2]^T) = [1, x_1 x_2, x_1^2 x_2^2]$
+6406531929892. ✖ $\phi([x_1, x_2]^T) = [1, x_1, x_2, x_1^2 x_2^2]$
+6406531929893. ✔ $\phi([x_1, x_2]^T) = [1, x_1, x_2, x_1^2 x_2, x_1 x_2^2]$
+6406531929894. ✖ $\phi([x_1, x_2]^T) = [1, x_1, x_2, x_1^2, x_2^2]$
+
+Question Number : 170 Question Id : 640653577923 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following Hard K-means clustering problem with four points:
+$P(1, 1), Q(2, 1), R(4, 3), and S(5, 4)$. Consider the number of clusters to be $k = 2$ and the initial centroids to be $C_1 = (0, 0)$ and $C_2 = (4, 4)$. After how many iterations will the algorithm terminate and what will be the final centroids? use euclidean distance metric to calculate distance.
+
+Options :
+6406531929895. ✖ 2, (1, 1), (4, 4)
+6406531929896. ✖ 3, (1, 1), (4, 4)
+6406531929897. ✔ 2, (1.5, 1), (4.5, 3.5)
+6406531929898. ✖ 4, (1.5, 1), (4.5, 3.5)
+
+Sub-Section Number : 3

@@ -1,0 +1,19 @@
+Options : 
+6406531286458.  $\times$  $\prod_{i=1}^4 \theta x_i^{\theta-1}$
+6406531286459.  $\times$  $\sum_{i=1}^4 \theta x_i^{\theta-1}$
+6406531286460.  $\checkmark$  $\sum_{i=1}^4 [\log \theta + (\theta-1)\log x_i]$
+6406531286461.  $\times$  $\prod_{i=1}^4 [\log \theta + (\theta-1)\log x_i]$
+
+Question Number : 186 Question Id : 640653386844 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Short Answer Question
+You are given the actual values of these observations:
+$x_1 = \frac{1}{e}$, $x_2 = \frac{1}{e^2}$, $x_3 = \frac{1}{e^3}$, $x_4 = \frac{1}{e^4}$
+What is the maximum likelihood estimate for $\theta$? Use $\log_e$ wherever appropriate.
+Hint: Differentiate the log-likelihood with respect to $\theta$ and set it to zero.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText

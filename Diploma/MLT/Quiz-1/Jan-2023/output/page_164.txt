@@ -1,0 +1,49 @@
+Consider the following prior for the parameter $p$ of a Bernoulli distribution:
+
+$p \sim Beta(3, 2)$
+
+The dataset observed is as follows:
+
+$\{1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1\}$
+
+What is $\hat{p}$, a point estimate for the parameter of the Bernoulli distribution, if we use the expectation of the posterior as the method of estimation? Enter your answer correct to three decimal places.
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Range
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+0.60 to 0.62
+
+**Question Number :** 181 **Question Id :** 640653470386 **Question Type :** SA Calculator : None
+
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 5
+
+**Question Label :** Short Answer Question
+
+A dataset containing 200 examples in three-dimensional space has been transformed into a higher-dimensional space using a polynomial kernel of degree two. What will be the dimension of the transformed feature space?
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Equal
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+10
+
+**Sub-Section Number :** 5

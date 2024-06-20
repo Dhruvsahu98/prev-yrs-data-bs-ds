@@ -1,0 +1,35 @@
+Consider a dataset with 60 points in which all points are either 0 or 1. We use a Bernoulli distribution with parameter $p$ to model this problem. The prior and posterior distributions for the parameter $p$ are Beta(10, 5) and Beta(30, 45) respectively. How many data-points have the value 0 in this dataset? Note that $p = P(x = 1)$ as usual.
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+40
+
+**Question Number :** 176 **Question Id :** 640653386836 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 5
+
+**Question Label :** Short Answer Question
+A GMM is fit for a dataset with $b$ points. At some time-step in the EM algorithm, the following are the values of $\lambda_k^i$ for all points in the dataset for the $k^{th}$ mixture after the E-step:
+
+$\lambda_k^1 = 0.9$
+$\lambda_k^2 = 0.8$
+$\lambda_k^3 = 0.7$
+$\lambda_k^4 = 0.6$
+$\lambda_k^5 = 0.5$
+
+What is the estimate of $\pi_k$ after the M-step?
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :**
+0.69 to 0.71
+
+**Sub-Section Number :**
+6

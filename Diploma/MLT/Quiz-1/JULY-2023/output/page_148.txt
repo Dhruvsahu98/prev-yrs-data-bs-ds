@@ -1,0 +1,115 @@
+Points on Line and Circle
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create the figure and axes object
+fig, ax = plt.subplots()
+
+# Plot the points on the line
+x = np.linspace(-1, 5, 30)
+y = -2 * np.ones(30)
+ax.plot(x, y, 'bo')
+
+# Plot the points on the circle
+theta = np.linspace(0, 2*np.pi, 30)
+r = 1
+x = r * np.cos(theta) + 1
+y = r * np.sin(theta)
+ax.plot(x, y, 'ro')
+
+# Set the axis labels
+ax.set_xlabel('X')
+ax.set_ylabel('Y')
+
+# Set the axis limits
+ax.set_xlim([-1, 5])
+ax.set_ylim([-2.5, 1.5])
+
+# Set the title of the plot
+ax.set_title('Points on Line and Circle')
+
+# Display the plot
+plt.show()
+```
+
+Clustering of Concentric Circles
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create the figure and axes object
+fig, ax = plt.subplots()
+
+# Plot the points on the outer circle
+theta = np.linspace(0, 2*np.pi, 30)
+r = 1
+x = r * np.cos(theta)
+y = r * np.sin(theta)
+ax.plot(x, y, 'ro')
+
+# Plot the points on the inner circle
+theta = np.linspace(0, 2*np.pi, 30)
+r = 0.5
+x = r * np.cos(theta)
+y = r * np.sin(theta)
+ax.plot(x, y, 'bo')
+
+# Set the axis labels
+ax.set_xlabel('X')
+ax.set_ylabel('Y')
+
+# Set the axis limits
+ax.set_xlim([-1.2, 1.2])
+ax.set_ylim([-1.2, 1.2])
+
+# Set the title of the plot
+ax.set_title('Clustering of Concentric Circles')
+
+# Display the plot
+plt.show()
+```
+
+Points on Concentric Circles
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create the figure and axes object
+fig, ax = plt.subplots()
+
+# Plot the points on the outer circle
+theta = np.linspace(0, 2*np.pi, 30)
+r = 3
+x = r * np.cos(theta)
+y = r * np.sin(theta)
+ax.plot(x, y, 'ro')
+
+# Plot the points on the inner circle
+theta = np.linspace(0, 2*np.pi, 30)
+r = 2
+x = r * np.cos(theta)
+y = r * np.sin(theta)
+ax.plot(x, y, 'bo')
+
+# Set the axis labels
+ax.set_xlabel('X')
+ax.set_ylabel('Y')
+
+# Set the axis limits
+ax.set_xlim([-5, 5])
+ax.set_ylim([-4, 4])
+
+# Set the title of the plot
+ax.set_title('Points on Concentric Circles')
+
+# Display the plot
+plt.show()
+```
+
+6406531932435. ❌
+
+6406531932436. ✅

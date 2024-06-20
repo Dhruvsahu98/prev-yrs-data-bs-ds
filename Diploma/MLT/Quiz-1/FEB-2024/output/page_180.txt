@@ -1,0 +1,37 @@
+Standard PCA has been performed on a centered dataset in $\mathbb{R}^3$. The first two principal components are given below:
+ $$
+ \mathbf{w}_1 = \frac{1}{\sqrt{3}} \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}, \quad \mathbf{w}_2 = \frac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ -1 \\ 0 \end{bmatrix}
+ $$
+ Consider the data point in the dataset: $[2 \quad 1 \quad -1]^T$. $(a,b)$ is the representation of this point in the coordinate system formed by the two principal components given above. The first and second coordinates correspond to PC-1 and PC-2 respectively.
+
+Based on the above data, answer the given subquestions.
+
+## Sub questions 
+
+**Question Number : 184 Question Id : 640653737460 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+What is the value of $a$? Enter your answer correctly to three decimal places.
+
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Range**
+**Text Areas : PlainText**
+**Possible Answers :**
+
+1.10 to 1.20
+
+**Question Number : 185 Question Id : 640653737461 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+What is the value of $b$? Enter your answer correctly to two decimal places.
+
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**

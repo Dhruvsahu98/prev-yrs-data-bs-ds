@@ -1,0 +1,29 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+1.25 to 1.5
+
+Question Number : 181 Question Id : 640653577935 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+What is the value of $b$? Enter your answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.25 to 0.55
+
+MLP
+Section Id : 64065339077
+Section Number : 12
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 25
+Number of Questions to be attempted : 25
+Section Marks : 50

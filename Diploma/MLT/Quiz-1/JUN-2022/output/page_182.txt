@@ -1,0 +1,37 @@
+```python
+import itertools, functools
+import numpy as np
+x = np.array([[2, 3]])
+degree = 3
+x_t = x.transpose()
+features = [np.ones(len(x))]
+for degree in range(1, degree + 1):
+    for items in itertools.combinations_with_replacement(x_t, degree):
+        features.append(functools.reduce(lambda x, y: x * y, items))
+output = np.sum(np.asarray(features).transpose())
+print(int(output))
+```
+What is the output of the code snippet?
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+90
+
+**Question Number :** 193 **Question Id :** 640653345638 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+
+**Question Label :** Short Answer Question
+
+A classification model was trained on some training examples with two features and three classes (0, 1 and 2) using least square algorithm. The learnt weight matrix is 
+$$W = \begin{bmatrix}
+-1.2 & 0.6 & 0.5 \\
+0.3 & 0.8 & -1.5 \\
+0.4 & 1.3 & 1
+\end{bmatrix}$$
+(Remember for k class classification problem with m features, shape of weight matrix is (m + 1) * k)
+
+Which class will the sample (-1, 1) be classified to?

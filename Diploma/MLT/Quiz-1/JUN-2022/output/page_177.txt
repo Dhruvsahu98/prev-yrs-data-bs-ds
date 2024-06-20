@@ -1,0 +1,25 @@
+Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+What do you think will happen if Abhishek tries to fit a linear regression model with polynomial transformation of degree 20?
+Options :
+6406531149472. ❌ High validation loss and high training loss.
+6406531149473. ✅ High validation loss and low training loss.
+6406531149474. ❌ Low validation loss and high training loss.
+6406531149475. ❌ Low validation loss and low training loss.
+Sub-Section Number : 5
+Sub-Section Id : 64065348896
+Question Shuffling Allowed : Yes
+Question Number : 185 Question Id : 640653345619 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider following label vector for a movie data $D = (X, y)$
+$X = \begin{bmatrix} 2019 & 'Uri: The Surgical Strike' & 8.3 \\ 2009 & '3 Idiots' & 8.4 \end{bmatrix}$
+$y = \begin{bmatrix} 'Drama', 'Action', 'War' \\ 'Comedy', 'Drama' \end{bmatrix}$
+X has year of release, name of the movie and IMDb rating as features. And y has corresponding genres. Predicting genres of a movie is following type of problem:
+Options :
+6406531149445. ✅ Multi-label, multi-class classification problem
+6406531149446. ❌ Single-label, multi-class classification problem
+6406531149447. ❌ Single-label, binary class classification problem
+6406531149448. ❌ Multi-label, binary class classification problem

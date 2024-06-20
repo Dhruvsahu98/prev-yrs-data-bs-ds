@@ -1,0 +1,24 @@
+**Question Number : 96 Question Type : MCQ**
+**Correct Marks : 5**
+**Question Label : Multiple Choice Question**
+Suppose, after fitting the linear regression model, Raj has computed the ridge loss value for this data as 0.3507, which of the following is the regularization parameter value chosen by Raj for performing ridge regression?
+**Options :**
+A. 0.001
+B. 0.1
+C. 0.01
+D. 0.5
+
+**Question Number : 97 Question Type : MCQ**
+**Correct Marks : 5**
+**Question Label : Multiple Choice Question**
+For the same dataset, Suppose, after fitting the linear regression model, Raj has computed the lasso loss value as 0.38, which of the following is the regularization parameter value chosen by Raj for performing lasso regression?
+**Options :**
+A. 0.001
+B. 0.1
+C. 0.01
+D. 0.5
+
+**Question Type : COMPREHENSION**
+**Question Numbers : (98 to 99)**
+**Question Label : Comprehension**
+Suppose that you have a non-linear dataset with a feature matrix $X^{100 \times 1}$. You used a $4^{th}$ degree polynomial transformation to the features and trained a linear regression model with stochastic 

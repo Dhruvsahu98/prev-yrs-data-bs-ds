@@ -1,0 +1,56 @@
+Consider the following one-dimensional dataset of seven points that are distributed as follows:
+
+\begin{tikzpicture}
+\draw[->] (-30,0) -- (30,0);
+\foreach \x in {-30,-25,-20,-15,-10,-5,0,5,10,15,20,25,30}
+\draw (\x,-0.2) -- (\x,0.2);
+\draw (-15,0.2) node[above] {$\mu_1$};
+\draw (0,0.2) node[above] {$\mu_2$};
+\draw (5,0.2) node[above] {$\mu_3$};
+\draw (-30,-0.2) node[below] {$-30$};
+\draw (-25,-0.2) node[below] {$-25$};
+\draw (-20,-0.2) node[below] {$-20$};
+\draw (-15,-0.2) node[below] {$-15$};
+\draw (-10,-0.2) node[below] {$-10$};
+\draw (-5,-0.2) node[below] {$-5$};
+\draw (0,-0.2) node[below] {$0$};
+\draw (5,-0.2) node[below] {$5$};
+\draw (10,-0.2) node[below] {$10$};
+\draw (15,-0.2) node[below] {$15$};
+\draw (20,-0.2) node[below] {$20$};
+\draw (25,-0.2) node[below] {$25$};
+\draw (30,-0.2) node[below] {$30$};
+\draw[fill=blue] (-15,0) circle (0.1cm);
+\draw[fill=blue] (-10,0) circle (0.1cm);
+\draw[fill=blue] (0,0) circle (0.1cm);
+\draw[fill=blue] (5,0) circle (0.1cm);
+\draw[fill=blue] (15,0) circle (0.1cm);
+\draw[fill=blue] (20,0) circle (0.1cm);
+\end{tikzpicture}
+
+$k$-means algorithm with $k=3$ was run on the given data points. $\mu_1$, $\mu_2$, and $\mu_3$ are the initial cluster means.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 186 Question Id : 640653470394 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+How many points belong to cluster 3 (mean $\mu_3$) for the initial clusters?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+4
+
+Question Number : 187 Question Id : 640653470395 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+What will be the mean $\mu_3$ after $1^{st}$ iteration? Enter your answer correct to two decimal places.

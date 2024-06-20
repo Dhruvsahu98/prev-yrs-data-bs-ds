@@ -1,0 +1,23 @@
+Assume that you have a dataset of five points $\{x_1, x_2, x_3, x_4, x_5\}$, all of which are non-negative. You hypothesise that the data points are iid random variables with the following density: 
+ $$f(x; \lambda) = 
+\begin{cases}
+\lambda e^{-\lambda x}, & x \ge 0 \\
+0, & x < 0
+\end{cases}$$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 184 Question Id : 640653470391 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+
+What is the log-likelihood of this dataset under this distribution?
+ln represents the natural logarithm or $log_e$. 
+
+Options :
+6406531563125.  $\times$  $\prod_{i=1}^{5} \lambda e^{-\lambda x_i}$
+6406531563126.  $\times$ $\sum_{i=1}^{5} \lambda e^{-\lambda x_i}$
+6406531563127. $\checkmark$ $\sum_{i=1}^{5} [ln(\lambda) - \lambda x_i]$
+6406531563128.  $\times$ $\prod_{i=1}^{5} [ln(\lambda) - \lambda x_i]$

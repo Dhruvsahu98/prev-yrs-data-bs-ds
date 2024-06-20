@@ -1,0 +1,49 @@
+question ), Which point has the highest probability of being chosen as $3^{rd}$ the cluster mean? Use the manhattan distance to compute the distances.
+
+Options : 
+
+6406531563144. $\times$ (3,1)
+
+6406531563145. $\times$ (4,7)
+
+6406531563146. $\checkmark$ (-1,9)
+
+6406531563147. $\times$ (4,-2)
+
+```python
+# code block
+```
+
+MLP
+
+Section Id : 64065330353
+
+Section Number : 12
+
+Section type : Online
+
+Mandatory or Optional : Mandatory
+
+Number of Questions : 24
+
+Number of Questions to be attempted : 24
+
+Section Marks : 50
+
+Display Number Panel : Yes
+
+Group All Questions : No
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+
+Maximum Instruction Time : 0
+
+Sub-Section Number : 1
+
+Sub-Section Id : 64065367809
+
+Question Shuffling Allowed : No
+
+Is Section Default? : null
+
+Question Number : 193 Question Id : 640653470402 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 

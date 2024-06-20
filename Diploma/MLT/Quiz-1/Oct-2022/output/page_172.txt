@@ -1,0 +1,28 @@
+**Correct Marks :** 4
+
+**Question Label :** Multiple Select Question
+
+In the context of EM algorithm, select all true statements from the options given below. There are *n* data-points and *K* mixtures. The index *i* corresponds to the *i*<sup>th</sup> data-point, the index *k* corresponds to the *k*<sup>th</sup> mixture, *f* is the density of a Gaussian. All other symbols have their usual meaning.
+
+**Options :**
+6406531286438.  ✔  $\pi_k = P(z_i = k)$
+6406531286439.  ✖  $\sum_{i=1}^{n}\lambda_k^i = 1$
+6406531286440.  ✔  $\lambda_k^i = P(z_i = k | x_i)$
+6406531286441.  ✖  $\lambda_k^i = f(x_i | z_i = k)$
+
+**Sub-Section Number :** 5
+**Sub-Section Id :** 64065355379
+**Question Shuffling Allowed :** Yes
+
+**Question Number :** 173 **Question Id :** 640653386828 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 5
+
+**Question Label :** Short Answer Question
+
+Consider a centered dataset of 100 points in $\mathbb{R}^5$. Standard PCA is performed on this dataset. Consider the following ratio:
+$\theta = \frac{variance \space along \space the \space first \space principal \space component}{sum \space of \space variances \space along \space all \space five \space principal \space components}$
+
+What is the minimum value of $\theta$?
+
+**Response Type :** Numeric

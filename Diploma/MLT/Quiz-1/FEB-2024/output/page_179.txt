@@ -1,0 +1,21 @@
+**Question Number :** 183 **Question Id :** 640653737464 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 4
+**Question Label :** Multiple Choice Question
+
+Consider a dataset consisting of 1000 samples in a 20-dimensional space. You apply Kernel PCA with a polynomial kernel of degree 3 to reduce the dimensionality of the data. Which of the following statements regarding Kernel PCA is true?
+
+**Options :**
+6406532468155. ❌ Kernel PCA always results in a lower-dimensional representation of the data compared to standard PCA.
+6406532468156. ❌ Kernel PCA can only be applied to datasets that are linearly separable.
+6406532468157. ✅ Choosing a higher degree polynomial kernel in Kernel PCA can lead to increased flexibility in capturing non-linear relationships.
+6406532468158. ❌ None of these.
+
+**Sub-Section Number :** 3
+**Sub-Section Id :** 640653107659
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null
+
+**Question Id :** 640653737459 **Question Type :** COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Question Numbers :** (184 to 185)
+**Question Label :** Comprehension

@@ -1,0 +1,69 @@
+## Class A
+## Class B
+
+<br>
+
+<br>
+
+## X axis
+## Figure 1
+## Class A
+## Class B
+
+<br>
+
+<br>
+
+## Y axis
+## X axis
+## Figure 2
+## Class A
+## Class B
+
+<br>
+
+<br>
+
+## Y axis
+## X axis
+## Figure 3
+## Class A
+## Class B
+
+<br>
+
+<br>
+
+## Y axis
+## X axis
+## Figure 4
+
+<br>
+
+For which of the figures above, perceptron algorithm will eventually converge?
+
+**Options :**
+
+**A.**  ✔ Figure 1
+
+**B.** ✖ Figure 2
+
+**C.** ✖ Figure 3
+
+**D.** ✖ Figure 4
+
+<br>
+
+**Question Number : 90 Question Type : MSQ**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Select Question**
+
+Which of the following can NOT be a linear regression model?
+
+**Options :**
+
+**A.** ✖ $y = \sum_{i=0}^{m} w_i x_i$
+
+**B.** ✔ $y = \prod_{i=0}^{m} w_i x_i$

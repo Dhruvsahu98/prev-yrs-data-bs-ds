@@ -1,0 +1,41 @@
+For the given dataset:
+
+| x | y |
+|---|---|
+| 1 | 3 |
+| 2 | 4 |
+| 3 | 8 |
+
+For fitting linear regression model, assume the initial weight vector is $w = [0, 0]$ and learning rate $\alpha = 0.01$. Compute the weight vector after one iteration, let's call it $w_1$. Compute prediction for $x = 5$ correct upto two decimal points with new weight vector (i.e. $w_1$). Do not round up or off.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+
+Possible Answers :
+
+1.88 to 1.92
+
+Question Number : 80 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Ankita had a feature vector x and she wanted to apply polynomial transformation on x. She had written a code snippet as follows:
+
+```python
+import itertools, functools
+import numpy as np
+x = np.array([[2, 3]])
+degree = 3
+x_t = x.transpose()
+features = [np.ones(len(x))]
+for degree in range(1, degree + 1):
+  for items in itertools.combinations_with_replacement(x_t, degree):
+    features.append(functools.reduce(lambda x, y: x * y, items))
+output = np.sum(np.asarray(features).transpose())
+print(int(output))
+```
+
+What is the output of the code snippet?

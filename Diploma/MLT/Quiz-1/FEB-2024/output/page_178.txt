@@ -1,0 +1,22 @@
+Question Number : 181 Question Id : 640653737462 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Let $k: \mathbb{R} \times \mathbb{R} \rightarrow \mathbb{R}$ be a valid kernel. Is $sin(x_1)cos(x_2)k(x_1, x_2)$ a valid kernel? Here, $x_1, x_2 \in \mathbb{R}$?
+Options :
+6406532468149. ❌ Yes
+6406532468150. ✅ No
+
+Question Number : 182 Question Id : 640653737463 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the following kernel:
+$k: \mathbb{R}^2 \times \mathbb{R}^2 \rightarrow \mathbb{R}$
+$k(x, y) = (x^T y)^2 + 1$
+Which of the following transformation mapping $\phi$ may correspond to the kernel $k$?
+Options :
+6406532468151. ✅ $\phi([x_1, x_2]^T) = [x_1^2, \sqrt{2}x_1x_2, x_2^2, 1]^T$
+6406532468152. ❌ $\phi([x_1, x_2]^T) = [x_1^2, x_1 + x_2, x_2^2, 1]^T$
+6406532468153. ❌ $\phi([x_1, x_2]^T) = [x_1, \sqrt{2}x_1^2x_2^2, x_2, 1]^T$
+6406532468154. ❌ $\phi([x_1, x_2]^T) = [x_1, x_1x_2, x_2, 1]^T$

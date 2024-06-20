@@ -1,0 +1,13 @@
+Question Number : 167 Question Id : 640653386822 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 6 Question Label : Multiple Choice Question A function $k$ is defined as 
+ $$k: \mathbb{R} \times \mathbb{R} \rightarrow \mathbb{R}$$
+ $$k(x_1, x_2) = x_1x_2 + x_1^2x_2^2 + x_1^3x_2 + 1$$
+ Is $k$ a valid kernel?
+ Options :
+ 6406531286420. ❌ Yes
+ 6406531286421. ✅ No
+ 
+ Question Number : 168 Question Id : 640653386823 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 6 Question Label : Multiple Choice Question Let $X$ be a data matrix of shape $(d, n)$ for a centered dataset. The first principal component of the dataset is $[\frac{1}{2}, \frac{\sqrt{3}}{2}]^T$. What will the scalar proxy of the point $[1, 2]^T$ be on the first principal component?
+ Options :
+ 6406531286422. ❌ $1 + 2\sqrt{3}$
+ 6406531286423. ✅ $\frac{1 + 2\sqrt{3}}{2}$
+ 6406531286424. ❌ $\frac{1 + 2\sqrt{3}}{4}$

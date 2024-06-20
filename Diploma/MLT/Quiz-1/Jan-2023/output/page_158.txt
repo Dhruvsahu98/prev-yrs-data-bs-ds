@@ -1,0 +1,21 @@
+6406531563093. ✖ $\frac{\alpha_1}{\sqrt{\lambda}}$
+6406531563094. ✖ $X_{\alpha_1}$
+6406531563095. ✔️ $\frac{X_{\alpha_1}}{\sqrt{\lambda}}$
+
+
+Question Number : 173 Question Id : 640653470378 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question 
+
+Is the following statement true or false?
+
+For any desired transformation $\phi(x)$, we can design a kernel function $k(x_1;x_2)$ that will evaluate $\phi(x_1)^T\phi(x_2)$.
+
+Options :
+6406531563096. ✔️ TRUE
+6406531563097. ✖ FALSE
+
+
+Question Number : 174 Question Id : 640653470379 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question 

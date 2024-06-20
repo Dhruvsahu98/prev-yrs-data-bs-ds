@@ -1,0 +1,33 @@
+```python
+6406532239742. *
+nomineename
+Yukti
+Mukti
+6406532239743. *
+nomineename
+Shakti
+Mukti
+6406532239744. *
+nomineename
+Shakti
+Yukti
+Mukti
+6406532239745. ✓
+nomineename
+Shakti
+Yukti
+
+PDSA 64065344900
+Section Id :
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and
+Clear Response : Yes
+```

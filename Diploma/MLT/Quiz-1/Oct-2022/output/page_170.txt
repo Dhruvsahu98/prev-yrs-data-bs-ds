@@ -1,0 +1,27 @@
+Question Shuffling Allowed : Yes
+
+Question Number : 170 Question Id : 640653386824 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5
+
+Question Label : Multiple Choice Question
+
+Consider the following data set:
+$$\left\{ x_1 = \begin{bmatrix} 0 \\ 2 \end{bmatrix}, x_2 = \begin{bmatrix} 2 \\ 0 \end{bmatrix}, x_3 = \begin{bmatrix} 0 \\ 0 \end{bmatrix}, x_4 = \begin{bmatrix} -2 \\ 0 \end{bmatrix}, x_5 = \begin{bmatrix} 0 \\ 1 \end{bmatrix}, x_6 = \begin{bmatrix} 0 \\ -1 \end{bmatrix}, x_7 = \begin{bmatrix} -1 \\ 0 \end{bmatrix} \right\}$$
+
+For $k = 3$, assume that the following cluster assignment is given to us which shows the clusters assigned to all data points but $x_3$:
+
+$$z = \{1, 2, ?, 3, 2, 1, 3\}$$
+
+What should be the cluster assigned to the data point $x_3$?
+
+Options :
+6406531286426. ✖ 1
+6406531286427. ✔ 2
+6406531286428. ✖ 3
+
+Question Number : 171 Question Id : 640653386826 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 5
+
+Question Label : Multiple Choice Question

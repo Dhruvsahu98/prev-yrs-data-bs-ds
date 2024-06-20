@@ -1,0 +1,22 @@
+Options :
+6406531929885. ❌ hello
+6406531929886. ❌ HELLO
+6406531929887. ✅ OLLEH
+6406531929888. ❌ olleh
+
+MLT
+Section Id : 64065339076
+Section Number : 11
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 13
+Number of Questions to be attempted : 13
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065382611
+Question Shuffling Allowed : No
+Is Section Default? : null

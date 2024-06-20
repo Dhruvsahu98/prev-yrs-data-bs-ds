@@ -1,0 +1,36 @@
+Consider the below javascript program.
+
+```python
+const a = 2;
+const b = "...";
+const obj1 = {
+  property1: 10,
+  property2: 20
+};
+const obj2 = {
+  a: 1,
+  b: 2,
+  ... (a && !b && && ({ obj1 }))
+};
+console.log(obj2);
+```
+
+What will be the output of the above program, if executed?
+
+**Options :**
+
+6406532468137.  $\{a: 1, b: 2, property1: 10, property2: 20\}$
+6406532468138.  $\checkmark \{a: 1, b: 2, obj1: \{property1: 10, property2: 20\}\}$
+6406532468139.  $\{property1: 10, property2: 20\}$
+6406532468140.  $\{a: 1, b: 2\}$
+
+MLT 64065351360
+
+Section Id : 12
+Section Number : Online
+Section type : Mandatory
+Mandatory or Optional : 11
+Number of Questions : 11
+Number of Questions to be attempted : 50
+Section Marks : Yes
+Display Number Panel : 

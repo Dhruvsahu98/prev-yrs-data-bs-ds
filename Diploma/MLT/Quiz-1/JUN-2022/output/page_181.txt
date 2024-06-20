@@ -1,0 +1,35 @@
+6406531149481.  The penalty term $P$ represents squares if we draw the contour plot of ridge loss function.
+
+Sub-Section Number : 7
+Sub-Section Id : 64065348898
+Question Shuffling Allowed : Yes
+
+Question Number : 191 Question Id : 640653345623 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+For the given dataset:
+
+| x | y |
+|---|---|
+| 1 | 5 |
+| 2 | 7 |
+| 3 | 6 |
+
+Assume the initial weight vector is $w = [1, 2]$ and learning rate $\alpha = 0.20$. Compute the weight vector after one iteration. let's call it $w_1$. Compute prediction for $x = 5$ correct upto two decimal points with new weight vector (i.e. $w_1$). Do not round up or off.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+15.4 to 15.80
+
+Question Number : 192 Question Id : 640653345625 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Ankita had a feature vector $x$ and she wanted to apply polynomial transformation on $x$. She had written a code snippet as follows: 

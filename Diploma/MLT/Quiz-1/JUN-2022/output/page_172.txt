@@ -1,0 +1,19 @@
+parameter value as 0.2 for performing lasso regression. What will be the value of lasso loss correct up to 2 decimal places?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.39 to 0.43
+Question Id : 640653345634 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (179 to 180)
+Question Label : Comprehension
+A perceptron model is trained on linearly separable binary classification data-set. Consider that the data-set has two features ($x_1, x_2$) excluding dummy feature. The learnt weight vector is 
+$W = \begin{bmatrix} -1 \\ 0.2 \\ 0.5 \end{bmatrix}$
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 179 Question Id : 640653345635 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+What will be the prediction for an example having the features vector as (2, 1)? Assume the classes are 1 and -1.

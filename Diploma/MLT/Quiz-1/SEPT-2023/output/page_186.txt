@@ -1,0 +1,25 @@
+640653224068. ✖ The first principal component is the eigenvector corresponding to the smallest eigenvalue of the covariance matrix. 
+
+Sub-Section Number: 4
+Sub-Section Id : 64065395192
+Question Shuffling Allowed : Yes
+Is Section Default?: null
+
+Question Number : 171 Question Id : 640653668614 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider a dataset that has 200 data-points, each of which is either a zero or one. The Bernoulli distribution is used to model this data. If the MLE estimate for the parameter $p$ of the Bernoulli distribution is 0.3, how many zeros does the dataset have?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+140
+
+Question Number : 172 Question Id : 640653668615 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

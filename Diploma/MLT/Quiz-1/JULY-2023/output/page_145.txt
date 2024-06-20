@@ -1,0 +1,25 @@
+✓ 2, (1.5, 1), (4.5, 3.5)
+
+6406531932416. ✖ 4, (1.5, 1), (4.5, 3.5)
+
+Sub-Section Number : 3
+Sub-Section Id : 64065382889
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 171 Question Id : 640653578728 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Select all true statements regarding standard PCA applied on a centered dataset.
+Options :
+
+6406531932417. ✓ The variance of the dataset along the first principal component is maximum.
+6406531932418. ✖ The variance of the dataset along the first principal component is minimum.
+6406531932419. ✓ The first principal component is the unit norm eigenvector corresponding to the largest eigenvalue of the covariance matrix.
+6406531932420. ✖ The first principal component is the unit norm eigenvector corresponding to the smallest eigenvalue of the covariance matrix.
+
+Question Number : 172 Question Id : 640653578729 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question

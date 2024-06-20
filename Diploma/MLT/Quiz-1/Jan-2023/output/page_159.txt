@@ -1,0 +1,16 @@
+Consider the following centered dataset in $\mathbb{R}^2$:
+
+<div align="center">
+  <img src="https://i.imgur.com/56Z4m0O.png" width="300"/>
+</div>
+
+Which of the following could be the first principal component? Recall that the first P.C is the most important one.
+
+Options :
+6406531563098.  $\times$  $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+6406531563099.  $\times$  $\begin{bmatrix} 0 \\ 1 \end{bmatrix}$
+6406531563100.  $\times$  $\frac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ 1 \end{bmatrix}$
+6406531563101.  $\checkmark$  $\frac{1}{\sqrt{2}} \begin{bmatrix} -1 \\ 1 \end{bmatrix}$
+
+Sub-Section Number : 3
+Sub-Section Id : 64065367803

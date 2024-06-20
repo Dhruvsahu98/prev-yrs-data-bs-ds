@@ -1,0 +1,37 @@
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.65 to 0.75
+
+Question Id : 640653737466 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (186 to 187)
+Question Label : Comprehension
+Consider the data points shown in the following image:
+
+\begin{tikzpicture}[scale=0.5]
+\draw[step=1cm,gray,very thin] (-7,-5) grid (9,5);
+\draw[thick,->] (-7,0)--(9,0);
+\draw[thick,->] (0,-5)--(0,5);
+\foreach \x in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}
+\draw (\x cm,1pt)--(\x cm,-1pt) node[anchor=north] {\tiny $\x$};
+\foreach \y in {-5,-4,-3,-2,-1,1,2,3,4,5}
+\draw (1pt,\y cm)--(-1pt,\y cm) node[anchor=east] {\tiny $\y$};
+\draw (9,0) node[anchor=south] {x};
+\draw (0,5) node[anchor=east] {y};
+\draw[green,fill=green] (-2,2) circle (0.2cm);
+\draw[green,fill=green] (2,2) circle (0.2cm);
+\draw[green,fill=green] (2,-2) circle (0.2cm);
+\draw[green,fill=green] (8,2) circle (0.2cm);
+\draw[green,fill=green] (8,-2) circle (0.2cm);
+\draw[green,fill=green] (9,-1) circle (0.2cm);
+\draw[green,fill=green] (-2,-2) circle (0.2cm);
+\draw[green,fill=green] (0,1) circle (0.2cm);
+\draw[green,fill=green] (9,1) circle (0.2cm);
+\end{tikzpicture}
+
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 186 Question Id : 640653737467 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4

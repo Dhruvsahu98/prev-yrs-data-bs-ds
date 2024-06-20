@@ -1,0 +1,23 @@
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.515 to 0.535
+
+Question Number : 176 Question Id : 640653345615 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of the F-1 score. Write your answer correct upto 2 decimal places, do not round up or off. 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.460 to 0.485
+
+Question Id : 640653345626 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (177 to 178)
+Question Label : Comprehension
+Ajay has a dataset that has a non-linear relationship between the features and the label. The dimension of training samples is 4x2 (excluding the additional all-ones feature for the bias term, which you should add), label vector is 4 x 1 and weight vector is 3 x 1.

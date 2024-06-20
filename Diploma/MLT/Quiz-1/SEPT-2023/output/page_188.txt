@@ -1,0 +1,22 @@
+Question Number : 174 Question Id : 640653668619 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+A GMM is fit for a dataset with 5 points. At some time-step in the EM algorithm, the following are the values of $\lambda_k$ for all points in the dataset for the $k^{th}$ mixture after the E-step:
+$\lambda_k^1 = 0.3, \lambda_k^2 = 0.1, \lambda_k^3 = 0.5, \lambda_k^4 = 0.5, \lambda_k^5 = 0.3$
+What is the estimate of $\pi_k$ after the M-step? Enter your answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.3 to 0.4
+Sub-Section Number : 5
+Sub-Section Id : 64065395193
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 175 Question Id : 640653668618 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question

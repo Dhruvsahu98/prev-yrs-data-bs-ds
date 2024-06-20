@@ -1,0 +1,27 @@
+Text Areas : PlainText
+Possible Answers : 
+60
+
+Question Number : 177 Question Id : 640653577930 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider a dataset that has 100 data-points, each of which is either a zero or one. The Bernoulli distribution is used to model this data. If the MLE estimate for the parameter $p$ of the Bernoulli distribution is 0.3, how many zeros does the dataset have?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+70
+
+Question Number : 178 Question Id : 640653577932 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider a dataset with 60 points in which all points are either 0 or 1. We use a Bernoulli distribution with the parameter $p$ to model this problem. The prior and posterior distributions for the parameter $p$ are Beta(10,5) and Beta(30,45) respectively. How many data points have the value 0 in this dataset? Note that $p = P(x = 1)$ as usual.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

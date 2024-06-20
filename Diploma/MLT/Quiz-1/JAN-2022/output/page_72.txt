@@ -1,0 +1,29 @@
+gradient descent algorithm on the transformed features. During the training phase, you have fortunately obtained training and validation errors as zero (that is, model perfectly fits the data).
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 98 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What will happen when you try to fit degree 8 polynomial on the same dataset?
+Options :
+A. $\checkmark$ Chances for overfitting is high
+B. $\times$ Chances for underfitting is high
+C. $\times$ No change in error values
+D. $\times$ None of these
+
+Question Number : 99 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What will happen when you try to fit degree 2 polynomial on the same dataset?
+Options :
+A. $\times$ Chances for overfitting is high
+B. $\checkmark$ Chances for underfitting is high
+C. $\times$ No change in error values
+D. $\times$ None of these
+
+Java
+Number of Questions : 16
+Section Marks : 50

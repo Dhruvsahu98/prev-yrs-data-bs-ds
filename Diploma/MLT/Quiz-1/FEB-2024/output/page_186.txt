@@ -1,0 +1,19 @@
+6406532468176.  Green line denotes the mean for the given Beta distribution, i.e. mean = $\frac{2}{7}$
+6406532468177.  Red line denotes the mode for the given Beta distribution, i.e. mode = $\frac{1}{5}$
+6406532468178.  Green line denotes the mode for the given Beta distribution, i.e. mode = $\frac{1}{5}$
+Sub-Section Number : 6
+Sub-Section Id : 640653107662
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 192 Question Id : 640653737469 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider a dataset with 100 total data points. Each data point is classified as either type A or type B. We model this using a Bernoulli distribution, where $p$ is the probability of a data point being type A. If the maximum likelihood estimate (MLE) of $p$ based on the dataset is 0.4, how many data points of type B are there in this dataset?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+60

@@ -1,0 +1,25 @@
+Question Label : Multiple Choice Question
+Perform K-means clustering with K = 2 and initial cluster centers at (0, 0) and (6, 0). What are the final means of clusters after convergence?
+Options :
+6406532468163. ❌ (2, 0) and (8, 0)
+6406532468164. ❌ (2, 0) and (8.5, 0)
+6406532468165. ❌ (0, 0) and (8, 0)
+6406532468166. ✅ (0, 0) and (8.5, 0)
+6406532468167. ❌ None of these
+
+Question Number : 187 Question Id : 640653737468 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+After introducing a new data point (7, 0), the cluster centers were updated. Enter the sum of the updated x-coordinates for both cluster centers accurately, rounding your answer to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+8.18 to 8.22
+Sub-Section Number : 4
+Sub-Section Id : 640653107660
+Question Shuffling Allowed : No
+Is Section Default? : null

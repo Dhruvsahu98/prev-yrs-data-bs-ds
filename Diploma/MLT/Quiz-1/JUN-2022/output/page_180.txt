@@ -1,0 +1,37 @@
+Which of the following correctly computes the solution of linear regression problem via normal equation method? Assume necessary imports.
+
+**Options :**
+
+6406531149457. ✅  ```python
+w = np.linalg.pinv(X) @ y
+```
+
+6406531149458. ❌  $w = X@X^T @ y$
+
+6406531149459. ❌  $w = X^T @ np.linalg.inv(X) @ y$
+
+6406531149460. ❌  $w = X^T @ np.linalg.pinv(X) @ y$
+
+6406531149461. ❌  ```python
+w = np.linalg.inv(X.T@X) (X.T@y)
+```
+
+Question Number : 190 Question Id : 640653345632 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+In ridge regression, the loss function is computed as $J(W) = L + \lambda P$ Where $P$ is penalty term for ridge regularization, $\lambda$ is rate of regularization and $L$ is plain loss function without any regularization. 
+
+Choose the correct statements from the following:
+
+**Options :**
+
+6406531149476. ✅ As $\lambda$ tends to infinite, the solution of ridge regularization tends towards origin.
+
+6406531149477. ❌ As $\lambda$ tends to zero, the solution of ridge regularization tends towards origin.
+
+6406531149478. ❌ As $\lambda$ tends to infinite, the solution of ridge regularization tends towards the solution of least squares.
+
+6406531149479. ✅ As $\lambda$ tends to zero, the solution of ridge regularization tends towards the solution of least squares.
+
+6406531149480. ✅ The penalty term $P$ represents circles if we draw the contour plot of ridge loss function.

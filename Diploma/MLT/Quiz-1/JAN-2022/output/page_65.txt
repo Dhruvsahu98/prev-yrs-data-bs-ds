@@ -1,0 +1,13 @@
+Question Number : 88 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Suppose that a company wants to develop a model that recognizes all 26 alphabets in English. The company also requires the model to tell apart whether the recognised alphabet is a lower case or upper case. Therefore, they collected 10K samples that represent all the classes. Assume that the problem is cast as a multi-class classification problem and one-hot encoding is used for the labels. What is the dimension of the label matrix?
+Options :
+A.  ✓ 10K × 52
+B.  ✗ 10K × 2
+C.  ✗ 10K × 26
+D.  ✗ 10K × 54
+Question Number : 89 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider four datasets represented in following four figures respectively:

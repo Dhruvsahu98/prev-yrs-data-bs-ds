@@ -1,0 +1,25 @@
+Question Id : 640653737470 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Label : Comprehension
+
+Assume that you have a dataset of six points $\{x_1, x_2, x_3, x_4, x_5, x_6\}$, all of which are non-negative. You hypothesize that the data points are iid random variables with the following density:
+
+$f(x; \lambda) = \begin{cases}
+\lambda e^{-\lambda x}, & x \ge 0 \\
+0, & x < 0
+\end{cases}$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 188 Question Id : 640653737471 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+What is the log-likelihood of this dataset under this distribution? In represents the natural logarithm or loge.
+
+Options :
+6406532468170. ❌ $\prod_{i=1}^{6} \lambda e^{-\lambda x_i}$
+6406532468171. ❌ $\sum_{i=1}^{6} \lambda e^{-\lambda x_i}$
+6406532468172. ❌ $\prod_{i=1}^{6} [\ln(\lambda) - \lambda x_i]$
+6406532468173. ✅ $\sum_{i=1}^{6} [\ln(\lambda) - \lambda x_i]$

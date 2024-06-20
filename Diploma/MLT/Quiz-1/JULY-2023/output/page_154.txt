@@ -1,0 +1,26 @@
+Question Label : Short Answer Question
+What is the value of *b*? Enter your answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.25 to 0.55
+Java
+Section Id : 64065339121
+Section Number : 11
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065382895
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Number : 182 Question Id : 640653578740 Question Type : MCQ Is Question

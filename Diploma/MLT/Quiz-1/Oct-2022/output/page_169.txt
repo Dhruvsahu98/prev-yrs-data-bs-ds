@@ -1,0 +1,22 @@
+6406531286425.  $\frac{1 + 2\sqrt{3}}{\sqrt{5}}$
+
+Question Number : 169 Question Id : 640653386825 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 6
+Question Label : Multiple Choice Question
+
+Consider the scenario where you observe that 8 of your friends ($f_1$, ..., $f_8$) have scored the following marks in a quiz: (6, -3, -5, -4, 2, -3, 5, -2) respectively.
+
+Which of the cluster initializations given below will result in clusters where your friends with positive marks are in one cluster and the rest are in another after executing one step of the Lloyd's algorithm?
+
+$I_1$ : $z_1$ = $z_2$ = $z_3$ = $z_4$ = $z_5$ = $z_6$ = $z_7$ = 2 and $z_8$ = 1
+$I_2$ : $z_1$ = 1, $z_2$ = $z_3$ = $z_4$ = $z_5$ = $z_6$ = $z_7$ = $z_8$ = 2
+
+Options : 
+6406531286429.  $I_1$ : No, $I_2$ : No
+6406531286430.  $I_1$ : Yes, $I_2$ : Yes
+6406531286431.  $I_1$ : Yes, $I_2$ : No
+6406531286432.  $I_1$ : No, $I_2$ : Yes
+6406531286433.  Insufficient Information
+
+Sub-Section Number : 3
+Sub-Section Id : 64065355377

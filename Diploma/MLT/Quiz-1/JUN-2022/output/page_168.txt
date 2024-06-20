@@ -1,0 +1,28 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+1.38 to 1.42
+Sub-Section Number : 3
+Sub-Section Id : 64065348894
+Question Shuffling Allowed : No
+Question Id : 640653345611 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (173 to 176)
+Question Label : Comprehension
+Consider the following confusion matrix. Positive class is represented by 'True' and negative class is represented by 'False'.
+
+| Predicted |  |  |
+|---|---|---|
+|  | False | True |
+| Actual | False | 187 | 133 |
+|  | True | 95 | 105 |
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 173 Question Id : 640653345612 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Find the value of the accuracy. Write your answer correct upto 2 decimal places, do not round up or off.

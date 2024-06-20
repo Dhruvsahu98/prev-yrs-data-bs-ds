@@ -1,0 +1,21 @@
+Question Number : 182 Question Id : 640653345618 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+What is the output of following code snippet?
+```python
+print(C.sum().sum())
+```
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+58
+Question Id : 640653345629 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (183 to 184)
+Question Label : Comprehension
+Abhishek trains a polynomial regression model on a dataset. He tries with different degree of polynomial transformation and gets following learning curve:

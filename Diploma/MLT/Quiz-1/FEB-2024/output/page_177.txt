@@ -1,0 +1,14 @@
+Question Number : 180 Question Id : 640653737458 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Suppose a dataset lies in $\mathbb{R}^4$ and undergoes Principal Component Analysis (PCA) after being centered. The resulting first and second principal components are given by:
+$$
+\frac{1}{\sqrt{3}} \begin{bmatrix} 1 \\ -1 \\ 0 \\ 1 \end{bmatrix} , \frac{1}{\sqrt{3}} \begin{bmatrix} 1 \\ 1 \\ 0 \\ -1 \end{bmatrix}
+$$
+Which of the following could be the third principal component?
+Options :
+6406532468143. $\times$ $\frac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ 1 \\ 0 \\ 0 \end{bmatrix}$
+6406532468144. $\times$ $\frac{1}{\sqrt{3}} \begin{bmatrix} 1 \\ 1 \\ 1 \\ 0 \end{bmatrix}$
+6406532468145. $\times$ $\frac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ -1 \\ 0 \\ 0 \end{bmatrix}$
+6406532468146. $\checkmark$ $\frac{1}{\sqrt{3}} \begin{bmatrix} 0 \\ 1 \\ 1 \\ 1 \end{bmatrix}$

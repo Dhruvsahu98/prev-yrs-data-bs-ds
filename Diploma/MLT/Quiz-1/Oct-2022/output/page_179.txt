@@ -1,0 +1,22 @@
+$\frac{1}{\sqrt{10}} \cdot \begin{bmatrix} -1 \\ -3 \end{bmatrix}$
+6406531286454. $\times \begin{bmatrix} -1 \\ -3 \end{bmatrix}$
+6406531286455. $\times \begin{bmatrix} 2 \\ 6 \end{bmatrix}$
+
+Question Number : 183 Question Id : 640653386840 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks : 5**
+Question Label : Short Answer Question
+If standard PCA is performed on this dataset, what is the variance along the first principal component?
+**Response Type : Numeric**
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+25
+
+Question Number : 184 Question Id : 640653386841 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks : 4**
+Question Label : Short Answer Question
+If standard PCA is performed on this dataset, what is the variance along the second principal component?

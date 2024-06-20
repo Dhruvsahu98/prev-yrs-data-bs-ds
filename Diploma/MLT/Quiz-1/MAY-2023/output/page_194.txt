@@ -1,0 +1,24 @@
+6406531929905. ✅ The residues will become zero after four rounds
+6406531929906. ✅ By utilizing four principal component vectors and their corresponding
+coefficients, we have the ability to reconstruct the complete dataset using representatives. 
+
+Sub-Section Number : 4
+Sub-Section Id : 64065382614
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 173 Question Id : 640653577926 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Which of the following statements about kernel PCA is/are always true?
+
+Options: 
+6406531929907. ❌ The number of principal components corresponding to nonzero eigenvalues obtained using kernel PCA on d dimensional dataset cannot be more than d.
+6406531929908. ✅ For every transformation mapping $\phi: \mathbb{R}^d \rightarrow \mathbb{R}^D$, there exists a valid kernel function. 
+6406531929909. ✅ For two valid kernels $k_1, k_2: \mathbb{R}^d \times \mathbb{R}^d \rightarrow \mathbb{R}$, $ak_1 + bk_2$ is a valid kernel function. Here both a and b are positive real numbers.
+6406531929910. ❌ The output of a valid kernel function can never be a negative real number.
+
+Question Number : 174 Question Id : 640653577928 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

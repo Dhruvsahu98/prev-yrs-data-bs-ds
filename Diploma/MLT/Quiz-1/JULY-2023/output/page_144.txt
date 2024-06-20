@@ -1,0 +1,24 @@
+Consider the following kernel function:
+$k : \mathbb{R}^2 \times \mathbb{R}^2 \rightarrow \mathbb{R}$
+$k([x_1, x_2]^T, [y_1, y_2]^T) = 1 + x_1y_1 + x_2y_2 + x_1^2y_1^2x_2y_2 + x_1y_1x_2^2y_2^2$
+
+Find the appropriate transformation mapping $\phi$ for the given kernel.
+
+**Options :**
+6406531932409. $\phi([x_1, x_2]^T) = [1, x_1x_2, x_1^2x_2^2]$
+6406531932410. $\phi([x_1, x_2]^T) = [1, x_1, x_2, x_1^2x_2^2]$
+6406531932411. $\phi([x_1, x_2]^T) = [1, x_1, x_2, x_1^2x_2, x_1x_2^2]$
+6406531932412. $\phi([x_1, x_2]^T) = [1, x_1, x_2, x_1x_2, x_1^2x_2^2]$
+
+**Question Number :** 170 **Question Id :** 640653578727 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+**Question Label :** Multiple Choice Question
+
+Consider the following Hard K-means clustering problem with four points:
+$P(1, 1), Q(2, 1), R(4, 3),$ and $S(5, 4)$. Consider the number of clusters to be $k = 2$ and the initial centroids to be $C_1 = (0, 0)$ and $C_2 = (4, 4)$. After how many iterations will the algorithm terminate and what will be the final centroids? use euclidean distance metric to calculate distance.
+
+**Options :**
+6406531932413. 2, (1, 1), (4, 4)
+6406531932414. 3, (1, 1), (4, 4)
+6406531932415.  

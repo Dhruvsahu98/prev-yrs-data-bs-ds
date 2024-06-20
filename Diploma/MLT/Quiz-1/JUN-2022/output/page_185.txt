@@ -1,0 +1,30 @@
+Decision boundary for binary classification data-set is given by 
+$$0.3 x_1 + 2.3 x_2 + 1.8 x_3 + 3 = 0$$
+where $x_1$, $x_2$ and $x_3$ are features. What will be the distance of the decision boundary from the origin?
+
+NOTE: Enter your answer in two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+1.00 to 1.05
+
+## MLP
+```python
+Section Id : 6406532187
+Section Number : 12
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 23
+Number of Questions to be attempted : 23
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065348900
+```

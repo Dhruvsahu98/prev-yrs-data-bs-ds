@@ -1,0 +1,51 @@
+**Correct Marks : 4**
+
+**Question Label : Short Answer Question**
+
+Consider the following dataset in $\mathbb{R}$:
+
+$$\{-3, -1, 0, 1, 4, 299, 300, 301\}$$
+
+Lloyd's algorithm ($K=2$) is run on this dataset with the points $-10$ and $310$ as the initial cluster centers. Let $a, b$ be the final cluster centers on convergence, what is the value of the product $ab$?
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+60
+
+**Question Number : 177 Question Id : 640653578734 Question Type : SA Calculator : None**
+
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+**Question Label : Short Answer Question**
+
+Consider a dataset that has 100 data-points, each of which is either a zero or one. The Bernoulli distribution is used to model this data. If the MLE estimate for the parameter $p$ of the Bernoulli distribution is 0.3, how many zeros does the dataset have?
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+70
+
+**Question Number : 178 Question Id : 640653578736 Question Type : SA Calculator : None**
+
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**

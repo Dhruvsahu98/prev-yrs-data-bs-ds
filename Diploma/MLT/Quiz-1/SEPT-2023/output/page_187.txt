@@ -1,0 +1,39 @@
+Consider a dataset that has 4 points in $\mathbb{R}^2$ that lie on a line passing through the origin:
+
+$D \begin{Bmatrix} 
+\begin{bmatrix} -10 \\ -30 \end{bmatrix}, 
+\begin{bmatrix} -5 \\ -15 \end{bmatrix}, 
+\begin{bmatrix} 5 \\ 15 \end{bmatrix}, 
+\begin{bmatrix} 10 \\ 30 \end{bmatrix}
+\end{Bmatrix}$
+
+If normal PCA is performed on this dataset, what is the variance along the first principal component?
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+
+625
+
+**Question Number :** 173 **Question Id :** 640653668617 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+**Question Label :** Short Answer Question
+
+Consider a dataset of 50 points all of which lie in $\mathbb{R}^5$. The eigenvalues of the covariance matrix are given below:
+
+1.7, 1.4, 0.25, 0.20, 0.005
+
+If we run the PCA algorithm on this dataset and retain the top-$k$ principal components, what is a good choice of $k$? (Hint: A good precise mean it captures atleast 95% of variance)
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+
+4

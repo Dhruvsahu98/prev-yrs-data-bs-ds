@@ -1,0 +1,58 @@
+Consider the data points shown in the following image:
+
+```python
+#  No code block found in the image
+```
+
+\begin{tikzpicture}[scale=0.7]
+\draw[->] (-4.5,0) -- (4.5,0);
+\draw[->] (0,-2.5) -- (0,2.5);
+\foreach \x in {-4,-3,-2,-1,1,2,3,4}
+\draw (\x,-0.2) -- (\x,0.2);
+\foreach \y in {-2,-1,1,2}
+\draw (-0.2,\y) -- (0.2,\y);
+\draw (0,0) node[below left] {0};
+\draw (1,0) node[below] {1};
+\draw (2,0) node[below] {2};
+\draw (3,0) node[below] {3};
+\draw (4,0) node[below] {4};
+\draw (-1,0) node[below] {-1};
+\draw (-2,0) node[below] {-2};
+\draw (-3,0) node[below] {-3};
+\draw (-4,0) node[below] {-4};
+\draw (0,1) node[left] {1};
+\draw (0,-1) node[left] {-1};
+\draw (0,2) node[left] {2};
+\draw (0,-2) node[left] {-2};
+\filldraw[red] (0,1) circle (4pt) node[above right] {$x_1$};
+\filldraw[red] (0,0) circle (4pt) node[above right] {$x_2$};
+\filldraw[red] (-1,0) circle (4pt) node[above right] {$x_3$};
+\filldraw[red] (0,-1) circle (4pt) node[below right] {$x_4$};
+\filldraw[red] (1,0) circle (4pt) node[above right] {$x_5$};
+\filldraw[red] (3,0) circle (4pt) node[above right] {$x_6$};
+\filldraw[red] (3,1) circle (4pt) node[above right] {$x_7$};
+\filldraw[red] (3,-1) circle (4pt) node[below right] {$x_8$};
+\filldraw[red] (4,0) circle (4pt) node[above right] {$x_9$};
+\end{tikzpicture}
+
+Consider that in the initialization step of K-means with $k=2$, the data points $x_1$ and $x_6$ got selected as initial cluster centers. That is, $\mu_1^0 = (0,0)$ and $\mu_2^0 = (3,0)$. As per these cluster centers, the data points were then assigned to either cluster 1 or cluster 2. After this assignment, what will be the value of the objective function ($Obj$)? Further, as per the assignment of data points, the cluster centers will be re-computed for the next iteration. What will be the value of $\mu_1^1$ and $\mu_2^1$?
+
+**Options :**
+
+6406531286434.  $\times$  $Obj = 17, \mu_1^1 = (1,0), \mu_2^1 = (3.33,0)$
+
+6406531286435.  $\times$  $Obj = 17, \mu_1^1 = (1,0), \mu_2^1 = (3,0)$
+
+6406531286436.  $\times$  $Obj = 7, \mu_1^1 = (0,0), \mu_2^1 = (3.33,0)$
+
+6406531286437.  $\checkmark$  $Obj = 7, \mu_1^1 = (0,0), \mu_2^1 = (3.25,0)$
+
+**Sub-Section Number :** 4
+
+**Sub-Section Id :** 64065355378
+
+**Question Shuffling Allowed :** Yes
+
+**Question Number :** 172 **Question Id :** 640653386827 **Question Type :** MSQ Is Question
+
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,25 @@
+In the K-means algorithm, cluster centroids ($\mu_k$) are updated at each iteration to minimize the sum of squared distances between data points and their assigned centroids. The formula used for this update is: 
+
+$\mu_k = \frac{\sum x_i 1(z_i = k)}{\sum 1(z_i = k)}$
+
+Here: 
+
+- $x_i$ represents $i^{th}$ data point in the dataset.
+- $z_i$ represents the cluster assignment for data point $x_i$, where $z_i$ is an integer indicating the cluster index ($k$).
+
+Suppose you have a dataset of 9 two-dimensional data points and are performing K-means clustering with $K = 3$ clusters. After the first iteration, clusters $C_1$, $C_2$, and $C_3$ have the following data points:
+
+$C_1$: {(2, 2), (3, 3), (4, 4)}
+$C_2$: {(6, 6), (7, 7), (8, 8)}
+$C_3$: {(10, 10), (11, 11), (12, 12)}
+
+After the second iteration, which of the following options represents the updated cluster centroid $\mu_k$ for $C_1$ using the provided formula?
+
+**Options :**
+
+6406532240047. $\mu_1 = (2.5, 2.5)$ 
+6406532240048. $\mu_1 = (4.5, 4.5)$
+6406532240049. $\mu_1 = (3, 3)$
+6406532240050. $\mu_1 = (5.5, 5.5)$
+
+**Question Number : 169 Question Id : 640653668610 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Question Label : Multiple Choice Question**

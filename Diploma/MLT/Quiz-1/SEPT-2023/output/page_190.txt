@@ -1,0 +1,22 @@
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+**Question Number : 176 Question Id : 640653668612 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Question Label : Multiple Choice Question**
+
+Which point has the highest probability of being chosen as the $2^{nd}$ cluster mean? Use the Manhattan distance to compute the distances.
+
+**Options :**
+6406532240055.  $\times$ (4, 4)
+6406532240056.  $\times$ (12, 12)
+6406532240057.  $\checkmark$ (10, 10)
+6406532240058.  $\times$ (13, 13)
+
+**Question Number : 177 Question Id : 640653668613 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Question Label : Multiple Choice Question**
+
+Let's assume that (3, 3), (10, 10), and (12, 12) are the cluster means. You introduce a new data point (-5, 10). Which cluster mean is the data point (-5, 10) closest to when using the Euclidean distance method?
+
+**Options :**
+6406532240059.  $\times$ (3, 3)
+6406532240060.  $\checkmark$ (10, 10)
+6406532240061.  $\times$ (12, 12)

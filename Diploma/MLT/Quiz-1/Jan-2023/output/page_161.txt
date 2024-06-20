@@ -1,0 +1,23 @@
+**Correct Marks : 5 Selectable Option : 0**
+**Question Label : Multiple Select Question**
+
+Consider a GMM with 3 components that is used to model a dataset that has 100 points. The EM algorithm is run on this dataset to estimate the parameters of the GMM. After convergence, some of the values of $\lambda_k^i$ for the specific point $x_{10}$ are given below:
+$\lambda_1^{10}=0.2$, $\lambda_2^{10}=0.5$
+
+Select all true statements.
+
+**Options :**
+6406531563106. ❌ If a point is picked randomly from the dataset of 100 points, then there is 20% chance that it comes from the first component.
+6406531563107. ✅ $\lambda_3^{10}=0.3$
+6406531563108. ❌ $\sum_{i=1}^{100}\lambda_3^i=1$
+6406531563109. ✅ There is a 50% chance that the point $x_{10}$ comes from the second component.
+
+**Question Number : 177 Question Id : 640653470382 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 5 Selectable Option : 0**
+**Question Label : Multiple Select Question**
+
+Consider a dataset with $n$ points and a GMM with $K$ components. If we fix $\lambda$ and maximize for $\theta$, what is our estimate for the mean of the $k^{th}$ component?
+
+**Options :**
+6406531563110. ✅ It is the weighted mean of the $n$ points, where the weight for point $i$ in component $k$ is given by $\lambda_k^i$.
+6406531563111. ❌ It is the mean of the $n$ points.

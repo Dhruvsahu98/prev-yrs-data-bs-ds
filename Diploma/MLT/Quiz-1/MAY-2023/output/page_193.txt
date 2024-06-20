@@ -1,0 +1,21 @@
+Sub-Section Id : 64065382613
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 171 Question Id : 640653577924 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Select all true statements regarding standard PCA applied on a centered dataset.
+Options :
+6406531929899.  The variance of the dataset along the first principal component is maximum.
+6406531929900.  The variance of the dataset along the first principal component is minimum.
+6406531929901.  The first principal component is the unit norm eigenvector corresponding to the largest eigenvalue of the covariance matrix.
+6406531929902.  The first principal component is the unit norm eigenvector corresponding to the smallest eigenvalue of the covariance matrix.
+
+Question Number : 172 Question Id : 640653577925 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider a dataset of 2000 points all of which lie in $R^{30}$. If all these points lie in four dimensional low subspace then after applying the PCA algorithm which of the following statement is/are true?
+Options :
+6406531929903.  The covariance matrix corresponding to this dataset has 30 non-zero eigenvalues.
+6406531929904.  The covariance matrix corresponding to this dataset has only four non-zero eigenvalues.

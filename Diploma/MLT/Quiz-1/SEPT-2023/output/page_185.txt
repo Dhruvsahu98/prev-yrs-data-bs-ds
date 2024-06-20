@@ -1,0 +1,28 @@
+Consider 9 data points $x_1, x_2,..., x_9$:
+Suppose we aim to form 3 clusters from these points using the K-Means algorithm. After the first iteration, clusters $C_1, C_2, C_3$ have the following data points:
+$C_1: (1, 2), (3, 1)$
+$C_2: (2, 3), (5, 6), (6, 7)$
+$C_3: (9, 9), (7, 8), (10, 10), (11, 11)$
+After the second iteration, to which cluster will the data point $(2, 3)$ be reassigned? 
+
+**Options :**
+6406532240051. $\checkmark$ $C_1$
+6406532240052. $\times$ $C_2$
+6406532240053. $\times$ $C_3$
+6406532240054. $\times$ It remains in the same cluster as in the first iteration
+
+**Sub-Section Number :** 3
+**Sub-Section Id :** 6406539519
+**Question Shuffling Allowed :** Yes
+**Is Section Default? :** null
+
+**Question Number :** 170 **Question Id :** 640653668616 **Question Type :** MSQ **Is Question Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 4 **Max. Selectable Options :** 0
+**Question Label :** Multiple Select Question
+
+Which of the following statements are true regarding applying standard PCA on a centered dataset?
+
+**Options :**
+6406532240065. $\checkmark$ The variance of the dataset along the first principal component is maximum.
+6406532240066. $\checkmark$ Eigenvectors are always orthogonal to each other in PCA.
+6406532240067. $\checkmark$ The first principal component is the eigenvector corresponding to the largest eigenvalue of the covariance matrix.

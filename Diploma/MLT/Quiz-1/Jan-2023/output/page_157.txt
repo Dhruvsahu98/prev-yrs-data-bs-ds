@@ -1,0 +1,25 @@
+$\frac{1}{\sqrt{2}} \begin{bmatrix} -1 \\ 0 \\ 1 \end{bmatrix}$ 
+6406531563088. 
+$\times$
+
+$\frac{1}{\sqrt{3}} \begin{bmatrix} \sqrt{2} \\ -1 \\ 0 \end{bmatrix}$
+6406531563089. 
+$\times$
+
+Question Number : 171 Question Id : 640653470376 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Consider that 1000 data points belonging to $d$-dimensional space have a non-linear relationship. We apply kernel PCA to reduce the dimension of the data points and take the first $k$ principal components. Can the value of $k$ be larger than $d$?
+Options : 
+6406531563090. 
+$\checkmark$ Yes
+6406531563091. 
+$\times$ No
+
+Question Number : 172 Question Id : 640653470377 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Multiple Choice Question
+Let $X$ be the data matrix of shape $d \times n$ with $d > n$ for a centered dataset. The eigenvector corresponding to the largest eigenvalue $\lambda$ of $X^TX$ is $\alpha_1$. What will be the first principal component of the dataset?
+Options : 
+6406531563092. 
+$\times$ $\alpha_1$

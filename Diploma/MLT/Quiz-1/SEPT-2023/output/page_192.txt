@@ -1,0 +1,23 @@
+6406532240072. ❌
+The eigenvectors of $C$ and $K$ are related by a scaling factor $r \in \mathbb{R}$
+
+6406532240073. ✅
+Computing eigenvectors using the matrix $K$ reduces number of computations significantly than using the matrix $C$
+
+6406532240074. ✅
+Suppose the maximum eigenvalue of $C$ is $\lambda_1$, then the maximum eigenvalue of $XX^T$ is $n\lambda_1$
+
+6406532240075. ❌
+The eigenvectors of $C \in \mathbb{R}^d$ and $K \in \mathbb{R}^d$
+
+6406532240076. ✅
+The eigenvalues of both $C$ and $K$ are non-negative
+
+Question Number : 179 Question Id : 640653668622 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following matrices helps in transforming the eigenvectors of $K$ to the eigenvectors of $C$?
+Options :
+6406532240077. ✅ X
+6406532240078. ❌ $X^T$
+6406532240079. ❌ $C^{-1}$

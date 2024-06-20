@@ -1,0 +1,29 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+16.23 to 16.27
+
+Question Number : 188 Question Id : 640653470396 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+How many points belong to cluster 2 (mean $\mu_2$) after the 1$^{st}$ iteration?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Number : 189 Question Id : 640653470397 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+How many iterations will it take for the algorithm to converge with the given initial clusters?
+
+Response Type : Numeric

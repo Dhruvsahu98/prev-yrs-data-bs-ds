@@ -1,0 +1,36 @@
+For the given data set
+
+| X | y |
+|---|---|
+| 2, 2 | 1 |
+| 0.5, 0.5 | -1 |
+| 1, 1.5 | 1 |
+| -1, -1 | -1 |
+
+A perceptron model ($h_w(X) = sign(W^T X)$) is used to classify data points with parameter vector $w = [-2, 2, 1]^T$. How many data points are correctly classified?
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+4
+
+Question Number : 83 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider following label vector for a movie data $D = (X, y)$
+ $$X = \begin{bmatrix} 2019 & 'Uri: The Surgical Strike' & 8.3 \\ 2009 & '3 Idiots' & 8.4 \\ \end{bmatrix}$$
+ $$y = \begin{bmatrix} 'Comedy', 'Drama' \\ 'Comedy', 'Drama' \\ \end{bmatrix}$$
+X has year of release, name of the movie and IMDb rating as features. And y has corresponding genres. Predicting genres of a movie is following type of problem:
+
+Options :
+A.  ✅ Multi label multi class classification problem
+B.  ❌ Single label multi class classification problem
+C.  ❌ Single label binary class classification problem
+D.  ❌ Multi label binary class classification problem

@@ -1,0 +1,29 @@
+D. ✖ Can not be determined
+
+Question Number : 87 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Rahul used cross-validation procedure and trained different lasso regression models with various regularization rate $\lambda$ values on some non-linear dataset. The plot of $\lambda$ vs cross-validation errors (RMSE) is given below.
+
+By inspecting the plot, Rahul came to a set of conclusions as mentioned below:
+i. The most appropriate value of $\lambda$ is 0.001.
+ii. The models with $1e^{-06} \leq \lambda \leq 0.0001$ may also smoothly fit the data.
+iii. The models with 0.01 $ < \lambda \leq 1$ do not fit the data.
+
+What can you say about his conclusions?
+
+$\lambda$ vs Cross validation error
+
+\begin{tabular}{c|c|c|c|c|c|c|c|c|c|c|c}
+\hline
+Cross validation error (on log scale) & 100.0 & 10.0 & 1.0 & 0.1 & 0.01 \\ \hline
+$\lambda$ (on log scale) & 0 & 1e-08 & 1e-07 & 1e-06 & 1e-05 & 0.0001 & 0.001 & 0.01 & 0.1 & 1 & 10 & 100 \\ \hline
+\end{tabular}
+
+
+Options :
+A. ✖ Statement (i) is True. Statements (ii) and (iii) are False
+B. ✖ Statement (i) is False. Statements (ii) and (iii) are True
+C. ✔️ Statements (i), (ii) and (iii) are True
+D. ✖ Statements (i), (ii) and (iii) are False

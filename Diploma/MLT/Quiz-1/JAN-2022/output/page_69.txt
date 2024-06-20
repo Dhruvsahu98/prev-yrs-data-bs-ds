@@ -1,0 +1,40 @@
+Question Numbers : (94 to 95)
+Question Label : Comprehension
+
+Consider the following code snippet and answer the given subquestions.
+
+```python
+import numpy as np
+a=[[1, 2, 0], [0, 2, 1], [0, 1, 3]]
+b=[[1, 1, 0], [1, 2, 3], [0, 1, 3]]
+A=np.array(a)
+B=np.array(b)
+C=A@B
+D=A+B
+```
+
+Sub questions
+
+Question Number : 94 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+What is the output of following code snippet?
+
+```python
+print(C[1][0]+B[1][2])
+```
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+Question Number : 95 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+What is the output of following code snippet?

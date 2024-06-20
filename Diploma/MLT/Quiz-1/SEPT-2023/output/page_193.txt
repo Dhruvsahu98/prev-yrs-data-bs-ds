@@ -1,0 +1,22 @@
+6406532240080. ✖ K-1
+6406532240081. ✖ X-1
+Question Number : 180 Question Id : 640653668623 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Suppose that the 95% of the variance of the data is captured using $d-1$ eigenvectors. This implies that 
+Options :
+6406532240082. ✖ The features are highly correlated
+(or dependent)
+6406532240083. ✔ The features have low correlation
+(or independent)
+
+MLP
+Section Id : 64065344906
+Section Number : 12
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 23
+Number of Questions to be attempted : 23
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0

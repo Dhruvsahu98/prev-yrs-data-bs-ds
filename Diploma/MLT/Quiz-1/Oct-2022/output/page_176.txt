@@ -1,0 +1,31 @@
+Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (178 to 180)
+Question Label : Comprehension
+Consider the following data set:
+$$
+\begin{cases}
+x_1 = \begin{bmatrix} 0 \\ 2 \end{bmatrix},
+x_2 = \begin{bmatrix} 2 \\ 0 \end{bmatrix},
+x_3 = \begin{bmatrix} 0 \\ 0 \end{bmatrix},
+x_4 = \begin{bmatrix} 0 \\ -2 \end{bmatrix},
+x_5 = \begin{bmatrix} -2 \\ 0 \end{bmatrix}
+\end{cases}
+$$
+With $k = 2$, as per k-means++,
+(Enter your answers correct up to three decimal places)
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 178 Question Id : 640653386832 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+What is the probability of the following points $x_2$, $x_1$ (in that order) being chosen as initial cluster centers?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.03 to 0.05
+Question Number : 179 Question Id : 640653386833 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question

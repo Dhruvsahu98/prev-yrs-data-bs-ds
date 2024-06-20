@@ -1,0 +1,22 @@
+Question Shuffling Allowed : Yes
+Is Section Default : null
+
+Question Number : 175 Question Id : 640653470380 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Selectable Option : 0
+Question Label : Multiple Select Question
+In standard PCA, which of the following are correct formulations of the optimization problem? The dataset $\{\mathbf{x}_1, \dots, \mathbf{x}_n\}$, is centered, each point lies in $\mathbb{R}^d$, and $\mathbf{C}$ is the covariance matrix. $\mathbf{w} \in \mathbb{R}^d$ is the variable that we are optimizing over.
+Options :
+6406531563102.  ✔️  
+$\min_{\mathbf{w}} \frac{1}{n} \sum_{i=1}^n ||\mathbf{x}_i - (\mathbf{x}_i^T\mathbf{w})\mathbf{w}||^2$
+subject to $||\mathbf{w}|| = 1$
+6406531563103.  ✔️  
+$\max_{\mathbf{w}} \mathbf{w}^T\mathbf{C}\mathbf{w}$
+subject to $||\mathbf{w}|| = 1$
+6406531563104.  ✖  
+$\max_{\mathbf{w}} \frac{1}{n} \sum_{i=1}^n ||\mathbf{x}_i - (\mathbf{x}_i^T\mathbf{w})\mathbf{w}||^2$
+subject to $||\mathbf{w}|| = 1$
+6406531563105.  ✖  
+$\min_{\mathbf{w}} \mathbf{w}^T\mathbf{C}\mathbf{w}$
+subject to $||\mathbf{w}|| = 1$
+
+Question Number : 176 Question Id : 640653470381 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

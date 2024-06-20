@@ -1,0 +1,45 @@
+Question Number : 84 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+By visually inspecting, which of the following models fits the data best?
+
+\begin{tikzpicture}[scale=0.8]
+\draw[thick,->] (-0.5,0) -- (6,0);
+\draw[thick,->] (0,-0.5) -- (0,4);
+\draw[thick,blue] (0.5,3.5) -- (5.5,0.5);
+\draw[thick,purple] (0.5,0.5) -- (5.5,3.5);
+\draw[thick,brown] (0.5,1.5) -- (5.5,1);
+\draw[thick,dotted] (2.5,2.5) -- (2.5,3.5);
+\draw[thick,dotted] (2.5,2.5) -- (3,2.5);
+\node at (6.2,0) {X axis};
+\node at (0,4.2) {Y axis};
+\node at (3,0) {B};
+\node at (2.5,0) {A};
+\node at (5.5,1.2) {C};
+\node at (5.5,3.5) {D};
+\node at (2.5,3.5) {Data Points};
+\filldraw[green!50!black] (2.5,2.5) circle (4pt);
+\filldraw[green!50!black] (3,2.3) circle (4pt);
+\filldraw[green!50!black] (3.5,2) circle (4pt);
+\filldraw[green!50!black] (4,1.8) circle (4pt);
+\filldraw[green!50!black] (4.5,1.5) circle (4pt);
+\filldraw[green!50!black] (5,1.3) circle (4pt);
+\filldraw[green!50!black] (2,2.7) circle (4pt);
+\filldraw[green!50!black] (1.5,2.9) circle (4pt);
+\end{tikzpicture}
+
+Options :
+A. ❌ Model A
+B. ✅ Model B
+C. ❌ Model C
+D. ❌ model D
+
+Question Number : 85 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following correctly computes the solution of linear regression problem via normal equation method? Assume necessary imports.
+
+Options :
+A. ✅  ```python
+w = np.linalg.pinv(X) @ y
+```

@@ -1,0 +1,23 @@
+$$\sum_{i=1}^6[ln(\lambda)-\lambda x_i]$$
+Question Number : 189 Question Id : 640653737472 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+You are given the actual values of these observations:
+$x_1 = 1$, $x_2 = 2$, $x_3 = 3$, $x_4 = 4$, $x_5 = 5$, $x_6 = 6$
+What is the maximum likelihood estimate for $\lambda$? Enter your answer correct to three decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.25 to 0.35
+Sub-Section Number : 5
+Sub-Section Id : 640653107661
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 190 Question Id : 640653737465 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider Lloyd's algorithm used for k-means clustering and choose the correct statements:
