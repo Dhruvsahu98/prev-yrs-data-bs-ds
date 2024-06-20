@@ -1,0 +1,23 @@
+$\begin{bmatrix} 1 & 1 \\ \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\ 1 & -1 \\ \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \end{bmatrix}$ $\begin{bmatrix} 5 & 0 & 0 \\ 0 & \sqrt{6} & 0 \end{bmatrix}$ $\begin{bmatrix} \frac{\sqrt{3}}{\sqrt{6}} & 0 & \frac{\sqrt{3}}{\sqrt{6}} \\ \frac{\sqrt{6}}{\sqrt{6}} & -\sqrt{2} & \frac{\sqrt{6}}{\sqrt{6}} \\ -\sqrt{1} & -2 & \frac{1}{\sqrt{6}} \\ \frac{\sqrt{6}}{\sqrt{6}} & \sqrt{6} & \frac{\sqrt{6}}{\sqrt{6}} \end{bmatrix}$
+
+$\begin{bmatrix} 1 & 1 \\ \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\ 1 & -1 \\ \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \end{bmatrix}$ $\begin{bmatrix} 5 & 0 & 0 \\ 0 & \sqrt{6} & 0 \end{bmatrix}$ $\begin{bmatrix} \frac{\sqrt{3}}{\sqrt{6}} & 0 & \frac{\sqrt{3}}{\sqrt{6}} \\ \frac{\sqrt{6}}{\sqrt{6}} & -\sqrt{2} & \frac{\sqrt{6}}{\sqrt{6}} \\ -\sqrt{1} & -2 & \frac{1}{\sqrt{6}} \\ \frac{\sqrt{6}}{\sqrt{6}} & \sqrt{6} & \frac{\sqrt{6}}{\sqrt{6}} \end{bmatrix}$
+
+6406531166939. ✖️
+
+Sub-Section Number : 4
+Sub-Section Id : 6406535052
+Question Shuffling Allowed : Yes
+
+Question Number : 118 Question Id : 640653351623 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+
+If $v_1, v_2, ..., v_{n-1}, v_n \in R^n$ are orthonormal vectors, then which of the following statements is/are true?
+
+Options :
+
+6406531166922. ✔️ $v_i^Tv_j=0, 1 \le i \le n, 1 \le j \le n, and i \ne j.$
+6406531166923. ✔️ $v_i^Tv_i=1, 1 \le i \le n.$
+6406531166924. ✔️ Matrix formed by the vectors $v_1, v_2, v_3,..., v_n$ is always orthogonal.
+6406531166925. ✖️ Matrix formed by the vectors $v_1, v_2, v_3,..., v_n$ is always symmetric.

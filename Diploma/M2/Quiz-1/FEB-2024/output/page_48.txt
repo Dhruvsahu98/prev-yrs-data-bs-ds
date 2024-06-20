@@ -1,0 +1,50 @@
+Question Label : Short Answer Question
+
+Find the determinant of 
+$\begin{bmatrix}
+a & b & 0 \\
+d & e & 5 \\
+g & h & 4 \\
+0 & -5 & 0
+\end{bmatrix}$ given
+
+the determinant of the matrix 
+$\begin{bmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{bmatrix}$ is 2.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+10
+
+Question Id : 640653737327 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (51 to 53)
+
+Question Label : Comprehension
+
+Let $V = \{(x, y, 5): x, y \in \mathbb{R}\}$. Let us define addition and scalar multiplication as follows:
+
+Addition : $(x_1, y_1, 5) + (x_2, y_2, 5) = (x_1 + x_2, y_1 + y_2, 5); (x_1, y_1, 5), (x_2, y_2, 5) \in V$
+Scalar multiplication : $c(x, y, 5) = (cx, cy, 5); (x, y, 5) \in V, c \in \mathbb{R}$
+
+Answer the given subquestions with respect to the given information.
+
+Sub questions
+
+Question Number : 51 Question Id : 640653737328 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question

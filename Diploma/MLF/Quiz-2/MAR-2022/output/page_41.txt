@@ -1,0 +1,26 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+5.00 to 6.00
+
+Question Number : 71 Question Type : SA
+Correct Marks : 4
+Question Label : Short Answer Question
+If $f(10)=2500$, $f'(10)=1000$ and $f''(10)=50$, then what could be the approximate value of $f(10.2)$?
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+2700 to 2702
+
+Question Type : COMPREHENSION
+Question Numbers : (72 to 74)
+Question Label : Comprehension

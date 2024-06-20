@@ -1,0 +1,27 @@
+Correct Marks : 4
+Question Label : Short Answer Question
+It is known that for some function, $f(0) = 1$, $f(x) = -cos(x)e^{sin(x)}$, and $f'(x) = sin(x)e^{sin(x)} + (cos(x))^2e^{sin(x)}$. What is the value of $f(1)$ using taylor series expansion. Use second order approximation (up to $f''(x)$) starting with $x = 0$ and $nd = 1$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.4 to 0.6
+
+Question Number : 125 Question Id : 640653351636 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label Short Answer Question
+We need to find the cheapest cylindrical container to hold 1000m$^3$ of water. The cost of top and bottom circular base is twice that of material used for side of cylinder. Suppose if 1m$^2$ area of side cost 1000 rupees. Top and bottom base costs 2000 rupees each, then what is the value of radius of cylinder such that we get minimum cost?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+3.1 to 3.8
+
+Sub-Section Number : 6
+Sub-Section Id : 64065350504
+Question Shuffling Allowed : No

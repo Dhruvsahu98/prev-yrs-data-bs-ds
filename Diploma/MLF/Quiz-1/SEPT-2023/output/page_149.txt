@@ -1,0 +1,26 @@
+✓ For URL <http://127.0.0.1:5000/choice/if> browser will display /if as output. 
+
+MLF
+
+Section Id : 64065344902
+Section Number : 8
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 15
+Number of Questions to be attempted : 15
+Section Marks : 40
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065395170
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 118 Question Id : 640653668558 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+**THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL MACHINE LEARNING FOUNDATIONS (COMPUTER BASED EXAM)"**

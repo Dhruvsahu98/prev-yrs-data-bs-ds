@@ -1,0 +1,25 @@
+Suppose the following table represents the number of people (in thousands) travelling to the tourist spots from the metro cities in December 2019.
+
+| To | Manali | Sikkim | Meghalaya |
+|---|---|---|---|
+| From Chennai | 2 | 1 | 1 |
+| From Kolkata | 3 | 2 | 1 |
+| From Mumbai | 1 | 1 | 2 |
+
+Due to covid these numbers got reduced in December 2020 which (in percentage of reduction with respect to December 2019) is given by:
+
+| To | Manali | Sikkim | Meghalaya |
+|---|---|---|---|
+| From Chennai | 50% | 50% | 25% |
+| From Kolkata | 25% | 25% | 25% |
+| From Mumbai | 50% | 25% | 25% |
+
+i.e., the number of tourists from Chennai to Meghalaya in December 2020 is reduced to 25% of December 2019 (if 1000 were visiting in December 2019, only 250 are visiting in December 2020) and so on according to the table.
+
+Using the given data answer the given subquestions.
+
+Sub questions
+
+Question Number : 246 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question

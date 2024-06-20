@@ -1,0 +1,30 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+44.8 to 46.8
+
+Question Numbers : (32 to 33)
+Question Label : Comprehension
+
+Consider the vector $w = \begin{bmatrix} 2 \\ 0 \\ 1 + i \\ 1 - i \end{bmatrix}$ and $z = \begin{bmatrix} 1 + i \\ 1 + i \\ -1 - i \\ 1 + i \end{bmatrix}$. The vector $z$ is equal to the sum of two vectors $u$ and $v$ from $C^4$. If $v.w$ is $-2-4i$, then the inner product $u.w$ is?
+
+Note: If your answer is $a + bi$, then enter $a$ and $b$ separately in the given subquestions
+
+Sub questions
+
+Question Number : 32
+Correct Marks : 1.5
+Question Label : Short Answer Question
+
+Enter the value for $a$
+
+NOTE: Enter your answer in one decimal place.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :

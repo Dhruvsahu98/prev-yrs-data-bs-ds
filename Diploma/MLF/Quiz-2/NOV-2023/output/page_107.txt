@@ -1,0 +1,28 @@
+Consider a hermitian matrix $A$ given as 
+ $$A = \begin{bmatrix} 2 & i \\ -i & 2 \end{bmatrix}$$
+and choose the correct option(s):
+
+**Options :** 
+6406531485574. ✅ The eigenvalues of $A$ are 1 and 3.
+6406531485575. ❌ The eigenvalues of $A$ are 1 repeated twice.
+6406531485576. ✅ The matrix $A$ is unitarily diagonalizable.
+6406531485577. ❌ The matrix $A$ is not unitarily diagonalizable.
+
+**Question Number :** 141 **Question Id :** 640653445890 **Question Type :** MSQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0 
+
+**Correct Marks :** 4 **Selectable Option :** 0
+
+**Question Label :** Multiple Select Question
+
+Consider the matrix $A = \begin{bmatrix} 1 & -1 \\ -1 & 1 \end{bmatrix}$ and choose the correct option(s).
+
+**Options :**
+6406531485587. ✅ The eigenvalues of $A$ are non-negative.
+6406531485588. ✅ The matrix $A$ is a positive semidefinite matrix.
+6406531485589. ❌ The eigenvectors of $A$ are $v_1 = (-1, 1), v_2 = (1, 2)$
+6406531485590. ❌ The matrix $A$ is positive definite.
+
+**Sub-Section Number :** 3
+**Sub-Section Id :** 6406536343
+**Question Shuffling Allowed :** Yes
+**Is Section Default? :** null

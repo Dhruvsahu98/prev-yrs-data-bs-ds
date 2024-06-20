@@ -1,0 +1,16 @@
+Question Number : 2 Question Id : 640653351496 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Select Question
+Choose the correct options.
+Options :
+6406531166582.  ✔ the identity matrix of order *n*.
+6406531166583.  ✔ matrix of order *n*.
+6406531166584.  ✖ The trace of an *n x n* orthogonal matrix is 0.
+6406531166585.  ✖ the usual inner product of *R<sup>m</sup>*. Then *AA<sup>T</sup>* is a diagonal matrix of order *m*.
+Question Number : 3 Question Id : 640653351505 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Select Question
+Suppose that *A* is a non-zero *m x n* matrix such that the vectors in *R<sup>m</sup>* corresponding to the columns of *A* are mutually orthonormal with respect to the usual inner product of *R<sup>m</sup>*. Then *AA<sup>T</sup>* = *I*, where *I* is the identity 
+Suppose *A* is a non-zero *m x n* matrix such that the vectors in *R<sup>m</sup>* corresponding to the columns of *A* are mutually orthogonal with respect to

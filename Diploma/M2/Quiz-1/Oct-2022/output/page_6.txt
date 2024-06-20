@@ -1,0 +1,26 @@
+Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (5 to 6)
+Question Label : Comprehension
+Consider the matrix $A = \begin{bmatrix} a & a \\ -a & a \end{bmatrix}$, for some real number $a$.
+Answer the given subquestions:
+
+Sub questions
+Question Number : 5 Question Id : 640653386646 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If $A^4 = \beta a^4 I$, then what is the value of $\beta$?
+
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+-4
+Question Number : 6 Question Id : 640653386647 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of $a + \lambda$ for which $det(A - \lambda I) = 0$, where $\lambda$ is a real number (treat $a$ as a variable).

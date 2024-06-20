@@ -1,0 +1,34 @@
+Consider the following code for creating a table STUDENTS in a PostgreSQL database using Python.
+
+```python
+import psycopg2
+def createTable():
+    conn = None
+    try:
+        conn = psycopg2.connect(database = "mydb", user = "myuser", password = "mypass", host = "127.0.0.1", port = "5432")
+        cur = conn.cursor()
+        cur.execute("CREATE TABLE STUDENTS ( \
+            roll_no INT PRIMARY KEY NOT NULL, \
+            student_name VARCHAR(40) NOT NULL, \
+            department VARCHAR(40) NOT NULL )")
+        conn.commit()
+        print ("Table created successfully")
+    except (Exception, psycopg2.DatabaseError) as error:
+        print (error)
+    finally:
+        if conn is not None:
+            conn.close()
+createTable()
+```
+
+Choose the correct option to fill in the blanks A and B, such that the STUDENTS table is created in mydb database.
+
+**Options :**
+
+A.  A:  `cur.conn.sql`, B:  `cur.execute()`
+B.  A:  `cur.execute`, B:  `cur.close()`
+C.  A:  `cur.open`, B:  `cur.execute()`
+D.  A:  `cur.execute`, B:  `cur.conn.close()`
+
+**Question Number :** 41 **Question Type :** MCQ 
+**Correct Marks :** 3

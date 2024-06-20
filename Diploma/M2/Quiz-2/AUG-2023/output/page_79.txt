@@ -1,0 +1,31 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+2
+
+Question Number : 102 Question Id : 640653588606 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+If $P_W(0,1,0,1) = (a,b,c,d)$, what is $3(a+b+c+d)$?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+2
+
+## Sem2 Statistics2
+
+Section Id : 64065339799
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 12
+Number of Questions to be attempted : 12
+Section Marks : 40

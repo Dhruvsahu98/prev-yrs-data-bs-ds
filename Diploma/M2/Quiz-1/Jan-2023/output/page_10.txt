@@ -1,0 +1,29 @@
+Answer the subquestions with respect to the given information.
+
+Sub questions
+
+**Question Number : 11 Question Id : 640653470207 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Which of the following is(are) true?
+
+**Options :**
+
+6406531562535.  $V_\alpha$ is closed under the given addition but not closed under the given scalar multiplication.
+
+6406531562536.  $V_\alpha$ is not closed under the given addition but closed under the given scalar multiplication.
+
+6406531562537.  $V_\alpha$ is neither closed under the given addition nor closed under the given scalar multiplication.
+
+6406531562538.  $V_\alpha$ is closed under the given addition and also closed under the given scalar multiplication.
+
+**Question Number : 12 Question Id : 640653470208 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Which of the following is(are) correct?

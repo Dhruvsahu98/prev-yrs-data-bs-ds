@@ -1,0 +1,19 @@
+Question Number : 100 Question Id : 640653521093 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Find the rank one approximation of the matrix $A = \begin{bmatrix} 2 & 0 \\ 0 & -3 \\ 0 & 0 \end{bmatrix}$ corresponding to its largest eigenvalue.
+
+Options :
+6406531736865. $\times$ $\begin{bmatrix} 4 & 0 \\ 0 & 0 \\ 0 & 0 \end{bmatrix}$
+6406531736866. $\times$ $\begin{bmatrix} 0 & 0 \\ 0 & 3 \\ 0 & 0 \end{bmatrix}$
+6406531736867. $\times$ $\begin{bmatrix} 0 & 0 \\ 0 & -9 \\ 0 & 0 \end{bmatrix}$
+6406531736868. $\checkmark$ $\begin{bmatrix} 0 & 0 \\ 0 & -3 \\ 0 & 0 \end{bmatrix}$
+
+Question Number : 101 Question Id : 640653521100 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

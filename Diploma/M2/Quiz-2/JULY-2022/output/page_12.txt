@@ -1,0 +1,32 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Number : 15 Question Id : 640653351511 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+We apply the sequence of row operations on A, as follows:
+- Step 1: $R_2 - 3R_1$
+- Step 2: $-\frac{1}{8}R_2$
+- Step 3: $R_1 - 2R_2$
+Applying this row operations in the given order, the matrix B is derived. Let 
+$B = \begin{bmatrix}
+a & b & c\\
+d & e & f
+\end{bmatrix}$
+What is the value of d ?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0
+
+Question Number : 16 Question Id : 640653351512 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question

@@ -1,0 +1,24 @@
+Shubham bought 2 kg of potatoes and *c* kg of dal and 1 kg of wheat from a shop, and paid ₹80 to the shopkeeper. Sushmitha bought 4 kg of potatoes and 1 kg of dal and 2 kg of wheat, and paid ₹*d* to the shopkeeper. Subhasis bought 2 kg of potatoes, 1 kg of dal and 2 kg of wheat, and paid ₹80 to the shopkeeper. If *x<sub>1</sub>*(*≠*0) represents the price of 1 kg of potato and *x<sub>2</sub>*(*≠*0) represents the price of 1 kg of dal, and *x<sub>3</sub>*(*≠*0) represents the price of 1 kg of wheat, then answer the given subquestions.
+
+Sub questions
+
+Question Number : 16 Question Id : 640653345448 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The matrix representation to find *x<sub>1</sub>*, *x<sub>2</sub>*, and *x<sub>3</sub>* is
+
+Options :
+6406531148907.  ×  
+$\begin{bmatrix} 2 & 1 & 2 \\ 4 & 1 & 2 \\ 2 & 1 & 2 \end{bmatrix}$  ×  $\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$  =  $\begin{bmatrix} 80 \\ d \\ 80 \end{bmatrix}$ 
+
+6406531148908.  ×  
+$\begin{bmatrix} 2 & c & 1 \\ 4 & 1 & 2 \\ 2 & 1 & 2 \end{bmatrix}$  ×  $\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$  =  $\begin{bmatrix} 80 \\ 80 \\ d \end{bmatrix}$
+
+6406531148909.  ✔  
+$\begin{bmatrix} 2 & c & 1 \\ 4 & 1 & 2 \\ 2 & 1 & 2 \end{bmatrix}$  ×  $\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$  =  $\begin{bmatrix} 80 \\ d \\ 80 \end{bmatrix}$ 
+
+6406531148910.  ×  
+$\begin{bmatrix} 4 & 1 & 2 \\ 2 & c & 1 \\ 2 & 1 & 2 \end{bmatrix}$  ×  $\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$  =  $\begin{bmatrix} 80 \\ d \\ 80 \end{bmatrix}$
+
+Question Number : 17 Question Id : 640653345449 Question Type : MCQ Is Question

@@ -1,0 +1,24 @@
+D. $\ast$ Overlapping and total
+
+**Question Number : 66**
+**Correct Marks : 3**
+Question Label : Multiple Choice Question
+Let $R(A, B, C, D, E, F)$ be a given relation with the following functional dependencies:
+$F = \{D \rightarrow A, F \rightarrow B, F \rightarrow E, B \rightarrow C\}$
+Then, which among the following is a candidate key for $R$?
+**Options :**
+A. $\checkmark$ FD
+B. $\ast$ BFD
+C. $\ast$ BD
+D. $\ast$ F
+
+**Question Number : 67**
+**Correct Marks : 3**
+Question Label : Multiple Choice Question
+Consider a relation $R(A, B, C, D, E)$ having the following functional dependencies:
+$F = \{A \rightarrow BCD, A \rightarrow E, C \rightarrow D\}$
+
+Given a decomposition $R_1(A, B, C), R_2(B, C, D), R_3(C, D, E)$ of $R$, choose a functional dependency which may be added to $F$ such that the decomposition becomes dependency preserving.
+
+**Options :**
+A. $\ast$ $B \rightarrow C$

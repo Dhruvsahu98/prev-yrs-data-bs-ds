@@ -1,0 +1,49 @@
+Two vector subspaces $W_1$ and $W_2$ of $\mathbb{R}^3$ are defined as follows:
+
+$W_1 = \{(x, y, 0) \mid x, y \in \mathbb{R}\}$
+
+and
+
+$W_2 = \{(0, y, z) \mid y, z \in \mathbb{R}\}$
+
+with usual addition and scalar multiplication, i.e.,
+
+Addition: $(x_1, y_1, z_1) + (x_2, y_2, z_2) = (x_1 + x_2, y_1 + y_2, z_1 + z_2)$; $(x_1, y_1, z_1), (x_2, y_2, z_2) \in \mathbb{R}^3$
+
+Scalar multiplication: $c(x, y, z) = (cx, cy, cz)$; $(x, y, z) \in \mathbb{R}^3$, $c \in \mathbb{R}$.
+
+What is the dimension of $W_1 \cap W_2$?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+1
+
+Sub-Section Number : 8
+
+Sub-Section Id : 64065367743
+
+Question Shuffling Allowed : No
+
+Is Section Default? : null
+
+Question Id : 640653470206 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (11 to 15)
+
+Question Label : Comprehension
+
+For some fixed real number $\alpha \neq 0$ define the set $V_\alpha = \{(x, \alpha, y) \mid x, y \in \mathbb{R}\}$ along with the following operations:
+
+Addition: $(x_1, \alpha, y_1) + (x_2, \alpha, y_2) = (x_1 + x_2, \alpha, y_1 + y_2)$; $(x_1, \alpha, y_1), (x_2, \alpha, y_2) \in V_\alpha$
+
+Scalar multiplication: $c(x, \alpha, y) = (cx, \alpha, cy)$; $(x, \alpha, y) \in V_\alpha$, $c \in \mathbb{R}$.

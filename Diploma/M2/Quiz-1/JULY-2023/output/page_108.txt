@@ -1,0 +1,27 @@
+The committee will consist of four students, with two students selected from each class uniformly at random.
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number : 116 Question Id : 640653578666 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+Let a random variable G represent the number of girls selected for the committee. Find the range of G.
+
+**Options :**
+
+6406531932256. ❌  $T_G = \{0, 1, 2, 3\}$
+
+6406531932257. ✅  $T_G = \{1, 2, 3\}$
+
+6406531932258. ❌  $T_G = \{1, 2, 3, 4\}$
+
+6406531932259. ❌  $T_G = \{0, 1, 2, 3, 4\}$
+
+**Question Number : 117 Question Id : 640653578667 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3**
+
+Question Label : Short Answer Question
+
+Find the expected number of girls selected for the committee. Enter the answer correct to two decimal places.

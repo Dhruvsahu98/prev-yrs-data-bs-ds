@@ -1,0 +1,19 @@
+Question Number : 240 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+If A is similar to B, then $A^k$ is similar to $B^k$, for any positive integer $k$.
+Options :
+A.  TRUE
+B.  FALSE
+
+Question Number : 241 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+If A and B are two $3 \times 3$ matrices, which are similar to each other. Suppose the homogeneous system of linear equations $Ax = 0$ has a unique solution, then the homogeneous system of linear equations $Bx = 0$ also has a unique solution.
+Options :
+A.  TRUE
+B.  FALSE
+
+Question Type : COMPREHENSION
+Question Numbers : (242 to 246)
+Question Label : Comprehension

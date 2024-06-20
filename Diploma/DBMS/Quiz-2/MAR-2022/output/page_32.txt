@@ -1,0 +1,38 @@
+Consider a relation **Employee**(eid, ename, eaddress, pid, pname, mid, mname).
+
+Each employee is assigned a unique eid, an ename and an eaddress. Each project is assigned a unique pid and a pname. Each manager is assigned a unique mid and mname. An employee can work on more than one project and a project can have multiple employees. Each employee can work under only one manager. However, a manager can have multiple employees. A manager is not concerned with the project that the employees are working on. Different employees can have the same name and different employees can be living at the same address.
+
+Considering the above scenario, answer the given subquestions. 
+
+Sub questions
+
+**Question Number : 54 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Select Question
+Identify the candidate key(s) for the **Employee** relation.
+
+**Options :**
+
+A. $\times$ eid
+
+B. $\times$ {eid, mid}
+
+C. $\checkmark$ {eid, pid}
+
+D. $\times$ {mid, pid}
+
+
+**Question Number : 55 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+Identify the highest normal form of the relation **Employee**.
+
+**Options :**
+
+A. $\times$ 2NF
+
+B. $\times$ 3NF

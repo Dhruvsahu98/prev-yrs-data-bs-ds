@@ -1,0 +1,19 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+The SVD of matrix $A = \begin{bmatrix}-4 & -7 \\ 1 & 4 \end{bmatrix}$ is
+Options :
+6406531485583.  $\checkmark$ $\begin{bmatrix} -0.894 & 0.447 \\ 0.447 & 0.894 \end{bmatrix} \begin{bmatrix} \sqrt{81} & 0 \\ 0 & \sqrt{1} \end{bmatrix} \begin{bmatrix} 0.447 & 0.894 \\ -0.894 & 0.447 \end{bmatrix}$
+6406531485584.  $\times$ $\begin{bmatrix} -0.447 & 0.894 \\ -0.894 & -0.447 \end{bmatrix} \begin{bmatrix} \sqrt{40} & 0 \\ 0 & \sqrt{10} \end{bmatrix} \begin{bmatrix} -0.707 & 0.707 \\ 0.707 & 0.707 \end{bmatrix}$
+6406531485585.  $\times$ $\begin{bmatrix} -0.707 & 0.707 \\ 0.707 & 0.707 \end{bmatrix} \begin{bmatrix} 4 & 0 \\ 0 & -5 \end{bmatrix} \begin{bmatrix} -0.447 & 0.894 \\ -0.894 & -0.447 \end{bmatrix}$
+6406531485586.  $\times$ $\begin{bmatrix} -0.512 & 0.707 \\ 0.707 & -0.512 \end{bmatrix} \begin{bmatrix} \sqrt{40} & 0 \\ 0 & \sqrt{10} \end{bmatrix} \begin{bmatrix} 0.707 & -0.707 \\ 0.707 & 0.707 \end{bmatrix}$
+
+Question Number : 148 Question Id : 640653445892 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Let $A = \begin{bmatrix} 2 & -2 & 0 \\ -2 & 1 & -2 \\ 0 & -2 & 1 \end{bmatrix}$ and $B = \begin{bmatrix} 2 & 2 & -2 \\ 2 & 5 & -4 \\ -2 & -4 & 5 \end{bmatrix}$ Then choose the right option.
+Options :
+6406531485595.  $\times$ Only A is positive definite
+6406531485596.  $\checkmark$ Only B is positive definite
+6406531485597.  $\times$ Both A and B are positive definite

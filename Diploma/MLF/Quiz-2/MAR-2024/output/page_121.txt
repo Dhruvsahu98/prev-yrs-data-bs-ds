@@ -1,0 +1,20 @@
+Question Label : Multiple Select Question
+Consider two complex matrices A and B such that both are the Hermitian matrices. Which of the following statements is/are true?
+Options :
+6406532577528. ✅ $A+B$ is also a Hermitian matrix.
+6406532577529. ✅ $\overline{A+B}$ is a Hermitian matrix, where $\overline{A+B}$ is a conjugate of $A+B$.
+6406532577530. ❌ $AB$ is also a Hermitian matrix.
+6406532577531. ❌ $\overline{AB}$ is Hermitian matrix, where $\overline{AB}$ is conjugate of $AB$.
+
+Sub-Section Number : 3
+Sub-Section Id : 640653112614
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653770558 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (143 to 144)
+Question Label : Comprehension
+Consider a matrix $A = \begin{pmatrix} 1 & -i \\ i & 1 \end{pmatrix}$. Use this information to answer the given sub-questions.
+
+Sub questions
+Question Number : 143 Question Id : 640653770559 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

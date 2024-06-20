@@ -1,0 +1,40 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Selectable Option : 0
+
+Question Label : Multiple Select Question
+
+Which of the following option is/are true?
+
+Options :
+
+6406531485254. ✅ Let $v \in V$, then $v-P_W(v)$ is orthogonal to $W$.
+
+If dimension of $W$ is 2, then dimension of the null space of $P_W$ may not be 1.
+
+6406531485255. ❌
+
+6406531485256. ✅ Zero vector is orthogonal to every vector of $V$.
+
+6406531485257. ✅ If $v \in W$, then $P_W(v)=v$.
+
+Sub-Section Number : 5
+
+Sub-Section Id : 6406536391
+
+Question Shuffling Allowed : No
+
+Is Section Default? : null
+
+Question Id : 640653445768 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (39 to 40)
+
+Question Label : Comprehension
+
+Consider $V = \mathbb{R}^2$ with respect to the inner product defined as 
+$$((x_1, x_2), (y_1, y_2)) = x_1y_1-(x_1y_2+x_2y_1)+2x_2y_2, \text{ for all } (x_1, x_2), (y_1, y_2) \in \mathbb{R}^2$$
+
+Answer the Subquestions based on the given data.
+
+Sub questions

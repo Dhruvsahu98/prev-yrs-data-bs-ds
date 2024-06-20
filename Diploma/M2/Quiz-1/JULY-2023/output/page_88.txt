@@ -1,0 +1,25 @@
+Options : 
+6406531932192. ✅ YES
+6406531932193. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065382857
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 92 Question Id : 640653578637 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Match the system of linear equations in Column A with their number of solutions in column B and their geometric representation in Column C.
+
+| System of linear equations (Column A) | Number of solutions (Column B) | Geometric representations (Column C) |
+|---|---|---|
+| i) $x-2y-z=8$, $-x+2y+z=4$ a) | No solution | 1)  |
+| ii) $x+y-z=3$, $x-y+z=3$ b) | Infinitely many solutions | 2)  |
+
+Table: M2Q1:1
+
+Choose the correct option from the following:
+
+Options : 

@@ -1,0 +1,39 @@
+Options :
+A.  $\times$ T is one to one.
+B.  $\times$ T is onto.
+C.  $\times$ T is both one to one and onto.
+D.  $\checkmark$ T is neither one to one nor onto.
+
+Question Number : 246 Question Type : MCQ
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Which of the following matrices is the matrix representation of T with respect to the ordered basis $\{(1,0,0),(1,1,0),(1,1,1)\}$ of domain and standard ordered basis of $\mathbb{R}^3$ for the co-domain?
+
+Options :
+A.  $\times$
+$\begin{bmatrix}
+1 & 0 & 0 \\
+1 & -2 & 2 \\
+1 & 1 & -1
+\end{bmatrix}$
+B.  $\times$
+$\begin{bmatrix}
+1 & 1 & 1 \\
+0 & -2 & 1 \\
+0 & 2 & -1
+\end{bmatrix}$
+C.  $\times$
+$\begin{bmatrix}
+1 & 0 & 0 \\
+2 & -2 & 2 \\
+3 & -1 & 1
+\end{bmatrix}$
+D.  $\checkmark$
+$\begin{bmatrix}
+1 & 2 & 3 \\
+0 & -2 & -1 \\
+0 & 2 & 1
+\end{bmatrix}$

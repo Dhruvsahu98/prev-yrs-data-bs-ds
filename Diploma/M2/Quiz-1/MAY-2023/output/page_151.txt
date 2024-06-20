@@ -1,0 +1,31 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+505.5
+
+Sub-Section Number : 5
+Sub-Section Id : 6406538254
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 8 Question Id : 64065357747 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider the system of linear equations represented in the matrix form $Ax = b$, where 
+$A = \begin{pmatrix} 1 & 1 & 3 \\ 1 & 2 & 4 \\ 1 & 3 & \alpha \end{pmatrix}$ and $b = \begin{pmatrix} 2 \\ 3 \\ \beta \end{pmatrix}$. What is the value of $\alpha + \beta$ if the above system has infinitely many solutions?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9
+
+Sub-Section Number : 6
+Sub-Section Id : 6406538255
+Question Shuffling Allowed : No

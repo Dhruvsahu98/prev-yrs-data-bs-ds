@@ -1,0 +1,27 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+Sub-Section Number : 6
+Sub-Section Id : 6406538280
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 153 Question Id : 640653578701 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find the directional derivative of $f(x, y, z) = x(x^2 - y^2) - z$ at a point $D(1, -1, 0)$ in the direction of vector $\hat{h} = \frac{2}{7}i - \frac{3}{7}j + \frac{6}{7}k$. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+-1.16 to -1.12
+Sub-Section Number : 7
+Sub-Section Id : 6406538281
+Question Shuffling Allowed : Yes
+Is Section Default? : null

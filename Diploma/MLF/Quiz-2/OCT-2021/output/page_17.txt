@@ -1,0 +1,38 @@
+Enter the value of the directional derivative
+
+NOTE: Enter your answer in two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+
+Possible Answers : 
+-1.45 to -1.35
+
+Question Numbers : (29 to 31)
+Question Label : Comprehension
+
+Consider the given data set of real estate valuation with number of rooms as input attribute and house price (unit: INR in Lakhs) as output attribute.
+
+| Rooms | House price |
+|---|---|
+| 2 | 3 |
+| 3 | 5.5 |
+| 4 | 10 |
+| 5 | 15 |
+| 6 | 25 |
+| 7 | 30 |
+
+Obtain the parameters of a least square regression line to fit this dataset to model the house price.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 29
+Correct Marks : 1.5
+Question Label : Short Answer Question
+
+What is the slope of the best fit line?

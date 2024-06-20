@@ -1,0 +1,52 @@
+**Correct Marks : 2**
+
+**Question Label : Short Answer Question**
+
+Find out the value of $a$ for which the matrix 
+$\begin{bmatrix} a & 3 \\ 0 & -5 \end{bmatrix}$ will be in the spanning set of the matrices $\begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}$ and $\begin{bmatrix} 1 & 1 \\ 0 & 1 \end{bmatrix}$ in $M_{2 \times 2}(\mathbb{R})$ with usual matrix addition and scalar multiplication.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+11
+
+**Question Number : 8 Question Id : 640653470205 Question Type : SA Calculator : None**
+
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Short Answer Question**
+
+Let $W$ be the set of $3 \times 3$ skew-symmetric real matrices, i.e. 
+
+$W = \{A \in M_{3 \times 3}(\mathbb{R}) | A^T = -A\}$. 
+
+$W$ is a vector subspace of $M_{3 \times 3}(\mathbb{R})$ with usual matrix addition and scalar multiplication. What is the dimension of $W$?
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+3
+
+**Sub-Section Number :**
+
+6

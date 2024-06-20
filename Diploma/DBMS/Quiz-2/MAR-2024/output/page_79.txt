@@ -1,0 +1,24 @@
+6406532577383. ❌ marks → roll\_no
+6406532577384. ✅ roll\_no → marks
+6406532577385. ❌ marks → name
+
+Sub-Section Number: 5
+Sub-Section Id: 640653112591
+Question Shuffling Allowed: Yes
+Is Section Default?: null
+
+Question Number: 97 Question Id: 640653770509 Question Type: MSQ Is Question Mandatory: No Calculator: None Response Time: N.A Think Time: N.A Minimum Instruction Time: 0
+Correct Marks: 4 Max. Selectable Options: 0
+
+Question Label: Multiple Select Question
+Consider the relation Songs(Song\_Name, Artist, Genre, Duration, Album) with the following set of functional dependencies.
+$F$ = {Song\_Name → Artist,
+Artist → Genre,
+(Album, Song\_Name) → Duration}
+Which of the following statements is FALSE with respect to the information given?
+
+Options:
+6406532577374. ✅ The relation Songs is in 2NF
+6406532577375. ✅ The functional dependency Artist → Genre is an example of partial dependency
+6406532577376. ❌ The relation Songs is in 1NF
+6406532577377. ❌ The functional dependency Song\_Name → Artist violates 2NF

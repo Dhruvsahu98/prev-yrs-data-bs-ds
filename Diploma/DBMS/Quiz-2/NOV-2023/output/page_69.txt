@@ -1,0 +1,32 @@
+Consider the relational schemas shown below.
+
+```python
+movie(m_id, title, year, p_id)
+producer(p_id, name, contact)
+```
+
+Assume that both the relations consists of large number of tuples. Let the following queries be executed on the two relations.
+
+1. `SELECT p.name, m.title FROM producer AS p NATURAL JOIN movie AS m WHERE m.year > '2002-12-31'`
+2. `SELECT title, year FROM movie WHERE m_id = 'M025'`
+3. `SELECT p.name, m.title FROM producer AS p, movie AS m WHERE m.p_id = p.p_id AND p.name = 'Yash'`
+
+Identify which of the statement(s) is/are true?
+
+**Options :**
+
+6406531485422. ❌ Query 1 and 2 will execute more efficiently when sequential file organization scheme is used.
+
+6406531485423. ✅ Query 1 and 3 will execute more efficiently when multitable clustering file organization scheme is used.
+
+6406531485424. ❌ Query 2 and 3 will execute more efficiently when sequential clustering file organization scheme is used.
+
+6406531485425. ❌ Query 2 will execute more efficiently when multitable clustering file organization scheme is used.
+
+6406531485426. ✅ Query 2 will execute more efficiently when sequential clustering file organization scheme is used.
+
+**Question Number :** 98 **Question Id :** 640653445847 **Question Type :** MSQ Is Question **Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 4 **Selectable Option :** 0
+
+**Question Label :** Multiple Select Question

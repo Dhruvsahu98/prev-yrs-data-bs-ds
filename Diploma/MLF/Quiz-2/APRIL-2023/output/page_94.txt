@@ -1,0 +1,26 @@
+0.9 to 1.4
+# Question Number : 111 Question Id : 640653521105 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+If $f(20) = 1$, $f'(20) = 10$, and $f''(20) = 5$, then what is second order approximate value of $f(10)$? Enter the answer as integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+151
+# Sub-Section Number : 8
+Sub-Section Id : 64065373949
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+# Question Number : 112 Question Id : 640653521103 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+What is the maximum area of rectangle than can be inscribed in an ellipse of the equation $\frac{x^2}{2} + y^2 = 1$? Enter the answer correct to 2 decimals accuracy.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range

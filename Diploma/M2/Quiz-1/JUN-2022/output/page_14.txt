@@ -1,0 +1,17 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+If we try to find $x_1$, $x_2$, and $x_3$ using appropriate matrix representation by taking $c = 0.5$ and $d = 100$, then
+Options :
+6406531148911. ❌ We will find that the price of 1 kg potato is unique.
+6406531148912. ✅ We will fail to find the price (as a numerical value) of 1 kg potato.
+6406531148913. ❌ We will find that the price of 1 kg potato is ₹20.
+6406531148914. ❌ We will find infinitely many values as the price of 1 kg potato.
+
+Question Number : 18 Question Id : 640653345450 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+If we try to find $x_1$, $x_2$, and $x_3$ using appropriate matrix representation by taking $c = 2$ and $d \neq 160$, then which of the following options is always true?
+Options :
+6406531148915. ❌ $x_1 = x_3$

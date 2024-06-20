@@ -1,0 +1,28 @@
+```python
+scores = clf.decision_function(X)
+p, r, _ = precision_recall_curve(y, scores)
+plt.plot(p[:-1], r[:-1])
+```
+A.  ✔
+```python
+s = clf.decision_function(X)
+p, r, _ = PrecisionRecallCurve(y, s)
+plt.plot(p[:-1], r[:-1])
+```
+B.  ✖
+```python
+s = clf.decision_score(X)
+p, r, _ = precision_recall_curve(s, y)
+plt.plot(p[:-1], r[:-1])
+```
+C.  ✖
+```python
+s = clf.decision_score(X)
+p, r, _ = precision_recall_curve(y, s)
+plt.plot(p[:-1], r[:-1])
+```
+D.  ✖
+Question Number : 89 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+We have run the following code on a highly imbalanced dataset and we observe that it has performed poorly on parameters like accuracy, precision and recall.

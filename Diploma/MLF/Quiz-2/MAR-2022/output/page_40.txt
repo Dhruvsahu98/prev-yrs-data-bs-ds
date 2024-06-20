@@ -1,0 +1,24 @@
+**Text Areas :** PlainText
+**Possible Answers :**
+248 to 264
+
+**Question Number :** 69 **Question Type :** SA
+**Correct Marks :** 3
+**Question Label :** Short Answer Question
+Suppose a vector $u$ of size $n \times 1$ is formed by the expression $u(k) = Re \left( exp \left( \frac{ik\theta}{2} \right) \right)$, for $k = 0, 1, \dots, n-1$, where $k$ denotes the $k^{th}$ element in the vector $u$. Suppose $A = uu^T$. The number of non-zero singular values $\sigma_i$ on the diagonal matrix $\Sigma$ obtained by applying SVD on the matrix $A$ is?
+
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+1
+
+**Question Number :** 70 **Question Type :** SA
+**Correct Marks :** 3
+**Question Label :** Short Answer Question
+The distance of the point on the sphere $x^2 + y^2 + z^2 = 3$ farthest from the point $(2,2,2)$ is _______.
+
+**NOTE:** Enter your answer in two decimal places.

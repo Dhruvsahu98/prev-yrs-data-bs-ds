@@ -1,0 +1,63 @@
+**Question Label : Multiple Choice Question**
+
+Consider the relational schema:
+*Book*(book, author\_name, author\_country, edition).
+
+A book can have multiple authors, and also multiple editions. However, author\_name determines author\_country i.e., author\_name $\rightarrow$ author\_country.
+Identify the most appropriate 4NF decomposition for the given schema.
+
+**Options :**
+
+A.  $\times$ R1(book, author\_name, author\_country), R2(book, edition)
+
+B.  $\checkmark$ R1(author\_name, author\_country), R2(book, author\_name), R3(book, edition)
+
+C.  $\times$ R1(book, edition), R2(author\_name, author\_country)
+
+D.  $\times$ R1(author\_name, author\_country), R2(author\_name, book, edition)
+
+
+**Question Number : 73**
+**Correct Marks : 4**
+
+**Question Label : Multiple Select Question**
+
+Consider the E-R diagram given in Figure 1 and answer the given question.
+
+\begin{tikzpicture}
+\node[ellipse, draw] (enroll) at (0,0) {enrollment\_num};
+\node[ellipse, draw] (sname) at (2,0) {student\_name};
+\node[ellipse, draw] (jdate) at (4,0) {join\_date};
+\node[ellipse, draw] (status) at (6,0) {completion\_status};
+\node[ellipse, draw] (cid) at (8,0) {course\_id};
+\node[ellipse, draw] (cname) at (10,0) {course\_name};
+\node[rectangle, draw] (student) at (2,-1.5) {Student};
+\node[diamond, draw, double] (enrolls) at (4,-2.5) {enrolls};
+\node[rectangle, draw] (course) at (8,-1.5) {Course};
+\node[ellipse, draw] (asnum) at (0,-4) {assignment\_num};
+\node[ellipse, draw] (odate) at (2,-4) {open\_date};
+\node[ellipse, draw] (cdate) at (4,-4) {close\_date};
+\node[rectangle, draw] (assign) at (2,-5.5) {Assignment};
+\node[diamond, draw, double] (cassign) at (8,-5.5) {course\_assignment};
+
+\draw (enroll) -- (student);
+\draw (sname) -- (student);
+\draw (jdate) -- (enrolls);
+\draw (status) -- (enrolls);
+\draw (cid) -- (course);
+\draw (cname) -- (course);
+\draw (student) -- (enrolls);
+\draw (enrolls) -- (course);
+\draw (asnum) -- (assign);
+\draw (odate) -- (assign);
+\draw (cdate) -- (assign);
+\draw (assign) -- (cassign);
+\draw (course) -- (cassign);
+
+\end{tikzpicture}
+
+Figure 1: E-R diagram
+
+With reference to the relationship between Course and Assignment, which of the statements is/are correct?
+
+**Options :** 

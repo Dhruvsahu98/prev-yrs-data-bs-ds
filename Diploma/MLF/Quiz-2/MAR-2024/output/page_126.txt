@@ -1,0 +1,24 @@
+6406532577551. 
+$A = \begin{pmatrix}
+-2 & 6 \\
+-6 & 7
+\end{pmatrix}$
+
+Question Number : 148 Question Id : 640653770566 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question 
+Which of the following options is/are true?
+Options :
+6406532577552. A is a negative definite matrix.
+6406532577553. A is a positive definite matrix.
+6406532577554. A is a negative semi-definite matrix.
+6406532577555. A is a positive semi-definite matrix.
+6406532577556. A is a indefinite matrix.
+Sub-Section Number : 5
+Sub-Section Id : 640653112616
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653770567 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (149 to 151)
+Question Label : Comprehension

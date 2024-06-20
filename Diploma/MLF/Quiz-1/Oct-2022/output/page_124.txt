@@ -1,0 +1,33 @@
+Text Areas : PlainText
+Possible Answers :
+1297
+
+Question Number : 129 Question Id : 640653386786 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find the values of $\alpha$ and $\beta$ for which the matrix $A = \begin{bmatrix} 2 & \alpha \\ 2 & \beta \end{bmatrix}$ has eigenvalues equal to -1 and -3. Enter your answer as $2 \times \alpha + \beta \times 2$
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+-21
+
+Sub-Section Number :
+5
+Sub-Section Id :
+64065355364
+Question Shuffling Allowed :
+Yes
+
+Question Number : 130 Question Id : 640653386775 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Is the following function continuous?
+$f(x) = |x|$ at $x = 0$
+(Provide 1 as answer for 'Yes' and 0 for 'No'.)
+Response Type : Numeric
+Evaluation Required For SA : Yes

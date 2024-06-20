@@ -1,0 +1,26 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Number : 235 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+The maximum value of $nullity(A)$ is _____.
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Number : 236 Question Type : MSQ
+Correct Marks : 8
+Question Label : Multiple Select Question

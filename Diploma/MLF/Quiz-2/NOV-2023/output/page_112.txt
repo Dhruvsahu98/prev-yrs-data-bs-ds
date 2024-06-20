@@ -1,0 +1,34 @@
+6406531485598. ❌ None of them is positive definite.
+
+Question Number : 149 Question Id : 640653445893 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider the data points 
+$x_1 = \begin{bmatrix} 0 \\ 2 \end{bmatrix}$, $x_2 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}$, $x_3 = \begin{bmatrix} 2 \\ 0 \end{bmatrix}$
+
+If we are projecting this dataset onto the first principal component, then what is the projected variance?
+
+Options :
+
+6406531485599. ❌ 0.34
+6406531485600. ❌ 1
+6406531485601. ✅ 1.34
+6406531485602. ❌ None of these
+
+Question Number : 150 Question Id : 640653445894 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider these data points to answer the following question:
+$x_1 = \begin{bmatrix} -4 \\ 4 \end{bmatrix}$, $x_2 = \begin{bmatrix} -2 \\ 2 \end{bmatrix}$, $x_3 = \begin{bmatrix} 2 \\ -2 \end{bmatrix}$, $x_4 = \begin{bmatrix} 4 \\ -4 \end{bmatrix}$
+
+The projected (new) data points $x_1', x_2', x_3', x_4'$ corresponding to the original points $x_1, x_2, x_3, x_4$ in one dimensional PCA is
+
+Options :
+
+6406531485603. ❌ $x_1' = \begin{bmatrix} 0 \\ 2 \end{bmatrix}$, $x_2' = \begin{bmatrix} 2 \\ 4 \end{bmatrix}$, $x_3' = \begin{bmatrix} 4 \\ 2 \end{bmatrix}$, $x_4' = \begin{bmatrix} 2 \\ 0 \end{bmatrix}$

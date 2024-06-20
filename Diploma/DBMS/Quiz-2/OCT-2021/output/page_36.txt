@@ -1,0 +1,29 @@
+B. $\checkmark$ $BC \rightarrow A$, $B \rightarrow C$ and $B \rightarrow A$
+
+C. $\times$ $BC \rightarrow A$ and $A \rightarrow C$
+
+D. $\times$ $AB \rightarrow C$ and $A \rightarrow C$
+
+**Question Number : 61**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+Consider relation $S(Sid, Team, City, Captain)$ with $Sid$ as the primary key and the only candidate key. There are no other functional dependencies for $S$, other than those implied by the primary key $Sid$. Then, which among the following is a lossless decomposition of $S$?
+
+**Options :**
+
+A. $\checkmark$ $S_1(Sid, Team)$, $S_2(Sid, City, Captain)$
+
+B. $\times$ $S_1(Sid, Team)$, $S_2(Team, City, Captain)$
+
+C. $\times$ $S_1(Sid, Team)$, $S_2(City, Captain)$
+
+D. $\times$ $S_1(Sid, Team)$, $S_2(City, Team)$
+
+**Question Number : 62**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question

@@ -1,0 +1,31 @@
+Text Areas : PlainText
+Possible Answers :
+3
+
+Question Number : 8 Question Id : 640653520992 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Let $P_W$ denote the projection of $\mathbb{R}^3$ onto $W$. If $P_W(1,0,1) = (a,b,c)$, what is $a + b + c$?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Sub-Section Number :
+7
+Sub-Section Id :
+64065373905
+Question Shuffling Allowed :
+No
+Is Section Default? :
+null
+
+Question Id : 640653520986 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (9 to 10)
+Question Label : Comprehension
+Let $T: \mathbb{R}^2 \rightarrow \mathbb{R}^3$ be a linear transformation defined by
+$T(x,y) = (x + y, x - y, 3x + y)$.

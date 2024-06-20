@@ -1,0 +1,25 @@
+6406531932261. ❌ (Y|Z) ~ Binomial(5, $\frac{2}{5}$).
+6406531932262. ✅ (X|Z) ~ Binomial(5, $\frac{2}{5}$).
+6406531932263. ❌ (X|Z) ~ Binomial(5, $\frac{3}{5}$).
+6406531932264. ✅ (Y|Z) ~ Binomial(5, $\frac{3}{5}$).
+
+Question Number : 119 Question Id : 640653578670 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of P(X = 1|Z = 5).
+Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.24 to 0.28
+
+Question Id : 640653578671 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (120 to 121)
+Question Label : Comprehension

@@ -1,0 +1,40 @@
+A system can be in one of 3 possible states at a given time. At the next instant, it changes its state as represented pictorially in the diagram below. The number beside an arrow shows the transition probabilities from the beginning state of the arrow to the ending state of the arrow (e.g. in the diagram M2Q1:1, you can see that there is an arrow starting at state 1 and ending at state 2, with the number $\frac{1}{2}$ beside the arrow. It implies that the probability of transition from state 1 to state 2 is $\frac{1}{2}$). No arrow from state 2 to state 1 indicates that direct transition is not possible (equivalently the transition probability is 0). The probability of transition from a state to itself is 0.
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=4cm,
+  thick,main node/.style={circle,draw,font=\sffamily\Large\bfseries}]
+
+  \node[main node] (1) {1};
+  \node[main node] (2) [below left of=1] {2};
+  \node[main node] (3) [below right of=1] {3};
+
+  \path[every node/.style={font=\sffamily\small}]
+    (1) edge [bend right] node[above] {$\frac{1}{2}$} (3)
+    (2) edge node[above] {$1$} (3)
+    (3) edge [bend right] node[above] {$\frac{1}{2}$} (1)
+    (3) edge node[above] {$\frac{1}{2}$} (2)
+    (1) edge node[above] {$\frac{1}{2}$} (2);
+\end{tikzpicture}
+
+M2Q1:1
+
+The information in the diagram is represented by the matrix 
+$$P = \begin{bmatrix}
+0 & \frac{1}{2} & \frac{1}{2} \\
+0 & 0 & 1 \\
+\frac{1}{2} & \frac{1}{2} & 0 
+\end{bmatrix},$$
+where the i-j-th entry of $P$ denotes the probability of transition from state $i$ to state $j$. Let the probabilities that the system is in State 1, State 2 or State 3 initially (i.e., at $t=0$) be $X_0^1$, $X_0^2$, and $X_0^3$, respectively. This is represented by the initial distribution vector (3 x 1 matrix) and is denoted by $X_0 = \begin{bmatrix}
+X_0^1 \\
+X_0^2 \\
+X_0^3
+\end{bmatrix}$.
+
+For any positive integer $n$, the distribution vector at $t=n$ is denoted by $X_n$ and is given by the equation $P^T X_{n-1} = X_n$.
+
+Answer the given subquestions from the given information.
+
+**Sub questions**
+
+Question Number : 14 Question Id : 640653386661 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2

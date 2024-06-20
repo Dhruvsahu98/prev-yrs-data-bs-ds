@@ -1,0 +1,27 @@
+**Question Number : 153 Question Id : 640653770572 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Question Label : Multiple Choice Question**
+
+Consider a function $f(x, y) = x^2 - 4x + 2y + 1$. Using gradient descent algorithm, with an initial guess of $(3, 2)$ and learning rate of $\frac{1}{t+1}$, where $t=1, 2, 3, ...$. What will be the value of $(x, y)$ after two iterations?
+
+**Options :**
+
+640653257753. ❌ $x = 0.5, y = 0$
+
+640653257754. ❌ $x = 2.512, y = 1.612$
+
+640653257755. ❌ $x = 0, y = 0$
+
+640653257756. ✅ $x = 2, y = 0.33$
+
+**Question Number : 154 Question Id : 640653770573 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Question Label : Multiple Choice Question**
+
+Find the point(s) on the circle $y^2 = 4 + x^2$ closest to the point $(3, 0)$.
+
+**Options :**
+
+640653257777. ❌ -1.5, -2.5
+
+640653257778. ✅ 1.5, 2.5
+
+640653257779. ❌ 1.5, -2.5
+
+640653257780. ❌ -1.5, 2.5

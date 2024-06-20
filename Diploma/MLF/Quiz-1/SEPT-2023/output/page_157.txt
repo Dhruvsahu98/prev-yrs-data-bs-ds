@@ -1,0 +1,26 @@
+640653223906. ❌  $y = 0.2x + 1$
+
+Question Number : 130 Question Id : 640653668574 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Let $A$ be an $n \times n$ real matrix. Then, which among the following statements are true?
+
+Options :
+
+640653223912. ❌ If the eigenvalues of $A$ are $\lambda_1, ..., \lambda_n$, then $A$ is similar to a diagonal matrix with $\lambda_1, ..., \lambda_n$ along the diagonal.
+
+640653223913. ❌ If $rank(A) = r$, then $A$ has $r$ non-zero eigenvalues.
+
+640653223914. ✅ $A$ may have complex eigenvalues.
+
+640653223915. ❌ If $A$ has a repeated eigenvalue, then $A$ is not diagonalizable.
+
+Sub-Section Number : 7
+Sub-Section Id : 64065395176
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 131 Question Id : 640653668567 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0

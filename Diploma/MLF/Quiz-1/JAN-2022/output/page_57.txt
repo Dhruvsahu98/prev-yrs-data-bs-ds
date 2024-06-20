@@ -1,0 +1,26 @@
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+2
+
+**Question Number :** 76 **Question Type :** SA
+**Correct Marks :** 1.25
+**Question Label :** Short Answer Question
+Enter the correct answer for d
+
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+6
+
+**MLT**
+**Number of Questions :** 18
+**Section Marks :** 50
+
+**Question Number :** 77 **Question Type :** MCQ
+**Correct Marks :** 0
+**Question Label :** Multiple Choice Question

@@ -1,0 +1,30 @@
+Which of the following option is true?
+
+**Options :** 
+6406531485259. ❌ T is one-one.
+6406531485260. ✅ T is onto.
+6406531485261. ❌ T is an isomorphism.
+6406531485262. ❌ T is neither one-one nor onto.
+
+**Question Number :** 46 **Question Id :** 640653445777 **Question Type :** SA **Calculator :** None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 2
+
+**Question Label :** Short Answer Question
+If $T(x, y, z) = (mx + my + sz, px + qy + rz)$,
+then find the value of
+$(m + n + s) - 3(p + q + r)$
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+-6
+
+**Question Id :** 640653445783 **Question Type :** COMPREHENSION **Sub Question Shuffling Allowed :** No **Group Comprehension Questions :** No **Question Pattern Type :** NonMatrix
+**Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Question Numbers :** (47 to 49)
+**Question Label :** Comprehension

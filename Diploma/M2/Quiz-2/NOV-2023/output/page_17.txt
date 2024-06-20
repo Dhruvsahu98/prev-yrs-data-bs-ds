@@ -1,0 +1,25 @@
+Question Label : Multiple Select Question
+Which of the following options is/are true?
+
+Options :
+6406531485267. ✅ Every matrix is similar to itself.
+6406531485268. ✅ If A is similar to B, then $A^{-1}$ is similar to $B^{-1}$.
+6406531485269. ❌ $\begin{bmatrix} 2 & 1 \\ 0 & 2 \end{bmatrix}$ is similar to $\begin{bmatrix} 2 & 0 \\ 0 & 2 \end{bmatrix}$.
+6406531485270. ❌ If A is similar to B + C, then $rank(A) = rank(B) + rank(C)$.
+
+Sub-Section Number : 3
+Sub-Section Id : 6406536389
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 36 Question Id : 640653445767 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following options is/are true?
+
+Options :
+6406531485243. ❌ If A is a non-zero matrix of order 4×3 and rank of A is 3, then the rows of A are linearly independent.
+6406531485244. ✅ If A is a non-zero matrix of order 4 × 3 and rank of A is 3, then the columns of A are linearly independent.
+6406531485245. ✅ If A is a non-zero matrix of order m × (m + 1), m > 1, then the maximum possible nullity of A is m.
+6406531485246. ✅ If A is a non-zero matrix of order 4 × 5 and rank of A is 3, then the dimension of  

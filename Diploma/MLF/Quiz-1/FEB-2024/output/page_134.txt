@@ -1,0 +1,34 @@
+Question Shuffling Allowed : Yes
+Is Section Default : null
+
+Question Number : 145 Question Id : 640653737420 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+Consider an encoder-decoder pair used for dimensionality reduction, where the encoder function is denoted as $f(X_1, X_2, X_3) = (X_1+X_2-X_3, X_1+X_3)$ and the decoder function is denoted as $g(u) = (u_1, u_2, u_1+u_2)$
+
+Compute the reconstruction error $R(f, g) = \frac{1}{n} \sum_{i=1}^n ||X_i-g(f(X_i))||^2$ for the following dataset:
+
+$X_1 = [1, 2, 3], X_2 = [0, 2, 2], X_3 = [1, 0, -1]$
+
+Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+3.12 to 3.20
+
+Java
+
+Section Id : 64065351358
+Section Number : 10
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 100

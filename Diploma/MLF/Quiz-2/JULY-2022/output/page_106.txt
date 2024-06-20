@@ -1,0 +1,19 @@
+Question Number : 119 Question Id : 640653351624 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+Which of the following is/are eigenvectors of the matrix $A = \begin{bmatrix} 5 & 1+i \\ -1+i & 6 \end{bmatrix}$?
+Note: This is a MSQ question.
+Options :
+6406531166926.  $\checkmark$  $\begin{bmatrix} 1 \\ -1+i \end{bmatrix}$,
+6406531166927.  $\times$  $\begin{bmatrix} 1 \\ -1+2i \end{bmatrix}$,
+6406531166928.  $\checkmark$  $\begin{bmatrix} 1 \\ 1-i \end{bmatrix}$,
+6406531166929.  $\times$  $\begin{bmatrix} 1 \\ -1-2i \end{bmatrix}$,
+
+Question Number : 120 Question Id : 640653351625 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+Let $A$ be a $n \times n$ Hermitian matrix. Suppose $A = UDU^*$, all the diagonal entries of a diagonal matrix $D$ are 1. Then which of the following statements is/are true about hermitian matrix $A$?
+Options :
+6406531166930.  $\checkmark$  $A$ is the identity matrix.

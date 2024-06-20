@@ -1,0 +1,24 @@
+6406531166931. ❌ A can be a matrix other than identity matrix.
+6406531166932. ✅ Any vector in $v \in C^n$ is an eigenvector of A with eigenvalue of 1. 
+6406531166933. ❌ Not all vectors in $v \in C^n$ will be eigen vectors of A.
+6406531166934. ✅ $A = D$
+
+Question Number : 121 Question Id : 640653351629 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+Which of the following statements are correct?
+Options :
+6406531166944. ✅ Every positive definite matrix is invertible.
+6406531166945. ✅ A diagonal matrix with positive entries is positive definite.
+6406531166946. ✅ A symmetric matrix with positive determinant is not necessarily positive definite.
+6406531166947. ✅ If matrix S is positive definite then $S^{-1}$ may also be positive definite.
+
+Sub-Section Number : 5
+Sub-Section Id : 64065350503
+Question Shuffling Allowed : Yes
+
+Question Number : 122 Question Id : 640653351626 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

@@ -1,0 +1,24 @@
+A relation $Student(Sid, Age, DoB, Eligibility)$ has the following functional dependencies:
+$(Age, Sid) \rightarrow DoB$
+$Eligibility \rightarrow Age$
+$DoB \rightarrow (Age, Eligibility, Sid)$
+
+If you are allowed to use ONLY the pseudo-transitivity rule and just ONCE, then which among the following functional dependencies can be inferred?
+
+**Options :**
+A. $\times$ $Age, Eligibility \rightarrow DoB$
+B. $\times$ $Sid, Eligibility \rightarrow Age$
+C. $\checkmark$ $Sid, Eligibility \rightarrow DoB$
+D. $\times$ None of these
+
+**Question Number : 63**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**
+
+Consider the relational schema $R(A, B, C, D, E)$, where the domains of $A, B, C, D$ and $E$ include only atomic values. Identify the set of functional dependencies satisfied by $R$ such that $R$ is in $1NF$ but not in $2NF$.
+
+**Options :**
+A. $\times$ $FD: \{AB \rightarrow CDE\}$
+B. $\checkmark$ $FD: \{AB \rightarrow CD, B \rightarrow E\}$
+C. $\times$ $FD: \{AB \rightarrow CD, C \rightarrow D, D \rightarrow E\}$
+D. $\times$ $FD: \{AB \rightarrow CDE, D \rightarrow A, E \rightarrow B\}$

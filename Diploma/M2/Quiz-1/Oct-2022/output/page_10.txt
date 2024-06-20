@@ -1,0 +1,35 @@
+Suppose $W_1$ and $W_2$ are subspaces of $\mathbb{R}^3$ defined as follows:
+
+$W_1 = \{(x, y, x+y) | x, y \in \mathbb{R}\}$
+
+and
+
+$W_2 = \{(x, y, 0) | x, y \in \mathbb{R}\}$
+
+with usual addition and scalar multiplication, i.e.,
+
+Addition: $(x_1, y_1, z_1) + (x_2, y_2, z_2) = (x_1 + x_2, y_1 + y_2, z_1 + z_2)$; $(x_1, y_1, z_1), (x_2, y_2, z_2) \in V$
+
+Scalar multiplication: $c(x, y, z) = (cx, cy, cz)$; $(x, y, z) \in V, c \in \mathbb{R}$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 11 Question Id : 640653386656 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Which of the following option(s) represent $W_1 \cap W_2$? (More than one options may be correct)
+
+Options :
+
+6406531285893. ❌ $Span\{(1, 1, 0), (1, -1, 0)\}$
+
+6406531285894. ✅ $Span\{(-1, 1, 0), (1, -1, 0)\}$
+
+6406531285895. ✅ $Span\{(1, -1, 0)\}$
+
+6406531285896. ❌ $Span\{(1, 1, 2), (1, 1, 0)\}$
+
+Question Number : 12 Question Id : 640653386657 Question Type : SA Calculator : None

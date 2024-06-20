@@ -1,0 +1,29 @@
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+4.25 to 4.45
+
+Question Number : 139 Question Id : 640653588653 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0.5
+Question Label : Short Answer Question
+What is the p-value for the regression model?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.05 to 0.06
+
+MLF
+Section Id : 64065339801
+Section Number : 8
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 11
+Number of Questions to be attempted : 11
+Section Marks : 40
+Display Number Panel : Yes
+Group All Questions : No

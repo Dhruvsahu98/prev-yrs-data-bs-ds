@@ -1,0 +1,31 @@
+**Correct Marks : 1**
+Question Label : Short Answer Question
+Compute the equation of the function's linear approximation at point (2,3). If the equation of the linear approximation is $f(x, y) = ax + by + c$, then provide the values of **b**.
+
+NOTE: Enter your answer in one decimal place.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+-0.8 to -0.7
+
+**Question Number : 62 Question Type : SA**
+**Correct Marks : 1**
+Question Label : Short Answer Question
+Compute the equation of the function's linear approximation at point (2,3). If the equation of the linear approximation is $f(x, y) = ax + by + c$, then provide the values of **c**.
+
+NOTE: Enter your answer in one decimal place.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+10.0 to 10.5
+
+**Question Number : 63 Question Type : SA**
+**Correct Marks : 3**

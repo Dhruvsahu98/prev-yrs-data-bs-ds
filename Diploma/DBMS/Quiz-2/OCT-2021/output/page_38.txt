@@ -1,0 +1,20 @@
+Question Number : 64
+Correct Marks : 2
+Question Label : Multiple Choice Question
+`cursor.rowcount` is a read-only attribute that specifies:
+Options :
+A.  the number of rows that have been affected (modified, inserted, or deleted) by the last execute() procedure.
+B.  the number of rows fetched by the last fetchmany() procedure.
+C.  the execution status message of the last execute() procedure.
+D.  the row number of the row fetched by the last fetchone() procedure.
+
+Question Number : 65
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the scenario given below.
+A company consists of several Employee entities. The Employee entities are either of `FullTimeEmployee` or `PartTimeEmployee` type. The entities of `FullTimeEmployee` type have fixed salary, whereas the entities of `PartTimeEmployee` type have hourly-pay system. However, no Employee entity can be of both types.
+Identify the constraints on specialization.
+Options :
+A.  Disjoint and partial
+B.  Overlapping and partial
+C.  Disjoint and total

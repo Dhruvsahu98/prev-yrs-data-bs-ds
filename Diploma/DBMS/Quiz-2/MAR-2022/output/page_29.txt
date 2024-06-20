@@ -1,0 +1,33 @@
+D.  price  ->  name
+
+**Question Number : 49 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Select Question
+
+Choose the SQL statement(s) that can result in an SQL Injection that retrieves all information from the customers table.
+
+**Options :**
+
+A.  SELECT * FROM customers WHERE cus\_id = 'M002' and 'X' = 'Y'
+B.  SELECT * FROM customers WHERE cus\_id = 'M002' or '8' <= '5'
+C.  SELECT * FROM customers WHERE cus\_id = 'M002' and '8' <= '5'
+D.  SELECT * FROM customers WHERE cus\_id = 'M002' or 'Y' = 'Y'
+
+
+**Question Number : 50 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Select Question
+
+Consider a relation R(A,B,C,D,E) with the following functional dependencies:
+$F = \{A \rightarrow B, C \rightarrow DE, D \rightarrow E\}$
+
+Which among the following is/are lossless decomposition(s)?
+
+**Options :**
+
+A.  R1(A,B,C) and R2(C,D,E)
+B.  R1(A,B,C) and R2(A,C,D,E)

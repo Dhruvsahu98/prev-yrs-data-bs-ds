@@ -1,0 +1,33 @@
+If the second degree polynomial that fits the below is $ax^2 + bx + c$, then what is the value of $a + b + c$?
+
+| x | y |
+|---|---|
+| 1 | 2 |
+| 2 | 3 |
+| 3 | 7 |
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Sub-Section Number : 3
+Sub-Section Id : 640653355362
+Question Shuffling Allowed : Yes
+
+Question Number : 120 Question Id : 640653386773 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+Identify which of the following requires use of classification technique.
+Options :
+6406531286260.  ✔ Credit card fraud detection.
+6406531286261.  ✔ Sentiment analysis.
+6406531286262.  ✔ Predicting whether an email is spam or not.
+6406531286263.  ✔ Predicting whether the patient is having cancer or not.
+
+Question Number : 121 Question Id : 640653386780 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,21 @@
+E. $\begin{bmatrix} 0.25 \\ 0.25 \\ 0.25 \end{bmatrix}$
+F. $\begin{bmatrix} 0.50 \\ 0.25 \\ 0.50 \end{bmatrix}$
+
+**Question Number : 248 Question Type : SA**
+**Correct Marks : 2**
+**Question Label : Short Answer Question**
+Find the total number of tourists (in thousands) to Meghalaya in December 2020 from Chennai, Kolkata and Mumbai?
+(Suppose your answer is 3000, then enter 3 as your answer)
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Equal**
+**Text Areas : PlainText**
+**Possible Answers :**
+1 
+
+**Statistics2**
+|  |  |
+|---|---|
+| Number of Questions : | 14 |
+| Section Marks : | 50 |

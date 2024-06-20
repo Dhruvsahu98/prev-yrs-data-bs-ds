@@ -1,0 +1,25 @@
+Possible Answers :
+3
+
+Question Id : 64065373331 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (61 to 63)
+Question Label : Comprehension
+Let $u = (1,2,-1)^T$, $v = (2,1,0)^T$ and $w = (-1,4,-3)^T$. Let $A \in M_{3 \times 3}(\mathbb{R})$ such that $Au = u$ and $Av = v$. If $A^3w = (a,b,c)^T$, then answer the given subquestions.
+Sub questions
+
+Question Number : 61 Question Id : 64065373332 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+$a$ is equal to
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+7
+
+Question Number : 62 Question Id : 64065373333 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+$b$ is equal to

@@ -1,0 +1,28 @@
+```python
+import numpy as np
+from sklearn.linear_model import LogisticRegression
+x1 = 7*np.random.randn(50)
+x2 = 8*np.random.randn(50)
+x3 = 9*np.random.randn(50)
+y = (10 + x1 + x2 + 0.5*np.random.randn()) > 0
+X = np.column_stack([x1, x2, x3])
+lr = LogisticRegression(solver = 'liblinear', tol = 1e-4, penalty = 'l2', fit_intercept = False, dual = True, random_state = 1)
+lr.fit(X, y)
+lr.score(X, y)
+```
+Knowing the details of the data generation, by changing which of the following hyperparameters, we are likely to have the highest improvement in score?
+**Options :**
+A.  By changing solver to 'saga' and making penalty as 'elasticnet'.
+B.  By changing dual to False and increasing tol to 1e-3.
+C.  By changing fit intercept to True.
+D.  By changing penalty alone to 'l1'.
+**Question Number : 91 Question Type : MCQ**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+Rahul is working on a large dataset where he needs to Convert a collection of text documents to a matrix. Which of the following vectorizer would you suggest him to use?
+**Options :**
+A.  CountVectorizer
+B.  TfidfVectorizer
+C.  HashingVectorizer
+D.  Both CountVectorizer and HashingVectorizer
+**Question Number : 92 Question Type : MSQ**

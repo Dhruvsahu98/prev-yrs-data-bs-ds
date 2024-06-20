@@ -1,0 +1,19 @@
+Question Number : 137 Question Id : 640653737417 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Let $A = \begin{bmatrix} 1 & 2 \\ 0 & 3 \end{bmatrix}$. Find a matrix $P$ such that $P^{-1}AP$ is diagonal.
+Options :
+6406532467984. $\begin{bmatrix} 1 & 0 \\ 2 & 3 \end{bmatrix}$
+6406532467985. $\begin{bmatrix} 1 & 1 \\ 1 & 0 \end{bmatrix}$
+6406532467986. $\begin{bmatrix} 1 & 1 \\ -1 & 0 \end{bmatrix}$
+6406532467987. $\begin{bmatrix} -2 & -2 \\ 0 & 0 \end{bmatrix}$
+
+Question Number : 138 Question Id : 640653737423 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following is the best approximation of $\sqrt[4]{16.1}$? (Use linear approximation around 16).
+Options :
+6406532468005. 2.1
+6406532468006. 2.003125

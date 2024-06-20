@@ -1,0 +1,26 @@
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406532239871. ✅ YES
+6406532239872. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 6406539517
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 119 Question Id : 640653668559 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Which of the following is/are supervised learning task(s)?
+Options :
+6406532239873. ✅ Predicting future weather conditions based on the past weather observations.
+6406532239874. ❌ Reducing the dimensionality of images while retaining essential features, enabling efficient storage and transmission.
+6406532239875. ✅ Identifying objects in images with multiple categories, such as cats, dogs, cars, and trees.
+6406532239876. ✅ Categorizing news articles into topics like politics, sports, entertainment, and technology.
+
+Sub-Section Number : 3

@@ -1,0 +1,17 @@
+Question Number : 2 Question Id : 640653386648 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Select Question
+Choose the set of correct options.
+Options :
+6406531285884. ❌ If there is a square matrix $A$ such that $A^2 + A = 0$, then $det(A)$ must be either 0 or -1.
+6406531285885. ✅ If $u$ is a solution of the system of linear equations $Ax = c$ and $c$ is a solution of the system of linear equations $Ax = b$, then $u$ is a solution of the system of linear equations $A^2x = b$.
+6406531285886. ❌ If $B$ is a diagonal matrix of order 3, then $AB - BA = 0$ for all square matrices $A$ of order 3.
+6406531285887. ✅ If there is an invertible real $3 \times 3$ matrix $A$ such that $A adj(A) = 3I$, then $det(adj(A))$ must be 9.
+
+Sub-Section Number : 3
+Sub-Section Id : 64065355317
+Question Shuffling Allowed : Yes
+
+Question Number : 3 Question Id : 640653386649 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question

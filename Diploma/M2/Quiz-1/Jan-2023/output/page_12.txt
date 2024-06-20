@@ -1,0 +1,23 @@
+6406531562545. ✓  $(-1)v$ is the inverse element of $V_a$.
+
+6406531562546. ✓  $(-2, \alpha, 0)$ is the inverse element of $V_a$.
+
+Question Number : 14 Question Id : 640653470210 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Choose the correct option(s).
+Options :
+
+6406531562547. ✓  For each element of $v \in V_a$ and for each pair $a, b \in \mathbb{R}$, $(a+b)v = av + bv$.
+
+6406531562548. ✓  For each vector of $a \in \mathbb{R}$ and for each pair $v_1, v_2 \in V_a$, $a(v_1 + v_2) = av_1 + av_2$.
+
+6406531562549. ✗  For any real number $c$, we always have $c(0, \alpha, 1) = (0, \alpha, 1)$.
+
+6406531562550. ✗  There does not exist any real number $c$, such that $c(0, \alpha, 1) = (0, \alpha, 1)$
+
+Question Number : 15 Question Id : 640653470211 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question

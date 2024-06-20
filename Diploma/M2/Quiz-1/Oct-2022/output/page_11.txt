@@ -1,0 +1,24 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the dimension of $W_1 \cap W_2$?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+1
+Question Number : 13 Question Id : 640653386658 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following options is true?
+Options : 
+6406531285898. 
+$W_1 \cup W_2$ is a vector space of dimension 3 (with usual addition and scalar multiplication).
+6406531285899. 
+$W_1 \cup W_2$ is a vector space of dimension 2 (with usual addition and scalar multiplication).
+6406531285900. 
+$W_1 \cup W_2$ is a vector space of dimension 1 (with usual addition and scalar multiplication).

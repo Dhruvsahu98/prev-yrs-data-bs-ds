@@ -1,0 +1,16 @@
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The correct representation of $x^2 + y^2 - z^2 - xy - zy + zx$ in the matrix form is
+Options :
+A. $\begin{bmatrix} x & y & z \end{bmatrix} \begin{bmatrix} 1 & -1 & 0 \\ 0 & -1 & 0 \\ 1 & 1 & -1 \end{bmatrix} \begin{bmatrix} x \\ y \\ z \end{bmatrix}$
+B. $\begin{bmatrix} x & y & z \end{bmatrix} \begin{bmatrix} 1 & 1 & 0 \\ 0 & 1 & 0 \\ 1 & 1 & -1 \end{bmatrix} \begin{bmatrix} x \\ y \\ z \end{bmatrix}$
+C. $\begin{bmatrix} x & y & z \end{bmatrix} \begin{bmatrix} 1 & -1 & 0 \\ 0 & 1 & 0 \\ 1 & -1 & -1 \end{bmatrix} \begin{bmatrix} x \\ y \\ z \end{bmatrix}$
+D. $\begin{bmatrix} x & y & z \end{bmatrix} \begin{bmatrix} 1 & 1 & 1 \\ -1 & 0 & 1 \\ 1 & 1 & -1 \end{bmatrix} \begin{bmatrix} x \\ y \\ z \end{bmatrix}$
+
+Question Number : 63 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+What is the value of $k$, if the function $f: \mathbb{R} \rightarrow \mathbb{R}, f(x, y) = kx^2 + 8y^2$ is a convex function?
+Options :
+A. $k \ge \frac{1}{2}$
+B. $k < 1$

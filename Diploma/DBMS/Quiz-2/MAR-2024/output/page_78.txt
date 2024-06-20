@@ -1,0 +1,34 @@
+| CarID | CarName | Country | Price |
+|---|---|---|---|
+| 001 | Ferrari | Italy | 200000 |
+| 002 | Mercedes | Germany | 150000 |
+| 003 | McLaren | UK | 120000 |
+| 004 | Aston Martin | UK | 120000 |
+| 005 | Alpha Tauri | Italy | 200000 |
+| 006 | Koenigsegg | Sweden | 500000 |
+| 007 | Alpine | France | 300000 |
+
+Table 1: Cars
+
+Which of the following functional dependencies hold on the Cars table instance?
+
+Options :
+
+6406532577370.  $\checkmark$ CarID $\rightarrow$ CarName
+
+6406532577371.  $\times$ Price $\rightarrow$ CarName
+
+6406532577372.  $\times$ Country $\rightarrow$ CarName
+
+6406532577373.  $\checkmark$ Country $\rightarrow$ Price
+
+Question Number : 96 Question Id : 640653770511 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Consider a relation student(roll\_no, name, marks). If all students have the same marks, then which of the following functional dependency/dependencies cannot be held in the student table?
+
+Options :
+
+6406532577382.  $\checkmark$ name $\rightarrow$ marks

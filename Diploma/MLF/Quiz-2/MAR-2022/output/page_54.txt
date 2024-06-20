@@ -1,0 +1,36 @@
+```python
+import pandas as pd
+from sklearn.metrics import classification_report
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+import warnings
+warnings.filterwarnings('ignore')
+#matplotlib inline
+
+df = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv', sep = ';')
+
+X = df.iloc[:, 0:11].copy()
+Y = df.iloc[:, 11:].copy()
+X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size = 0.2, random_state = 1)
+lr = LogisticRegression()
+lr.fit(X_train, y_train)
+lrp = classification_report(y_test, lr.predict(X_test), output_dict = True)
+lrp = pd.DataFrame(lrp).T
+lrp
+```
+
+Which among the following techniques is most likely to improve the accuracy of the model?
+
+**Options :**
+A. ❌ By using a different solver.
+B. ❌ By passing an appropriate value of l1\_ratio.
+C. ✅ By passing an appropriate value for class\_weight.
+D. ❌ By increasing the number of iterations.
+
+Question Number : 90 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+We have run the following code:

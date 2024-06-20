@@ -1,0 +1,41 @@
+E.  ✔ $S$ is an orthogonal set with respect to usual inner product, i.e. dot product on $\mathbb{R}^3$.
+
+F.  ✖ $S$ is an orthonormal set with respect to usual inner product, i.e. dot product on $\mathbb{R}^3$.
+
+**Question Type : COMPREHENSION**
+
+**Question Numbers : (238 to 241)**
+
+Question Label : Comprehension
+
+Determine whether the statements given in the subquestions are true or false.
+
+**Sub questions**
+
+**Question Number : 238 Question Type : MCQ**
+
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+If $A$ or $B$ is invertible, then $AB$ and $BA$ are similar matrices (i.e., $AB$ is similar to $BA$).
+
+**Options :**
+
+A. ✔ TRUE
+
+B. ✖ FALSE
+
+**Question Number : 239 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+Any two scalar matrices are similar.
+
+**Options :**
+
+A. ✖ TRUE
+
+B. ✔ FALSE

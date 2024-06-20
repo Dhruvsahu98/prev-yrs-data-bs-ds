@@ -1,0 +1,23 @@
+A. ❌ $r1 \cap r2 \cap r3$ 
+B. ❌ $r1 - (r1-r2) - (r1-r3)$
+C. ✅ $r1 \times r2 \times r3$
+D. ❌ $r1 \bowtie r2 \bowtie r3$
+
+Question Number : 71
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider the relational schema: $R(player\_num, player\_name, team\_code, team\_name, state)$ and an associated set of functional dependencies as follows:
+$F = \{ player\_num \rightarrow player\_name, \\
+player\_name \rightarrow player\_num, \\
+player\_num, team\_code \rightarrow state, team\_name \\
+player\_name, team\_code \rightarrow state, team\_name \\
+\}$
+If all attributes of R have atomic values and there are no multivalued or composite attributes in R, then which normal form is relation R **NOT** in?
+**Options :**
+A. ❌ 1NF
+B. ❌ 2NF
+C. ❌ 3NF
+D. ✅ BCNF
+
+Question Number : 72
+Correct Marks : 4

@@ -1,0 +1,31 @@
+6406531485418. ❌ height = 3, number of leaf nodes = 3
+6406531485419. ❌ height = 2, number of leaf nodes = 5
+6406531485420. ✅ height = 3, number of leaf nodes = 4
+6406531485421. ❌ height = 2, number of leaf nodes = 3
+
+Sub-Section Number : 4
+Sub-Section Id : 64065363412
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 92 Question Id : 640653445836 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Consider a relation `CustomerLogs(Name, Items, Restaurant, Date)` with the following data values.
+
+| Name | Items | Restaurant | Date |
+|---|---|---|---|
+| Zury | Coffee | Your's cafe | 19-10-21 |
+| Zury | Tea | Our's cafe | 21-10-21 |
+| Zury | Tea | C | E |
+| Zury | A | B | D |
+
+If multivalued dependency (Name $\rightarrow$ {Items, Date}) exists in the above `CustomerLogs` relation, then what are the values of A, B, C, D, E?
+
+Options :
+
+6406531485401. ❌ A = Tea, B = Your's cafe, C = Our's cafe, D = 21-10-21, E = 19-10-21
+6406531485402. ❌ A = Coffee, B = Your's cafe, C = Our's cafe, D = 21-10-21, E = 19-10-21
+6406531485403. ✅ A = Coffee, B = Our's cafe, C = Your's cafe, D = 19-10-21, E = 21-10-21

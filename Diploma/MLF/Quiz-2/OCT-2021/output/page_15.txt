@@ -1,0 +1,24 @@
+Question Number : 25
+Correct Marks : 3
+Question Label : Short Answer Question
+Suppose a vector $u$ of size $n \times 1$ is formed by the expression $u(k) = abs \left( exp \left( \frac{ik\theta}{2} \right) \right)$, for $k = 0, 1, \cdots n - 1$, where $abs()$ denotes the absolute value and $k$ denotes the $k^{th}$ element in the vector $u$. Suppose further that the matrix $A$ of size $n \times n$ is formed by $A = uu^T$. The number of non-zero singular values $\sigma_i$ on the diagonal matrix $\Sigma$ obtained by applying Singular Value Decomposition (SVD) on the matrix $A$ is?
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Numbers : (26 to 28)
+Question Label : Comprehension
+Find the direction in which the function $f(x, y) = x^2 + xy + y^2$ decreases most rapidly at a point $a = (-1, 1)$. Also find the directional derivative of the function in this direction.
+
+Note: Provide the direction in the form of unit vector. If the direction is in the form $[\frac{l}{m}]$.
+
+Sub questions
+
+Question Number : 26

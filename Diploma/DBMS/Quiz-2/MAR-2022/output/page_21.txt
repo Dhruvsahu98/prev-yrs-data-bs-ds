@@ -1,0 +1,25 @@
+Possible Answers :
+12
+
+Question Number : 37 Question Type : SA
+
+Correct Marks : 2.5
+Question Label : Short Answer Question
+What is the average fixed cost per car washed that is incurred when Mr M operates the business by hiring the number of employees identified in previous question (round your answer to one decimal place)
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+41.00 to 42.00
+
+DBMS
+Number of Questions : 17
+Section Marks : 50
+
+Question Number : 38 Question Type : MCQ
+
+Correct Marks : 0
+Question Label : Multiple Choice Question

@@ -1,0 +1,25 @@
+(0, 0, 5) is the zero element of V with respect to the given addition.
+
+6406532467750. ❌ For any real number c, we always have c(0, 1, 5) = (0, 1, 5).
+
+6406532467751. ✅ For each element of $v \in V$ and for each pair $a$, $b \in \mathbb{R}$, $(a + b)v = av + bv$.
+
+Sub-Section Number : 3
+Sub-Section Id : 640653107599
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653737315 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (54 to 55)
+Question Label : Comprehension
+
+Let $A = \begin{bmatrix} 1 & \frac{1}{3} \\ c & d \end{bmatrix}$ such that $A^2 = 0$.
+
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 54 Question Id : 640653737316 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Find the value of c.

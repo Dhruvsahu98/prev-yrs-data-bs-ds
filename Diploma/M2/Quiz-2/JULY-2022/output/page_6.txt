@@ -1,0 +1,25 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Select Question
+A norm on a vector space $V$ is a function
+$$||.||:V\rightarrow \mathbb{R}$$
+$$x\mapsto ||x||$$
+satisfying the following conditions:
+Condition 1: $||x+y||\leq ||x||+||y||$ for all $x,y\in V$.
+Condition 2: $||cx||=|c|||x||$ for all $c\in \mathbb{R}$ and for all $x\in V$.
+Condition 3: $||x||\geq 0$ for all $x\in V$; $||x||=0$ if and only if $x=0$.
+Consider a function $||.||:\mathbb{R}^3\rightarrow \mathbb{R}$ defined as
+$$||(x_1,x_2,x_3)||=|x_1+x_2+x_3|$$
+on the vector space $\mathbb{R}^3$.
+Which of the following are satisfied by the above function?
+Options :
+6406531166600 : $\checkmark$ Condition 1 is satisfied.
+6406531166601 : $\checkmark$ Condition 2 is satisfied.
+6406531166602 : $\times$ Condition 3 is satisfied.
+6406531166603 : $\times$ None of these conditions are satisfied.
+Sub-Section Number : 5
+Sub-Section Id : 64065350459
+Question Shuffling Allowed : No
+Question Id : 640653351497 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (7 to 12)
+Question Label : Comprehension

@@ -1,0 +1,21 @@
+Question Number : 233 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "SEMESTER 2: MATHEMATICS FOR DATA SCIENCE 2"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+A.  ✅ YES
+B. ❌ NO
+Question Type : COMPREHENSION
+Question Numbers : (234 to 235)
+Question Label : Comprehension
+Let A be a $3 \times 2$ non-zero real matrix.
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 234 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+The minimum value of $rank(A)$ is _____.
+NOTE: Enter your answer to the nearest integer.

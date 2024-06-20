@@ -1,0 +1,36 @@
+1.5 to 2.5
+
+**Question Number : 33**
+**Correct Marks : 1.5**
+**Question Label : Short Answer Question**
+
+Enter the value for b
+
+**NOTE:** Enter your answer to the nearest integer.
+
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Equal**
+**Text Areas : PlainText**
+**Possible Answers :**
+
+0
+
+**Question Numbers : (34 to 37)**
+**Question Label : Comprehension**
+
+Consider these data points to answer the given subquestions
+$x_1 = \begin{bmatrix} -4 \\ 4 \end{bmatrix}$, $x_2 = \begin{bmatrix} -2 \\ 2 \end{bmatrix}$, $x_3 = \begin{bmatrix} 2 \\ -2 \end{bmatrix}$, $x_4 = \begin{bmatrix} 4 \\ -4 \end{bmatrix}$
+
+Sub questions
+
+**Question Number : 34**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**
+
+The mean vector of the data points $x_1, x_2, x_3, x_4$ is
+
+**Options :**
+
+A. $\begin{bmatrix} 0 \\ 0 \end{bmatrix}$ 

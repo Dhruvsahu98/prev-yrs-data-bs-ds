@@ -1,0 +1,19 @@
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is a basis for the kernel of T?
+Options :
+6406532577283.  ✔ { (1, 1, 1) }
+6406532577284.  × span{ (1, 1, 1) }
+6406532577285.  × { (a, a, a) | a ∈ R }
+6406532577286.  × { (1, 0), (0, 1) }
+6406532577287.  × { (1, 0, 0), (0, 1, 0) }
+
+Question Number : 66 Question Id : 640653770469 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is a basis for the image of T?
+Options :
+6406532577288.  ✔ { (1, 0, -1), (-1, 1, 0) }
+6406532577289.  × { (1, 0, -1), (-1, 1, 0), (0, -1, 1) }
+6406532577290.  × { (1, 0, 0), (0, 1, 0), (0, 0, 1) }

@@ -1,0 +1,20 @@
+Question Id : 640653351630 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (126 to 128)
+Question Label : Comprehension
+Consider the data points $x_1, x_2, x_3$ to answer the given subquestions.
+$x_1 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}, x_2 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, x_3 = \begin{bmatrix} -1 \\ 1 \\ 0 \end{bmatrix}$
+Sub questions
+Question Number : 126 Question Id : 640653351631 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Calculate the mean vector of the data points $x_1, x_2, x_3$ and write the summation of all elements of mean vector obtained.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+Question Number : 127 Question Id : 640653351632 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

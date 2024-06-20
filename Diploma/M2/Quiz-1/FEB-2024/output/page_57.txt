@@ -1,0 +1,28 @@
+Select all true statements.
+
+**Options :**
+
+6406532467731.  ✓  
+$\begin{bmatrix} 1 & 0 & 0 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix}$ is in reduced row echelon form.
+
+6406532467732.  ✓  The reduced row echelon form of any square, invertible matrix is the identity matrix of the same order.
+
+6406532467733.  ✗  Elementary row operations can be performed only on square matrices.
+
+6406532467734.  ✗  If a matrix is in reduced row echelon form, its last row will always be a zero row.
+
+**Question Number : 65 Question Id : 640653737326 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3 Max. Selectable Options : 0**
+
+**Question Label : Multiple Select Question**
+
+Consider the vectors $v_1 = (1, -1, 0)$, $v_2 = (2, 3, -1)$ and $v_3 = (a, b, c)$ in $\mathbb{R}^3$. Choose the correct options from the following.
+
+**Options :**
+
+6406532467738.  ✗  If $a = 5$, $b = 0$, $c = -1$, then the set {$v_1, v_2, v_3$} forms a basis for $\mathbb{R}^3$.
+
+6406532467739.  ✓  If $a = 5$, $b = 0$, $c = -1$, then the vectors {$v_1, v_2, v_3$} are linearly dependent.
+
+6406532467740.  ✗  If $a = 5$, $b = 0$, $c = -1$ and $A$ is the matrix with $v_1$, $v_2$ and $v_3$ as its columns, then $rank(A) = 3$.

@@ -1,0 +1,32 @@
+C.  $\times$ R1(A,B) and R2(B,D,E)
+D.  $\times$ R1(A,B,C) and R2(D,E)
+
+**Question Number : 51 Question Type : MSQ**
+
+**Correct Marks : 4**
+
+**Question Label : Multiple Select Question**
+
+Consider a relation **hotel\_information(c\_name, c\_id, mobile, room\_type, room\_no)** with the following functional dependencies:
+
+$F = \{c\_id \rightarrow (c\_name, mobile),$
+ $(c\_name, mobile) \rightarrow room\_no,$
+ $room\_no \rightarrow room\_type\}$
+
+**Options :**
+
+A.  $\checkmark$ The above relation can be decomposed into smaller relations, each of which is in BCNF, such that the decomposition is dependency preserving.
+B.  $\times$ The above relation can be decomposed into smaller relations, each of which is in BCNF, such that the decomposition is not dependency preserving.
+C.  $\times$ The above relation can be decomposed into smaller relations, each of which is in 3NF, such that the decomposition is not dependency preserving.
+D.  $\checkmark$ The above relation can be decomposed into smaller relations, each of which is in 3NF, such that the decomposition is dependency preserving.
+
+**Question Number : 52 Question Type : SA**
+
+**Correct Marks : 3**
+
+**Question Label : Short Answer Question**
+
+The following numbers are inserted into an empty binary search tree in the given order: 
+61,34,23,45,1,2,3,4,5. What is the height of the resulting binary search tree?
+
+**NOTE:** Enter your answer to the nearest integer.

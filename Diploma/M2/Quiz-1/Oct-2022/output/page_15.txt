@@ -1,0 +1,22 @@
+Suppose at $t=1$ the distribution vector
+$X_1$ is $\begin{bmatrix} \frac{1}{2} \\ \frac{1}{2} \\ 0 \end{bmatrix}$. Which of the following options
+is true?
+
+Options : 
+6406531285908. $\ast$ The system had positive initial probabilities of being in State 1 or State 2.
+6406531285909. $\checkmark$ The system was initially in State 3.
+6406531285910. $\ast$ The system was initially in State 1.
+6406531285911. $\ast$ The system had positive initial probabilities of being in State 2 and State 3.
+
+Question Number : 16 Question Id : 640653386663 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Choose the set of correct option(s).
+
+Options :
+6406531285912. $\checkmark$ Both $P$ and $P^2$ have the same
+reduced row echelon form.
+6406531285913. $\ast$ $P$ is already in reduced row echelon form.
+6406531285914. $\ast$ $P^2 = \lambda P$ for some real number $\lambda$.
+6406531285915. $\ast$ $P^2$ is already in reduced row echelon form.

@@ -1,0 +1,35 @@
+```python
+Text Areas : PlainText
+Possible Answers :
+2.6 to 3
+```
+
+Question Number : 113 Question Id : 640653521104 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+What is the value of the function $f(x_1, x_2, x_3) = x_1^2 + x_2^2 + x_3^2 - 2x_1x_2 - 2x_2x_3 - 2x_3x_1$ evaluated at the point obtained after one step of gradient descent where the current iterate is (1, 1, 1)? Assume $\eta = 1$. Enter the answer as integer.
+
+```python
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+-3
+```
+
+Sub-Section Number : 9
+Sub-Section Id : 64065373950
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653521094 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (114 to 115)
+
+Question Label : Comprehension
+
+Consider a matrix $A = \begin{bmatrix} 2 & b \\ b & 8 \end{bmatrix}$. Answer the given subquestions:

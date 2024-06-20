@@ -1,0 +1,16 @@
+Sub questions
+
+Question Number : 132 Question Id : 640653668569 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Find the projection of $b$ onto $U$.
+Options :
+6406532239898. $\begin{bmatrix} -1 \\ -1 \\ 2 \end{bmatrix}$
+6406532239899. $\begin{bmatrix} -1 \\ -1 \\ -2 \end{bmatrix}$
+6406532239900. $\begin{bmatrix} 1 \\ 1 \\ -2 \end{bmatrix}$
+6406532239901. $\begin{bmatrix} 1 \\ -1 \\ -2 \end{bmatrix}$
+
+Question Number : 133 Question Id : 640653668570 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Find the length of the error vector $e = b - p$, where $p$ is the projection of $b$ onto $U$. Enter the answer correct to two decimal places.

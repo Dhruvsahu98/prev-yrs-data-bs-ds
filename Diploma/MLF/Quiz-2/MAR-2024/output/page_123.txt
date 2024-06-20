@@ -1,0 +1,33 @@
+$\ast$ A is not diagonalizable.
+
+Question Id : 640653770561 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (145 to 146)
+
+Question Label : Comprehension
+
+Consider a matrix $A = \begin{pmatrix} 2 & 1 \\ 1 & 0 \\ 0 & 1 \end{pmatrix}$. Let $A = Q_1 \Sigma Q_2^T$ be the SVD form of A.
+
+Use this matrix to answer the given sub-questions.
+
+Sub questions
+
+Question Number : 145 Question Id : 640653770562 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Which of the following options is/are true?
+
+Options :
+
+6406532577540. $\ast$ $A^TA = \begin{pmatrix} 5 & 2 \\ 3 & 2 \end{pmatrix}$
+
+6406532577541. $\ast$ Eigenvalues of $A^TA$ are 6 and 2.
+
+An eigenvector of $A^TA$ corresponding to eigenvalue 6 is $\begin{pmatrix} 2 \\ 1 \end{pmatrix}$
+
+6406532577542. $\checkmark$
+
+6406532577543. $\checkmark$

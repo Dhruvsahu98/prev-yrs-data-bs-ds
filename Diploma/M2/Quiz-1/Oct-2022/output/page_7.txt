@@ -1,0 +1,31 @@
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0
+
+Question Id : 640653386650 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (7 to 10)
+Question Label : Comprehension
+
+Consider the following subsets of $R^3$:
+Subset 1) $W = \{(x, y, z) | x, y, z \in R, and  x^2 + z^2 = 0\}$
+Subset 2) $W = \{(x, y, z) | x, y, z \in R, and x = z\}$
+Subset 3) $W = \{(x, y, z) | x, y, z \in R, x = y + z and x + z = y\}$
+Subset 4) $W = \{(x, y, z) | x, y, z \in R, (x + 1) - (y + 1) + z = 0$
+and $x + z = y\}$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 7 Question Id : 640653386651 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+
+Subset 1 is a subspace of dimension _______. (Enter the numerical value only. Suppose the dimension is 3, then enter 3 as your answer.)

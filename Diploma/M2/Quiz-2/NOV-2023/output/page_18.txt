@@ -1,0 +1,26 @@
+the solution space of the homogeneous system $Ax = 0$ is 2. 
+Sub-Section Number : 4
+Sub-Section Id : 64065363390
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653445771 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (37 to 38)
+Question Label : Comprehension
+Let W be a proper subspace of an inner product space V, where $dim(V) = 3$ and $P_W$ be the projection of V on W. Answer the subquestion based on the given data.
+
+Sub questions
+
+Question Number : 37 Question Id : 640653445772 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+If $v \in V$ is vector of norm 5, then the maximum possible norm of the vector $P_W(v)$ is 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+5
+
+Question Number : 38 Question Id : 640653445773 Question Type : MSQ Is Question

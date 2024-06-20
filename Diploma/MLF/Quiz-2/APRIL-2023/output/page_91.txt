@@ -1,0 +1,20 @@
+Options :
+6406531736877. ✅  $A^{-1}$ is positive definite
+6406531736878. ✅  $A + B$ is positive definite, if $B$ is positive definite.
+6406531736879. ❌  $Rank(A) = n - 1$
+6406531736880. ✅  $A^2$ is positive definite.
+
+Question Number : 107 Question Id : 640653521099 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following are the limitations of PCA?
+Options :
+6406531736885. ❌  PCA does work well for non-linearly correlated data.
+6406531736886. ✅  PCA always consider the low variance components in the data as noise and recommend us to throw away those components. But, sometimes those components play a major role in a supervised learning task.
+6406531736887. ✅  If the variables are correlated, PCA can achieve dimension reduction. If not, PCA just orders them according to their variances.
+6406531736888. ✅  PCA always finds orthogonal principal components. Sometimes, our data demands non-orthogonal principal components to represent the data.
+
+Sub-Section Number : 6
+Sub-Section Id : 64065373947
+Question Shuffling Allowed : Yes
+Is Section Default? : null

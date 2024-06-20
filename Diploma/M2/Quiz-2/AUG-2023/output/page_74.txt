@@ -1,0 +1,28 @@
+Let $V_1$ denote the vector space of solutions of $AX=0$, where 
+$$A=\begin{pmatrix} 2 & 1 & 4 \\ -1 & 1 & 0 \\ 1 & 2 & 4  \end{pmatrix}$$ and $X=\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix}$. Let $V_2$ denote the vector space of solutions of the system $BY=0$, where $B=\begin{pmatrix} 1 & 1 & 1 \\ -1 & 0 & 1 \\ 1 & 2 & 3  \end{pmatrix}$ 
+and $Y=\begin{pmatrix} y_1 \\ y_2 \\ y_3 \end{pmatrix}$. Answer the given subquestions.
+
+Sub questions
+
+Question Number : 94 Question Id : 640653588595 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the nullity of A?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Number : 95 Question Id : 640653588596 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the rank of B?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

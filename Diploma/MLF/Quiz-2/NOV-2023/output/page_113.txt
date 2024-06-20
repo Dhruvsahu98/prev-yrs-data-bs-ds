@@ -1,0 +1,26 @@
+6406531485604. ❌ $x'_1 = \begin{bmatrix} 2 \\ 2 \end{bmatrix}$, $x'_2 = \begin{bmatrix} 4 \\ 4 \end{bmatrix}$, $x'_3 = \begin{bmatrix} 4 \\ 4 \end{bmatrix}$, $x'_4 = \begin{bmatrix} 2 \\ 2 \end{bmatrix}$
+
+6406531485605. ✅ $x'_1 = \begin{bmatrix} -4 \\ 4 \end{bmatrix}$, $x'_2 = \begin{bmatrix} -2 \\ 2 \end{bmatrix}$, $x'_3 = \begin{bmatrix} 2 \\ -2 \end{bmatrix}$, $x'_4 = \begin{bmatrix} 4 \\ -4 \end{bmatrix}$
+
+6406531485606. ❌ $x'_1 = \begin{bmatrix} -2 \\ 2 \end{bmatrix}$, $x'_2 = \begin{bmatrix} -4 \\ 4 \end{bmatrix}$, $x'_3 = \begin{bmatrix} 2 \\ -2 \end{bmatrix}$, $x'_4 = \begin{bmatrix} 4 \\ -4 \end{bmatrix}$
+
+Sub-Section Number : 7
+Sub-Section Id : 64065363437
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653445897 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (151 to 152)
+
+Question Label : Comprehension
+
+A furniture dealer deals in only two items, i.e tables and chairs. He has a maximum of $10000 to invest and a space to store at most 60 pieces. A table costs him $500 and chair $200. He can sell a table at a profit of $50 and a chair at a profit of $15. Assume that he can sell all the items that he buys. Formulate this problem so that he can maximize the profit
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 151 Question Id : 640653445898 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question

@@ -1,0 +1,34 @@
+**Options :**
+
+6406531929757. ❌ A must be symmetric.
+
+6406531929758. ✅ We can find a basis of eigenvectors for $R^d$.
+
+6406531929759. ❌ We can find an orthonormal basis of eigenvectors for $R^d$.
+
+6406531929760. ✅ A can have some repeated eigenvalues but must have distinct independent eigenvectors.
+
+**Sub-Section Number :** 3
+
+**Sub-Section Id :** 64065382596
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number :** 124 **Question Id :** 640653577879 **Question Type :** MSQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+**Correct Marks :** 4 **Max. Selectable Options :** 0
+
+**Question Label :** Multiple Select Question
+
+Let $A, B \in R^{n \times n}$ be two matrices, then which among the following statements are correct?
+
+**Options :**
+
+6406531929737. ✅ $x \in Nullspace(A) \implies x \in Nullspace(BA)$.
+
+6406531929738. ✅ $x \in Columnspace(A) \implies x \in Columnspace(B)$, where $A = BC, C \in R^{n \times n}$.
+
+6406531929739. ✅ $x \in Nullspace(AB) \implies Bx \in Nullspace(A)$.

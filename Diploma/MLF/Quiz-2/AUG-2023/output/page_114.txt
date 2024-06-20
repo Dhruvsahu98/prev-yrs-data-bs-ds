@@ -1,0 +1,30 @@
+Text Areas : PlainText
+Possible Answers :
+3
+Question Number : 149 Question Id : 640653588667 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+What is the maximum area of a circle that can be inscribed in a closed region formed by two parabolas, $y = 2 - x^2$ and $y = x^2 - 2$?
+Hint: The circle will be centered at origin.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+5.3 to 5.7
+Sub-Section Number :
+Sub-Section Id :
+Question Shuffling Allowed :
+Is Section Default? :
+7
+64065384975
+No
+null
+Question Id : 640653588662 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (150 to 153)
+Question Label : Comprehension
+Answer the given subquestions.
+Sub questions

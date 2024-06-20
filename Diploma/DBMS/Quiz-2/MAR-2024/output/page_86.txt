@@ -1,0 +1,29 @@
+FormulaOne(Driver\_ID, Driver\_Name, Race, Points, Team\_Name, Team\_Budget)
+
+The functional dependencies applicable to FormulaOne are:
+
+$F = \{Driver\_ID \rightarrow Driver\_Name, (Driver\_ID, Race) \rightarrow Points, Driver\_ID \rightarrow Team\_Name, Team\_Name \rightarrow Team\_Budget\}$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 105 Question Id : 640653770520 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Which of the following functional dependencies violate the condition for the given relation to be in 2 NF?
+
+Options :
+
+6406532577398. $\checkmark$ Driver\_ID $\rightarrow$ Driver\_Name
+
+6406532577399. $\times$ (Driver\_ID, Race) $\rightarrow$ Points
+
+6406532577400. $\checkmark$ Driver\_ID $\rightarrow$ Team\_Name
+
+6406532577401. $\times$ Team\_Name $\rightarrow$ Team\_Budget
+
+Question Number : 106 Question Id : 640653770521 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,27 @@
+Question Label : Multiple Select Question
+Which of the following options is/are true?
+
+Options :
+
+6406531963272. ✅ There exists an onto linear transformation $T: \mathbb{R}^3 \rightarrow \mathbb{R}^2$.
+
+6406531963273. ✅ There does not exist a one-one linear transformation $T: \mathbb{R}^3 \rightarrow \mathbb{R}$.
+
+6406531963274. ❌ There exists a linear transformation $T: \mathbb{R}^2 \rightarrow \mathbb{R}^2$ such that $rank(T) = nullity(T)$.
+
+6406531963275. ❌ There does not exist a linear transformation $T: \mathbb{R}^2 \rightarrow \mathbb{R}^3$ such that $rank(T) = nullity(T)$.
+
+Question Number : 91 Question Id : 640653588607 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the vector space $V = \left\{ \begin{pmatrix} a & b \\ c & a \end{pmatrix}| c = a + b, a, b, c \in \mathbb{R} \right\}$ and $T: V \rightarrow \mathbb{R}^4$ defined by $T \begin{pmatrix} a & b \\ c & a \end{pmatrix} = (a, b, c, a + b - c)$.
+Choose the correct option(s).
+
+Options :
+
+6406531963295. ❌ $T$ is onto but not one-one
+
+6406531963296. ✅ $T$ is one-one but not onto.
+
+6406531963297. ❌ Nullspace of $T$ is a 2 dimensional subspace of $V$.

@@ -1,0 +1,34 @@
+## Correct Marks : 1
+Question Label : Short Answer Question
+Enter the value of I
+
+NOTE: Enter your answer in two decimal places.
+
+## Response Type : Numeric
+## Evaluation Required For SA : Yes
+## Show Word Count : Yes
+## Answers Type : Range
+## Text Areas : PlainText
+## Possible Answers :
+0.65 to 0.75
+
+
+## Question Number : 27
+## Correct Marks : 1
+Question Label : Short Answer Question
+Enter the value of m
+
+NOTE: Enter your answer in two decimal places.
+
+## Response Type : Numeric
+## Evaluation Required For SA : Yes
+## Show Word Count : Yes
+## Answers Type : Range
+## Text Areas : PlainText
+## Possible Answers :
+-0.75 to -0.65
+
+
+## Question Number : 28
+## Correct Marks : 2
+Question Label : Short Answer Question

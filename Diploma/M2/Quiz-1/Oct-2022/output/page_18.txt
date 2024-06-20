@@ -1,0 +1,43 @@
+6406531285918. ✅ Useful Data has been mentioned above.
+
+6406531285919. ❌ This data attachment is just for a reference & not for an evaluation.
+
+Sub-Section Number : 2
+Sub-Section Id : 64065355322
+Question Shuffling Allowed : Yes
+
+Question Number : 19 Question Id : 640653386669 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Let $X$ and $Y$ be two independent Bernoulli(1/4) random variables. Define another random variable $Z = |Y - X|$. Find the PMF of $Z$.
+
+Options :
+6406531285926. ❌ 
+$\begin{array}{c|c|c}
+z & 0 & 1 \\\hline
+f(z) & 1/2 & 1/2
+\end{array}$
+
+6406531285927. ❌ 
+$\begin{array}{c|c|c}
+z & 0 & 1 \\\hline
+f(z) & 3/8 & 5/8
+\end{array}$
+
+6406531285928. ✅ 
+$\begin{array}{c|c|c}
+z & 0 & 1 \\\hline
+f(z) & 5/8 & 3/8
+\end{array}$
+
+6406531285929. ❌ 
+$\begin{array}{c|c|c|c}
+z & -1 & 0 & 1 \\\hline
+f(z) & 3/8 & 1/16 & 9/16
+\end{array}$
+
+Question Number : 20 Question Id : 640653386671 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

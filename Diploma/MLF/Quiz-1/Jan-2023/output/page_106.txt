@@ -1,0 +1,23 @@
+Sub-Section Number : 6
+Sub-Section Id : 64065367782
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 119 Question Id : 640653470324 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following are the correct regarding the web server?
+Options :
+6406531562901. ✅ A web server is a computer system capable of delivering web content over the internet. 
+6406531562902. ✅ A web server sends the response as an HTML document which is rendered on the user's screen. 
+6406531562903. ✅ A web server listens for incoming network connections on a fixed port. 
+6406531562904. ❌ A web server is a software that allows to send the request over the internet. 
+
+MLF
+Section Id : 64065330349
+Section Number : 8
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 50
+Display Number Panel : Yes

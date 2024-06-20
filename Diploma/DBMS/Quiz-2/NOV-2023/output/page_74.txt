@@ -1,0 +1,24 @@
+Text Areas : PlainText
+Possible Answers :
+9
+
+Question Number : 102 Question Id : 640653445845 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Let $m$ be the maximum number of super keys for R based on $F_1$, $n$ be the maximum number of super keys for R based on $F_2$ and $p$ be the maximum number of super keys for R based on $F_3$.
+Find out the value of $m + n + p$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+67
+
+Section Id :  PDSA 64065328995
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16

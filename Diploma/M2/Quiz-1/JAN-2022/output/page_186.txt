@@ -1,0 +1,15 @@
+Consider the matrix 
+$$A = \begin{bmatrix}
+\frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\
+-\frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}}
+\end{bmatrix}$$
+Which of the following options are true?
+**Options :**
+A. $\checkmark$ $det(A) \neq 0$.
+B. $\checkmark$ A is invertible.
+C. $\checkmark$ The columns of the matrix A are linearly independent.
+D. $\checkmark$ $A^{-1} = A^{T}$.
+
+**Question Number :** 239 **Question Type :** MSQ
+**Correct Marks :** 10
+**Question Label :** Multiple Select Question

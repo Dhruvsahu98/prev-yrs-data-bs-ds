@@ -1,0 +1,23 @@
+6406532577567. ❌ $\vec{x_1} = \begin{pmatrix} -1/2 \\ 1/2 \end{pmatrix}$, $\vec{x_2} = \begin{pmatrix} 1/2 \\ 1/2 \end{pmatrix}$, $\vec{x_3} = \begin{pmatrix} 3/2 \\ 1/2 \end{pmatrix}$ 
+6406532577568. ✅ $\vec{x_1} = \begin{pmatrix} -1 \\ 1 \end{pmatrix}$, $\vec{x_2} = \begin{pmatrix} 1 \\ 1 \end{pmatrix}$, $\vec{x_3} = \begin{pmatrix} 3 \\ 3 \end{pmatrix}$ 
+
+Sub-Section Number : 6
+Sub-Section Id : 640653112617
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 152 Question Id : 640653770571 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 2
+Question Label : Multiple Choice Question 
+Which of the following statements is true about the matrix $A = \begin{pmatrix} 3 & 2 \\ -2 & -1 \end{pmatrix}$? 
+
+Options : 
+6406532577569. ✅ A is positive definite.
+6406532577570. ❌ A is positive semi-definite.
+6406532577571. ❌ A is negative definite.
+6406532577572. ❌ A is negative semi-definite. 
+
+Sub-Section Number : 7
+Sub-Section Id : 640653112618
+Question Shuffling Allowed : Yes
+Is Section Default? : null

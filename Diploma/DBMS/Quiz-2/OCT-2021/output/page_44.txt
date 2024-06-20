@@ -1,0 +1,22 @@
+A.  ✔  Each Assignment must belong to exactly one Course.
+B.  ✖  No Assignment entity can exist if there is no Course entity. Similarly, no Course entity can exist if there is no Assignment entity.
+C.  ✔  *assignment\_num* is a partial key of Assignment.
+D.  ✖  A Course must have at least one Assignment.
+
+Question Number : 74
+Correct Marks : 4
+Question Label : Multiple Select Question
+Consider a relation $R(A, B, C, D, E)$ with the following multivalued dependencies:
+- $A \rightarrow \rightarrow B$
+- $B \rightarrow \rightarrow D$
+
+Suppose relation $R$ contains the tuples $(0, 1, 2, 3, 4)$ and $(0, 5, 6, 7, 8)$. Which of the following tuple(s) must also be in $R$?
+
+Options :
+A.  ✖  $(0, 1, 2, 7, 8)$
+B.  ✔  $(0, 5, 6, 3, 8)$
+C.  ✔  $(0, 1, 6, 7, 8)$
+D.  ✖  $(0, 1, 6, 3, 4)$
+
+Question Number : 75
+Correct Marks : 3

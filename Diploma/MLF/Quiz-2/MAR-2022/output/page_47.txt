@@ -1,0 +1,35 @@
+Question Number : 80 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the following two models:
+Model A:
+```python
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.linear_model import LogisticRegression
+data = load_wine()
+X = pd.DataFrame(data.data, columns = data.feature_names)
+y = pd.DataFrame(data.target)
+model = LogisticRegression(penalty = 'none', solver = 'saga', random_state = 100)
+model.fit(X,y)
+model.score(X,y)
+```
+Model B:
+```python
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.linear_model import LogisticRegression
+data = load_wine()
+X = pd.DataFrame(data.data, columns = data.feature_names)
+y = pd.DataFrame(data.target)
+model = LogisticRegression(penalty = 'l2', solver = 'saga', random_state = 100)
+model.fit(X,y)
+model.score(X,y)
+```
+In general, which of the models will have a high bias?
+Options :
+A. ❌ Model A
+B. ✅ Model B
+C. ❌ Both the models will have same bias
+D. ❌ Can't say
+Question Number : 81 Question Type : MCQ

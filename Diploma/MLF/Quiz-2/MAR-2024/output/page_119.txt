@@ -1,0 +1,29 @@
+If we run the command: `curl http://127.0.0.1:5000/api/user -X GET` on a new terminal; it will return;
+```python
+{
+"name": "mad1_admin",
+"role": "admin"
+}
+```
+6406532577524. ✅ The endpoint, `<admin>` is mapped with GET HTTP method.
+
+If we run the command: `curl http://127.0.0.1:5000/user-data -X POST` on a new terminal; it will return;
+```python
+{
+"message": "user added successfully"
+}
+```
+6406532577525. ✅
+
+MLF
+Section Id : 64065353265
+Section Number : 9
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 10
+Number of Questions to be attempted : 10
+Section Marks : 40
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes

@@ -1,0 +1,50 @@
+Question Number : 98 Question Id : 640653770510 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the Binary Search Tree (BST) shown in figure 1
+
+\begin{tikzpicture}[scale=0.8]
+\tikzstyle{every node}=[draw,circle,inner sep=1pt]
+\node (21) at (0,0) {21};
+\node (11) at (-3,-1) {11};
+\node (35) at (3,-1) {35};
+\node (16) at (-2,-2) {16};
+\node (26) at (1,-2) {26};
+\node (41) at (4,-2) {41};
+\node (46) at (1.5,0) {46};
+\node (51) at (3,-3) {51};
+\node (59) at (5,-3) {59};
+\node (65) at (7,-3) {65};
+\node (71) at (6,0) {71};
+\node (82) at (8,-1) {82};
+\node (93) at (9,-1) {93};
+\draw (21) -- (11);
+\draw (21) -- (35);
+\draw (11) -- (16);
+\draw (35) -- (26);
+\draw (35) -- (41);
+\draw (21) -- (46);
+\draw (46) -- (71);
+\draw (59) -- (51);
+\draw (59) -- (65);
+\draw (71) -- (82);
+\draw (71) -- (93);
+\end{tikzpicture}
+
+Figure 1: Binary Search Tree (BST)
+
+Which of the following is/are the correct insertion order that will result in the given BST?
+
+Options :
+6406532577378. $\checkmark$ 46,71,21,11,35,26,16,82,93,59,65,41,51
+6406532577379. $\times$ 46,71,21,11,26,35,82,93,16,59,65,41,51
+6406532577380. $\checkmark$ 46,21,71,35,11,26,16,82,93,59,65,41,51
+6406532577381. $\times$ 46,21,71,35,11,16,26,82,93,41,65,59,51
+
+Sub-Section Number : 6
+Sub-Section Id : 640653112592
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 99 Question Id : 640653770512 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,41 @@
+C. $\checkmark$ $k>0$
+
+D. $\times$ None of these
+
+Question Number : 64 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Compute the Hessian matrix at the point $(0,1,\pi)$ of the following 3 variable function: $f(x,y,z)=e^{-x}\cdot sin(y/z)$
+
+Options :
+
+A. $\times$ $\begin{bmatrix}
+0 & \pi & 1 \\
+\pi & 0 & -1 \\
+1 & 0 & 1
+\end{bmatrix}$
+
+B. $\times$ $\begin{bmatrix}
+1 & \pi & 1 \\
+\pi & 0 & -1 \\
+1 & -1 & 0
+\end{bmatrix}$
+
+C. $\checkmark$ $\begin{bmatrix}
+0 & \pi & 1 \\
+\pi & 0 & -1 \\
+1 & -1 & 0
+\end{bmatrix}$
+
+D. $\times$ None of these
+
+Question Number : 65 Question Type : MSQ
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Which of the following is/are a convex function?

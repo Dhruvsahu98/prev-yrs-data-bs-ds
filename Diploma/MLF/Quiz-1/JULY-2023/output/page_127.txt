@@ -1,0 +1,17 @@
+Options :
+6406531932345. ✅ Row space of a matrix is orthogonal to the null space of the matrix.
+6406531932346. ❌ Row space of a matrix is orthogonal to the null space of transpose of the matrix.
+6406531932347. ✅ Dimension of row space of a matrix is always equal to the dimension of column space of the matrix.
+6406531932348. ❌ Dimension of row space of a matrix need not be equal to the dimension of column space of the matrix.
+
+Question Number : 144 Question Id : 640653578712 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Which of the following matrices have eigenvectors as $\begin{bmatrix} 2 \\ 1 \\ 2 \end{bmatrix}$, $\begin{bmatrix} 1 \\ -2 \\ 0 \end{bmatrix}$ and $\begin{bmatrix} 1 \\ 0 \\ -1 \end{bmatrix}$ ?
+
+Options :
+6406531932353. ✅ $\begin{bmatrix} 3 & 2 & 4 \\ 2 & 0 & 2 \\ 4 & 2 & 3 \end{bmatrix}$
+6406531932354. ✅ $\begin{bmatrix} 6 & 4 & 8 \\ 4 & 0 & 4 \\ 8 & 4 & 6 \end{bmatrix}$
+6406531932355. ❌ $\begin{bmatrix} 2 & 1 & 4 \\ 4 & 0 & 4 \\ 8 & 4 & 6 \end{bmatrix}$
+6406531932356. ❌ 

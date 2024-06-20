@@ -1,0 +1,16 @@
+B. $\begin{bmatrix} 2 \\ 2 \end{bmatrix}$
+C. $\begin{bmatrix} 4 \\ 4 \end{bmatrix}$
+D. $\begin{bmatrix} 6 \\ 6 \end{bmatrix}$
+
+Question Number : 35
+Correct Marks : 3
+Question Label : Multiple Choice Question
+The covariance matrix $C = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(x_i - \bar{x})^T$ of the data points $x_1, x_2, x_3, x_4$ is
+Options :
+A. $\begin{bmatrix} 4 & 6 \\ 6 & 4 \end{bmatrix}$
+B. $\begin{bmatrix} 4 & -6 \\ -6 & 4 \end{bmatrix}$
+C. $\begin{bmatrix} 10 & 10 \\ 10 & 10 \end{bmatrix}$
+D. $\begin{bmatrix} 10 & -10 \\ -10 & 10 \end{bmatrix}$
+
+Question Number : 36
+Correct Marks : 5

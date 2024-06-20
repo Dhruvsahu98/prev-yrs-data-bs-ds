@@ -1,0 +1,14 @@
+If $A = \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix}$ denotes the column vector representing the number of tourists to Manali (each element represent the number of tourists from different metro cities Chennai, Kolkata and Mumbai, respectively) in December 2019, and 
+$C = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$ be the column vector representing the number of tourists to Manali in December 2020 (where $x_1, x_2$ and $x_3$ denote the number of tourists from different metro cities Chennai, Kolkata and Mumbai, respectively) and we have the following equation $BA = C$, then which of the following matrices can represent $B$?
+
+**Options :**
+
+A. $\begin{bmatrix} 50 & 50 & 25 \\ 25 & 25 & 25 \\ 50 & 25 & 25 \end{bmatrix}$
+
+B. $\begin{bmatrix} 0.50 & 0.50 & 0.25 \\ 0.25 & 0.25 & 0.25 \\ 0.50 & 0.25 & 0.25 \end{bmatrix}$
+
+C. $\begin{bmatrix} 0.50 & 0 & 0 \\ 0 & 0.25 & 0 \\ 0 & 0 & 0.50 \end{bmatrix}$
+
+D. $\begin{bmatrix} 0.50 & 0 & 0 \\ 0 & 0.25 & 0 \\ 0 & 0 & 0.25 \end{bmatrix}$
+
+E. $\begin{bmatrix} 0.50 & 0.25 & 0.50 \end{bmatrix}$

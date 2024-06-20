@@ -1,0 +1,31 @@
+Possible Answers :
+0.25
+
+Question Number : 125 Question Id : 640653668564 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+At the point $P_0 = (1, 2)$, the function $f(x, y)$ has a derivative of $2\sqrt{2}$ in the direction $(\frac{1}{\sqrt{2}}, \frac{1}{\sqrt{2}})$ and a derivative of 5 in the direction $(0, 1)$. Find the derivative of $f(x, y)$ at point $P_0$ in the direction $(\frac{-1}{\sqrt{5}}, \frac{2}{\sqrt{5}})$. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+
+Possible Answers :
+4.88 to 4.95
+
+Question Number : 126 Question Id : 640653668573 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+Consider a $2 \times 2$ matrix $A$ whose eigenvectors are $v_1 = [1, 1]^T$ and $v_2 = [1, 2]^T$ with eigenvalues 2 and 3, respectively. Find the sum of square of all the entries of $A$.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

@@ -1,0 +1,29 @@
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :** 
+0.904 to 0.910
+
+**Question Type :** COMPREHENSION
+**Question Numbers :** (60 to 63)
+**Question Label :** Comprehension
+Consider the function $f(x,y) = \sqrt{41 - 4x^2 - y^2}$.
+
+Based on the above data, answer the subquestions.
+
+**Sub questions**
+
+**Question Number :** 60 **Question Type :** SA
+**Correct Marks :** 1
+**Question Label :** Short Answer Question
+Compute the equation of the function's linear approximation at point (2,3). If the equation of the linear approximation is $f(x,y) = ax + by + c$, then provide the values of a.
+
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :** 
+-2
+
+**Question Number :** 61 **Question Type :** SA

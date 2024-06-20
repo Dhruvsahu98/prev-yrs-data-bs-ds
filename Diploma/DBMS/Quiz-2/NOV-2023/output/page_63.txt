@@ -1,0 +1,45 @@
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A company manufactures magnetic disks and sells them to the local markets. These magnetic disks are tested before they are sold to determine their average lifespan. While testing a set of 150 magnetic disks for 1700 hours, you observed that 35 magnetic disks lasted for 1500 hours, 70 magnetic disks lasted for 1650 hours and the remaining lasted for 1300 hours.
+
+What will be the MTTF of 100 magnetic disks randomly selected from the set?
+
+Options : 
+6406531485414.  $\times$ 1.5 hours
+6406531485415.  $\checkmark$ 15.1 hours
+6406531485416.  $\times$ 31 hours
+6406531485417.  $\times$ None of these
+
+Question Number : 91 Question Id : 640653445841 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the Binary Search Tree shown in Figure 1.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[scale=0.7]
+\node[draw, circle] (29) at (0,0) {29};
+\node[draw, circle] (2) at (-3,-1) {2};
+\node[draw, circle] (20) at (-1,-1) {20};
+\node[draw, circle] (30) at (1,-1) {30};
+\node[draw, circle] (45) at (-1,-2) {45};
+\node[draw, circle] (50) at (3,0) {50};
+\node[draw, circle] (52) at (5,-1) {52};
+\node[draw, circle] (61) at (7,0) {61};
+\node[draw, circle] (88) at (7,-1) {88};
+\draw (29) -- (2);
+\draw (29) -- (20);
+\draw (29) -- (30);
+\draw (20) -- (45);
+\draw (50) -- (61);
+\draw (61) -- (52);
+\draw (61) -- (88);
+\end{tikzpicture}
+\caption{Figure 1: Binary Search Tree (BST)}
+\end{figure}
+
+Assume that the elements 2 and 45 are removed from the given binary search tree. If the elements are removed, what is the height of the binary search tree and how many leaf nodes are there?
+
+Options : 

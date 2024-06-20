@@ -1,0 +1,29 @@
+Question Label : Multiple Select Question
+
+Consider the following SQL statement to create table Customer.
+
+```python
+CREATE TABLE Customer (
+custid int NOT NULL,
+name varchar(30) NOT NULL,
+city varchar(30) NOT NULL,
+country varchar(30) NOT NULL,
+postcode varchar(20) NOT NULL,
+PRIMARY KEY (custid)
+)
+```
+
+Which among the following functional dependencies set will not be applicable to the table Customer?
+
+Options :
+6406531485437. ✅  $F = \{name \rightarrow custid, name \rightarrow city, city \rightarrow postcode\}$
+6406531485438. ❌  $F = \{custid \rightarrow name, name \rightarrow city, country, city \rightarrow postcode\}$
+6406531485439. ✅  $F = \{name \rightarrow custid, name \rightarrow city, country, city \rightarrow postcode\}$
+6406531485440. ❌  $F = \{custid \rightarrow name, name \rightarrow custid, name \rightarrow city, name \rightarrow country, city \rightarrow postcode\}$
+
+Sub-Section Number : 7
+Sub-Section Id : 64065363415
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 96 Question Id : 640653445832 Question Type : MSQ Is Question

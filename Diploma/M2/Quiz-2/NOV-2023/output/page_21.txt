@@ -1,0 +1,21 @@
+Question Id : 640653445778 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (41 to 43)
+Question Label : Comprehension
+Consider two linear transformations $T : \mathbb{R}^3 \rightarrow \mathbb{R}^2$ such that
+$T(x, y, z) = (x + y, y + z)$ and $S : \mathbb{R}^2 \rightarrow \mathbb{R}^3$ such that $S(x, y) = (x, y, x + y)$.
+Let $\beta = \{(1, 0, 0), (0, 1, 0), (0, 0, 1)\}$ be an ordered basis for $\mathbb{R}^3$ and $\gamma = \{(1, 0), (0, 1)\}$ be an ordered basis for $\mathbb{R}^2$. Answer the subquestions based on the given data.
+Sub questions
+Question Number : 41 Question Id : 640653445779 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+If $A$ is the matrix representation of $S \circ T$ (the transformation defined by $(S \circ T)(x, y, z) = S(T(x, y, z))$ with respect to the ordered basis $\beta$ for both the domain and codomain and order of $A$ is $m \times n$, then find the value of $m + n$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+Question Number : 42 Question Id : 640653445780 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

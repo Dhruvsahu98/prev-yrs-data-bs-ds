@@ -1,0 +1,45 @@
+Question Label : Multiple Choice Question
+
+Consider an NPTEL database having the following tables:
+```python
+students(roll_no, sname, age, university)
+course(course_id, cname, grade, roll_no)
+```
+Assume that the number of tuples in both the tables is quite large.
+Suppose the following two queries are executed on these tables.
+
+1. SELECT s.sname, c.grade FROM students s NATURAL JOIN course c
+WHERE university = 'Mumbai'
+
+2. SELECT sname FROM students
+WHERE roll_no = 'ME003'
+
+Which of the following statements is true?
+
+Options :
+
+A.  Query 1 will execute more efficiently when multitable clustering file organization scheme is used.
+
+B.  Both queries will execute more efficiently when sequential clustering file organization scheme is used.
+
+C.  Query 1 will execute more efficiently when sequential clustering file organization scheme is used.
+
+D.  None of these
+
+Question Number : 42 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Consider the following statements.
+
+1. Array, stack, tree, graph, queue are some types of linear data structure.
+
+2. In non-linear data structure, data elements can be traversed in multiple ways.
+
+Choose the correct option.
+
+Options :
+
+A.  Only statement 1 is correct.

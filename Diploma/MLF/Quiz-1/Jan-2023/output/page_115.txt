@@ -1,0 +1,31 @@
+Sub-Section Number : 6
+Sub-Section Id : 64065367788
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 132 Question Id : 640653470328 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+For the data set $\{(x^i, y^i)\} = \{(1, 1), (2, 6), (3, 8), (4, 15), (5, 26)\}$, $i = 1$ to $5$. Consider the regression model $f(x) = x^2 + 1$. What is the mean squared loss of $f(x)$? (Round your answer off to the nearest integer).
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Number : 133 Question Id : 640653470329 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+What will be the average misclassification error when the functions $g(X) = sign((x_1 - x_2)^2 - 8)$ is used to classify the data points into classes +1 or -1. Enter the answer closest to one decimal accuracy.
+
+| $X$ | $y$ |
+|---|---|
+| (5, 2) | 1 |
+| (5, 6) | -1 |
+| (6, 3) | 1 |
+| (6, 4) | -1 |
+| (4, 8) | -1 |

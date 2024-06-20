@@ -1,0 +1,24 @@
+Question Label : Comprehension
+Answer the given subquestions.
+Sub questions
+Question Number : 8 Question Id : 640653345437 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If $S$ is a (non-empty) linearly independent subset of $\mathbb{R}^3$ (with respect to usual addition and scalar multiplication), then what can be the maximum possible cardinality of $S$?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+Question Number : 9 Question Id : 640653345438 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If $S$ is a (non-empty) linearly dependent subset of $\mathbb{R}^3$ (with respect to usual addition and scalar multiplication), then what can be the minimum possible cardinality of $S$?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

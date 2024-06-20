@@ -1,0 +1,28 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+
+Question Number : 127 Question Id : 640653386782 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+What is the length of orthogonal projection vector of $(2,2,3)^T$ on to a line through $(2,3,6)^T$? Round the answer to nearest integer. 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+
+Question Number : 128 Question Id : 640653386784 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+If $A=PDP^{-1}$ where $P=\begin{bmatrix} 1 & 2 \\ 1 & -5 \end{bmatrix}$ and $D=\begin{bmatrix} -1 & 0 \\ 0 & 6 \end{bmatrix}$, then what is the summation of all the diagonal elements of $A^4$?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

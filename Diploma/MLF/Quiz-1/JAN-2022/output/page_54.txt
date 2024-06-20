@@ -1,0 +1,36 @@
+The best fit line of the form mx+c using least squares method for the data set is 
+
+| x | y |
+|---|---|
+| 1 | 2 |
+| 2 | 3 |
+| 3 | 7 |
+| 4 | 10 |
+| 5 | 13 |
+
+Note: Enter m and c of the best fit line respectively.
+
+Based on the above data, answer the subquestions.
+
+Sub questions
+
+Question Number : 71 Question Type : SA
+Correct Marks : 2.5
+Question Label : Short Answer Question
+Enter the value for m:
+
+NOTE: Enter your answer in one decimal place.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+2.8 to 3.0
+
+Question Number : 72 Question Type : SA
+Correct Marks : 2.5
+Question Label : Short Answer Question
+Enter the value for c:
+
+NOTE: Enter your answer in one decimal place.

@@ -1,0 +1,29 @@
+Question Label : Comprehension
+Answer the given subquestions :
+
+Sub questions
+
+Question Number : 70 Question Id : 640653770480 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Let $A$ and $B$ be $n \times n$ similar matrices.
+Suppose $A$ has exactly $n-1$ linearly independent columns, then $det(B)$ is equal to ______.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0
+
+Question Number : 71 Question Id : 640653770481 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Let $A$ be a $5 \times 5$ matrix of rank 3.
+Let $b$ be the third column of $A$ and $W$ be the affine subspace of $\mathbb{R}^5$ given by $W = \{x \in \mathbb{R}^5 : Ax = b\}$. What is the dimension of $W$?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes

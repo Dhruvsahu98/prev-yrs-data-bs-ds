@@ -1,0 +1,23 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following is/are true about loss after applying Encoder and Decoder functions to a given data?
+Options :
+6406531562907. ❌ The loss value can be equal to any real number.
+6406531562908. ✅ The loss value cannot be negative.
+6406531562909. ❌ A perfect encoder and decoder function will not exist for any data, that is loss value can never be equal to zero.
+6406531562910. ✅ For some data, there can exist a perfect encoder and decoder functions, that is loss value can be equal to zero.
+
+Question Number : 122 Question Id : 640653470327 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are true?
+Options :
+6406531562911. ✅ Email spam detection falls under classification problem.
+6406531562912. ❌ Predicting the price of a house based on previous datasets falls under classification problem.
+6406531562913. ✅ Classifying whether handwriting belongs to a particular person or not based on previous data falls under the classification problem.
+6406531562914. ✅ Finding out the probability that a particular poem is written by Shakespeare falls under unsupervised learning.
+
+Question Number : 123 Question Id : 640653470330 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

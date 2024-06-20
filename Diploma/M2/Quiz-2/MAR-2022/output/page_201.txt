@@ -1,0 +1,45 @@
+An inner product on a vector space $V$ is a function $\langle \cdot, \cdot \rangle: V \times V \rightarrow \mathbb{R}$ satisfying the following conditions:
+
+Condition 1: $\langle v,v \rangle > 0$ for all $v \in V \setminus \{0\}$, $\langle v,v \rangle = 0$ if and only if $v = 0$.
+
+Condition 2: $\langle v_1 + v_2, v_3 \rangle = \langle v_1, v_3 \rangle + \langle v_2, v_3 \rangle$.
+
+Condition 3: $\langle v_1, v_2 \rangle = \langle v_2, v_1 \rangle$.
+
+Condition 4: $\langle cv_1, v_2 \rangle = c \langle v_1, v_2 \rangle$.
+
+Define $V = \mathbb{R}^2$ and the function defined as:
+
+$$\langle \cdot, \cdot \rangle: V \times V \rightarrow \mathbb{R}$$
+
+$$((x_1, y_1), (x_2, y_2)) = 2x_1x_2 + 3y_1y_2.$$
+
+Which of the above conditions are satisfied for the above function?
+
+Options:
+
+A. Condition 1.
+
+B. Condition 2.
+
+C. Condition 3.
+
+D. Condition 4.
+
+Question Number : 237 Question Type : MSQ
+
+Correct Marks : 10
+
+Question Label : Multiple Select Question
+
+Consider the following set $S = \{(1,1,1), (-2,1,1), (0,1,-1)\}$. Which of the following options are true for $S$?
+
+Options:
+
+A. The cardinality of $S$ is equal to the number of elements in any basis of $\mathbb{R}^3$.
+
+B. $S$ is a linearly independent set.
+
+C. $S$ spans $\mathbb{R}^3$ (with respect to usual addition and scalar multiplication).
+
+D. $S$ is a basis of $\mathbb{R}^3$ (with respect to usual addition and scalar multiplication).

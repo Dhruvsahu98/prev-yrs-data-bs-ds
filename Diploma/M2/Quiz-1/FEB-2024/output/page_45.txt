@@ -1,0 +1,38 @@
+Table Q.4 represents the details of six persons who visit an online Website to purchase few items.
+
+| Person | Household size | Region | Income Range | Age (in years) | Purchase |
+|---|---|---|---|---|---|
+| Person 1 | 6 | North Central | less than 50k | 23 | Yes |
+| Person 2 | 5 | North Central | 50k - 60k | 30 | No |
+| Person 3 | 4 | West | 60k-70k | 35 | Yes |
+| Person 4 | 4 | East | 70k-80k | 28 | No |
+| Person 5 | 6 | South | 80k-90k | 35 | No |
+| Person 6 | 3 | North Central | more than 90k | 29 | Yes |
+
+Table Q.4 : Details of six person who visit an online Website
+
+Choose the correct option(s) from the following:
+
+Options :
+
+6406532467718.  ✅ Purchase and Region are categorical variables.
+
+6406532467719. ❌ Income Range has nominal scale of measurement.
+
+6406532467720. ✅ Age has a ratio scale of measurement.
+
+6406532467721. ✅ Household size is a discrete numerical variable.
+
+6406532467722. ❌ Purchase has an ordinal scale of measurement.
+
+```python
+# Code block in python format
+```
+
+```latex
+# Mathematical expressions in latex format
+```
+
+```latex
+# Tables and digrams in latex format
+```

@@ -1,0 +1,20 @@
+<font size = "3"> 10 </font>
+Sub-Section Number : 9
+Sub-Section Id : 640653112595
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653770516 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (103 to 104)
+Question Label : Comprehension
+Answer the given subquestions based on the below information:
+Consider the relation R(P,Q,R,S,T,U,V) with the following set of functional dependencies.
+$$F = \{S \rightarrow PQ, Q \rightarrow R, P \rightarrow T, T \rightarrow UV, V \rightarrow S\}$$
+Sub questions
+Question Number : 103 Question Id : 640653770517 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following will be a lossless join decomposition of relation R?
+Options :
+6406532577390.  $R_1(P,Q,R), R_2(R,S,T,U,V)$
+6406532577391.  $R_1(P,Q,S,U), R_2(R,T,U,V)$
+6406532577392.  $R_1(P,Q,R,S), R_2(S,T,U,V)$

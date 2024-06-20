@@ -1,0 +1,36 @@
+**B.** $\times$  $B \rightarrow E$
+
+**C.** $\checkmark$  $C \rightarrow E$
+
+**D.** $\times$  $C \rightarrow B$
+
+**Question Number : 68**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+
+In the relational schema given below, all attributes take atomic values only.
+$R(employee\_num, employee\_name, department\_num, department\_name)$
+
+Suppose $R$ satisfies the following functional dependencies:
+
+$employee\_num \rightarrow employee\_name$
+
+$department\_num \rightarrow department\_name$
+
+If $R$ is decomposed into:
+$R1(employee\_num, employee\_name)$ and
+$R2(department\_num, department\_name)$,
+then the decomposition is:
+
+**Options :**
+
+**A.** $\times$ a lossless decomposition as well as a dependency preserving one
+
+**B.** $\checkmark$ not a lossless decomposition but dependency preserving
+
+**C.** $\times$ a lossless decomposition but not dependency preserving
+
+**D.** $\times$ neither a lossless decomposition nor dependency preserving
+
+**Question Number : 69**
+**Correct Marks : 3**

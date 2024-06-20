@@ -1,0 +1,21 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+Sub-Section Number : 5
+Sub-Section Id : 640653112580
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 72 Question Id : 640653770470 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Select all true statement(s).
+Options :
+6406532577292. ✅  $A$ and $B$ are square matrices of order $n$. If rank($A$) = $k$, with $k \le n$, and rank($B$) = $n$, then rank($AB$) = $k$.
+6406532577293. ✅  The rank of a matrix is equal to the maximum number of linearly independent columns.
+6406532577294. ❌  The rank of a diagonal matrix is equal to the number of diagonal entries that are zero.
+6406532577295. ❌  For a matrix $A$ of dimensions $m \times n$, rank($A$) + nullity($A$) = $m$.
+Sub-Section Number : 6
+Sub-Section Id : 640653112581
+Question Shuffling Allowed : Yes

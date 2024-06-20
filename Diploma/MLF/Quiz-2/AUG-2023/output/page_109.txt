@@ -1,0 +1,25 @@
+Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which among the following is/are true for a Hermitian matrix?
+Options :
+6406531963380. ✅ The eigenvalues of a Hermitian matrix are always real.
+6406531963381. ✅ The diagonal elements of a Hermitian matrix are always real.
+6406531963382. ❌ All symmetric matrices are Hermitian.
+6406531963383. ❌ All Hermitian matrices are symmetric.
+
+Question Number : 142 Question Id : 640653588657 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following options are true?
+Options :
+6406531963385. ❌ A matrix that is both unitary and Hermitian must be a diagonal matrix.
+6406531963386. ✅ A matrix that is both unitary and Hermitian need not be a diagonal matrix.
+6406531963387. ✅ If matrix A is unitary, then $A^*$ is unitary.
+6406531963388. ❌ If matrix A is unitary then, $A^*$ may not be unitary.
+
+Question Number : 143 Question Id : 640653588660 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question

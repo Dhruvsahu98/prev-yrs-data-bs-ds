@@ -1,0 +1,44 @@
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "MACHINE LEARNING FOUNDATIONS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+6406531149277.  ✅ YES
+
+6406531149278.  ❌ NO
+
+Sub-Section Number : 
+Sub-Section Id : 
+Question Shuffling Allowed : 
+
+2
+64065348875
+Yes
+
+Question Number : 123 Question Id : 640653345561 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+For the data sets $(x^i, y^i) = [(1, 1), (2, 3), (3, 4), (4, 4), (5, 7)]$, $i = 1$ to $5$. Consider the regression model $f(x) = x + 2$. What is the mean squared loss of $f(x)$
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+
+2
+
+Question Number : 124 Question Id : 640653345562 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

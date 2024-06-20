@@ -1,0 +1,31 @@
+6406532467941. ❌ return "Hello, {user\_name}!"
+
+**Question Number : 133 Question Id : 640653737405 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Match the URLs in column A with their correct rendered output in Column B with the correct app.py code for the flask application given in the previous question.
+
+| Column A | Column B |
+|---|---|
+| 1. http://127.0.0.1:5000/greet?name=MADI\&guest=MADII | a. Hello, Guest! |
+| 2. http://127.0.0.1:5000/greet?name=MADII\&guest=MADI | b. Hello, MADII! |
+| 3. http://127.0.0.1:5000/greet? | c. Hello, Guest! |
+| 4. http://127.0.0.1:5000/greet?guest=MADI | d. Hello, MADI! |
+
+**Options :**
+
+6406532467942. ❌ 1-b, 2-d, 3-a, 4-c
+6406532467943. ❌ 1-b, 2-a, 3-c, 4-d
+6406532467944. ✅ 1-d, 2-b, 3-a, 4-c
+6406532467945. ❌ 1-d, 2-a, 3-c, 4-b
+
+**MLF**
+
+**Section Id :** 64065351357
+**Section Number :** 9
+**Section type :** Online
+**Mandatory or Optional :** Mandatory
+**Number of Questions :** 11

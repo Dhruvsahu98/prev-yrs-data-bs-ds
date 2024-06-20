@@ -1,0 +1,25 @@
+6406531736554. ✅ A is equivalent to B.
+6406531736555. ❌ A is not equivalent to B.
+6406531736556. ✅ There exist two invertible matrices C and D such that BD = CA.
+6406531736557. ❌ There are no matrices C and D such that BD = CA.
+
+Sub-Section Number : 8
+Sub-Section Id : 64065373906
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653520981 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (11 to 14)
+Question Label : Comprehension
+
+Consider the system of linear equations $AX = b$, where $A = \begin{pmatrix} 1 & 1 & 1 \\ 1 & 0 & 1 \\ 1 & -1 & 1 \end{pmatrix}$, $X = \begin{pmatrix} x \\ y \\ z \end{pmatrix}$ and $b = \begin{pmatrix} 1 \\ 1 \\ 1 \end{pmatrix}$. Let $L$ denote the set of all solutions of the above system. Clearly, $L$ forms an affine space. Let $W$ denote the subspace corresponding to $L$. Answer the given sub questions.
+
+Sub questions
+
+Question Number : 11 Question Id : 640653520982 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the nullity of A?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

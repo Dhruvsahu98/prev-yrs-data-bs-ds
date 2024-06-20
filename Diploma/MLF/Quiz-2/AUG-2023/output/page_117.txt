@@ -1,0 +1,21 @@
+6406531963411.  $\tilde{x}_1 = \begin{pmatrix} -1 \\ 2/3 \end{pmatrix}$, $\tilde{x}_2 = \begin{pmatrix} 0 \\ 2/3 \end{pmatrix}$, $\tilde{x}_3 = \begin{pmatrix} 1 \\ 2/3 \end{pmatrix}$
+
+6406531963412.  $\tilde{x}_1 = \begin{pmatrix} 1 \\ 2/3 \end{pmatrix}$, $\tilde{x}_2 = \begin{pmatrix} 0 \\ 2/3 \end{pmatrix}$, $\tilde{x}_3 = \begin{pmatrix} -1 \\ 0 \end{pmatrix}$
+
+6406531963413.  $\tilde{x}_1 = \begin{pmatrix} 1 \\ 2/3 \end{pmatrix}$, $\tilde{x}_2 = \begin{pmatrix} 1 \\ 2/3 \end{pmatrix}$, $\tilde{x}_3 = \begin{pmatrix} -1 \\ 2/3 \end{pmatrix}$
+
+Question Number : 153 Question Id : 64065358866 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+What is the reconstruction error after projecting $D'$ along the first principal component?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.20 to 0.24
+
+Section Id : BDM 64065339802
+Section Number : 9

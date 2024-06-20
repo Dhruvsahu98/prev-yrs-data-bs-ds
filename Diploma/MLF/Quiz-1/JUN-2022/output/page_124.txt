@@ -1,0 +1,42 @@
+Question Shuffling Allowed : Yes
+
+Question Number : 131 Question Id : 640653345563 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Multiple Select Question
+
+Identify which of the following requires use of classification technique.
+
+Options : 
+6406531149281. ❌ Predicting the amount of rainfall in May 2022 in North India based on precipitation data of the year 2021. 
+6406531149282. ❌ Predicting the price of a land based on its area and distance from the market.
+6406531149283. ✅ Predicting whether an email is spam or not.
+6406531149284. ✅ Predicting whether the patient is having cancer or not.
+
+Sub-Section Number : 4
+
+Sub-Section Id : 64065348877
+
+Question Shuffling Allowed : Yes
+
+Question Number : 132 Question Id : 640653345564 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Consider a function
+$$f(x) = \begin{cases}
+\frac{1}{x}, & \text{if } x \neq 0 \\
+2, & \text{if } x = 0
+\end{cases}$$
+
+Is f continuous?
+(Provide 1 as answer for 'Yes' and 0 for 'No'.)
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes

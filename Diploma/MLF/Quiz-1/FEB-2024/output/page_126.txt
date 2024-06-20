@@ -1,0 +1,24 @@
+Number of Questions to be attempted : 11
+Section Marks : 40
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653107630
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 134 Question Id : 640653737411 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question 
+THIS IS QUESTION PAPER FOR THE SUBJECT " <font color="blue">DIPLOMA LEVEL : MACHINE LEARNING FOUNDATIONS (COMPUTER BASED EXAM)</font> "
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE <font color="blue">TOP</font> FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+6406532467966. <font color="green">✔</font> YES
+6406532467967. <font color="red">✖</font> NO
+Sub-Section Number : 2
+Sub-Section Id : 640653107631

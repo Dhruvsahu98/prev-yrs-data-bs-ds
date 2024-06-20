@@ -1,0 +1,14 @@
+Options :
+6406531562539. ❌ $V_a$ has no zero element with respect to the given addition.
+6406531562540. ❌ $(0, 0, 0)$ is the zero element of $V_a$ with respect to the given addition.
+6406531562541. ✅ $(0, a, 0)$ is the zero element of $V_a$ with respect to the given addition.
+6406531562542. ❌ $(a, a, a)$ is the zero element of $V_a$ with respect to the given addition.
+
+Question Number : 13 Question Id : 640653470209 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Consider the element $v = (2, a, 0)$.
+Which of the following options is(are) correct?
+Options :
+6406531562543. ❌ $v$ is not an element of $V_a$.
+6406531562544. ❌ $v$ has no inverse element with respect to the given addition in $V_a$.

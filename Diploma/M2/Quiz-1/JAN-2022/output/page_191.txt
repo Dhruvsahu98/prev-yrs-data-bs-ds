@@ -1,0 +1,16 @@
+Question Label : Short Answer Question
+What is the dimension of $W^2$?
+
+Note: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Type : COMPREHENSION
+Question Numbers : (246 to 248)
+Question Label : Comprehension

@@ -1,0 +1,20 @@
+Correct Marks : 4
+Question Label : Multiple Select Question
+Two vectors $v_1$ and $v_2$ are such that $v_1=2v_2$. If $v_1=(1,2,3)^T$, and we have another vector $v_3=(1,-5,3)^T$, then which of the following statements is/are true?
+Options :
+6406531286270.  ✔  Vectors $v_1$ and $v_2$ are parallel to each other.
+6406531286271.  ✖  Vectors $v_1$ and $v_2$ are perpendicular to each other.
+6406531286272.  ✖  Vectors $v_2$ and $v_3$ are not perpendicular to each other.
+6406531286273.  ✔  Vectors $v_2$ and $v_3$ are perpendicular to each other.
+
+Question Number : 122 Question Id : 640653386783 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+Which of the following is/are eigen vectors of the matrix 
+$\begin{bmatrix} 5 & 2 \\ 3 & 6 \end{bmatrix}$ ?
+Options :
+6406531286279.  ✔  $(1,-1)^T$
+6406531286280.  ✖  $(1,1)^T$
+6406531286281.  ✔  $(1,1.5)^T$
+6406531286282.  ✔  $(2,3)^T$

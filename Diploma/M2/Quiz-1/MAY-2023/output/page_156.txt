@@ -1,0 +1,26 @@
+6406531929369. $\times$  $\lbrace (\frac{1}{2}, 1, 1), (0, 1, -1)\rbrace$
+
+6406531929370. $\times$  $\lbrace (\frac{1}{2}, 1, 1)\rbrace$
+
+Question Number : 15 Question Id : 640653577759 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the rank of A?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+# Statistics2
+Section Id : 64065339067
+Section Number : 2
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 12
+Number of Questions to be attempted : 12
+Section Marks : 40
+Display Number Panel : Yes

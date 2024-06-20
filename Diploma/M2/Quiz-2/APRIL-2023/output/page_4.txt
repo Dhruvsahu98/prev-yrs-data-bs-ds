@@ -1,0 +1,28 @@
+Options :
+6406531736568. ✅ A is invertible.
+6406531736569. ✅ det(A) = ± 1.
+6406531736570. ❌ det(A) may be zero.
+6406531736571. ❌ Nullity of A may be 1.
+
+Sub-Section Number : 4
+Sub-Section Id : 64065373902
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 4 Question Id : 640653520980 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Which of the following options is/are true?
+
+Options :
+6406531736545. ✅ If the rows of a 3×4 matrix A are linearly independent, then $AA^T$ is an invertible matrix.
+6406531736546. ✅ If the columns of a 4 × 3 matrix A are linearly independent, then $A^TA$ is an invertible matrix.
+6406531736547. ❌ If the rows of a 3 × 4 matrix A are linearly independent, then $A^T A$ is an invertible matrix.
+6406531736548. ❌ If the columns of a 4 × 3 matrix A are linearly independent, then $AA^T$ is an invertible matrix.
+
+Question Number : 5 Question Id : 640653520989 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question

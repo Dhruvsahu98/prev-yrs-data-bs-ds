@@ -1,0 +1,36 @@
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+2.10 to 2.40
+
+Question Number : 125 Question Id : 640653386777 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+For what value of $k$, will the following function be continuous? 
+$$f(x) = \begin{cases}
+\frac{tan3x}{sin2x}, & \text{if } x \neq 0 \\
+2k, & \text{if } x = 0
+\end{cases}$$
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.75
+
+Question Number : 126 Question Id : 640653386779 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+For the matrix $S = \begin{bmatrix}
+2 & -1 & 3 \\
+1 & 0 & 1 \\
+0 & 2 & -1 \\
+1 & 1 & 4
+\end{bmatrix}$ what is the dimension of its column space?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes

@@ -1,0 +1,27 @@
+Text Areas : PlainText
+Possible Answers :
+-1
+
+Question Number : 58 Question Type : SA
+Correct Marks : 5
+Question Label : Short Answer Question
+The two eigenvalues of the matrix $\begin{bmatrix} 2 & 1 \\ 1 & p \end{bmatrix}$ have a ratio 3:1 for p=2. What is another value of p for which eigenvalues have the same ratio 3:1? (Enter the answer correct to two decimal places)
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+4.56 to 4.76
+
+Question Number : 59 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+Find the element $P_{2,2}$ of the projection matrix $P$ that project on to the line through vector $v = \begin{bmatrix} 7 \\ 2 \end{bmatrix}$. (Assume matrix entries are indexed starting from (1,1))
+
+NOTE: Enter your answer in three decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

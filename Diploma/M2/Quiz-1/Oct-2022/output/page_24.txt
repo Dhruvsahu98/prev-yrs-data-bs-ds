@@ -1,0 +1,25 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+1
+
+Question Id : 640653386676 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (27 to 28)
+Question Label : Comprehension
+A fair die is thrown three times. Let 
+$X_1$ represent the number obtained in the 1st throw;
+$X_2$ represent the number obtained in the 2nd throw;
+$X_3$ represent the number obtained in the 3rd throw.
+Suppose all the throws are independent. Let 
+$X = max(X_1, X_2, X_3)$
+Based on the above data, answer the given subquestions
+Sub questions 
+
+Question Number : 27 Question Id : 640653386677 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Compute the CDF of $X$, $F_X(k)$,
+where $k \in \{1,2,\ldots,6\}$.

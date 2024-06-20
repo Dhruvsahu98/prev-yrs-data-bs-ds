@@ -1,0 +1,27 @@
+Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (23 to 24)
+Question Label : Comprehension
+The joint PMF of two discrete random variables X and Y is given in the following table:
+
+| Y \ X | 0 | 1 | 2 | $f_Y(y)$ |
+|---|---|---|---|---|
+| 0 | $a$ | $\frac{1}{8}$ | $c$ | $\frac{1}{4}$ |
+| 1 | $\frac{1}{4}$ | $b$ | $d$ | $\frac{3}{4}$ |
+| $f_X(x)$ | $\frac{1}{3}$ | $\frac{1}{2}$ | $\frac{1}{6}$ | 1 |
+
+Joint PMF of X and Y
+
+Based on the above data, answer the given subquestions
+Sub questions
+
+Question Number : 23 Question Id : 640653386667 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the values of $c$ and $d$.
+Options :
+6406531285920. ❌ $c = 1/8$, $d = 1/24$.
+6406531285921. ✅ $c = 1/24$, $d = 1/8$.
+6406531285922. ❌ $c = 1/24$, $d = 1/6$.
+6406531285923. ❌ $c = 1/4$, $d = 1/8$.
+
+Question Number : 24 Question Id : 640653386668 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

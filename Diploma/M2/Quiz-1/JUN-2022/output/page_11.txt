@@ -1,0 +1,27 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+$S = \{(1, 0, 1), (0, 1, 1), (1, 1, 0)\}$ is a ______ of $\mathbb{R}^3$.
+(Enter 3 best possible options. Enter only the serial numbers of those options in increasing order without adding any comma or space in between them.) [Suppose your answer is 7, 8 and 10, then you should enter 7810]
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+8910
+
+Question Number : 14 Question Id : 640653345445 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+The conditions that need to be checked to identify a subspace $W$ of a vector space $V$:
+_________. (Enter 2 best possible options. Enter only the serial numbers of those options in increasing order without adding any comma or space in between them.)
+[Suppose your answer is 7 and 8, then you should enter 78]
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+34

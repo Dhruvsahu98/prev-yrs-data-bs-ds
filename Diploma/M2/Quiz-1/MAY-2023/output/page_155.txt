@@ -1,0 +1,27 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+0
+
+Question Number : 13 Question Id : 640653577757 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Consider the set $S$ of solutions of the system $Ax = 0$, where $A$ is as given. Clearly, $S$ is a vector space with respect to usual addition and scalar multiplication. What is the dimension of $S$? 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+1
+
+Question Number : 14 Question Id : 640653577758 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following forms a basis for $S$? 
+Options : 
+6406531929367.  $\times$ $\{(\frac{1}{2}, 1, -1), (0, 1, -1)\}$
+6406531929368.  $\checkmark$ $\{(\frac{1}{2}, 1, -1)\}$

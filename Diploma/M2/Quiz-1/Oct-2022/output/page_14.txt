@@ -1,0 +1,32 @@
+Question Label : Multiple Select Question
+
+Suppose at $t=2$ the distribution
+vector $X_2$ is 
+$\begin{bmatrix}
+\frac{1}{3} \\
+\frac{1}{2} \\
+\frac{2}{3} 
+\end{bmatrix}$. Which of the
+following options are true?
+
+Options :
+
+6406531285903. $\checkmark$ $X_0 = X_2$.
+
+6406531285904. $\checkmark$ $X_0 = X_1$.
+
+6406531285905. $\times$ $X_0 \neq X_n$ for some $n \in \mathbb{N}$.
+
+There are infinitely many vectors,
+which are possible candidates for $X_0$.
+
+6406531285906. $\times$ There are infinitely many vectors,
+which are possible candidates for $X_1$.
+
+6406531285907. $\times$ 
+
+Question Number : 15 Question Id : 640653386662 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question

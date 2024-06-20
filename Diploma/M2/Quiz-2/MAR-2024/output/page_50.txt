@@ -1,0 +1,19 @@
+Let $V = \left\{ \begin{pmatrix} x \\ y \end{pmatrix} \begin{pmatrix} -x \\ -y \end{pmatrix} : x,y \in \mathbb{R} \right\}$ and $T:V \to \mathbb{R}^3$ be a linear transformation given by $T\left( \begin{pmatrix} x \\ y \end{pmatrix} \begin{pmatrix} -x \\ -y \end{pmatrix} \right) = (x,y,x+y)$. Based on this information, answer the given subquestions.
+
+Sub questions
+
+Question Number : 59 Question Id : 640653770476 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2
+Question Label : Multiple Choice Question
+Choose the correct option(s) from the following:
+Options :
+6406532577299. ❌ T is one-one and onto.
+6406532577300. ✅ T is one-one but not onto.
+6406532577301. ❌ T is not one-one but onto.
+6406532577302. ❌ T is neither one-one nor onto.
+
+Question Number : 60 Question Id : 640653770477 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Choose the correct option(s) from the following:
+Options :
+6406532577303. ❌ A basis of $V$ is given by $\left\{ \begin{pmatrix} 1 \\ 1 \end{pmatrix} \begin{pmatrix} -1 \\ -1 \end{pmatrix}, \begin{pmatrix} 1 \\ 0 \end{pmatrix} \begin{pmatrix} -1 \\ 0 \end{pmatrix}, \begin{pmatrix} 0 \\ 1 \end{pmatrix} \begin{pmatrix} 0 \\ -1 \end{pmatrix} \right\}$.
+6406532577304. ✅ Any matrix in $V$ has rank less than or equal to 1.

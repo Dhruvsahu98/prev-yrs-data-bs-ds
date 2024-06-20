@@ -1,0 +1,25 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+Question Number : 151 Question Id : 640653578700 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Let $f(x_1,x_2,x_3) = \frac{x_1 + x_2 + x_3}{2}$ be used as an encoder function and $g(u) = [u, u, u]$ be used as a decoder function for dimensionality reduction of the dataset $X_1 = [1, 2, 3]$, $X_2 = [2, 4, 6]$, $X_3 = [3, 6, 9]$, $X_4 = [4, 8, 12]$. Calculate the reconstruction error $(R(f, g) = \frac{1}{n} \sum_{i=1}^{n} ||x_i - g(f(x_i))||^2)$ for this encoder decoder pair. Enter the answer correct to one decimal place. 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+37 to 38
+
+Question Number : 152 Question Id : 640653578709 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Let $P_1$ be the projection matrix onto the line spanned by the vector $a = [1, 2, 3]^T$. Let $P_2$ be the projection matrix that projects vectors onto the plane perpendicular to span of $a$. Find the determinant of $P_1 + P_2$.

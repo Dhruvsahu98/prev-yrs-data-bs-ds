@@ -1,0 +1,54 @@
+Consider the table **student** and **course** in the **university** database as shown in below.
+
+| ID | name | dept\_name |
+|---|---|---|
+| 21f11 | Ram | CS |
+| 21f12 | Rakesh | ME |
+| 21f13 | Pranav | EE |
+| 21f14 | Rajib | CS |
+| 21f15 | Vikash | BT |
+
+Table 2: **student**
+
+| course\_id | title | dept\_name |
+|---|---|---|
+| C001 | DBMS | CS |
+| C002 | CAD | ME |
+| C003 | Digital | EE |
+| C004 | PDSA | CS |
+
+Table 3: **course**
+
+Based on the given student and course table, what will be the output of the Python code given below?
+
+```python
+import psycopg2
+def connectDb(dbname, username, pwd, address, portnum):
+    try:
+        connection = psycopg2.connect(database = dbname,
+                                        user = username,
+                                        password = pwd,
+                                        host = address,
+                                        port = portnum)
+        cursor = connection.cursor()
+        query = ", 'SELECT ID FROM student, course EXCEPT ALL SELECT ID FROM student EXCEPT ALL SELECT ID FROM student', "
+        cursor.execute(query)
+        result = cursor.fetchall()
+        count=0
+        for row in result:
+            count=count+1
+        print(count)
+        cursor.close()
+    except (Exception, psycopg2.DatabaseError) as error:
+        print(error)
+    finally:
+        connection.close()
+connectDb("university", "postgres", "root", "127.0.0.1", "5432")
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

@@ -1,0 +1,45 @@
+Which among the following statements is/are true?
+
+**Options :**
+
+6406531963397. ✅ If a function is positive semidefinite, then it only has a global minimum.
+
+6406531963398. ❌ If a function is positive semidefinite, then it has both global minimum and global maximum.
+
+6406531963399. ✅ If a function is negative semidefinite, then it only has a global maximum.
+
+6406531963400. ❌ If a function is negative semidefinite, then it has both global minimum and global maximum.
+
+**Sub-Section Number :** 3
+
+**Sub-Section Id :** 64065384971
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number :** 144 **Question Id :** 64065388656 **Question Type :** SA Calculator : None
+
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 3
+
+**Question Label :** Short Answer Question
+
+Consider a 2 × 2 matrix $A = \frac{1}{k} \begin{bmatrix} 2 & -2+i \\ i+2 & 2 \end{bmatrix}$. Find the value of k such that A is a unitary matrix.
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Equal
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+3
+
+**Question Number :** 145 **Question Id :** 64065388668 **Question Type :** SA Calculator : None

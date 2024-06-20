@@ -1,0 +1,23 @@
+Text Areas : PlainText
+
+Possible Answers :
+2
+
+Question Number : 96 Question Id : 640653588597 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following forms a basis $\beta$ for $V_1$?
+Options :
+6406531963278.  $\times$  $\{(1, 5, 2)\}$
+6406531963279.  $\checkmark$  $\{ (-\frac{4}{3}, -\frac{4}{3}, 1)\}$
+6406531963280.  $\times$  $\{ (\frac{1}{5}, 1, \frac{2}{5})\}$
+6406531963281.  $\checkmark$  $\{ (-4, -4, 3)\}$
+
+Question Number : 97 Question Id : 640653588598 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Define a linear transformation 
+$T: V_2 \rightarrow \mathbb{R}^2$ by $T(x, y, z) = (x, x + y + z)$.
+What is the rank of $T$?
+Response Type : Numeric
+Evaluation Required For SA : Yes

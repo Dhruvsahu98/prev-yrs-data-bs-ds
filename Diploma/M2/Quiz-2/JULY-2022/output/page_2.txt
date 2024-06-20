@@ -1,0 +1,26 @@
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 8
+Number of Questions to be attempted : 8
+Section Marks : 25
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 6406535045
+Question Shuffling Allowed : No
+
+Question Number : 1 Question Id : 640653351495 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "MATHEMATICS FOR DATA SCIENCE 2"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+6406531166580.  Yes
+6406531166581.  No
+Sub-Section Number : 2
+Sub-Section Id : 6406535046
+Question Shuffling Allowed : Yes

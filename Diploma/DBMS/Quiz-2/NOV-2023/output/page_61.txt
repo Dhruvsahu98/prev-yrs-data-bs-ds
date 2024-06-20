@@ -1,0 +1,42 @@
+Find the correct match with respect to the normal forms shown below.
+
+| | Normal Forms |
+|---|---|
+| 1 | First Normal Form |
+| 2 | Second Normal Form |
+| 3 | Third Normal Form |
+| 4 | Fourth Normal Form |
+
+Properties of Normal Forms
+
+| | |
+|---|---|
+| A | To eliminate the functional dependencies in which non-prime attributes determine other non-prime attributes. |
+| B | Does not allow multivalued dependencies. |
+| C | To eliminate multivalued dependencies. |
+| D | To eliminate functional dependencies in which proper subsets of candidate keys determine non-prime attributes. |
+
+Options :
+
+6406531485397.  $\times$ 1-B, 2-A, 3-D, 4-C
+6406531485398.  $\times$ 1-C, 2-D, 3-A, 4-B
+6406531485399.  $\times$ 1-C, 2-A, 3-D, 4-B
+6406531485400.  $\checkmark$ 1-B, 2-D, 3-A, 4-C
+
+Question Number : 88 Question Id : 640653445839 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the URL given below:
+https://student.iiitm.ac.in/index.html
+
+A: Protocol
+B: Domain name
+C: Resource-name
+
+1:index.html
+2:student.iiitm.ac.in
+3:https
+
+Choose the correct option.
+
+Options :

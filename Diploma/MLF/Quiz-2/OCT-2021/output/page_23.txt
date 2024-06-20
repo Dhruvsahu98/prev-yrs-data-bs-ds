@@ -1,0 +1,35 @@
+# BDM
+Number of Questions : 17
+Section Marks : 50
+
+## Question Number : 38
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: BUSINESS DATA MANAGEMENT"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+## Options : 
+A.  ✅ YES
+B.  ❌ NO
+
+## Question Number : 39
+Correct Marks : 5
+Question Label : Multiple Choice Question
+
+The table provides data on biscuits sold (in packets per day) and price (Rs./ packet) at a department store for the first 5 days in a month. Then, between Day 3 and Day 4, the biscuit can be assumed to be ______ ?
+
+| Day of Month | Price Per Packet | Number of packets sold |
+|---|---|---|
+| 1 | 60 | 3,000 |
+| 2 | 70 | 2,800 |
+| 3 | 80 | 3,600 |
+| 4 | 90 | 3,000 |
+| 5 | 60 | 2,200 |
+
+## Options :
+A.  ✅ Luxury

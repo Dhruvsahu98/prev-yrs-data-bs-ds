@@ -1,0 +1,25 @@
+**Options :**
+
+A.  $\times$  $f(x) = \frac{1}{x^5}$ over $\mathbb{R}$
+B.  $\checkmark$  $f(x) = -log(x)$ over $\mathbb{R}$
+C.  $\checkmark$  $f(x) = 4x^4 + 5x$ over $\mathbb{R}$
+D.  $\times$  $-e^x$ given $x \in \mathbb{R}$
+
+**Question Number : 66 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Select Question**
+
+Given $S$ is a convex set and the points $x_1, x_2, x_3, x_4 \in S$. Which of the following points must be the part of the convex hull formed by these points: 
+
+**Options :**
+
+A.  $\checkmark$  $0.1x_1 + 0.2x_2 + 0.3x_3 + 0.4x_4$
+B.  $\times$  $-0.1x_1 + 0.2x_2 + 0.6x_3 + 0.7x_4$
+C.  $\times$  $0.1x_1 + 0.1^2x_2 + 0.1^3x_3 + 0.1^3x_4$
+D.  $\checkmark$  $0.25x_1 + 0.25x_2 + 0.25x_3 + 0.25x_4$
+
+**Question Number : 67 Question Type : SA**
+
+**Correct Marks : 2**

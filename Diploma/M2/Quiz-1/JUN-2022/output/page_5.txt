@@ -1,0 +1,38 @@
+If addition and scalar multiplication on $V = \mathbb{R}^2$ is defined as follows:
+
+Addition: $(x_1, y_1) + (x_2, y_2) = (x_1 + x_2, y_1 + y_2);$
+$(x_1, y_1), (x_2, y_2) \in V$
+
+Scalar multiplication: $c(x, y) = (x, cy); (x, y) \in V, c \in \mathbb{R}$
+
+Consider the following statements.
+
+1. There exists an element $0$ (called the zero vector of $V$) in $V$ such that $0 + v = v, \forall v \in V$.
+2. There exists a vector $v'$ in $V$ such that $v' + v = v + v' = 0, \forall v \in V$.
+3. For each vector $v \in V, 1v = v$.
+4. For each vector of $v \in V$ and for each pair $a, b \in \mathbb{R}, (a + b)v = av + bv$.
+5. For each vector of $v \in V$ and for each pair $v_1, v_2 \in V, a(v_1 + v_2) = av_1 + av_2$.
+6. For each vector of $v \in V$ and for each pair $a, b \in \mathbb{R}, (ab)v = a(bv)$.
+
+Which of the above statements is not true with respect to the addition and scalar multiplication on $V = \mathbb{R}^2$ defined above? (Enter the serial number of the statement which is not true. If statement 2 is incorrect, then enter 2 as your answer.)
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+
+**Possible Answers :**
+4
+
+**Question Number :** 6 **Question Id :** 640653345434 **Question Type :** SA Calculator : None
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 4
+**Question Label :** Short Answer Question
+
+If $W = Span\{(1, 1, -1), (3, -2, 0), (0, 5, -3)\}$, then find out the dimension of $W$.
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal

@@ -1,0 +1,29 @@
+Span $\left\{ \begin{bmatrix} -1 \\ 0 \\ 7 \\ \frac{-7}{17} \end{bmatrix}, \begin{bmatrix} 0 \\ -1 \\ 22 \\ \frac{-22}{17} \end{bmatrix} \right\}$
+
+6406531562938. ✖
+
+**Question Number : 131 Question Id : 640653470337 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Let $A = \begin{bmatrix} 1 & 1 \\ 2 & 0 \\ 3 & 1 \\ 5 & 1 \end{bmatrix}$, then which among the following is orthogonal to $C(A)$?
+
+**Options :**
+
+Span $\left\{ \begin{bmatrix} -3 \\ 2 \\ 15 \\ -1 \end{bmatrix}, \begin{bmatrix} -1 \\ -1 \\ 1 \\ 0 \end{bmatrix} \right\}$
+
+6406531562940. ✔
+
+Span $\left\{ \begin{bmatrix} 3 \\ 5 \\ 1 \\ 2 \end{bmatrix}, \begin{bmatrix} -1 \\ -1 \\ 1 \\ 0 \end{bmatrix} \right\}$
+
+6406531562941. ✖
+
+Span $\left\{ \begin{bmatrix} 3 \\ 5 \\ 1 \\ 2 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \end{bmatrix} \right\}$
+
+6406531562942. ✖
+
+Span $\left\{ \begin{bmatrix} -3 \\ -1 \\ 1 \\ 2 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \\ 1 \\ 0 \end{bmatrix} \right\}$
+
+6406531562943. ✖

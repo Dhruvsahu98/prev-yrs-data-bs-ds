@@ -1,0 +1,24 @@
+C. ❌ BCNF
+D. ✅ None of these
+
+# MLF
+
+Number of Questions : 18
+Section Marks : 50
+
+Question Number : 56 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING FOUNDATIONS"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+A. ✅ Yes
+B. ❌ No
+
+Question Number : 57 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider a matrix A of size $n \times n$. Let $a_{jk}$ denotes an element at $j^{th}$ row and $k^{th}$ column. The elements $a_{jj}$ of the matrix are all of complex number $i$. The elements at $a_{jk} = \overline{a_{kj}}$, for $j \neq k$. Then, the matrix $iA$ is
+Options :

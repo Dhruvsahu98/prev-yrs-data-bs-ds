@@ -1,0 +1,25 @@
+6406531562947.  ✓ There exists a $n \times n$ matrix $A$, $n$ is even, for which the rank of $A$ is equal to the nullity of $A$.
+
+Question Number : 125 Question Id : 640653470340 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question 
+Let $P$ be the matrix that projects vectors in $\mathbb{R}^3$ onto the subspace spanned by the vector $a = [1, 2, 3]^T$. Which of the following are eigenvectors of $P$ corresponding to the eigenvalue $0$?
+
+Options :
+6406531562952.  ✗ $[1, -2, 2]$
+6406531562953.  ✗ $[2, 2, -1]$
+6406531562954.  ✓ $[-2, 1, 0]$
+6406531562955.  ✓ $[-3, 0, 1]$
+
+Sub-Section Number : 4
+Sub-Section Id : 64065367786
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 126 Question Id : 640653470331 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question 
+A quadratic approximation of the function $f(x) = sin^2x$ at $x = \frac{\pi}{4}$ radian is:
+
+Options :
+6406531562921.  ✗ $\frac{Q_{\pi}[f(x)]}{4} = \frac{1}{2} + (x - \frac{\pi}{4}) + (x - \frac{\pi}{4})$

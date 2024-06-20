@@ -1,0 +1,29 @@
+Sub-Section Number : 8
+Sub-Section Id : 640653112619
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 155 Question Id : 640653770574 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+The value of a function at point 5 is 10. The values of the function's first and second order derivatives at this point are 5 and 2 respectively. What will be the function's approximate value at the point 5.1? (Enter the answer correct up to two decimal places).
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+10.2 to 10.8
+
+Java
+Section Id : 64065353266
+Section Number : 10
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 100
+Display Number Panel : Yes

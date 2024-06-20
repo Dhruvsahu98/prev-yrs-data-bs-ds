@@ -1,0 +1,21 @@
+6406532577393.  $R_1(P,Q,U)$, $R_2(R,S,T,U,V)$
+
+Question Number : 104 Question Id : 640653770518 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 2
+Question Label : Multiple Choice Question 
+What is the highest normal form achievable by the given relation?
+Options :
+6406532577394.  ✔ 2NF
+6406532577395.  ✖ 1NF
+6406532577396.  ✖ 3NF
+6406532577397.  ✖ BCNF
+
+Sub-Section Number : 10
+Sub-Section Id : 640653112596
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653770519 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Question Numbers : (105 to 106)
+Question Label : Comprehension
+The sports federation FIA has decided to maintain a database of all the drivers, races and budgets for the 2024 Formula 1 Season. Below is the original database structure designed by FIA:

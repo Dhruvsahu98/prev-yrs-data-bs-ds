@@ -1,0 +1,20 @@
+Correct Marks : 2
+Question Label : Short Answer Question
+If $\begin{bmatrix} a+4 & 3b \\ 8 & -6 \end{bmatrix} = \begin{bmatrix} 2a+2 & b \\ 8 & a-5b \end{bmatrix}$, then find the value of $a+2b$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+4
+Sub-Section Number : 
+3
+Sub-Section Id : 
+64065348835
+Question Shuffling Allowed : 
+Yes
+Question Number : 5 Question Id : 640653345433 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

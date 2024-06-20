@@ -1,0 +1,25 @@
+6406531485404. ❌ A = Tea, B = Our's cafe, C = Your's cafe, D = 19-10-21, E = 21-10-21
+
+Question Number : 93 Question Id : 640653445846 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Consider the relation R(A, B, C, D, E, G) with the following sets of functional dependencies
+$F = \{AB \rightarrow C, AC \rightarrow B, AD \rightarrow E, B \rightarrow D, BC \rightarrow A, E \rightarrow G\}$
+
+Let the R is decomposed in two ways:
+D1 = R1(AB), R2(BC), R3(AD), R4(EG)
+D2 = R1(ABC), R2(ACDE), R3(ADG)
+
+Which among the following statement is correct?
+
+Options :
+6406531485429. ❌ D1 is a lossless decomposition and D2 is a lossy decomposition.
+6406531485430. ✅ D1 is a lossy decomposition and D2 is a lossless decomposition.
+6406531485431. ❌ D1 and D2 both are lossless decompositions.
+6406531485432. ❌ D1 and D2 both are lossy decompositions.
+
+Sub-Section Number : 5
+Sub-Section Id : 64065363413
+Question Shuffling Allowed : Yes
+Is Section Default? : null

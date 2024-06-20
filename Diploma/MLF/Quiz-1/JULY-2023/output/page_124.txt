@@ -1,0 +1,28 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the elasticity of demand?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.4 to 0.42
+
+Question Number : 140 Question Id : 640653578693 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 1 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Given the computed elasticity, what can you say about the "Butter Milk" demand? (choose all that
+are applicable)
+Options :
+6406531932305. ❌ It is elastic
+6406531932306. ✅ It is inelastic
+6406531932307. ❌ It is a luxury
+6406531932308. ❌ It is a necessity
+6406531932309. ❌ Cannot say, insufficient information
+
+MLF
+Section Id : 64065339118

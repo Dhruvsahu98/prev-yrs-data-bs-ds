@@ -1,0 +1,27 @@
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Let A and B be symmetric matrices such that $AB = BA$. Then which of the following options is/are true?
+
+Options :
+6406532467980. ✅ $AB$ is a symmetric matrix.
+6406532467981. ✅ $AB$ is orthogonally diagonalizable.
+6406532467982. ✅ $BA$ has real eigenvalues.
+6406532467983. ❌ $AB$ is not a symmetric matrix.
+
+Question Number : 144 Question Id : 640653737422 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+Consider a function $f: \mathbb{R} \rightarrow \mathbb{R}$ defined as $f(x) = |x(x-2)|$. Which of the following options is/are true?
+
+Options :
+6406532468001. ✅ $\lim_{x \to 2^+} f(x) = \lim_{x \to 2^-} f(x)$.
+6406532468002. ❌ $f$ is differentiable at $x = 0$.
+6406532468003. ✅ $f'(3) = 4$.
+6406532468004. ✅ $f$ is continuous at $x = 0$.
+
+Sub-Section Number : 7
+Sub-Section Id : 640653107636

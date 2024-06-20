@@ -1,0 +1,25 @@
+6406531929350. ✅ Any subset of a linearly independent set is a linearly independent set.
+6406531929351. ✅ Any superset of a spanning set is a spanning set.
+6406531929352. ❌ Any subset of a basis is a basis.
+6406531929353. ❌ Any superset of a subspace is a subspace.
+
+Question Number : 6 Question Id : 640653577749 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the set $W = \{A \in M_n(\mathbb{R}) : det(A^T) = 0\}$ with the usual addition and usual scalar multiplication of matrices. Which of the following is/are true?
+
+Options :
+6406531929354. ❌ W is closed under addition.
+6406531929355. ✅ W is closed under scalar multiplication.
+6406531929356. ❌ W is a vector space.
+6406531929357. ✅ W is not a vector space.
+
+Sub-Section Number : 4
+Sub-Section Id : 64065382553
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 7 Question Id : 640653577753 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Let $A = \begin{pmatrix} 2022 & 2023 & 2024 \\ 2022 & 2021 & 2022 \\ 2022 & 2022 & 2022 \end{pmatrix}$. What is the determinant of $\frac{1}{2}A$?

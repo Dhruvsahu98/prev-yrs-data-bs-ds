@@ -1,0 +1,33 @@
+Which of the following will create a confusion matrix plot from $y$ and $\hat{y}$?
+
+**Options :** 
+A.  ✅  `cm_display = ConfusionMatrixDisplay.from_predictions(y, y_hat_)`
+     `plt.show()`
+B.  ❌  `cm_display = ConfusionMatrixDisplay(y, y_hat_)`
+     `plt.show()`
+C.  ❌  `cm_display = ConfusionMatrix.from_predictions(y, y_hat_)`
+     `plt.show()`
+D.  ❌  `cm_display = ConfusionMatrix(y, y_hat_)`
+     `plt.show()`
+
+**Question Number : 79 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+We have a dataset which has only numerical features. We are implementing the following model on this dataset. (Note: X and y are feature matrix and label vector respectively.)
+
+```python
+from sklearn.naive_bayes import CategoricalNB
+model = CategoricalNB()
+model.fit(X, y)
+```
+
+We find that the performance of the model is unsatisfactory. Which of the following models may be useful to use instead of CategoricalNB?
+
+**Options :**
+A.  ❌  NumericalNB
+B.  ❌  MultinomialNB
+C.  ❌  BernoulliNB
+D.  ✅  GaussianNB

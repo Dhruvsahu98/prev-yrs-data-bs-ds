@@ -1,0 +1,22 @@
+Question Number : 101 Question Id : 640653578648 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Choose the correct option(s):
+Options:
+6406531932218. ✖
+$A = \begin{pmatrix} 2 & 0 & 2 \\ 1 & 1 & 0 \\ 2 & 1 & 1 \end{pmatrix}$, $b = \begin{pmatrix} 600 \\ 400 \\ 300 \end{pmatrix}$
+6406531932219. ✔
+$A = \begin{pmatrix} 2 & 1 & 2 \\ 0 & 1 & 1 \\ 2 & 0 & 1 \end{pmatrix}$, $b = \begin{pmatrix} 600 \\ 400 \\ 300 \end{pmatrix}$
+6406531932220. ✖
+$A = \begin{pmatrix} 2 & 1 & 2 \\ 1 & 1 & 0 \\ 2 & 1 & 1 \end{pmatrix}$, $b = \begin{pmatrix} 600 \\ 400 \\ 300 \end{pmatrix}$
+6406531932221. ✖
+$A = \begin{pmatrix} 2 & 1 & 2 \\ 1 & 1 & 1 \\ 2 & 0 & 1 \end{pmatrix}$, $b = \begin{pmatrix} 600 \\ 400 \\ 300 \end{pmatrix}$
+
+Question Number : 102 Question Id : 640653578649 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+How many solutions does the given system $Ax = b$ have?
+Response Type : Numeric
+Evaluation Required For SA : Yes

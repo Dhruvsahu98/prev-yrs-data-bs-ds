@@ -1,0 +1,29 @@
+Change Background Color : No
+Change Theme : No
+Help Button : No
+Show Reports : No
+Show Progress Bar : No
+
+**Group I**
+
+Group Number : 1
+Group Id : 6406539324
+Group Maximum Duration : 0
+Group Minimum Duration : 90
+Show Attended Group? : No
+Edit Attended Group? : No
+Break time : 0
+Group Marks : 751
+Is this Group for Examiner? : No
+Examiner permission : Cant View
+Show Progress Bar? : No
+Revisit allowed for group Instructions? : Yes
+Maximum Instruction Time : 0
+Minimum Instruction Time : 0
+Group Time In : Minutes
+Navigate To Group Summary From Last Question? : No
+Disable Submit Button During Assessment? : No
+
+**Maths2**
+
+Section Id : 64065323897

@@ -1,0 +1,36 @@
+Consider a matrix $A$ of size $n \times n$. Let $a_{jk}$ denotes an element at $j^{th}$ row and $k^{th}$ column. The elements $a_{jj}$ of the matrix are all of imaginary number $i$. The elements at $a_{jk} = 1$, for $j > k$ and $a_{jk} = -1$, for $j < k$. Then, the matrix $i * A$ is
+
+**Options :**
+
+A.  $\checkmark$ Hermitian 
+B.  $\times$ Symmetric
+C.  $\times$ Hermitian and Symmetric
+D.  $\times$ Neither Hermitian nor Symmetric
+
+**Question Number : 19**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+The set containing all the eigenvalues corresponding to the unitary matrix 
+$$A = \begin{bmatrix}
+\frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} & 0 \\
+-\frac{1}{\sqrt{2}}i & \frac{1}{\sqrt{2}}i & 0 \\
+0 & 0 & i
+\end{bmatrix}$$ is.
+
+**Options :** 
+
+A.  $\checkmark$  $\{0.9659 - 0.2588i, -0.2588 + 0.9659i, i\}$
+B.  $\times$ $\{0.8414 - 0.1586i, -0.1586 + 0.8414i, i\}$
+C.  $\times$ $\{1-i, -i, i\}$
+D.  $\times$ $\{1+i, 1-i, -1\}$
+
+**Question Number : 20**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Given $f(x, y) = 10x^2 + 10xy + 5y^2$, the point $(0, 0)$ is a _______.

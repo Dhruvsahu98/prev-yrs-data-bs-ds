@@ -1,0 +1,44 @@
+6406531485410. ✅ 1-C, 2-B, 3-A
+6406531485411. ❌ 1-B, 2-C, 3-A
+6406531485412. ❌ 1-C, 2-A, 3-B
+6406531485413. ❌ 1-A, 2-B, 3-C
+
+Sub-Section Number : 3
+Sub-Section Id : 6406536341
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 89 Question Id : 640653445834 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Consider the relational schema $R(A,B,C,X,U)$ with the following functional dependencies (assume that all the attributes have atomic values).
+$$
+\mathcal{F} = \{U \rightarrow B,
+$$
+$$
+XA \rightarrow C,
+$$
+$$
+XA \rightarrow U,
+$$
+$$
+B \rightarrow A,
+$$
+$$
+XA \rightarrow A
+$$
+$$
+\}
+$$
+Check if the relation schema $R$ is in third normal form or not. If not, which of the following functional dependency can be removed to make the relation in third normal form?
+
+**Options :**
+6406531485393. ❌ $U \rightarrow B$
+6406531485394. ❌ $B \rightarrow A$
+6406531485395. ❌ $XA \rightarrow U$
+6406531485396. ✅ $R$ is in third normal form.
+
+Question Number : 90 Question Id : 640653445840 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

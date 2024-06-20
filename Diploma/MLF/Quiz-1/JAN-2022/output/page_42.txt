@@ -1,0 +1,22 @@
+Question Number : 52 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+The decimal representation of the octal number $712_8$ is __.
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+458
+
+MLF
+Number of Questions : 12
+Section Marks : 50
+
+Question Number : 53 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question

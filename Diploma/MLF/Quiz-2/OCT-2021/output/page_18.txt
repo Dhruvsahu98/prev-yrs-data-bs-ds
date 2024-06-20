@@ -1,0 +1,30 @@
+**NOTE:** Enter your answer in one decimal place. 
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :** 
+4.5 to 6.5
+
+**Question Number :** 30
+**Correct Marks :** 1.5
+**Question Label :** Short Answer Question
+What is the y-intercept of the best fit line?
+
+**NOTE:** Enter your answer in one decimal place. 
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :** 
+-11.5 to -9.5
+
+**Question Number :** 31
+**Correct Marks :** 2
+**Question Label :** Short Answer Question
+What will be the price of the house with 10 rooms?
+
+**NOTE:** Enter your answer in one decimal place. 
+**Response Type :** Numeric

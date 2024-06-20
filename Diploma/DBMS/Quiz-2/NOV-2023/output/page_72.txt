@@ -1,0 +1,46 @@
+Consider table **instructor** inside the university database.
+The **instructor** table consists of the data as shown in Table 1
+
+| id | name | dept\_name | salary |
+|---|---|---|---|
+| 10101 | Srinivasan | Comp. Sci. | 65000.00 |
+| 12121 | Wu | Finance | 90000.00 |
+| 15151 | Mozart | Music | 40000.00 |
+| 32343 | El Said | History | 60000.00 |
+| 33456 | Gold | Physics | 87000.00 |
+| 76766 | Crick | Biology | 72000.00 |
+| 98345 | Kim | Elec. Eng. | 80000.00 |
+
+Table 1: instructor
+
+Based on the table, what will be the output of the below Python code?
+
+```python
+import psycopg2
+def connectDb(dbname, username, pwd, address, portnum):
+    try:
+        connection = psycopg2.connect(database = dbname,
+                                    user = username,
+                                    password = pwd,
+                                    host = address,
+                                    port = portnum)
+        cursor = connection.cursor()
+        query = "select count(*) from instructor where dept_name like '%o%';"
+        cursor.execute(query)
+        result = cursor.fetchone()[0][0]
+        print(result)
+        cursor.close()
+    except (Exception, psycopg2.DatabaseError) as error:
+        print(error)
+    finally:
+        connection.close()
+connectDb("university", "postgres", "root", "127.0.0.1", "5432")
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3

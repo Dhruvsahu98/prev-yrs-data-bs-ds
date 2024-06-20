@@ -1,0 +1,63 @@
+Question Label : Short Answer Question
+
+If projection of vector A of length 10 units, onto vector B of length 8 units, has a magnitude of 5 units, then length of projection of vector B onto A is?
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+4
+
+Java
+
+Section Id :
+64065330350
+
+Section Number :
+9
+
+Section type :
+Online
+
+Mandatory or Optional :
+Mandatory
+
+Number of Questions :
+16
+
+Number of Questions to be attempted :
+16
+
+Section Marks :
+50
+
+Display Number Panel :
+Yes
+
+Group All Questions :
+No
+
+Enable Mark as Answered Mark for Review and Clear Response :
+Yes
+
+Maximum Instruction Time :
+0
+
+Sub-Section Number :
+1
+
+Sub-Section Id :
+64065367790
+
+Question Shuffling Allowed :
+No
+
+Is Section Default? :
+null

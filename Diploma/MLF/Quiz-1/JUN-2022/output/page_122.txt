@@ -1,0 +1,34 @@
+NOTE: Enter your answer in two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.20 to 0.35
+
+Question Number : 128 Question Id : 640653345572 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+
+The eigenvalues of the matrix
+$\begin{bmatrix}
+1 & 0 & -1 \\
+1 & 0 & 0 \\
+-2 & 2 & 1
+\end{bmatrix}$ are a, b, c in increasing order, then the value of a + b is
+
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0
+
+Question Number : 129 Question Id : 640653345573 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

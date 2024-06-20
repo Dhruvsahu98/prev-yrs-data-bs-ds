@@ -1,0 +1,22 @@
+Sub-Section Id : 64065367741
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 9 Question Id : 640653470202 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If A and B are two skew-symmetric matrices of order n, i.e., $A^T = -A$ and $B^T = -B$, where $A^T$ denotes the transpose of A, then
+Options :
+6406531562525. ❌ $AB$ is a skew-symmetric matrix.
+6406531562526. ❌ $AB$ is a symmetric matrix ($M$ is a symmetric matrix if $M^T = M$).
+6406531562527. ✅ $AB$ is a symmetric matrix if A and B commute.
+6406531562528. ❌ $AB$ must be a diagonal matrix.
+
+Sub-Section Number : 7
+Sub-Section Id : 64065367742
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 10 Question Id : 640653470204 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question

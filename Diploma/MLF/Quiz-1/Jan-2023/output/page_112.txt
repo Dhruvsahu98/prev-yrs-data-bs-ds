@@ -1,0 +1,23 @@
+Question Number : 128 Question Id : 640653470333 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Which of the following is the equation of the line that passes through point [1, 2, 3, 4] and is tangent to the function $f(p, q, r, s) = p^2 + q^2 + r^2 + s^2 + pq + rs - 2p - 2q$ at the point $[p, q, r, s] = [1, 3, 2, 1]$?
+
+Options :
+6406531562929.  ✔ [1, 2, 3, 4] + $\alpha$[3, 5, 11, 7]
+6406531562930.  ✖ [3, 5, 11, 7] + $\alpha$[1, 2, 3, 4]
+6406531562931.  ✖ [1, 2, 3, 4] + $\alpha$[0, 4, 10, 2]
+6406531562932.  ✖ [1, 2, 3, 4] + $\alpha$[5, 3, 11, 7]
+6406531562933.  ✖ [5, 3, 11, 7] + $\alpha$[1, 2, 3, 4]
+
+Question Number : 129 Question Id : 640653470339 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+The characteristic polynomial of a matrix with eigenvalues 1, 2, 3 and 4 is
+
+Options :
+6406531562948.  ✔ $\lambda^4 - 10\lambda^3 + 35\lambda^2 - 50\lambda + 24$

@@ -1,0 +1,35 @@
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: DATABASE MANAGEMENT SYSTEMS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+**Options :**
+A.  ✔ Yes
+B.  ✖ No
+
+Question Number : 39 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Consider the following statements.
+1. If a relation R is in 3NF and for each non-trivial functional dependency, the RHS is a super key, then R is in BCNF as well.
+2. If a relation R is in BCNF and does not consist of any multivalued dependency, then R is in 4NF as well.
+3. If a relation R is in 2NF and does not contain any transitive dependencies, then R is in BCNF as well.
+
+Choose the correct option.
+
+**Options :**
+A. ✖ Statements 1 & 3 are correct.
+B. ✔ Only Statement 2 is correct.
+C. ✖ Statements 2 & 3 are correct.
+D. ✖ All the statements are correct.
+
+Question Number : 40 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question

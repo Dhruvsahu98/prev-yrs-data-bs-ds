@@ -1,0 +1,19 @@
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "**FOUNDATION LEVEL : MATHEMATICS FOR DATA SCIENCE II (COMPUTER BASED EXAM)**"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+6406532577268. ✅ YES
+6406532577269. ❌ NO
+Sub-Section Number : 2
+Sub-Section Id : 640653112577
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653770457 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (55 to 58)
+Question Label : Comprehension
+$T : \mathbb{R}^2 \rightarrow \mathbb{R}^2$ is a linear transformation given by $T(2,1)=(-1,-3)$ and $T(1,2)=(-5,0)$. The matrix representation of $T$ with respect to the standard ordered basis $\beta = \{(1,0),(0,1)\}$ is $\begin{bmatrix} a & c \\ b & d \end{bmatrix}$.
+Based on the above data, answer the given subquestions.
+Sub questions

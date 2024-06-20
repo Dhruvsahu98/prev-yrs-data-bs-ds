@@ -1,0 +1,47 @@
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+If the characteristic polynomial of a $3 \times 3$ matrix M is $\lambda^3 - \lambda^2 + a \lambda - 24, a \in R$ and one eigenvalue of M is 2, then the largest among the absolute values of eigen values of M is ___.
+
+**NOTE:** Enter your answer to the nearest integer.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+4
+
+**Question Number : 24**
+
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+The eigenvectors of the matrix $\begin{bmatrix} 1 & 2 \\ 0 & 2 \end{bmatrix}$ are written in the form $\begin{bmatrix} 1 \\ a \end{bmatrix}$ and $\begin{bmatrix} 1 \\ b \end{bmatrix}$.
+
+What is a-b?
+
+**NOTE:** Enter your answer in two decimal places.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Range**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+-0.53 to -0.47

@@ -1,0 +1,31 @@
+6406531148901. ❌ If $A^n = 0$ for some $2 \times 2$ matrix $A$ and some non-zero natural number $n$, then $A$ must be $0$ (zero matrix of order $2$).
+
+6406531148902. ✅ If a homogeneous system of linear equations $Ax = 0$ has a non-zero solution, then it must have infinite number of solutions.
+
+6406531148903. ❌ If $A^3 = I$ for some $n \times n$ matrix $A$, then it is not necessary that $A^2$ is an invertible matrix.
+
+Sub-Section Number : 6
+Sub-Section Id : 64065348838
+Question Shuffling Allowed : No
+
+Question Id : 640653345443 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (13 to 15)
+
+Question Label : Comprehension
+
+From the list of given terms find out the best possible options for each of the given subquestions:
+
+| 1) | Transpose of a matrix |
+| 2) | Determinant |
+| 3) | Closure with respect to addition |
+| 4) | Closure with respect to scalar multiplication |
+| 5) | Existence of additive inverse |
+| 6) | Commutativity of addition |
+| 7) | Associativity of addition |
+| 8) | Spanning set |
+| 9) | Linearly independent set |
+| 10) | Basis |
+
+Sub questions
+
+Question Number : 13 Question Id : 640653345444 Question Type : SA Calculator : None

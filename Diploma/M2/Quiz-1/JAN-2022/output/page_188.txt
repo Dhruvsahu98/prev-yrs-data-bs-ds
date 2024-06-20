@@ -1,0 +1,29 @@
+Consider the following sets with the given operations defined as follows:
+
+- $W_1 = \{(x, y, z) | x, y, z \in \mathbb{R}, x + y + z = 1\}$
+Addition: $(x_1, y_1, z_1) + (x_2, y_2, z_2) = (x_1 + x_2, y_1 + y_2, z_1 + z_2)$; $(x_1, y_1, z_1), (x_2, y_2, z_2) \in W_1$
+Scalar multiplication: $c(x, y, z) = (cx, cy, cz)$; $(x, y, z) \in W_1$, $c \in \mathbb{R}$
+
+- $W_2 = \{(x, y, z) | x, y, z \in \mathbb{R}, x = y - z\}$
+Addition: $(x_1, y_1, z_1) + (x_2, y_2, z_2) = (x_1 + x_2, y_1 + y_2, z_1 + z_2)$; $(x_1, y_1, z_1), (x_2, y_2, z_2) \in W_2$
+Scalar multiplication: $c(x, y, z) = (cx, cy, cz)$; $(x, y, z) \in W_2$, $c \in \mathbb{R}$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 240 Question Type : MSQ
+Correct Marks : 6
+Question Label : Multiple Select Question
+Which of the following options are true for $W_1$?
+Options :
+A. There does not exist any zero element of $W_1$.
+B. $W_1$ is closed under addition.
+C. $W_1$ is a subset of $\mathbb{R}^3$.
+D. $W_1$ is not a vector subspace of $\mathbb{R}^3$.
+
+Question Number : 241 Question Type : MSQ
+Correct Marks : 6
+Question Label : Multiple Select Question
+Which of the following options are true for $W_2$?
+Options :

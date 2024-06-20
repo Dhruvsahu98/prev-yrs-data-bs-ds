@@ -1,0 +1,26 @@
+Question Number : 2 Question Id : 640653345430 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If $A + 3I = 0$, where $A$ is a $2 \times 2$ matrix and $I$ is the identity matrix of order 2, then find out the $det(A)$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9
+Question Number : 3 Question Id : 640653345431 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If matrix $A = \begin{bmatrix} 3 & -3 \\ -3 & 3 \end{bmatrix}$ and $A^2 = \lambda A$, then find the value of $\lambda$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+Question Number : 4 Question Id : 640653345432 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

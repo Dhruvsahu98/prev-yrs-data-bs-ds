@@ -1,0 +1,31 @@
+$S$ spans the vector space $\mathbb{R}^3$ (with usual addition and scalar multiplication).
+
+**B.** $\times$ 
+
+**C.** $\checkmark$ $Span(S)$ is a proper subspace of $\mathbb{R}^3$.
+
+**Question Number : 243 Question Type : MCQ**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**
+Which of the following options is (are) correct?
+**Options :**
+**A.** $\times$ $S$ is a basis of $W_1$.
+**B.** $\checkmark$ $S$ is a basis of $W_2$.
+
+**Question Number : 244 Question Type : SA**
+**Correct Marks : 2**
+**Question Label : Short Answer Question**
+What is the dimension of $W_1$?
+
+**Note:** Enter your answer to the nearest integer. 
+
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Equal**
+**Text Areas : PlainText**
+**Possible Answers :**
+1
+
+**Question Number : 245 Question Type : SA**
+**Correct Marks : 2**

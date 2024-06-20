@@ -1,0 +1,26 @@
+Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are true about function $f(x) = \begin{cases}
+\frac{|x|}{x}, x \neq 0 \\
+0, x = 0
+\end{cases}$ ?
+Options :
+6406531562917.  ✅ The function is differentiable for all the values of x except when x = 0.
+6406531562918.  ❌ The function is continuous for all the values of x.
+6406531562919.  ❌ The function is differentiable at x = 0.
+6406531562920.  ✅ The function is not continuous at x = 0.
+Sub-Section Number : 3
+Sub-Section Id : 64065367785
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 124 Question Id : 640653470338 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are true?
+Options :
+6406531562944.  ✅ There exists a $n \times n$ matrix A, n is odd, for which the rank of A is not equal to the nullity of A.
+6406531562945.  ❌ There exists a $n \times n$ matrix A, n is odd, for which the rank of A is equal to the nullity of A.
+6406531562946.  ✅ There exists a $n \times n$ matrix A, n is even, for which the rank of A is not equal to the nullity of A.

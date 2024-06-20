@@ -1,0 +1,43 @@
+```python
+{
+"Identity": "3",
+"Name": "user_1",
+"E-mail": "user_1@gmail.com"
+}
+```
+
+```python
+{
+"Id": 3,
+"name": "user_1"
+}
+```
+6406531166917. ✅
+
+```python
+{
+"Id": "3",
+"name": "user_1"
+}
+```
+6406531166918. ❌
+
+```python
+{
+"name": "user_1",
+"email": "user_1@gmail.com"
+}
+```
+6406531166919. ❌
+
+MLF
+
+Section Id : 64065322151
+Section Number : 7
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 12
+Number of Questions to be attempted : 12
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No

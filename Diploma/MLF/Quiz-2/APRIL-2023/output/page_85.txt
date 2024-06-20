@@ -1,0 +1,34 @@
+Ram
+Raj
+Ravi
+Anil
+Bala
+Raj
+
+Ram
+Ragu
+Ravi
+Anil
+Bala
+Ragu
+6406531736842. ❌
+
+Ram
+Ragu
+Ravi
+Anil
+Bala
+Raj
+6406531736843. ✔️
+
+Ragu
+Raj
+6406531736844. ❌
+
+MLF
+Section Id : 64065333935
+Section Number : 7
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16

@@ -1,0 +1,35 @@
+Is the set $V$ closed under addition?
+
+**Options :**
+
+6406532467743. ✅ Yes
+
+6406532467744. ❌ No
+
+**Question Number :** 52 **Question Id :** 640653737329 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 1
+**Question Label :** Multiple Choice Question
+
+Is the set $V$ closed under scalar multiplication?
+
+**Options :**
+
+6406532467745. ✅ Yes
+
+6406532467746. ❌ No
+
+**Question Number :** 53 **Question Id :** 640653737330 **Question Type :** MSQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 2 **Max. Selectable Options :** 0
+**Question Label :** Multiple Select Question
+
+Which of the following is(are) correct?
+
+**Options :**
+
+6406532467747. ❌ V has no zero element with respect to the given addition.
+
+6406532467748. ❌ (0, 0, 0) is the zero element of V with respect to the given addition.
+
+6406532467749. ✅ 

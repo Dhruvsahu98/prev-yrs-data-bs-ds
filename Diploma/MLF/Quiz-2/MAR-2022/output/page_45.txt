@@ -1,0 +1,24 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+MLP
+Number of Questions : 22
+Section Marks : 50
+
+Question Number : 77 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "**DIPLOMA LEVEL: MACHINE LEARNING PRACTICES**"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+A.  ✅ YES
+B.  ❌ NO
+
+Question Number : 78 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question

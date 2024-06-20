@@ -1,0 +1,21 @@
+Options :
+6406531963285. ✅ A is similar to B.
+6406531963286. ❌ A is not similar to B.
+6406531963287. ✅ det(A) = det(B) = 0.
+6406531963288. ❌ det(A) = det(B) = 2.
+
+Question Id : 640653588604 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Question Numbers : (101 to 102)
+
+Question Label : Comprehension
+Let W be the subspace of $\mathbb{R}^4$ with the standard inner product, spanned by the ordered set $\beta = \{(1, -1, 0, 0), (0, 1, 1, 0)\}$. Let $\{v_1, v_2\}$ denote the orthonormal basis of W obtained by applying the Gram-Schmidt process on $\beta$.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 101 Question Id : 640653588605 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 1
+Question Label : Short Answer Question
+Let $P_W : \mathbb{R}^4 \to W$ denote the projection map. What is the nullity of $P_W$?
+Response Type : Numeric

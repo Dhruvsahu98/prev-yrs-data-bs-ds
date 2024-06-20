@@ -1,0 +1,51 @@
+**Correct Marks : 4**
+
+**Question Label : Short Answer Question**
+
+$f(x_1, x_2, x_3) = \frac{x_1 + x_2 + x_3}{3}$ is used as encoder function and $g(u) = [u, 2u, 3u]$ is used as decoder function for dimensionality reduction of following data set.
+
+$\begin{array}{|c|}
+\hline
+X \\
+\hline
+[1, 2, 3] \\
+\hline
+[2, 3, 4] \\
+\hline
+\end{array}$
+
+Give the reconstruction error for this encoder decoder pair. The reconstruction error is the mean of the squared distance between the reconstructed input and input.
+
+**NOTE:** Enter your answer to the nearest integer.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Range**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+24 to 25
+
+**Question Number : 125 Question Id : 640653345565 Question Type : SA Calculator : None**
+
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+**Question Label : Short Answer Question**
+
+What will be the directional derivative of $f(x, y, z) = x^2y^3 - 4xz$ at point (1, 1, 1) in the direction of [-1, 2, 0]?
+
+**NOTE:** Enter your answer in one decimal place.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**

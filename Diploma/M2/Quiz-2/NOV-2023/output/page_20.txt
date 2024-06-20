@@ -1,0 +1,24 @@
+Question Number : 39 Question Id : 640653445769 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find $||(1,3)||^2$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+13
+
+Question Number : 40 Question Id : 640653445770 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following is/are unit vectors in $V$?
+Options :
+6406531485248.  ✔ (1, 1)
+6406531485249.  ✔ $\frac{1}{2}(2,2)$
+6406531485250.  ✖ $\frac{1}{\sqrt{13}}(2,3)$
+6406531485251.  ✖ (0, 1)
+6406531485252.  ✖ None of these

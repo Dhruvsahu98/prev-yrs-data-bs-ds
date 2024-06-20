@@ -1,0 +1,26 @@
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+-1
+
+**Question Number :** 67 **Question Type :** SA
+**Correct Marks :** 1
+**Question Label :** Short Answer Question
+Enter the correct answer for d
+
+**NOTE:** Enter your answer to the nearest integer.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+3
+
+**Question Type :** COMPREHENSION
+**Question Numbers :** (68 to 70)
+**Question Label :** Comprehension

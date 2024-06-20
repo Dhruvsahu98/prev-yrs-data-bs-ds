@@ -1,0 +1,23 @@
+6406531963392. * $Q(x,y) = x^2 + xy$
+
+Sub-Section Number : 5
+Sub-Section Id : 64065384973
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 147 Question Id : 640653588659 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Given the following information about a 4 x 2 matrix A:
+- The characteristic polynomial of $A^TA$ is $(\lambda-48)(\lambda-12)$.
+- Eigenvectors of $A^TA$ corresponding to eigenvalues $\lambda = 48$, $\lambda = 12$ are $q_1 = \begin{pmatrix} 1/\sqrt{2} \\ 1/\sqrt{2} \end{pmatrix}$ and $q_2 = \begin{pmatrix} 1/\sqrt{2} \\ -1/\sqrt{2} \end{pmatrix}$, respectively.
+- $Aq_1 = \begin{pmatrix} 4/\sqrt{2} \\ -8/\sqrt{2} \\ 0 \\ 4/\sqrt{2} \end{pmatrix}$, $Aq_2 = \begin{pmatrix} -2/\sqrt{2} \\ 0 \\ 4/\sqrt{2} \\ 2/\sqrt{2} \end{pmatrix}$
+
+What is the matrix A?
+
+**Options :**
+
+6406531963393. * $\begin{bmatrix} 1 & 3 \\ 0 & 0 \\ 2 & -2 \\ 1 & -1 \end{bmatrix}$
+
+6406531963394. * 

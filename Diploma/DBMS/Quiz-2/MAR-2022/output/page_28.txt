@@ -1,0 +1,35 @@
+| Credit |
+|---|---|
+| 7 |
+| 7 |
+| 9 |
+| 9 |
+
+**Question Number : 47 Question Type : MCQ**
+
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+Consider a magnetic disk with the following specifications. The magnetic disk consists of 16 platters, and has information recorded on both the surfaces of each platter. Each platter's surface is logically divided into 128 tracks, each of which is subdivided into 256 sectors. Find the storage capacity of a track. (Given, sector size is 512 bytes.)
+
+**Options :**
+
+A.  ❌ 64 KB
+B.  ✅ 128 KB
+C.  ❌ 256 KB
+D.  ❌ 512 KB
+
+**Question Number : 48 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Select Question
+
+Consider a relation $cars(name, model, price)$. If all cars have the same price, then which of the following functional dependency/dependencies hold(s) in $cars$?
+
+**Options :**
+
+A.  ✅ $name \rightarrow price$
+B.  ❌ $price \rightarrow model$
+C.  ✅ $model \rightarrow price$

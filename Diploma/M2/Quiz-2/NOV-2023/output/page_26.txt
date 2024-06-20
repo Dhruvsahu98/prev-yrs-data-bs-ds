@@ -1,0 +1,34 @@
+**Correct Marks : 1**
+
+Question Label : Multiple Choice Question
+
+Which of the following affine subspaces was considered by Sohini?
+
+**Options :**
+
+6406531485275.  $\times$  $L' = \{(x, y, z) | x - y - 2z = 0\}$
+
+6406531485276.  $\checkmark$  $L' = \{(x, y, z) | x + y - z = 1\}$
+
+6406531485277.  $\times$  $L' = \{(x, y, z) | x + y - z = 0\}$
+
+6406531485278.  $\times$  $L' = \mathbb{R}^3$
+
+
+**Question Number : 49 Question Id : 640653445786 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+Which of the following functions represents *f* correctly?
+
+**Options :**
+
+6406531485279. $\checkmark$  $f(x, y, z) = (x - 2z + 2, z, x - z + 1)$
+
+6406531485280. $\times$  $f(x, y, z) = (x - 2z + 2, \frac{z}{2}, x - z + 1)$
+
+6406531485281. $\times$  $f(x, y, z) = (x - 2z, z, x - z)$
+
+6406531485282. $\times$  It cannot be determined from the given information.

@@ -1,0 +1,16 @@
+Question Number : 122 Question Id : 640653577886 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following matrices have eigenvectors as $\begin{bmatrix} 2 \\ 1 \\ 0 \end{bmatrix}$, $\begin{bmatrix} 1 \\ -2 \\ 0 \end{bmatrix}$ and $\begin{bmatrix} 1 \\ 0 \\ 1 \end{bmatrix}$?
+Options :
+6406531929753. $\checkmark$ $\begin{bmatrix} 3 & 2 & 4 \\ 2 & 0 & 2 \\ 4 & 2 & 3 \end{bmatrix}$
+6406531929754. $\checkmark$ $\begin{bmatrix} 6 & 4 & 8 \\ 4 & 0 & 4 \\ 8 & 4 & 6 \end{bmatrix}$
+6406531929755. $\times$ $\begin{bmatrix} 2 & 1 & 4 \\ 4 & 0 & 4 \\ 8 & 4 & 6 \end{bmatrix}$
+6406531929756. $\times$ $\begin{bmatrix} 3 & 1 & 0 \\ 2 & 0 & 2 \\ 4 & 2 & 3 \end{bmatrix}$
+
+Question Number : 123 Question Id : 640653577887 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Let the matrix $A \in \mathbb{R}^{d \times d}$ be diagonalizable, then which of the following statements is/are true for $A$?

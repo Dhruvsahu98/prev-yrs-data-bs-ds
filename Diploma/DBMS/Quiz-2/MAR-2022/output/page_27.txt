@@ -1,0 +1,48 @@
+Consider the relation Term1 shown in Figure 1.
+
+| Student | Course | Instructor | Credit |
+|---|---|---|---|
+| MSD | Python | Kumar |  |
+| MSD | DBMS | Patel |  |
+| MSD | Python | Patel |  |
+| MSD | DBMS | Kumar |  |
+
+Figure 1: Relation Term1
+
+Choose the correct values in Credit column (in the same order) such that the following MVDs are true:
+Student $\longrightarrow$ Course
+Student $\longrightarrow$ (Instructor, Credit)
+
+Options:
+
+A. 
+| Credit |
+|---|---|
+| 7 |
+| 8 |
+| 9 |
+| 6 |
+
+B. 
+| Credit |
+|---|---|
+| 9 |
+| 7 |
+| 9 |
+| 7 |
+
+C. 
+| Credit |
+|---|---|
+| 9 |
+| 7 |
+| 7 |
+| 9 |
+
+D. 
+| Credit |
+|---|---|
+| 7 |
+| 9 |
+| 6 |
+| 8 |

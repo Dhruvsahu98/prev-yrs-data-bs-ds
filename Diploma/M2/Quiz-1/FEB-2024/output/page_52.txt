@@ -1,0 +1,32 @@
+Consider the following system of linear equations:
+$2x - y + 3z = 0$
+$ax - y + z = 0$
+$4x - 2y + 7z = 0$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+Question Number : 56 Question Id : 640653737319 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Does there exist an $\alpha$ such that the system has infinitely many solutions? If yes, find the value of $\alpha$, else write the answer as 100.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+Question Number : 57 Question Id : 640653737320 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Does there exist an $\alpha$ such that the system has no solution? If yes, find the value of $\alpha$, else write the answer as 100.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+100

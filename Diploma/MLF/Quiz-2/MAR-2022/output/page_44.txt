@@ -1,0 +1,43 @@
+Consider the function $f(x) = 25x^2 + 625 - 250x$.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+**Question Number : 75 Question Type : SA**
+
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+Starting with $x_0 = 3$, in how many iterations, will Newton's method be able to achieve the function's minimum value considering an error of 0.1?
+
+**NOTE:** Enter your answer to the nearest integer.
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Equal
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+1
+
+**Question Number : 76 Question Type : SA**
+
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+Starting with $x_0 = 3$ and $\eta = 0.01$, in how many iterations will gradient descent be able to reach the function's minimum value considering an error of 0.1?
+
+**NOTE:** Enter your answer to the nearest integer.
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes

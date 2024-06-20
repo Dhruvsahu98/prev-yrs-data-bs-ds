@@ -1,0 +1,33 @@
+Question Label : Multiple Select Question
+
+Let $A, B \in \mathbb{R}^{n \times n}$ be two matrices, then which among the following statements are correct?
+
+Options:
+
+6406531932337. $\checkmark$ $x \in Nullspace(A) \implies x \in Nullspace(B A)$.
+
+6406531932338. $\checkmark$ $x \in Columnspace(A) \implies x \in Columnspace(B)$, where $A = BC, C \in \mathbb{R}^{n \times n}$.
+
+6406531932339. $\checkmark$ $x \in Nullspace(AB) \implies Bx \in Nullspace(A)$.
+
+6406531932340. $\times$ $x \in Nullspace(AB) \implies x \in Nullspace(B)$.
+
+
+Question Number : 147 Question Id : 640653578711 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N A Think Time : N A Minimum Instruction Time : 0
+
+Correct Marks : 4 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Consider the solution of the linear regression problem ($Ax = b$) using least squares method, where $A = \begin{bmatrix} 1 & 5 \\ 2 & 3 \\ 0 & 7 \\ 5 & 1  \end{bmatrix}$ and $b = \begin{bmatrix} 7 \\ 8 \\ 4  \end{bmatrix}$.
+
+Based on this data, which of the following statements is/are true?
+
+Options:
+
+6406531932349. $\checkmark$ The error value is zero as we can get an $x$ such that $Ax$ is exactly equal to $b$.
+
+6406531932350. $\times$ The error value is non-zero as we cannot get an $x$ such that $Ax$ is exactly equal to $b$.
+
+6406531932351. $\checkmark$ Least squares solution for $x$ is $\begin{bmatrix} 2 \\ 0.5 \\ 0.5 \end{bmatrix}$.

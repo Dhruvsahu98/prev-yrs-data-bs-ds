@@ -1,0 +1,45 @@
+shape of X\_train,Y\_train are given as (9000,90,10) and (9000,90) respectively?
+**Options :**
+A. 
+```python
+from sklearn.linear_model import SGDRegressor
+regressor = SGDRegressor(random_state=10)
+for i in range(X_train.shape[0]):
+    X_batch, Y_batch = X_train[i], Y_train[i]
+    regressor.partial_fit(X_batch, Y_batch)
+```
+B. 
+```python
+from sklearn.linear_model import SGDRegressor
+regressor = SGDRegressor(random_state=10)
+for i in range(Y_train.shape[0]):
+    X_batch, Y_batch = X_train[i], Y_train[i]
+    regressor.partial_fit(X_batch, Y_batch)
+```
+C. 
+```python
+from sklearn.linear_model import SGDRegressor
+regressor = SGDRegressor(random_state=10)
+for i in range(Y_train.shape[0]):
+    X_batch, Y_batch = X_train[i], Y_train[i]
+    regressor.partial_fit(X_batch, Y_batch)
+```
+D. 
+```python
+from sklearn.linear_model import SGDRegressor
+regressor = SGDRegressor(random_state=10)
+for i in range(X_train.shape[0]):
+    X_batch, Y_batch = X_train[i], Y_train[i]
+    regressor.partial_fit(X_batch, Y_batch)
+```
+**Question Number : 95 Question Type : MSQ**
+**Correct Marks : 3**
+Question Label : Multiple Select Question
+The one-vs-one approach in multi-class classification is implemented by-
+**Options :**
+A. 
+$\times$ LinearSVC
+B. 
+$\checkmark$ SVC
+C. 
+$\checkmark$ NuSVC

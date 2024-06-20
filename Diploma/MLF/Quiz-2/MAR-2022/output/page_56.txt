@@ -1,0 +1,27 @@
+## Correct Marks : 2
+Question Label : Multiple Select Question
+Consider following code and choose correct options (assume necessary imports).
+```python
+ridge_classifier = RidgeClassifier(alpha=0.0001, fit_intercept=True)
+```
+Options :
+A. ✅ It fits a model with an intercept.
+B. ✅ The L2 regularization rate is 0.0001.
+C. ❌ It fits a logistic regression model.
+D. ❌ It is suitable for fitting a regression model.
+
+## Question Number : 93 Question Type : MSQ
+## Correct Marks : 2
+Question Label : Multiple Select Question
+Vishal is working on a classification model. He is having the dataset of 120 GB size. But the ram of his machine is 4GB only. Which of the following algorithms do you think can help him? Select all that apply.
+Options :
+A. ❌ SGDRegressor
+B. ✅ Perceptron
+C. ❌ LogisticRegression
+D. ✅ SGDClassifier
+E. ✅ MultinomialNB
+
+## Question Number : 94 Question Type : MSQ
+## Correct Marks : 3
+Question Label : Multiple Select Question
+Which of the following code will correctly train a large scale regression model using partial_fit, If

@@ -1,0 +1,32 @@
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Number : 7 Question Id : 640653345435 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Which of the following subsets are not a vector subspace of $\mathbb{R}^3$ with respect to usual addition and scalar multiplication ? 
+1) $W = \{(x, y, z) | x, y, z \in \mathbb{R}, \text{ and } x^2 = z^2\}$
+2) $W = \{(x, y, z) | x, y, z \in \mathbb{R}, \text{ and } x = z\}$
+3) $W = \{(x, y, z) | x, y, z \in \mathbb{R}, \text{ and } x = y + z\}$
+4) $W = \{(x, y, z) | x, y, z \in \mathbb{R}, \text{ and } (x + 1) + (y - 1) + z = 0\}$
+Enter the serial number of the subset which is not a vector subspace of $\mathbb{R}^3$ with respect to usual addition and scalar multiplication. (If the subset corresponding to serial number 2 is not a subspace, then enter 2 as your answer.)
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Sub-Section Number :
+4
+Sub-Section Id :
+64065348836
+Question Shuffling Allowed :
+No
+
+Question Id : 640653345436 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (8 to 9)

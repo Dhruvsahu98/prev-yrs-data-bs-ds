@@ -1,0 +1,23 @@
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Let $f: \mathbb{R}^2 \rightarrow \mathbb{R}$ be a multivariable scalar-valued continuous function, such that 
+$\frac{\partial f}{\partial x} = 2x + 1$ and $\frac{\partial f}{\partial y} = 2y + 1$.
+Suppose $\lim_{(x,y) \rightarrow (0,0)} f(x,y) = 5$.
+Find out the directional derivative of $f$ at the point $(0,0)$ in the direction of the vector $(1,1)$.
+Options :
+6406532467992. $\checkmark$ $\sqrt{2}$
+6406532467993. $\times$ $2\sqrt{2}$
+6406532467994. $\times$ $-2\sqrt{2}$
+6406532467995. $\times$ $-\sqrt{2}$
+
+Sub-Section Number : 5
+Sub-Section Id : 640653107634
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 141 Question Id : 640653737421 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following is/are supervised learning task(s)?
+Options :
+6406532467997. $\checkmark$ Predicting future sales of a product based on the past sales data.

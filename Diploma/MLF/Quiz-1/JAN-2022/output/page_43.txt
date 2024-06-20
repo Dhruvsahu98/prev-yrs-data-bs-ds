@@ -1,0 +1,34 @@
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING FOUNDATIONS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+**Options :**
+A.  YES
+B.  NO
+
+**Question Number : 54 Question Type : SA**
+
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+For the data sets $(x^i, y^i) = [(1, 1), (2, 3), (3, 4), (4, 4), (5, 7)], i = 1$ to $5$. Consider the regression model $f(x) = x + 1$. What is the mean squared loss of $f(x)$
+
+**NOTE:** Enter your answer in two decimal places.
+
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Range**
+**Text Areas : PlainText**
+**Possible Answers :**
+0.55 to 0.65
+
+**Question Number : 55 Question Type : SA**
+
+**Correct Marks : 4**
+
+Question Label : Short Answer Question

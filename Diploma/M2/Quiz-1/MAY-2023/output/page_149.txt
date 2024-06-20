@@ -1,0 +1,17 @@
+$\begin{bmatrix}-1 & 0 & 0 & 1 \\ 0 & -1 & 0 & 2 \\ 0 & 0 & -1 & 2 \\ 1 & 0 & 0 & 0\end{bmatrix}$
+
+Question Number : 4 Question Id : 640653577746 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following subsets of $\mathbb{R}^2$ is/are vector spaces with respect to usual addition and usual scalar multiplication?
+Options :
+6406531929345. $\checkmark$ $V_1 = \{(x, y): 2x + 3y = 0\}$
+6406531929346. $\checkmark$ $V_2 = \{(x, y): y^2 = 0, x = 2y\}$
+6406531929347. $\times$ $V_3 = \{(x, y): x = 1\}$
+6406531929348. $\times$ $V_4 = \{(x, y): 2x + 3y - 1 = 0, x - y = 0\}$
+
+Question Number : 5 Question Id : 640653577748 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Select the true statement(s).
+Options :

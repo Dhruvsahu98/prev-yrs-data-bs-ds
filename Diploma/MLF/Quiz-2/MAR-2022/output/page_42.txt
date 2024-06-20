@@ -1,0 +1,24 @@
+Consider the data points $x_1$, $x_2$, $x_3$ to answer the given subquestions.
+$x_1 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$, $x_2 = \begin{bmatrix} 0 \\ 0 \end{bmatrix}$, $x_3 = \begin{bmatrix} 2 \\ 1 \end{bmatrix}$
+
+Sub questions
+
+Question Number : 72 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The mean vector of the data points $x_1$, $x_2$, $x_3$ is 
+
+Options :
+A. $\times \begin{bmatrix} 0 \\ 0 \end{bmatrix}$
+B. $\checkmark \begin{bmatrix} 1 \\ 1 \end{bmatrix}$
+C. $\times \begin{bmatrix} 0 \\ 1 \end{bmatrix}$
+D. $\times \begin{bmatrix} 0.5 \\ 0.5 \end{bmatrix}$
+
+Question Number : 73 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+The covariance matrix 
+$C = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(x_i - \bar{x})^T$
+for the data points $x_1$, $x_2$, $x_3$ is 
+
+Options :

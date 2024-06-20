@@ -1,0 +1,25 @@
+Find the value of c.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+-3
+
+Question Number : 58 Question Id : 640653770461 Question Type : SA Calculator : None
+**Response Time :** N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 1
+Question Label : Short Answer Question
+Find the value of d.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+1
+
+Question Id : 640653770475 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (59 to 60)
+Question Label : Comprehension

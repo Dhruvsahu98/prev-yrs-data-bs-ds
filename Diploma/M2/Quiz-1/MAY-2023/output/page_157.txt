@@ -1,0 +1,28 @@
+If the application is run locally on http://127.0.0.1:5000 using the command python app.py stable, what will be rendered by the browser for URL http://127.0.0.1:5000/home? 
+
+**Options :**
+
+6406531929679. ❌ static url path: /static
+static folder: C:\home\mad_1\static
+
+6406531929680. ❌ static url path: /stable
+static folder: C:\home\mad_1\stable
+
+6406531929681. ❌ static url path: C:\home\mad_1\stable
+static folder: /stable
+
+6406531929682. ✅ static url path: /stable
+static folder: C:\home\mad_1\static
+
+
+**MLF**
+
+Section Id : 64065339073
+Section Number : 8
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 15
+Number of Questions to be attempted : 15
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No

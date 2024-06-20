@@ -1,0 +1,46 @@
+**Question Label : Multiple Choice Question**
+
+Find the equivalent relational algebraic expression corresponding to the below SQL statement:
+
+```python
+SELECT id FROM classFour WHERE id > 5
+EXCEPT
+SELECT id FROM classFour WHERE id > 10;
+```
+
+**Options :**
+
+A.  $\prod_{id}(\sigma_{id \in \{5,6,7,8,9,10\}}(classFour))$ 
+B.  $\prod_{id}(\sigma_{id > 5 \land id > 10}(classFour))$
+C.  $\prod_{id}(\sigma_{id > 5 \land id \le 10}(classFour))$
+D.  $\prod_{id}(\sigma_{id > 5 \lor id > 10}(classFour))$
+
+**Question Number : 60**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following relational instance given in Figure 4
+
+\begin{tabular}{|c|c|c|}
+\hline
+A & B & C \\
+\hline
+2 & 5 & 3 \\
+\hline
+2 & 6 & 4 \\
+\hline
+2 & 7 & 4 \\
+\hline
+4 & 3 & 3 \\
+\hline
+\end{tabular}
+
+Figure 4: Relational instance
+
+From among the sets of functional dependencies given below, identify the set satisfied by the given instance.
+
+**Options :**
+
+A.  $AB \rightarrow C$ and $C \rightarrow B$

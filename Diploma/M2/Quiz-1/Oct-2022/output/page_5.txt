@@ -1,0 +1,37 @@
+Consider the following two statements:
+
+P: $V = \mathbb{R}^2$, with the operations:
+
+Addition:
+$$(x_1, y_1) + (x_2, y_2) = (x_1x_2, y_1y_2);$$
+
+and
+
+Scalar multiplication:
+$$c(x, y) = (cx, cy); (x, y) \in V, c \in \mathbb{R}$$
+
+is a vector space.
+
+Q: Let $V$ be a vector space. If $u, v, w \in V$ are such that $au + bv + cw = 0$ for some scalars $a, b, c \in \mathbb{R}$ and $ac \neq 0$, then $span\{u, v\} = span\{v, w\}$.
+
+Consider the following statements:
+
+* Statement 1: P is true, but Q is false.
+* Statement 2: Q is true, but P is false.
+* Statement 3: Both P and Q are true.
+* Statement 4: Both P and Q are false.
+
+Which one of the above statements is correct? (e.g. if Statement 1 is correct, then enter 1 as your answer).
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+
+2
+Sub-Section Number : 4
+Sub-Section Id : 64065355318
+Question Shuffling Allowed : No
+Question Id : 640653386645 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A 

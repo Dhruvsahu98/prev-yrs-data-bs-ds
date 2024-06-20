@@ -1,0 +1,19 @@
+**F.** $\begin{bmatrix} 0.25 & 0.25 & 0.25 \end{bmatrix}$
+
+**Question Number :** 247 **Question Type :** MCQ 
+
+**Correct Marks :** 4
+
+**Question Label :** Multiple Choice Question
+
+If $A = \begin{bmatrix} 3 & 2 & 1 \end{bmatrix}$ denotes the row vector representing the number of tourists from Kolkata (each element represent the number of tourists from Kolkata to Manali, Sikkim and Meghalaya, respectively) in December 2019, and $C = \begin{bmatrix} x_1 & x_2 & x_3 \end{bmatrix}$ be the row vector representing the number of tourists from Kolkata in December 2020 (where $x_1$, $x_2$ and $x_3$ denote the number of tourists from Kolkata to Manali, Sikkim and Meghalaya, respectively) and we have the following equation $AB = C$, then which of the following matrices can represent $B$?
+
+**Options :**
+
+**A.** $\begin{bmatrix} 50 & 50 & 25 \\ 25 & 25 & 25 \\ 50 & 25 & 25 \end{bmatrix}$
+
+**B.** $\begin{bmatrix} 0.50 & 0.50 & 0.25 \\ 0.25 & 0.25 & 0.25 \\ 0.50 & 0.25 & 0.25 \end{bmatrix}$
+
+**C.** $\begin{bmatrix} 0.50 & 0 & 0 \\ 0 & 0.25 & 0 \\ 0 & 0 & 0.25 \end{bmatrix}$
+
+**D.** $\begin{bmatrix} 0.25 & 0 & 0 \\ 0 & 0.25 & 0 \\ 0 & 0 & 0.25 \end{bmatrix}$

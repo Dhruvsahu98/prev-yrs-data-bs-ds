@@ -1,0 +1,22 @@
+Consider a vector $v = \begin{bmatrix} 2 \\ 1 \\ -2 \end{bmatrix}$. Does $v$ belong to the columnspace of $A = \begin{bmatrix} -8 & -2 & -9 \\ 6 & 4 & 8 \\ 4 & 0 & 4 \end{bmatrix}$?
+
+Options :
+6406532239892. ✅ Yes
+6406532239893. ❌ No
+
+Question Number : 122 Question Id : 640653668572 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Let $A = \begin{bmatrix} 8 & 3 \\ 2 & 7 \end{bmatrix}$. Find a matrix $P$ such that $P^{-1}AP$ is diagonal.
+
+Options :
+6406532239907. ❌ $\begin{bmatrix} 1 & 1 \\ 2 & -3 \end{bmatrix}$
+6406532239908. ❌ $\begin{bmatrix} 10 & 0 \\ 0 & 5 \end{bmatrix}$
+6406532239909. ❌ $\begin{bmatrix} 1 & 1 \\ 2 & 3 \end{bmatrix}$
+6406532239910. ✅ $\begin{bmatrix} 3 & 1 \\ 2 & -1 \end{bmatrix}$
+
+Sub-Section Number : 4
+Sub-Section Id : 64065395173
+Question Shuffling Allowed : Yes

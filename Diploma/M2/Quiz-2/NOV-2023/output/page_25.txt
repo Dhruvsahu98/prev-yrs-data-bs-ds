@@ -1,0 +1,18 @@
+The teacher asked Soumya and Sohini to consider an affine space each. Soumya considered the affine subspace $L$ and Sohini considered the affine subspace $L'$ of $\mathbb{R}^3$, where $L=U$ and $L'=(2,0,1)+U'$, for some vector subspaces $U=Span\{(2,0,1),(1,1,0),(0,1,0)\}$ and $U'=Span\{(1,0,1),(0,1,1)\}$ of $\mathbb{R}^3$. Suppose there is a linear transformation $T:U \rightarrow U'$ such that $(0,1,0) \in ker(T), T(2,0,1)=(0,1,1)$ and $T(1,1,0)=(1,0,1)$. An affine mapping $f:L\rightarrow L'$ is obtained by defining $f(u)=(2,0,1)+T(u)$, for all $u\in U$. By using the above information answer the given subquestions:
+
+Sub questions
+
+Question Number : 47 Question Id : 640653445784 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following affine subspaces was considered by Soumya?
+
+Options :
+6406531485271.  $\times$ $L=\{(x,y,z)| x-y-2z=0\}$
+6406531485272.  $\times$ $L=\{(x,y,z)| x+y-z=1\}$
+6406531485273.  $\times$ $L=\{(x,y,z)| x+y-z=0\}$
+6406531485274.  $\checkmark$ $L=\mathbb{R}^3$
+
+Question Number : 48 Question Id : 640653445785 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

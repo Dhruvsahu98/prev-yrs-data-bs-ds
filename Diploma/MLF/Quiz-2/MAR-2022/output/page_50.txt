@@ -1,0 +1,40 @@
+Validation error
+
+```python
+#  This is a code block
+```
+
+\begin{tabular}{c|c}
+  k-Values & Error \\
+\hline
+  2.5 & 70 \\
+\hline
+  5 & 60 \\
+\hline
+  7.5 & 40 \\
+\hline
+  10 & 20 \\
+\hline
+  12.5 & 30
+\end{tabular}
+
+Figure 2
+
+Options :
+
+A. $\times$ 4
+
+B. $\times$ 5
+
+C. $\checkmark$ 9
+
+D. $\times$ 12
+
+
+Question Number : 85 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+Which of the following numerical value should be at the place of "?" symbol in the output? (Assume necessary imports)

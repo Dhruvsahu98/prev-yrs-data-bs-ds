@@ -1,0 +1,25 @@
+A.  $\begin{bmatrix} 0.67 & 0.33 \\ -0.33 & 0.67 \end{bmatrix}$
+B.  $\begin{bmatrix} 0.67 & -0.33 \\ -0.33 & 0 \end{bmatrix}$
+C.  $\begin{bmatrix} 0.67 & 0.33 \\ 0.33 & 0.67 \end{bmatrix}$
+D.  $\begin{bmatrix} -0.67 & -0.33 \\ 0.33 & 0.67 \end{bmatrix}$
+
+Question Number : 74 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+The eigenvalues of the covariance matrix $C = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(x_i - \bar{x})^T$ are
+
+Options :
+
+A.  0.5, 0.5
+B.  0.33, 0.33
+C.  1, 0.34
+D.  0.67, 0.67
+
+Question Type : COMPREHENSION
+
+Question Numbers : (75 to 76)
+
+Question Label : Comprehension

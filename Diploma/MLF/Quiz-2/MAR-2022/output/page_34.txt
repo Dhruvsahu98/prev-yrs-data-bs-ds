@@ -1,0 +1,33 @@
+A. ✖ Hermitian
+B. ✖ Symmetric
+C. ✖ Hermitian and Symmetric
+D. ✖ Hermitian but not Symmetric
+E. ✔ Neither Hermitian nor Symmetric
+
+Question Number : 58 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+It is known that the operation $z \cdot z$, where $z \in \mathbb{C}^n$, always outputs a real number. Then the resultant scalar for the operation $z \cdot Az$, where $A$ is a Hermitian matrix of size $n \times n$, is 
+
+Options :
+
+A. ✖ Always a complex number
+B. ✔ Always a real number
+C. ✖ Always an imaginary number
+D. ✖ Real or complex based on the elements of the matrix $A$
+
+Question Number : 59 Question Type : MCQ
+
+Correct Marks : 2
+
+Question Label : Multiple Choice Question
+
+The Schur's decomposition for the matrix $A = \begin{bmatrix} 1 & i & 2i \\ -i & 2 & -i \\ -2i & i & 1 \end{bmatrix}$ is $QTQ^*$. Let $B = kA$ for some $k \in \mathbb{R}$. Then Schur's decomposition of $B$ is
+
+Options :
+
+A. ✖ $QTQ^*$
+B. ✔ The matrix $T$ will be multiplied by $k$

@@ -1,0 +1,18 @@
+Question Number : 150 Question Id : 640653588663 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the dataset 
+$D = \{(-1, 1), (0, 1), (1, 1)\}$.
+What is the first principal component (i.e., the direction corresponding to the largest eigenvalue of the covariance matrix) for the **given** dataset?
+Options :
+6406531963402. $\checkmark$  $\begin{pmatrix} 1 \\ 0 \end{pmatrix}$
+6406531963403. $\times$ $\begin{pmatrix} 0 \\ 1 \end{pmatrix}$
+6406531963404. $\times$ $\begin{pmatrix} 1 \\ 1 \end{pmatrix}$
+6406531963405. $\times$ $\begin{pmatrix} -1 \\ 0 \end{pmatrix}$
+
+
+Question Number : 151 Question Id : 640653588664 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

@@ -1,0 +1,27 @@
+Let matrix $A = \begin{bmatrix}-1 \\ 2 \\ 2 \end{bmatrix}$. Suppose the eigenvalues of $AA^T$ are $a$, $b$, $c$ respectively. Then the value of $a + b + c$ is.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9
+
+Question Number : 123 Question Id : 640653351634 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+
+We need to find the optimal value of the objective function $f(x, y, z) = log(xyz) + xyz$. We start with $X_0 = \begin{bmatrix}1 \\ 2 \\ 3 \end{bmatrix}$. If $X_1 = \begin{bmatrix}i \\ j \\ k \end{bmatrix}$ using the gradient descent algorithm and using $\eta = 1$, then what is the absolute value of $|i + j + k|$? Enter the answer up to 2 decimals accuracy.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+7.5 to 8.5
+
+Question Number : 124 Question Id : 640653351635 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

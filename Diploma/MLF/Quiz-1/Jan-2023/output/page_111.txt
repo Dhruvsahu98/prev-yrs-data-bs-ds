@@ -1,0 +1,14 @@
+6406531562922.  ✓  $Q_{\frac{\pi}{4}}[f(x)] = \frac{1}{2} + (x - \frac{\pi}{4})$
+6406531562923.  ✗  $Q_{\frac{\pi}{4}}[f(x)] = \frac{1}{2} + 2(x - \frac{\pi}{4}) + \frac{1}{2}(x - \frac{\pi}{4})$
+6406531562924.  ✗  $Q_{\frac{\pi}{4}}[f(x)] = \frac{\pi}{2} + 2(x - \frac{\pi}{4}) + \frac{1}{2}(x - \frac{\pi}{4})$
+
+Question Number : 127 Question Id : 640653470332 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+The direction of steepest descent for the function $f(x, y, z) = cos(x) sin(y) cos(z)$ at the point $(x, y, z) = (\frac{\pi}{4}, \frac{\pi}{6}, \frac{\pi}{4})$ is?
+Options :
+6406531562925.  ✗  $\begin{bmatrix} -\frac{1}{4} & \frac{\sqrt{3}}{4} & -\frac{1}{4} \end{bmatrix}$
+6406531562926.  ✓  $\begin{bmatrix} \frac{1}{4} & -\frac{\sqrt{3}}{4} & \frac{1}{4} \end{bmatrix}$
+6406531562927.  ✗  $\begin{bmatrix} \frac{1}{4} & \frac{1}{4} & \frac{1}{4} \end{bmatrix}$
+6406531562928.  ✗  $\begin{bmatrix} -\frac{1}{4} & -\frac{1}{4} & -\frac{1}{4} \end{bmatrix}$

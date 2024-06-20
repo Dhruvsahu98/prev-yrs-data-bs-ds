@@ -1,0 +1,21 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question
+Consider a relational schema Contacts(aadhaarNo, name, mobileNo, address). Assume that all the attributes have atomic values. Which of the following functional dependencies is/are example(s) of the third normal form?
+Options :
+6406531485388.  ✔  $F = \{aadhaarNo \rightarrow (name, address),$
+$mobileNo \rightarrow aadhaarNo,$
+$(name, address) \rightarrow mobileNo\}$
+6406531485389.  ✖  $F = \{aadhaarNo \rightarrow name,$
+$mobileNo \rightarrow aadhaarNo,$
+$(name, address) \rightarrow aadhaarNo\}$
+6406531485390.  ✔  $F = \{(aadhaarNo, name) \rightarrow address,$
+$mobileNo \rightarrow name,$
+$(name, aadhaarNo) \rightarrow mobileNo\}$
+6406531485391.  ✖  $F = \{(aadhaarNo, name) \rightarrow (address, mobileNo),$
+$mobileNo \rightarrow aadhaarNo,$
+$name \rightarrow address\}$
+Question Number : 97 Question Id : 640653445842 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Selectable Option : 0
+Question Label : Multiple Select Question

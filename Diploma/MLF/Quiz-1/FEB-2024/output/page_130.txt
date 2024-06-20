@@ -1,0 +1,29 @@
+6406532468007.  * 2.031
+6406532468008.  * 1.9968
+Sub-Section Number : 4
+Sub-Section Id : 640653107633
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 139 Question Id : 640653737418 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Find the best fit line for the dataset given below using least squares method.
+
+$$\begin{array}{|c|c|c|c|c|c|}
+\hline
+x & 0 & 2 & 3 & 6 & 8 \\
+\hline
+y & -2 & 5 & 3 & 1 & -3 \\
+\hline
+\end{array}$$
+
+Options :
+6406532467988.  * $\hat{y} = 0.6x - 3.2$
+6406532467989.  * $\hat{y} = -0.6x + 3.2$
+6406532467990.  * $\hat{y} = -x + 2.8$
+6406532467991.  * $\hat{y} = -0.4x + 2.8$
+
+Question Number : 140 Question Id : 640653737419 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,36 @@
+A. ❌ 'log', Logistic Regressor
+B. ❌ 'log', Logistic Classifier
+C. ✅ 'hinge', SVM Classifier
+D. ❌ 'hinge', Perceptron
+
+**Question Number : 83 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+Which of the following will be the correct output of the code snippet given below?
+
+```python
+from sklearn.neighbors import KNeighborsClassifier
+X = [[10], [15], [20], [25], [30]]
+y = [0, 0, 1, 1, 2]
+neigh = KNeighborsClassifier(n_neighbors=3)
+neigh.fit(X, y)
+print(neigh.predict([[18]]))
+```
+
+**Options :**
+
+A. ❌ 0
+B. ✅ 1
+C. ❌ 2
+D. ❌ None
+
+**Question Number : 84 Question Type : MCQ**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+What would be the best value for k to be used in KNN algorithm based on the graph given below?

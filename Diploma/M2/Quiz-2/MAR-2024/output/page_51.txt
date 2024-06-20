@@ -1,0 +1,27 @@
+6406532577305. ✅ Rank($T$) is 2.
+6406532577306. ❌ dim($V$) is 3.
+
+Sub-Section Number : 3
+Sub-Section Id : 640653112578
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653770462 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (61 to 63)
+Question Label : Comprehension
+
+Let $V$ and $W$ be two vector spaces. Suppose there exists an isomorphism $T$ from $V$ to $W$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 61 Question Id : 640653770463 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Which of the following statements is true?
+
+Options :
+6406532577274. ✅ dim($V$) = dim($W$)
+6406532577275. ❌ dim($V$) < dim($W$)

@@ -1,0 +1,28 @@
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+3.3 to 3.7
+
+Question Number : 126 Question Id : 640653345566 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+For what value of k, will the following function be continuous?
+$$f(x) = \begin{cases}
+3x^2 - kx + 5, & \text{if } 0 < x < 2 \\
+1 - 3x, & \text{if } 2 \le x \le 3
+\end{cases}$$
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+11
+
+Question Number : 127 Question Id : 640653345567 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Find the linear approximation (L) of $f(x_1, x_2) = 2x_1^2 + 4x_2^4$ around (1, 1), and use it to compute L(1.1, 1.1). What will be the value of $f(1.1, 1.1) - L(1.1, 1.1)$?

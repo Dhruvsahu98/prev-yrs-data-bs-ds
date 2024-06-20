@@ -1,0 +1,21 @@
+Match the systems of linear equations in Column A with their number of solutions in column B and their geometric representation in Column C.
+
+| System of linear equations (Column A) | Number of solutions (Column B) | Geometric representations (Column C) |
+|---|---|---|
+| i) $x-y-z=8$, $-x+y+z=4$ | No solution | 1)  |
+| ii) $x+y-z=3$, $x-y+z=3$ | Infinitely many solutions | 2)  |
+
+Table: M2Q1:1
+
+Choose the correct option from the following:
+
+**Options :**
+
+A.  i) $\rightarrow$ b $\rightarrow$ 1, ii) $\rightarrow$ a $\rightarrow$ 2.
+B.  i) $\rightarrow$ a $\rightarrow$ 1, ii) $\rightarrow$ b $\rightarrow$ 2.
+C.  i) $\rightarrow$ b $\rightarrow$ 2, ii) $\rightarrow$ a $\rightarrow$ 1.
+D.  i) $\rightarrow$ a $\rightarrow$ 2, ii) $\rightarrow$ b $\rightarrow$ 1.
+
+**Question Number : 238 Question Type : MSQ**
+**Correct Marks : 4**
+**Question Label : Multiple Select Question**

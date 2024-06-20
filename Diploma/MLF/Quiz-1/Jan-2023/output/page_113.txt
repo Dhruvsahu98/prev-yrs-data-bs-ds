@@ -1,0 +1,19 @@
+6406531562949. ✖  $\lambda^4 + 10\lambda^3 + 35\lambda^2 + 50\lambda + 24$
+6406531562950. ✖  $\lambda^4 + 10\lambda^3 - 35\lambda^2 + 50\lambda - 24$
+6406531562951. ✖  $2\lambda^4 - 20\lambda^3 + 35\lambda^2 - 100\lambda + 48$
+
+Sub-Section Number : 5
+Sub-Section Id : 64065367787
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 130 Question Id : 640653470335 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+If null space of a matrix $A$ is $Span\left\{\begin{bmatrix} 7/17 \\ 22/17 \\ -1 \end{bmatrix}\right\}$, then which of the following can be row space of matrix $A$?
+
+Options :
+6406531562935. ✅ $Span\left\{\begin{bmatrix} 1 \\ 0 \\ 7/17 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 22/17 \end{bmatrix}\right\}$
+6406531562936. ✖ $Span\left\{\begin{bmatrix} -1 \\ 0 \\ 7/17 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 22/17 \end{bmatrix}\right\}$
+6406531562937. ✖ $Span\left\{\begin{bmatrix} 1 \\ 0 \\ 7/17 \end{bmatrix}, \begin{bmatrix} 0 \\ -1 \\ 22/17 \end{bmatrix}\right\}$

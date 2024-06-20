@@ -1,0 +1,26 @@
+Question Number : 142 Question Id : 640653445887 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Let $v_1$ and $v_2$ be two non zero real vectors of size $3 \times 1$. Suppose that $v_1$ and $v_2$ satisfy $v_1^Tv_2 = 0$, $v_1^Tv_1 = 1$ and $v_2^Tv_2 = 1$. Let A be $3 \times 3$ matrix given as $A = 2v_1v_1^T + 3v_2v_2^T$, then eigen values of A are $\lambda_1$, $\lambda_2$ and $\lambda_3$, then find the value of $\lambda_1 + \lambda_2 + \lambda_3$?
+Note: Enter the answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+Question Number : 143 Question Id : 640653445895 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Find the height of a cylinder of maximum volume that can be inscribed in a sphere of radius $a = \sqrt{3}$
+Note: Enter the answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

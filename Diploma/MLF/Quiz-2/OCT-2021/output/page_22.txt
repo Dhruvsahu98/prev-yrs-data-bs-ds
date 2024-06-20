@@ -1,0 +1,32 @@
+Question Label : Multiple Choice Question
+
+The projected (new) data points $x_1', x_2', x_3', x_4'$ corresponding to the original points $x_1, x_2, x_3, x_4$ in one dimensional PCA is
+
+Options :
+
+A. $\times$ $x_1' = \begin{bmatrix} 0 \\ 2 \end{bmatrix}, x_2' = \begin{bmatrix} 2 \\ 4 \end{bmatrix}, x_3' = \begin{bmatrix} 4 \\ 2 \end{bmatrix}, x_4' = \begin{bmatrix} 2 \\ 0 \end{bmatrix}$
+
+B. $\times$ $x_1' = \begin{bmatrix} 2 \\ 2 \end{bmatrix}, x_2' = \begin{bmatrix} 4 \\ 4 \end{bmatrix}, x_3' = \begin{bmatrix} 4 \\ 4 \end{bmatrix}, x_4' = \begin{bmatrix} 2 \\ 3 \end{bmatrix}$
+
+C. $\checkmark$ $x_1' = \begin{bmatrix} -4 \\ 4 \end{bmatrix}, x_2' = \begin{bmatrix} -2 \\ 2 \end{bmatrix}, x_3' = \begin{bmatrix} 2 \\ -2 \end{bmatrix}, x_4' = \begin{bmatrix} 4 \\ -4 \end{bmatrix}$
+
+D. $\times$ None of these
+
+Question Number : 37
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+The reconstruction error $J$ on the given data set is given by $\sum_{i=1}^{4} || x_i - x_i' ||^2$.
+
+What is the reconstruction error for the given data and projected data in this one dimensional PCA?
+
+Options :
+
+A. $\checkmark$ 0
+
+B. $\times$ 6
+
+C. $\times$ 12
+
+D. $\times$ 18

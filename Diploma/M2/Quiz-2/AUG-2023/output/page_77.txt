@@ -1,0 +1,32 @@
+Question Label : Comprehension
+
+Let $T: \mathbb{R}^3 \rightarrow \mathbb{R}^3$ be the linear transformation defined by
+$T(x,y,z) = (x+y+z, x-y-z, x)$.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 99 Question Id : 640653588601 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+If $A = \begin{pmatrix} a & b & c \\ d & e & f \\ g & h & i \end{pmatrix}$ denotes the matrix of $T$ with respect to $\{(1,1,1), (1,1,0), (1,0,0)\}$ for domain and co-domain, then what is $2b + 2e + 2h$?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+
+Question Number : 100 Question Id : 640653588602 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Let $B$ denote the matrix of $T$ with respect to the standard ordered basis for both domain and co-domain. Choose the correct option(s).

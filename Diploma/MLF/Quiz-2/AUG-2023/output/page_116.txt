@@ -1,0 +1,16 @@
+If you change the dataset to $D' = \{(-1, 1), (0, 0), (1, 1)\}$, what will be the first principal component?
+
+Options : 
+6406531963406. $\begin{pmatrix} 1 \\ 0 \end{pmatrix}$
+6406531963407. $\begin{pmatrix} 0 \\ 1 \end{pmatrix}$
+6406531963408. $\begin{pmatrix} 1 \\ 1 \end{pmatrix}$
+6406531963409. $\begin{pmatrix} -1 \\ 0 \end{pmatrix}$
+
+Question Number : 152 Question Id : 640653588665 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+For the dataset $D'$, let $\tilde{x_1}$, $\tilde{x_2}$ and $\tilde{x_3}$ be the projection of data points on the first principal component, then which among the following is true?
+
+Options :
+6406531963410. $\tilde{x_1} = \begin{pmatrix} -1 \\ 2/3 \end{pmatrix}$, $\tilde{x_2} = \begin{pmatrix} 1 \\ 2/3 \end{pmatrix}$, $\tilde{x_3} = \begin{pmatrix} 1/2 \\ 2/3 \end{pmatrix}$

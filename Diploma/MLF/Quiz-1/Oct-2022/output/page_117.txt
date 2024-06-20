@@ -1,0 +1,36 @@
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING FOUNDATIONS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406531286257.  ✔ Yes
+6406531286258.  ✖ No
+
+Sub-Section Number : 2
+Sub-Section Id : 64065355361
+Question Shuffling Allowed : Yes
+
+Question Number : 117 Question Id : 640653386772 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Short Answer Question
+
+The ML team in a movie production company wanted to predict whether a movie will earn 100 cr or not by using some classification models. Therefore, the team collected presence/absence of various factors $X = [x_1, x_2, x_3]$ from the movies in the past. The data and the corresponding labels are shown in the Table below.
+
+|  X  |  y  |
+|:---:|:---:|
+| [0,1,1] | 0 |
+| [1,0,1] | 1 |
+| [1,0,0] | 1 |
+| [1,1,1] | 1 |
+| [1,1,0] | 1 |
+
+Compute the loss of the model if they use
+$u(z) = \begin{cases} 1, & \text{if } z \geq 0 \\ 0, & \text{otherwise} \end{cases}$
+and $z = 0.5x_1 - 0.8x_2 + 0.4x_3$

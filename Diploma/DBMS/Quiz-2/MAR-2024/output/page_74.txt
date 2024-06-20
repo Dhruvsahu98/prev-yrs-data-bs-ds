@@ -1,0 +1,28 @@
+What conclusion will you make based on the obtained value in the given part?
+
+**Options :**
+
+6406532577352. ❌ There is a positive linear relationship between the variables X and Y.
+6406532577353. ❌ There is a negative linear relationship between the variables X and Y.
+6406532577354. ✅ There is no linear relationship between the variables X and Y.
+6406532577355. ❌ We cannot conclude anything.
+
+## DBMS
+**Section Id :** 64065353262
+**Section Number :** 6
+**Section type :** Online
+**Mandatory or Optional :** Mandatory
+**Number of Questions :** 14
+**Number of Questions to be attempted :** 14
+**Section Marks :** 50
+**Display Number Panel :** Yes
+**Section Negative Marks :** 0
+**Group All Questions :** No
+**Enable Mark as Answered Mark for Review and Clear Response :** Yes
+**Maximum Instruction Time :** 0
+**Sub-Section Number :** 1
+**Sub-Section Id :** 640653112587
+**Question Shuffling Allowed :** No
+**Is Section Default? :** null
+
+**Question Number :** 91 **Question Id :** 640653770504 **Question Type :** MCQ Is Question

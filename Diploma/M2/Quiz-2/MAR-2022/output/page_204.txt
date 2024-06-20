@@ -1,0 +1,35 @@
+Anamika, Subhasis and Shreya pool together $x$, $y$, and $z$ amounts of money (in thousands) respectively, every month. The sum is distributed across three accounts $A_1$, $A_2$ and $A_3$ as $x+y+z$, $z-2y$ and $2y-z$ respectively. This can be thought of as a linear transformation
+
+$T: \mathbb{R}^3 \rightarrow \mathbb{R}^3$
+
+defined by 
+
+$T(x,y,z) = (x+y+z, z-2y, 2y-z)$.
+
+Note: A negative amount of money signifies the amount withdrawn from the accounts. Answer the subsequent questions using the information given above.
+
+Sub questions
+
+Question Number : 242 Question Type : MCQ
+
+Correct Marks : 6
+
+Question Label : Multiple Choice Question
+
+Which of the following vector spaces consists of vectors which could denote the amount of money deposited by Anamika, Subhasis and Shreya in a particular month such that in that month the amount deposited is 0 in each of the accounts $A_1$, $A_2$ and $A_3$.
+
+Options :
+
+A. $\times$ $Span\{(-3t, t, 0), (0, t, 2t) | t \in \mathbb{R}\}$
+
+B. $\checkmark$ $Span\{(-3t, t, 2t) | t \in \mathbb{R}\}$
+
+C. $\times$ $Span\{(3t, -t, 2t) | t \in \mathbb{R}\}$
+
+D. $\times$ $Span\{(3t, -t, 0), (0, -t, 2t) | t \in \mathbb{R}\}$
+
+Question Number : 243 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question

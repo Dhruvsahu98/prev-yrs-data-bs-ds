@@ -1,0 +1,33 @@
+long will the client have to wait before receiving the response? **[Note:** the speed of light on cable is $2 \times 10^8$ m/sec and that in air is $3 \times 10^8$ m/sec.]
+
+**Options:**
+
+6406531149273. $\times$ 50 milliseconds
+6406531149274. $\times$ 135 milliseconds
+6406531149275. $\checkmark$ 125 milliseconds
+6406531149276. $\times$ 115 milliseconds
+
+
+```python
+# This is a code block in python format.
+```
+
+MLF 64065321874
+
+Section Id : 
+Section Number : 8
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 15
+Number of Questions to be attempted : 15
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065348874
+Question Shuffling Allowed : No
+
+Question Number : 122 Question Id : 640653345560 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0

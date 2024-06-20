@@ -1,0 +1,28 @@
+C. ✖ The matrix $Q$ will be multiplied by $k$
+D. ✖ The matrix $Q^*$ will be multiplied by $k$
+
+## Question Number : 60 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question 
+The function $f(x,y) = 2x^2 + 2xy + 2y^2 - 18x$ has a stationary point at
+Options :
+A. ✖ (6, 3)
+B. ✖ (-3, 6)
+C. ✖ (-6, -3)
+D. ✔️ (6, -3)
+
+## Question Number : 61 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question 
+The matrix $A = \begin{bmatrix}
+2 & -1 & 0 \\
+-1 & 2 & -1 \\
+0 & -1 & 2
+\end{bmatrix}$ is
+Options :
+A. ✔️ positive definite
+B. ✖ positive semi-definite
+C. ✖ negative definite
+D. ✖ negative semi-definite
+
+## Question Number : 62 Question Type : MCQ

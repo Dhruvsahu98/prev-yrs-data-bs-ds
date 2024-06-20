@@ -1,0 +1,35 @@
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.14 to 0.18
+
+Question Id : 640653386682 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (31 to 32)
+Question Label : Comprehension
+
+Consider a function $f : \mathbb{R} \rightarrow \mathbb{R}$ such that
+ $$f(x) = \begin{cases}
+  \frac{1}{b} & -1 \leq x < 0 \\
+  ax(x+1)(x-1) & 0 \leq x \leq 1 \\
+  0 & \text{Otherwise}
+ \end{cases}$$
+where a, b are any real constants.
+
+Based on the above data, answer the given subquestions
+
+Sub questions
+
+Question Number : 31 Question Id : 640653386683 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Among the options below, for what values of $a$ and $b$, is the function $f$ a valid density function?
+Options :
+6406531285951. ❌ $a = 3, b = 4$
+6406531285952. ✅ $a = -3, b = 4$
+6406531285953. ❌ $a = -3, b = 3$
+6406531285954. ❌ $a = 4, b = 3$

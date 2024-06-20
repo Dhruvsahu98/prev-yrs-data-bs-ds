@@ -1,0 +1,30 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Number : 8 Question Id : 640653386652 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Subset 2 is a subspace of dimension ______. (Enter the numerical value only. Suppose the dimension is 3, then enter 3 as your answer.)
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+Question Number : 9 Question Id : 640653386653 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Subset 3 is a subspace of dimension ______. (Enter the numerical value only. Suppose the dimension is 3, then enter 3 as your answer.)
+
+Response Type : Numeric
+Evaluation Required For SA : Yes

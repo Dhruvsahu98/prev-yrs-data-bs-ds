@@ -1,0 +1,25 @@
+Question Number : 18 Question Id : 640653351514 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+If $\{l,m,n\}$ is a basis of ker(T), then
+Find the value of m if n is 1.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+-4
+Question Number : 19 Question Id : 640653351515 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Let $\beta = \{v_1, v_2\}$ be the orthonormal basis of the row space obtained by using the Gram-Schmidt process (with respect to usual inner product) applied on the ordered basis of the row space given by the first row and the second row of the matrix A. If 
+$v_2 = \frac{1}{\sqrt{195}}(b, c, d)$
+What is the value of $||30v_1||$?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

@@ -1,0 +1,23 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+If $f([1, 2, 3]^T) = [1, 5, 7]^T$, then find the value of $f([2, 2, 2]^T)$ using first order taylor series expansion. 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+Sub-Section Number : 4
+Sub-Section Id : 64065384972
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 146 Question Id : 640653588658 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which among the following functions are positive definite?
+Options :
+6406531963389.  $\times$  $Q(x, y) = xy$
+6406531963390.  $\checkmark$  $Q(x, y) = x^2 - xy + y^2$
+6406531963391.  $\times$  $Q(x, y) = x^2 - 2xy + y^2$

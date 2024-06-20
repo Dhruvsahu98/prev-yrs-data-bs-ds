@@ -1,0 +1,11 @@
+$W_1 \cup W_2$ is not a vector space (with usual addition and scalar multiplication).
+
+6406531285901. ✅
+
+Sub-Section Number : 6
+Sub-Section Id : 64065355320
+Question Shuffling Allowed : No
+
+Question Id : 640653386660 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (14 to 16)
+Question Label : Comprehension

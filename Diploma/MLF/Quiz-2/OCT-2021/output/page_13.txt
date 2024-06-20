@@ -1,0 +1,28 @@
+Options :
+A. maxima
+B. minima
+C. saddle Point
+D. None of these
+
+Question Number : 21
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following statements are true about the matrix $A = \begin{bmatrix} 9 & 7 \\ 7 & 8 \end{bmatrix}$ ?
+Options :
+A. A is positive definite
+B. A is positive semi-definite
+C. A is negative definite
+D. A is negative semi-definite
+E. A is indefinite
+
+Question Number : 22
+Correct Marks : 2
+Question Label : Multiple Choice Question
+A 2 x 2 diagonal matrix A has determinant 40 and trace 13. Which of the following are true about the matrix?
+Options :
+A. A is positive definite
+B. A is positive semi-definite
+C. A is neither positive definite nor positive semi-definite.
+D. can not be determined
+
+Question Number : 23

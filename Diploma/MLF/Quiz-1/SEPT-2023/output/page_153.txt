@@ -1,0 +1,30 @@
+Is Section Default?: null
+Question Number : 123 Question Id : 640653668561 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider a regression model $h(x_1,x_2) = \frac{x_1+x_2}{2}$. For the below input data points, find the mean squared loss of $h$. Enter the answer correct to two decimal places.
+$\begin{array}{c|c}
+X&Y\\\hline
+[1,2]&2\\
+[2,3]&3\\
+[3,4]&4\\
+[4,5]&5
+\end{array}$
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.25
+Question Number : 124 Question Id : 640653668563 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+The curve $y=ax^2+bx+c$ passes through the points $(2,-1)$ and $(0,0)$, and is tangent to the line $y=-x$ at the origin. Find the absolute value of the product $ab$. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText

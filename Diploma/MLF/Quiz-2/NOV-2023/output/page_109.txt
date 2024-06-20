@@ -1,0 +1,24 @@
+2
+Question Number : 144 Question Id : 640653445896 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+You are told to make an open box with a squared base from a wooden piece of 27 $m^2$ area such that the volume of the resulting box is maximum. If the dimensions (length, breadth, and height) of the resulting box are $l$, $b$, and $h$ respectively, then the length of the required box is?
+Note: Enter the answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+Sub-Section Number : 4
+Sub-Section Id : 64065363434
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 145 Question Id : 640653445888 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+The matrix $A = \frac{1}{2}\begin{bmatrix} 1+i & \sqrt{k} \\ 1-i & \sqrt{k} \end{bmatrix}$ is unitary if k is 
+Options :

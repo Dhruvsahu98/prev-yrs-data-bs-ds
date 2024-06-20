@@ -1,0 +1,20 @@
+Question Label : Multiple Select Question
+Select the correct options from the following.
+Options :
+6406532239894. ❌ There exists a matrix whose row space contains 
+$\begin{bmatrix} 1 \\ 0 \\ -1 \end{bmatrix}$ and whose null space contains $\begin{bmatrix} 0 \\ 1 \\ 1 \end{bmatrix}$.
+6406532239895. ❌ There exists a matrix with row space = $\mathbb{R}^3$ and column space = $\mathbb{R}^4$.
+6406532239896. ✅ There exists a matrix whose column space contains $\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}$, and row space contains $\begin{bmatrix} 1 \\ 1 \end{bmatrix}$, $\begin{bmatrix} 1 \\ 2 \end{bmatrix}$.
+6406532239897. ✅ There exists a matrix whose nullspace consists of all vectors in $\mathbb{R}^3$ such that $x_1 + 2x_2 + 4x_3 = 0$.
+
+Sub-Section Number : 8
+Sub-Section Id : 64065395177
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653668568 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (132 to 133)
+Question Label : Comprehension
+Consider a subspace $U \subseteq \mathbb{R}^3$ and a vector $b \subseteq \mathbb{R}^3$, where
+$U = span \left\{ \begin{bmatrix} 1 \\ 1 \\ 2 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \\ 1 \end{bmatrix} \right\}$, $b = \begin{bmatrix} 2 \\ 0 \\ -4 \end{bmatrix}$
+Based on the above data, answer the given subquestions.

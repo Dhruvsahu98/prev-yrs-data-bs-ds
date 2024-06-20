@@ -1,0 +1,32 @@
+Question Number : 97 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+What is the output of the following code?
+```python
+from sklearn import svm
+X = [[0], [1], [2], [3]]
+Y = [0, 1, 2, 3]
+clf = svm.SVC(decision_function_shape='ovo')
+clf.fit(X, Y)
+dec = clf.decision_function([[1]])
+dec.shape[1]
+```
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+Question Number : 98 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+What will be the output of the following code snippet?
+```python
+from sklearn.metrics import DistanceMetric
+dist = DistanceMetric.get_metric('manhattan')
+X = [[3, 4],
+     [5, 6]]
+print(dist.pairwise(X)[0][1])
+```

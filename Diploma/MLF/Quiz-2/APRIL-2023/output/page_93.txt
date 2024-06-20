@@ -1,0 +1,47 @@
+$x_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}$, $x_2 = \begin{bmatrix} 2 \\ 3 \end{bmatrix}$, $x_3 = \begin{bmatrix} 3 \\ 2 \end{bmatrix}$
+
+$C = \frac{1}{n} \sum_{i=1}^n (x_i - \bar{x_i})(x_i - \bar{x_i})^T$
+
+Here $\bar{x_i} = \frac{x_1 + x_2 + x_3}{3}$
+
+What is the sum of the eigenvalues of the covariance matrix $C$ corresponding to the given data points $x_1$, $x_2$, $x_3$? Enter the answer correct to two decimals accuracy.
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Range
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+1.32 to 1.36
+
+**Question Number :** 110 **Question Id :** 640653521102 **Question Type :** SA Calculator : None
+
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 3
+
+**Question Label :** Short Answer Question
+
+Consider the data points 
+
+$x_1 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$, $x_2 = \begin{bmatrix} 0 \\ 0 \end{bmatrix}$, $x_3 = \begin{bmatrix} 2 \\ 1 \end{bmatrix}$
+
+If we are projecting this dataset onto the first principal component, then what is the projected variance? Enter the answer correct to two decimals accuracy.
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Range
+
+**Text Areas :** PlainText
+
+**Possible Answers :**

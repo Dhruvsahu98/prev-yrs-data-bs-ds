@@ -1,0 +1,26 @@
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are true about A?
+Options :
+6406532577532.  ✓ A is the Hermitian matrix.
+6406532577533.  ✗ A is the Unitary matrix.
+6406532577534.  ✓ All eigenvalues are real.
+6406532577535.  ✗ Eigenvalues are complex.
+
+Question Number : 144 Question Id : 640653770560 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are true about A?
+Options :
+$A = \begin{pmatrix} \frac{-i\sqrt{2}}{2} & \frac{i\sqrt{2}}{2} \\ \frac{\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \end{pmatrix} \begin{pmatrix} 2 & 0 \\ 0 & 0 \end{pmatrix} \begin{pmatrix} \frac{-i\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \\ \frac{i\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \end{pmatrix}$
+
+6406532577536.  ✓ 
+$A^2 = \begin{pmatrix} \frac{-i\sqrt{2}}{2} & \frac{i\sqrt{2}}{2} \\ \frac{\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \end{pmatrix} \begin{pmatrix} 4 & 0 \\ 0 & 0 \end{pmatrix} \begin{pmatrix} \frac{-i\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \\ \frac{i\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \end{pmatrix}$
+
+6406532577537.  ✓ 
+
+6406532577538.  ✓ $\begin{pmatrix} i \\ 1 \end{pmatrix}$ is an eigenvector of A
+
+6406532577539.  ✗ 

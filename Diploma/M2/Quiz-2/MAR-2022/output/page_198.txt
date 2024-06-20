@@ -1,0 +1,25 @@
+A. ✖ For all i, j with $i \neq j$, $S[i][j] + S[j][i] = 1$
+B. ✖ For all i, j with $i \neq j$, if $S[i][j] = 0$ then $S[j][i] = 1$
+C. ✔ For all i, j with $i \neq j$, if $S[i][j] = 1$ then $S[j][i] = 1$
+D. ✖ For all i, j with $i \neq j$, if $S[i][j] = 1$ then $S[j][i] = 0$
+E. ✔ For all i, j with $i \neq j$, if $S[i][j] = 0$ then $S[j][i] = 0$
+
+Question Number : 232 Question Type : MSQ
+
+Correct Marks : 4
+
+Question Label : Multiple Select Question
+There will be an edge between bills i and j if.
+It is a Multiple Select Question (MSQ).
+
+Options :
+A. ✔ The total bill amount of i is lower than the total bill amount of j by less than 100 and both bills are from the same shop.
+B. ✔ The total bill amount of i is greater than the total bill amount of j by less than 100 and both bills are from the same shop.
+C. ✖ The total bill amounts of bills i and j are same but both bills are from the different shops.
+D. ✔ The total bill amounts of bills i and j are same and both bills are from the same shop.
+
+Number of Questions : 
+Section Marks : 
+Sem2 Maths2
+6
+50

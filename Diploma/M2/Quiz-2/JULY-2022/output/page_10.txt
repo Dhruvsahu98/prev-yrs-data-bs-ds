@@ -1,0 +1,26 @@
+Question Id : 640653351508 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Question Numbers : (13 to 22)
+
+Question Label : Comprehension
+
+Suppose two publication houses (publication house A and publication house B) have organized a sale of their books. Both of them publish three types of books: novels, poetry collections and collections of short stories. The selling price (in (hundreds) ₹) of these three types of books in publication houses A and B are given as follows:
+
+| Publication house  | Novels | Poetry collections | Collections of short stories |
+|---|---|---|---|
+| Publication house A | 1 | 2 | 5 |
+| Publication house B | 3 | 3 | 3 |
+
+Table: Q2M2T1
+
+The publication houses announced that in order to avail these special sale prices, customers have to buy equal number of novels, equal number of poetry collection, and equal number of collection of short stories from each of the publication houses (i.e. a customer buys $x$ number of novels, $y$ number of poetry collections and $z$ number of collection of short stories from Publication house A, then they have to buy exactly $x$ number of novels, $y$ number of poetry collections and $z$ number of collection of short stories from Publication house B to avail the benefit of the sale). So there is a map taking the tuple consisting of the number of books of each type bought (Novels, Poetry collections, Collection of short stories) to the prices paid by customers who availed the sale to each of the publication houses, which yields a linear transformation (T) from $\mathbb{R}^3$ to $\mathbb{R}^2$ (where the first and second co-ordinates of the image denotes the prices paid to publication house A and publication house B, respectively).
+
+Answer the subquestions using the above information.
+
+Sub questions
+
+Question Number : 13 Question Id : 640653351509 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1
+
+Question Label : Multiple Choice Question

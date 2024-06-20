@@ -1,0 +1,20 @@
+Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following statements are correct?
+Options :
+6406531929721.  ✓ I($444\%3$ = 0 and $\pi \in \mathbb{R}$) = 1.
+6406531929722.  ✗ Mean Squared Error (MSE) is a suitable loss function for classification problems.
+6406531929723.  ✗ The loss obtained after applying encoder and decoder functions to a given data can be negative.
+6406531929724.  ✓ Gaussian mixture model is a family of distributions for modeling multimodal data.
+
+Question Number : 121 Question Id : 640653577884 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are true?
+Options :
+6406531929745.  ✓ Row space of a matrix is orthogonal to the null space of the matrix.
+6406531929746.  ✗ Row space of a matrix is orthogonal to the null space of transpose of the matrix.
+6406531929747.  ✓ Dimension of row space of a matrix is always equal to the dimension of column space of the matrix.
+6406531929748.  ✗ Dimension of row space of a matrix need not be equal to the dimension of column space of the matrix.

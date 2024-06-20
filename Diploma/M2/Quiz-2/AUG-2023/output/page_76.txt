@@ -1,0 +1,27 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Number : 98 Question Id : 640653588599 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Let $S : V_1 \rightarrow V_2$ be a linear transformation.
+If $m \times n$ is the order of the matrix $D$ of the linear transformation $S$ with respect to some ordered basis $\alpha_1$ for $V_1$ and an ordered basis $\alpha_2$ for $V_2$, what is $2m - 3n$? 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+-1
+
+Sub-Section Number : 6
+Sub-Section Id : 64065384955
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653588600 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (99 to 100)

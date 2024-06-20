@@ -1,0 +1,28 @@
+Correct Marks : 2
+Question Label : Short Answer Question
+Consider a relation R(A, B, C, D, E, F), having the following set of functional dependencies.
+$$F = \{A \rightarrow B, CD \rightarrow E, E \rightarrow F, F \rightarrow B\}$$
+What is the total number of candidate keys of relation R?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+Sub-Section Number : 7
+Sub-Section Id : 640653112593
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 100 Question Id : 640653770514 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider a disk having 128 tracks per surface, 512 sectors per track and 256 bytes/sector. If the minimum number of bits required to access a sector is 22, then find out the number of platters required?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+32

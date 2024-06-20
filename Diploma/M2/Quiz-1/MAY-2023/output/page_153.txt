@@ -1,0 +1,27 @@
+$V_2 = \{A \in M_3(\mathbb{R}): \text{ sum of the diagonal entries of A is 0 and sum of each row is 0} \}$ with usual addition and scalar multiplication of matrices. 
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+
+5
+
+Sub-Section Number : 
+7
+Sub-Section Id : 
+6406538256
+Question Shuffling Allowed : 
+No
+Is Section Default? : 
+null
+
+Question Id : 640653577754 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (11 to 15)
+Question Label : Comprehension
+
+Shivani, Sruthi and Smriti enjoyed shopping on a Sunday. Shivani bought 2 shirts, a T-shirt and 2 pants, whereas Sruthi bought a T-shirt and a pant and Smriti bought 2 shirts and a pant. They paid Rs. 600, Rs. 400 and Rs. 300 respectively. Suppose $x_1$ is the price of a shirt, $x_2$ is the price of a T-shirt and $x_3$ is the price of a pant. Then the above information forms a system of linear equations. If $Ax = b$ is the matrix representation of the above system, where $x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$ is the vector that represents the price of a shirt, T-shirt and pant respectively, answer the given subquestions. 
+
+Sub questions

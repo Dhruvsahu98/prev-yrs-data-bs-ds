@@ -1,0 +1,33 @@
+6406532467998. ❌ Reducing the dimensionality of images while retaining essential features, enabling efficient storage and transmission.
+
+6406532467999. ✅ Recognizing and interpreting handwritten characters or words, often used in digit recognition or reading handwritten text.
+
+6406532468000. ✅ Categorizing text documents into predefined classes, such as spam or non-spam emails. 
+
+Sub-Section Number : 6
+
+Sub-Section Id : 640653107635
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 142 Question Id : 640653737415 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4 Max Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Consider a matrix $B = A^4 - 3A - 2I$, where $A = \begin{bmatrix} 1 & 1 & 1 \\ 0 & 2 & 1 \\ 0 & 0 & 3 \end{bmatrix}$. Which of the following options is/are true?
+
+Options :
+
+6406532467976. ✅ Eigenvalues of A are 1, 2, and 3.
+
+6406532467977. ❌ Eigenvalues of A are 1, 2, and 2.
+
+6406532467978. ❌ Eigenvalues of B are 2, 20, and 78.
+
+6406532467979. ✅ Matrix B is diagonalizable.
+
+Question Number : 143 Question Id : 640653737416 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
