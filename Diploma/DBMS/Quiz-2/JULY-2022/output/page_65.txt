@@ -1,0 +1,29 @@
+6406531166740. ✅ X -> Z
+6406531166741. ❌ Y -> Z
+
+Question Number : 76 Question Id : 640653351572 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question
+Consider a relational schema **BankAccount**(Name, AadharNo, AccountNo, ContactNo) with the following functional dependencies:
+
+$F = \{ \\ 
+Name \rightarrow AadharNo, \\
+AadharNo \rightarrow AccountNo, \\
+AccountNo \rightarrow ContactNo, \\
+ContactNo \rightarrow Name
+\} $ 
+
+Above relation **BankAccount** is decomposed into three smaller relations; **BankAccount1**(Name, AadharNo), **BankAccount2**(AadharNo, AccountNo) and **BankAccount3**(AccountNo, ContactNo).
+
+Based on the given information, which among the following is incorrect?
+Options :
+6406531166746. ❌ The number of super keys for relation **BankAccount** are 15.
+6406531166747. ✅ The decomposition of **BankAccount** is lossy.
+6406531166748. ❌ AccountNo -> ContactNo is preserved in the decomposed relations.
+6406531166749. ✅ ContactNo -> Name is not preserved in the decomposed relations.
+
+Question Number : 77 Question Id : 640653351582 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question

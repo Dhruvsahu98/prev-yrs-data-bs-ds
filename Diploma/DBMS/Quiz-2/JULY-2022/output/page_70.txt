@@ -1,0 +1,29 @@
+Consider the following graph G.
+
+```python
+# no code block provided
+```
+
+Choose a value for x that will maximize the number of minimum cost spanning trees (MCSTs) for graph G. The number of minimum cost spanning trees (MCSTs) of G for this value of x is _____.
+
+**Options :**
+
+6406531166810.  $\times$ 1
+6406531166811.  $\times$ 3
+6406531166812.  $\checkmark$ 4
+6406531166813.  $\times$ 5
+
+**Question Number :** 84 **Question Id :** 640653351594 **Question Type :** MCQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 3
+
+**Question Label :** Multiple Choice Question
+
+A Priority-Queue is implemented as a Min-Heap. Initially, the Min-Heap is [7, 8, 11, 15, 20, 27]. Two new elements 9 and 5 are inserted in the given Min-Heap in that order. Min-Heap after the insertion of the elements is _____.
+
+**Options :**
+
+6406531166823.  $\times$ [5, 7, 8, 9, 20, 27, 11, 15]
+6406531166824.  $\checkmark$ [5, 7, 9, 8, 20, 27, 11, 15]
+6406531166825.  $\times$ [5, 7, 9, 8, 11, 20, 27, 15]
+6406531166826.  $\times$ [5, 7, 8, 9, 11, 15, 20, 27]

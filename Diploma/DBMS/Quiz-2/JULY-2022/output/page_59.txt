@@ -1,0 +1,37 @@
+Consider a relational schema **Faculty** (*fid, fname, address, experience, designation, salary)*, where the domains of all the attributes consist of atomic values. Consider the following functional dependencies for the relation **Faculty**. 
+
+```python
+F = {
+    fid -> fname, address, experience, designation,
+    designation -> salary,
+    experience -> designation
+}
+```
+
+What is the highest normal form of the above relational schema **Faculty**?
+
+**Options :**
+
+6406531166750.  1NF
+6406531166751.  2NF
+6406531166752.  3NF
+6406531166753.  BCNF
+
+**Question Number : 70 Question Id : 640653351583 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Question Label : Multiple Choice Question**
+
+Consider the relation **CAR**(LicenseNo, EngineSerialNo, Model, Year) and the following functional dependencies set
+
+```python
+F = {
+    LicenseNo, EngineSerialNo -> Model,
+    EngineSerialNo -> Year
+    Model, Year -> EngineSerialNo
+}
+```
+
+If the relation CAR is decomposed into two relations C1 and C2, which of the following is a lossless decomposition?
+
+**Options :**
+
+6406531166780.  C1(LicenseNo, EngineSerialNo, Model), C2(Model, Year)
+6406531166781.  C1(LicenseNo, EngineSerialNo, Model), C2(EngineSerialNo, Year)

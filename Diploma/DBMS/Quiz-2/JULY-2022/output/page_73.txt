@@ -1,0 +1,37 @@
+Recurrence Relation | Complexity
+------- | --------
+$T(n) = 2T(n/8) + O(n)$ | $O(logn)$
+$T(n) = 4T(n/4) + O(n)$ | $O(n)$
+$T(n) = T(n-1) + O(n)$ | $O(nlogn)$
+$T(n) = T(n/2) + O(1)$ | $O(n^2)$
+
+Select the correct match of recurrence relation with corresponding complexity.
+
+Options :
+
+6406531166842. ❌ A-2, B-4, C-3, D-1
+6406531166843. ✅ A-2, B-3, C-4, D-1
+6406531166844. ❌ A-2, B-3, C-1, D-4
+6406531166845. ❌ A-3, B-2, C-4, D-1
+
+Sub-Section Number : 3
+Sub-Section Id : 64065350489
+Question Shuffling Allowed : Yes
+
+Question Number : 88 Question Id : 640653351598 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Which of the following is the correct length of codes for the character set S = {A, B, C, D, E, F}, generated using the Huffman algorithm for given frequencies?
+
+| Character | A | B | C | D | E | F |
+|---|---|---|---|---|---|---|
+| Frequency | 13 | 30 | 6 | 35 | 2 | 11 |
+
+Options :
+
+6406531166836. ❌ A-3, B-3, C-5, D-1, E-5, F-4
+6406531166837. ❌ A-3, B-2, C-5, D-2, E-5, F-4
+6406531166838. ❌ A-3, B-3, C-5, D-2, E-5, F-4
+6406531166839. ✅ A-3, B-2, C-5, D-1, E-5, F-4

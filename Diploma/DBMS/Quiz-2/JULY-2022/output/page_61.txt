@@ -1,0 +1,52 @@
+Consider table **profile** shown in table 5:
+
+| Name | Salary |
+|---|---|
+| Data Engg | 55000 |
+| Data Sci. | 75000 |
+| Data Arch. | 75000 |
+| App Dev | 40000 |
+| JAVA Dev | 30000 |
+| Programmer | 60000 |
+
+Table 5: profile
+
+Choose the correct output table when the following query is executed.
+
+```python
+UPDATE profile
+SET salary = salary + 500
+WHERE name LIKE 'Data%', OR 'X' = 'X'
+```
+
+Options :
+
+6406531166796. ❌
+| Name | Salary |
+|---|---|
+| Data Engg | 55000 |
+| Data Sci. | 75000 |
+| Data Arch. | 75000 |
+| App Dev | 45000 |
+| JAVA Dev | 35000 |
+| Programmer | 65000 |
+
+6406531166797. ❌
+| Name | Salary |
+|---|---|
+| Data Engg | 55000 |
+| Data Sci. | 75000 |
+| Data Arch. | 75000 |
+| App Dev | 40000 |
+| JAVA Dev | 30000 |
+| Programmer | 60000 |
+
+6406531166798. ✅
+| Name | Salary |
+|---|---|
+| Data Engg | 60000 |
+| Data Sci. | 80000 |
+| Data Arch. | 80000 |
+| App Dev | 45000 |
+| JAVA Dev | 35000 |
+| Programmer | 65000 |

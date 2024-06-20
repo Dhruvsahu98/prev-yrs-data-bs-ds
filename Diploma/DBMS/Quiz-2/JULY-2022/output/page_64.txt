@@ -1,0 +1,47 @@
+Consider a **CourseSection** relation having the attributes (Course, Section, Instructor, RoomNo, Time) with the following set of FDs:
+$F = ${Course, Section, Time $\rightarrow$ RoomNo, Instructor
+Course, Section, Instructor $\rightarrow$ RoomNo, Time}
+
+Which among the following is/are candidate key for the relation CourseSection?
+
+Options :
+
+6406531166772. $\checkmark$ {Course, Section, Time}
+
+6406531166773. $\checkmark$ {Course, Section, Instructor}
+
+6406531166774. $\times$ {Instructor, RoomNo}
+
+6406531166775. $\times$ {Course, Section, Time, Instructor}
+
+
+Sub-Section Number : 6
+
+Sub-Section Id : 64065350484
+
+Question Shuffling Allowed : Yes
+
+Question Number : 75 Question Id : 640653351570 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Select Question
+
+Consider the table R shown in the Table 1
+
+| X | Y | Z |
+|---|---|---|
+| a | b | d |
+| a | c | e |
+| a | c | d |
+
+Table 1: R
+
+Which among the following holds true for the given table?
+
+Options :
+
+6406531166738. $\times$ X $\rightarrow$ Y
+
+6406531166739. $\checkmark$ X $\rightarrow$ Y

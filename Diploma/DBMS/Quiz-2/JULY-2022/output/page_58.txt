@@ -1,0 +1,28 @@
+| Name |
+|---|---|
+| 1. Augmentation |
+| 2. Complementation |
+| 3. Replication |
+| 4. Transitivity | 
+Table 2: Name
+
+| Rule |
+|---|---|
+| A. If $X\rightarrow Y$ and $Z \rightarrow W$, then $WX \rightarrow YZ$. |
+| B. If $X\rightarrow Y$ and $Y \rightarrow Z$, then $X \rightarrow (Z-Y)$. |
+| C. If $X\rightarrow Y$, then $X \rightarrow (R-(X \cup Y))$. |
+| D. If $X\rightarrow Y$, then $X \rightarrow Y$ but the reverse is not true |
+Table 3: Rule
+
+Which among the following is the correct matching of Name and Rule?
+
+Options:
+
+6406531166742. ❌ 1-A, 2-D, 3-C, 4-B
+6406531166743. ❌ 1-B, 2-A, 3-D, 4-C
+6406531166744. ✅ 1-A, 2-C, 3-D, 4-B
+6406531166745. ❌ 1-A, 2-C, 3-B, 4-D
+
+Question Number : 69 Question Id : 640653351573 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

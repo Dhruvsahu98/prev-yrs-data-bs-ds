@@ -1,0 +1,24 @@
+6406531166815. ✅ If e is the heaviest weight edge of some cycle in G, then MCST of G excludes e
+6406531166816. ❌ If e is the heaviest weight edge in G, then MCST of G excludes e
+6406531166817. ✅ If e is the lightest weight edge in G, then MCST of G includes e
+
+Question Number : 91 Question Id : 640653351593 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+Which of the following statement(s) is/are true?
+Options :
+6406531166818. ✅ The smallest element in a max-heap is always at a leaf node
+6406531166819. ❌ The smallest element in a max-heap is always at the lowest level
+6406531166820. ✅ The second-largest element in a max-heap is always a child of the root node
+6406531166821. ❌ Finding a minimum element in max-heap takes $O(logn)$ time
+6406531166822. ✅ Insert a new element in max-heap takes $O(logn)$ time in worst case
+
+Sub-Section Number : 5
+Sub-Section Id : 64065350491
+Question Shuffling Allowed : Yes
+
+Question Number : 92 Question Id : 640653351589 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Select Question

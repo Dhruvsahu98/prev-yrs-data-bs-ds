@@ -1,0 +1,21 @@
+Options : 
+6406531166827. ❌ FDKCEJAHBIG
+6406531166828. ❌ FKDGCHEJAIB
+6406531166829. ✅ FDKCEJAHBIG
+6406531166830. ❌ FDKCEJAHBIG
+
+Question Number : 86 Question Id : 640653351597 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question 
+Which one of the following can **not** be a possible sequence of elements in the path from the root to any leaf in a binary search tree?
+Options : 
+6406531166832. ❌ 70, 60, 20, 50, 30, 46
+6406531166833. ✅ 50, 10, 36, 40, 31, 46
+6406531166834. ❌ 20, 75, 58, 30, 55, 46
+6406531166835. ❌ 60, 10, 40, 50, 42, 46
+
+Question Number : 87 Question Id : 640653351601 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question 

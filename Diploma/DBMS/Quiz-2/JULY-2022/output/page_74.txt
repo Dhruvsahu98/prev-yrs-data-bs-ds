@@ -1,0 +1,20 @@
+Sub-Section Number : 4
+Sub-Section Id : 6406535049
+Question Shuffling Allowed : Yes
+
+Question Number : 89 Question Id : 640653351590 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+Which of the following statement(s) is/are true?
+Options :
+6406531166806.  ✅ Given a graph where all edges have positive weights, the shortest path produced by Dijkstra's and Bellman-Ford algorithm may be different, but the path weight would be the same.
+6406531166807.  ❌ Given a graph where weights of all edges are unique, there is always a unique shortest path from a source to destination in such a graph.
+6406531166808.  ✅ Bellman-Ford and Floyd-Warshall's algorithm can calculate the shortest path correctly if the graph has negative edge weights but does not have negative weight cycles.
+6406531166809.  ❌ The time complexity of Floyd-Warshall is O(V^2), where V is the number of vertices in the graph.
+
+Question Number : 90 Question Id : 640653351592 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+Let $G = (V, E)$ be an undirected connected graph with more than two vertices where each edge has a distinct weight, and e is a particular edge of G. Which of the following statement(s) is/are always true about the minimum cost spanning trees (MCSTs) of G?
+Options :
+6406531166814.  ❌ If e is the lightest weight edge of some cycle in G then MCST of G includes e

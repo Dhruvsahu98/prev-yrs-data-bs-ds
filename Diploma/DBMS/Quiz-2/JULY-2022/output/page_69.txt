@@ -1,0 +1,31 @@
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 64065350487
+Question Shuffling Allowed : No
+
+Question Number : 82 Question Id : 640653351588 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+
+Question Label : Multiple Choice Question
+```python
+THIS IS QUESTION PAPER FOR THE SUBJECT "PROGRAMMING DATA STRUCTURES AND ALGORITHMS USING PYTHON" 
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. 
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+```
+Options :
+6406531166800.  Yes
+6406531166801.  No
+
+Sub-Section Number : 2
+Sub-Section Id : 64065350488
+Question Shuffling Allowed : Yes
+
+Question Number : 83 Question Id : 640653351591 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question

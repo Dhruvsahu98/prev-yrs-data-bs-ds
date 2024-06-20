@@ -1,0 +1,19 @@
+6406531166782. ❌ C1(LicenseNo, EngineSerialNo), C2(Model, Year)
+6406531166783. ❌ C1(LicenseNo, EngineSerialNo, Year), C2(LicenseNo, Year)
+
+Question Number : 71 Question Id : 640653351584 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider a relation $R(A, B, C, D, E)$ with the following functional dependency sets
+$\mathcal{F} = \{A \rightarrow BCD, CD \rightarrow E, BC \rightarrow AE\}$
+Which of the following is the correct canonical cover of the set of functional dependencies $\mathcal{F}$ that occur in the relation $R$?
+
+Options : 
+6406531166784. ❌ $A \rightarrow BD, CD \rightarrow E, BC \rightarrow AE$
+6406531166785. ❌ $A \rightarrow D, CD \rightarrow E, BC \rightarrow E$
+6406531166786. ❌ $A \rightarrow C, D \rightarrow E, BC \rightarrow AE$
+6406531166787. ✅ $A \rightarrow BCD, CD \rightarrow E, BC \rightarrow A$
+
+Question Number : 72 Question Id : 640653351587 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

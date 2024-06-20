@@ -1,0 +1,46 @@
+Consider the following graph.
+
+```python
+#  Missing code block
+```
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw, circle] (A) at (0,5) {A};
+\node[draw, circle] (B) at (-2,3) {B};
+\node[draw, circle] (C) at (0,3) {C};
+\node[draw, circle] (D) at (2,3) {D};
+\node[draw, circle] (E) at (0,1) {E};
+\node[draw, circle] (F) at (-2,-1) {F};
+\node[draw, circle] (G) at (0,-3) {G};
+\node[draw, circle] (I) at (2,-1) {I};
+\node[draw, circle] (H) at (0,-5) {H};
+
+\draw (A) -- (B) node[midway, left] {3};
+\draw (A) -- (C) node[midway, right] {6};
+\draw (A) -- (D) node[midway, right] {20};
+\draw (B) -- (E) node[midway, left] {5};
+\draw (C) -- (E) node[midway, right] {7};
+\draw (D) -- (E) node[midway, right] {10};
+\draw (E) -- (F) node[midway, left] {8};
+\draw (E) -- (G) node[midway, right] {25};
+\draw (E) -- (I) node[midway, right] {5};
+\draw (F) -- (G) node[midway, left] {30};
+\draw (I) -- (G) node[midway, right] {9};
+\draw (G) -- (H) node[midway, right] {4};
+\end{tikzpicture}
+
+Apply Dijkstra's algorithm from vertex A in the given graph. Which of the following statement(s) is/are true?
+
+Options :
+
+6406531166802. ✅ If A is the 1st visited vertex, then The 5th visited marked vertex is F
+
+6406531166803. ❌ The shortest path cost from A to G is 33
+
+6406531166804. ✅ There is exactly one path with minimum cost from A to F
+
+6406531166805. ✅ More than one path with the same minimum cost are available from A to G
+
+Sub-Section Number : 6
+Sub-Section Id : 64065350492
+Question Shuffling Allowed : Yes

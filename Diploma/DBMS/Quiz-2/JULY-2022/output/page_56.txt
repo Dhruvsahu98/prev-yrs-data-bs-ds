@@ -1,0 +1,39 @@
+**Question Number : 65 Question Id : 640653351574 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following statements.
+
+**Statement 1:** Minimum arity of a node is defined as the arity of the tree.
+
+**Statement 2:** Arity of the Binary Search Tree is 1.
+
+**Options :**
+
+6406531166754. ❌ Statement 1 is correct, statement 2 is wrong.
+6406531166755. ❌ Statement 1 is wrong, statement 2 is correct.
+6406531166756. ❌ Both the statements are correct.
+6406531166757. ✅ Both the statements are wrong.
+
+**Question Number : 66 Question Id : 640653351580 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+The relation **EmployeeReview** is defined as **EmployeeReview(EmpID, Name, Hire Date, Reviewer, Grade)** with the functional dependencies set
+
+$F = \{EmpID \rightarrow HireDate, Name$
+$Reviewer \rightarrow Grade$
+$EmpID \rightarrow Grade\}$
+
+According to which of the following rules, $EmpID \rightarrow \{HireDate, Name, Grade\}$ holds?
+
+**Options :**
+
+6406531166768. ❌ Decomposition
+6406531166769. ✅ Union
+6406531166770. ❌ Pseudo-transitivity
+6406531166771. ❌ Augmentation

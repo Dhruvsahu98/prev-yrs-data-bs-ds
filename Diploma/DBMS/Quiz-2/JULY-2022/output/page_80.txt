@@ -1,0 +1,23 @@
+Question Number : 97 Question Id : 640653351604 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Let $T(n)$ denote the worst-case running time for the given function mystery, where $n$ is the length of $L$. The asymptotic expression for $T(n)$ is ______. Consider that the running time for partition function is $O(n)$.
+
+Options :
+6406531166850. $\times$ $O(log n)$
+6406531166851. $\times$ $O(n)$
+6406531166852. $\times$ $O(n log n)$
+6406531166853. $\checkmark$ $O(n^2)$
+
+AppDev-1
+Section Id : 64065322150
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 17
+Number of Questions to be attempted : 17
+Section Marks : 50
+Display Number Panel : Yes

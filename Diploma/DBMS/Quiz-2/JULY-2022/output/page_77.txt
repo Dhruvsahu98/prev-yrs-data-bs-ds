@@ -1,0 +1,27 @@
+Question Number : 93 Question Id : 640653351596 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+While inserting the elements 60, 20, 68, 10, 45, 50, 30, 47, and 85 in an empty binary search tree (BST) in the sequence shown, the height of the created binary search tree is ______. Assume that the height of the empty tree is 0. 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+Question Number : 94 Question Id : 640653351599 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Meetings M1, M2, ....., M11 are to be conducted in a single available meeting room. The table below gives the start and end times of these meetings. If any activity finishes at time T, then other activities can be started at time T or afterward. What is the maximum number of meetings that can be held in the meeting room without conflicts?
+
+|        | M1   | M2   | M3   | M4   | M5   | M6   | M7   | M8   | M9   | M10  | M11  |
+|:-------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| Start   | 5    | 4    | 8    | 9    | 12   | 7    | 5    | 3    | 4    | 1    | 8    |
+| End     | 7    | 5    | 10   | 11   | 14   | 9    | 8    | 5    | 9    | 3    | 13   |
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

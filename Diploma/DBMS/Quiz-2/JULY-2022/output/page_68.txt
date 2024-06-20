@@ -1,0 +1,27 @@
+**NOTE:** Enter your answer to the nearest integer.
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :** 
+25
+
+**Question Number :** 81 **Question Id :** 640653351579 **Question Type :** MCQ **Is Question Mandatory :** No Calculator : None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 2
+**Question Label :** Multiple Choice Question
+
+Given that the rotational speed of the disk is 6000 revolutions per minute. Consider the seek time is 3ms. What will be the rotational latency?
+**Options :** 
+6406531166764.  $\times$ 10 sec
+6406531166765.  $\times$ 5 sec
+6406531166766.  $\times$ 10 ms
+6406531166767.  $\checkmark$ 5 ms
+
+**Section Id :** 64065322149
+**Section Number :** 5
+**Section type :** Online
+**Mandatory or Optional :** Mandatory
+**Number of Questions :** 15
+**Number of Questions to be attempted :** 15

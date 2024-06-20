@@ -1,0 +1,32 @@
+Consider the following function that takes a list L of distinct integers and an integer k (1 ≤ k ≤ len(L)) as input.
+
+```python
+#lower and upper argument represent lower index and upper index of L respectively
+def mystery(L, lower, upper, k):
+  if (k > 0 and k <= upper - lower + 1):
+    pos = partition(L, lower, upper)
+    if (pos - lower == k - 1):
+      return L[pos]
+    if (pos - lower > k - 1):
+      return mystery(L, lower, pos - 1, k)
+    else:
+      return mystery(L, pos + 1, upper, k - pos + lower - 1)
+```
+
+In line 3, `partition` function treats the first element of L as a pivot and rearranges the list so that all elements less than or equal to the pivot are in the left part of the list, and all elements greater than the pivot are in the right part. In addition, it moves the pivot so that the pivot is the last element of the left part. The function returns the index of pivot in the list L.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 96 Question Id : 640653351603 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+What does function `mystery` return?
+
+Options :
+6406531166846. ❌ The smallest value in L that is greater than k.
+6406531166847. ❌ The largest value in L that is less than or equal to k.
+6406531166848. ❌ The k<sup>th</sup> largest element in L.
+6406531166849. ✅ The k<sup>th</sup> smallest element in L.
