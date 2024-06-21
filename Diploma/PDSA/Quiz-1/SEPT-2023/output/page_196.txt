@@ -1,0 +1,15 @@
+Question Label : Multiple Choice Question
+Consider the following functions:
+$f(n) = n \log \log n$
+$g(n) = n (\log n)^2$
+Which of the following is true?
+Options :
+6406532239756. ❌ $f(n)$ is $O(g(n))$ and $g(n)$ is $O(f(n))$
+6406532239757. ✅ $f(n)$ is $O(g(n))$, but $g(n)$ is not $O(f(n))$
+6406532239758. ❌ $f(n)$ is not $O(g(n))$ and $g(n)$ is not $O(f(n))$
+6406532239759. ❌ $g(n)$ is $O(f(n))$, but $f(n)$ is not $O(g(n))$
+
+Question Number : 87 Question Id : 640653668527 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

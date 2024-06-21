@@ -1,0 +1,32 @@
+| $u$ | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| $f(u)$ | 1/8 | 1/4 | 1/2 | 1/8 |
+
+6406532239680. $\checkmark$
+
+| $u$ | 0 | 1 | 2 |
+|---|---|---|---|
+| $f(u)$ | 3/8 | 1/4 | 3/8 |
+
+6406532239681. $\times$
+
+| $u$ | 0 | 2 |
+|---|---|---|
+| $f(u)$ | 1/4 | 3/4 |
+
+Question Number : 62 Question Id : 640653668497 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If $P(U = a|U \ge 1) = \frac{2}{5}$, then find the value of $a$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1
+
+Question Id : 640653668498 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (63 to 64)

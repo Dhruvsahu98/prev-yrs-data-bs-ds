@@ -1,0 +1,33 @@
+**Correct Marks : 4**
+
+Question Label : Multiple Choice Question
+
+What does function `mystery` return?
+
+**Options :**
+
+A. ❌ Longest common subsequence of all strings in list `arr`.
+
+B. ✅ Longest common prefix of all strings in list `arr`.
+
+C. ❌ Longest common suffix of all strings in list `arr`.
+
+D. ❌ Longest common substring of all strings in list `arr`.
+
+**Question Number : 190 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Select Question
+
+Which of the following is/are true about the `mystery` function? Assume the size of the input list is $n$ and the length of the longest string in the list is $m$.
+
+**Options :**
+
+A. ❌ Function `mystery` is an example of a greedy algorithm.
+
+B. ✅ Function `mystery` is an example of a divide and conquer algorithm.
+
+C. ❌ Time complexity for function `mystery` is $O(n+m)$
+
+D. ❌ Time complexity for function `mystery` is $O(n\ log\ m)$

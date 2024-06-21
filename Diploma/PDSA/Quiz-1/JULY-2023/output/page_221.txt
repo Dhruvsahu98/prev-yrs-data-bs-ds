@@ -1,0 +1,31 @@
+What is the overall asymptotic running time of the 3-way-Merge Sort algorithm?
+
+**Options :**
+
+6406531932662.  ❌  $O(n^2)$
+
+6406531932663.  ❌  $O(n^2 log n)$
+
+6406531932664.  ❌  $O(n log n^2)$
+
+6406531932665.  ✅  $O(n log n)$
+
+Question Number : 250 Question Id : 640653578808 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following statements is **not true** about Quicksort?
+
+**Options :**
+
+6406531932672.  ❌  For every fixed strategy to choose a pivot for Quicksort, we can construct a worst-case input that requires time $O(n^2)$.
+
+6406531932673.  ❌  If we could find the median in time $O(n)$, Quicksort would have worst-case complexity $O(n log n)$.
+
+6406531932674.  ✅  $O(n log n)$.
+
+If we randomly choose a pivot element each time, Quicksort will always terminate in time 
+
+Question Number : 251 Question Id : 640653578810 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

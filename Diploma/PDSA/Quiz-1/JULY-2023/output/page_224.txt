@@ -1,0 +1,28 @@
+6406531932701. ❌ Only statement 2 is true
+6406531932702. ✅ Both statements 1 and 2 are true
+6406531932703. ❌ Both statements 1 and 2 are false
+
+Sub-Section Number : 4
+Sub-Section Id : 64065382918
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 254 Question Id : 640653578807 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the given list $L = [9, 14, 17, 37, 57, 62, 82, 92, 97]$. After applying the Quick-sort partition algorithm once, the list is modified to : $[14, 9, 17, 37, 62, 57, 82, 97, 92]$. The number of elements that could have been chosen as a pivot in the first round is ____?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+3
+
+Question Number : 255 Question Id : 640653578812 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+A connected, simple, undirected graph G has 1225 edges. The minimum number of vertices in G is _____.
+Response Type : Numeric

@@ -1,0 +1,19 @@
+Question Label : Comprehension
+
+A fair die is thrown two times independently. Let $X_1$ represent the number obtained in the 1st throw, $X_2$ represent the number obtained in the 2nd throw. Define a new random variable $X$ such that 
+ $$X = max(X_1, X_2)$$
+ Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 63 Question Id : 640653668499 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Compute the CDF of $X$, $F_X(k)$, where $k \in \{1, 2, 3, 4, 5, 6\}$.
+
+Options :
+6406532239683.  $\times$  $F_X(k) = \left(\frac{k}{6}\right)$
+6406532239684.  $\times$  $F_X(k) = \left(\frac{1}{6}\right)^2$
+6406532239685.  $\times$  $F_X(k) = \left(\frac{k+1}{6}\right)^2$
+6406532239686.  $\checkmark$  $F_X(k) = \left(\frac{k}{6}\right)^2$

@@ -1,0 +1,36 @@
+L is a non-empty list of distinct positive integers. That is:
+- L has at least one element
+- No two elements of L are the same
+
+If the following snippet of code terminates without any error after a finite number of iterations of the while loop, what is the output produced by it?
+
+Hint: L.remove(x) removes the leftmost occurrence of x in L.
+
+```python
+# L is a non-empty list of distinct positive integers
+# L has already been defined
+val = 0
+for x in L:
+    val += x
+while L != []:
+    for y in range(1, 11, 2):
+        if y in L:
+            L.remove(y)
+        else:
+            L.append(y)
+print(val)
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+25
+
+DBMS
+Section Id : 64065339070
+Section Number : 5
+Section type : Online
+Mandatory or Optional : Mandatory

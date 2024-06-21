@@ -1,0 +1,31 @@
+6406531485455. ❌ vertices.
+
+6406531485456. ✅ Given a graph where all edges have positive weights, the shortest path produced by Dijkstra's and Bellman-Ford algorithm may be different, but the path weight would be the same.
+
+Question Number : 117 Question Id : 640653445858 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Consider that the following elements are inserted in the given order to create an AVL tree $T$: 
+36, 40, 32, 18, 72, 5, 35, 34
+Which of the following node(s) would be leaf nodes of $T$?
+
+Options :
+6406531485471. ✅ 5
+6406531485472. ✅ 32
+6406531485473. ❌ 40
+6406531485474. ✅ 35
+6406531485475. ❌ 34
+
+Sub-Section Number : 
+Sub-Section Id : 
+Question Shuffling Allowed : 
+Is Section Default? : 
+
+5
+64065363423
+Yes
+null
+
+Question Number : 118 Question Id : 640653445862 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

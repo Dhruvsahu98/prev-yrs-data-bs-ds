@@ -1,0 +1,24 @@
+Consider a string: I I T M B S I I T
+What is the average length of bits required for encoding each letter using Huffman encoding?
+
+**Options :**
+6406531485476.  1.87
+6406531485477.  3.15
+6406531485478.  2.46
+6406531485479.  2.18
+
+**Question Number : 114 Question Id : 640653445860 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+
+Consider a random sequence of positive integers $x_1, x_2, x_3, \ldots, x_n$, we have to partition them in two sets $P(p_1, p_2, \ldots, p_k)$ and $Q(q_1, q_2, \ldots, q_{n-k})$ such that the difference between the sum of these two sets is minimum i.e. $|\sum p_i - \sum q_i|$ is minimum.
+
+Which of the following greedy strategy would work for this problem?
+
+**Options :**
+6406531485480.  Sort $x_1, x_2, x_3, \ldots, x_n$ and put all even positioned elements in P and odd positioned element in Q from the sorted sequence.
+6406531485481.  Find the median element of $x_1, x_2, x_3, \ldots, x_n$, put all elements lesser or equal to the median in P and greater than the median in Q.
+6406531485482.  Sort $x_1, x_2, x_3, \ldots, x_n$ from the sorted sequence at $i^{th}$ step, $x_i$ is placed in that set (P or Q) whose sum of all current elements is smaller in the $i^{th}$ step.
+6406531485483.  None of these.
+
+**Question Number : 115 Question Id : 640653445863 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction**

@@ -1,0 +1,24 @@
+Options :
+6406532577433. ❌ In-order traversal
+6406532577434. ✅ Pre-order traversal
+6406532577435. ❌ Post-order traversal
+
+Question Number : 113 Question Id : 640653770536 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Apply the divide and conquer strategy to find the closest pair of points in a set. After dividing the set into two halves and recursively finding the closest pairs in each half, what additional step is required?
+Options :
+6406532577448. ❌ Combine the results directly
+6406532577449. ❌ Perform a linear search for the closest pair
+6406532577450. ✅ Consider pairs that span both halves
+6406532577451. ❌ Sort the points by their distances
+
+Question Number : 114 Question Id : 640653770538 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following recurrence relation for an algorithm:-
+$T(n) = 4T(n/2) + O(n)$
+Base Case: $T(1) = 1$
+The complexity of this algorithm is ____.

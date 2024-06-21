@@ -1,0 +1,25 @@
+6406531485451. ❌ 0 1 5 6 4 2 3
+
+**Question Number : 110 Question Id : 640653445854 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Question Label : Multiple Choice Question**
+
+Consider a max-heap H = [20, 10, 12, 8, 9]. If we perform the following operations in the given order on the max-heap H then the resulting max-heap would be ______
+
+1.  insert(15) #The resulting heap after inserting 15 would be max-heap
+2.  delete\_max() #The resulting heap after deleting the max element would be max-heap
+
+Options :
+
+6406531485457. ❌ [15, 9, 8, 10, 12]
+
+6406531485458. ✅ [15, 10, 12, 8, 9]
+
+6406531485459. ❌ [15, 12, 10, 9, 8]
+
+6406531485460. ❌ [15, 12, 10, 8, 9]
+
+**Question Number : 111 Question Id : 640653445856 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3 Question Label : Multiple Choice Question**
+
+Consider the following statements:
+
+1.  Time required for searching an item in a min-heap of size $n$ is bounded by $O(log \ n)$.
+2.  Time required for searching an item in a balanced binary search tree of size $n$ is bounded by $O(log \ n)$.

@@ -1,0 +1,22 @@
+D.  $\checkmark$ 1 3 4 2 7 6 9 8 5
+
+Question Number : 188 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following statements is **true** about the complexity of the given **traversal** function, where $n$ is the number of nodes?
+
+**Options :**
+
+A.  $\times$  $O(n \log n)$ whether the tree is balanced or unbalanced.
+B.  $\times$  $O(n)$ if the tree is balanced, $O(n \log n)$ otherwise.
+C.  $\checkmark$  $O(n)$ whether the tree is balanced or unbalanced.
+D.  $\times$  $O(\log n)$ if the tree is balanced, $O(n^2)$ otherwise.
+
+Question Type : COMPREHENSION
+
+Question Numbers : (189 to 190)
+
+Question Label : Comprehension

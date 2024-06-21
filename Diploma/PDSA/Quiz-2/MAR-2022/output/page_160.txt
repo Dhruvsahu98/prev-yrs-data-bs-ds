@@ -1,0 +1,24 @@
+E.  Time complexity for function `mystery` is $O(nm)$
+
+# System Commands
+Number of Questions : 20
+Section Marks : 50
+
+Question Number : 191 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: SYSTEM COMMANDS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+A.  ✅ YES
+B.  ❌ NO
+
+Question Number : 192 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following shell commands will concatenate the two files `f1.txt` and `f2.txt` into a new file named `f3.txt`.

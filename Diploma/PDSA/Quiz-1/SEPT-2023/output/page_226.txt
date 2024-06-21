@@ -1,0 +1,26 @@
+The graph of a probability density function ($f_X(x)$) of a continuous random variable (X) is shown below ($\alpha$, $\beta$ $\in$ $\mathbb{R}$):
+$f_X(x)$
+
+\begin{tikzpicture}[scale=0.8]
+\draw[->] (-3,0) -- (3,0) node[right] {$x$};
+\draw[->] (0,-0.2) -- (0,2.2) node[above] {$f_X(x)$};
+\draw[dashed] (-1,2) -- (1,2);
+\draw[thick] (-1,0) -- (-1,2) -- (1,1) -- (1,0);
+\draw (-1,0) node[below] {$(-\alpha, 0)$};
+\draw (1,0) node[below] {$(\alpha, 0)$};
+\draw (1,2) node[above right] {$(\alpha, \beta)$};
+\draw (1,1) node[below right] {$(\alpha, \frac{\beta}{2})$};
+\draw (0,0) node[below] {Graph of the pdf of X};
+\end{tikzpicture}
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 67 Question Id : 640653668505 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following is true?
+Options :
+6406532239693. $\alpha \beta = 1$
+6406532239694. $\alpha \beta = \frac{2}{3}$
+6406532239695. $\alpha \beta = 2$
+6406532239696. $\frac{1}{\alpha} + \frac{1}{\beta} = 1$

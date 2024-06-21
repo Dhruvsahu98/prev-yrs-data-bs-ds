@@ -1,0 +1,43 @@
+Which of the following statement is **true** for searching the $k^{th}$ smallest element in an unsorted array of size $n$, where all elements are distinct?
+
+**Options :**
+
+6406531736771.  ✔ Using Quick Select strategy, the worst-case running time will be $O(n^2)$.
+
+6406531736772.  ✖ Using a max-heap of size $k$, the worst-case running time will be $O(k)$.
+
+6406531736773.  ✔ Using Fast Select (Quick Select using MoM for pivot selection strategy), the worst-case running time will be $O(n)$.
+
+6406531736774.  ✖ Using Fast Select (Quick Select using MoM for pivot selection strategy), the worst-case running time will be $O(n * k)$.
+
+**Sub-Section Number :** 5
+
+**Sub-Section Id :** 64065373935
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number :** 78 **Question Id :** 640653521063 **Question Type :** SA **Calculator :** None
+
+**Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 4
+
+**Question Label :** Short Answer Question
+
+The post-order traversal of a binary search tree is  \_1, 3, 4, 5, 2, 7, 8, 6\_. The height of a tree is the number of nodes in the longest path from the root to any leaf (including root and leaf node). The height of the binary search tree is \_\_.
+
+**Response Type :** Numeric
+
+**Evaluation Required For SA :** Yes
+
+**Show Word Count :** Yes
+
+**Answers Type :** Equal
+
+**Text Areas :** PlainText
+
+**Possible Answers :**
+
+5

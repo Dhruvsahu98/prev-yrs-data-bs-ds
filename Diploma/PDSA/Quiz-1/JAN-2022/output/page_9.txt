@@ -1,0 +1,52 @@
+Question Label : Multiple Select Question
+Consider the following graph
+
+```python
+graph = {
+    'a': ['b', 'e', 'f'],
+    'b': ['a', 'e', 'f', 'h'],
+    'e': ['a', 'b', 'h'],
+    'f': ['a', 'b', 'h'],
+    'h': ['b', 'e', 'f', 'g'],
+    'g': ['h']
+}
+```
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw, circle] (a) at (2,4) {a};
+\node[draw, circle] (b) at (2,2) {b};
+\node[draw, circle] (e) at (1,3) {e};
+\node[draw, circle] (f) at (3,3) {f};
+\node[draw, circle] (h) at (2,1) {h};
+\node[draw, circle] (g) at (2,0) {g};
+\draw (a) -- (b);
+\draw (a) -- (e);
+\draw (a) -- (f);
+\draw (b) -- (e);
+\draw (b) -- (f);
+\draw (b) -- (h);
+\draw (e) -- (h);
+\draw (f) -- (h);
+\draw (h) -- (g);
+\end{tikzpicture}
+
+A Breadth First Search (BFS) is started at node a. The nodes are listed in the order they are first visited. Which of the following is (are) possible output(s)?
+
+**Options :**
+
+A. $\checkmark$ abefhg
+
+B. $\checkmark$ abf ehg
+
+C. $\times$ abfhge
+
+D. $\times$ afghbe
+
+Question Number : 16 Question Type : MSQ
+Correct Marks : 4
+
+Question Label : Multiple Select Question
+
+Which of the following statement(s) is/are **true** about Depth First Search (DFS) on an undirected and connected graph?
+
+**Options :**

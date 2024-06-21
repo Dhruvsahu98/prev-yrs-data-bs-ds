@@ -1,0 +1,34 @@
+# PDSA
+**Section Id :** 64065323902
+**Section Number :** 6
+**Section type :** Online
+**Mandatory or Optional :** Mandatory
+**Number of Questions :** 17
+**Number of Questions to be attempted :** 17
+**Section Marks :** 50
+**Display Number Panel :** Yes
+**Group All Questions :** Yes
+**Enable Mark as Answered Mark for Review and Clear Response :** No
+**Maximum Instruction Time :** 0
+**Sub-Section Number :** 1
+**Sub-Section Id :** 6406535348
+**Question Shuffling Allowed :** No
+
+**Question Number : 81 Question Id : 640653386735 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question**
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+**Options :**
+
+6406531286129.  ✅ YES
+
+6406531286130. ❌ NO
+
+**Sub-Section Number :** 2

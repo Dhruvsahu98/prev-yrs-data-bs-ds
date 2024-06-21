@@ -1,0 +1,22 @@
+C.  $O(n), O(1)$
+D.  $O(n), O(n)$
+
+## Question Number : 5 Question Type : MCQ
+**Correct Marks : 3**
+Question Label : Multiple Choice Question
+
+We are given a directed graph, using an adjacency list representation. For each vertex $x$, we want to compute the set of incoming edges $(u, v)$. Which of the following is the most accurate description of the complexity of this computation? ($n$ is the number of vertices and $m$ is the number of edges).
+
+**Options :** 
+A.  $O(n)$
+B.  $O(n^2)$
+C.  $O(n + m)$
+D.  $O(nm)$
+
+## Question Number : 6 Question Type : MCQ
+**Correct Marks : 3**
+Question Label : Multiple Choice Question
+
+Let $G = (V, E)$ be a simple undirected, unweighted and connected graph. Given a source vertex $s, for x \in V$, let $d(x)$ denote the length of a shortest path from $s$ to $x$ in $G$ in terms of the number of edges. A breadth first search (BFS) is performed starting at $s$. Let $T$ be the resultant BFS tree. If $(u, v)$ is an edge of $G$ that is not in $T$, then which one of the following cannot be the value of $d(u) - d(v)$? 
+
+**Options :** 

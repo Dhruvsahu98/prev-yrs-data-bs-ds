@@ -1,0 +1,38 @@
+```python
+6406532239674.
+```
+\begin{tabular}{|c|c|c|c|}
+\hline
+Y\textbackslash X & 0 & 1 & 2 \\ \hline
+0 & 0 & $\frac{2}{27}$ & $\frac{4}{27}$ \\ \hline
+1 & $\frac{2}{27}$ & $\frac{4}{27}$ & $\frac{6}{27}$ \\ \hline
+2 & $\frac{1}{27}$ & $\frac{3}{27}$ & $\frac{5}{27}$ \\ \hline
+\end{tabular}
+```python
+6406532239675.
+```
+\begin{tabular}{|c|c|c|c|}
+\hline
+Y\textbackslash X & 0 & 1 & 2 \\ \hline
+0 & 0 & $\frac{1}{27}$ & $\frac{2}{27}$ \\ \hline
+1 & $\frac{2}{27}$ & $\frac{3}{27}$ & $\frac{4}{27}$ \\ \hline
+2 & $\frac{4}{27}$ & $\frac{5}{27}$ & $\frac{6}{27}$ \\ \hline
+\end{tabular}
+```python
+6406532239676.
+```
+\begin{tabular}{|c|c|c|c|}
+\hline
+Y\textbackslash X & 0 & 1 & 2 \\ \hline
+0 & 0 & $\frac{2}{27}$ & $\frac{2}{27}$ \\ \hline
+1 & $\frac{2}{27}$ & $\frac{3}{27}$ & $\frac{5}{27}$ \\ \hline
+2 & $\frac{3}{27}$ & $\frac{4}{27}$ & $\frac{6}{27}$ \\ \hline
+\end{tabular}
+**Question Number : 60 Question Id : 640653668494 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+**Question Label : Short Answer Question**
+Find $P(X + Y \leq 2 \mid X > 0)$. Enter the answer correct to two decimal places.
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**

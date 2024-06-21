@@ -1,0 +1,24 @@
+6406532467864. ❌ Worst case time complexity is $O(n^2)$
+
+6406532467865. ✅ Recurrence relation of merge sort is $T(n) = 2T(n/2) + O(n)$
+
+6406532467866. ✅ It is a stable sort algorithm
+
+Question Number : 104 Question Id : 640653737383 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Unimodal List: A list $[L_0 ... n-1]$ of distinct elements is unimodal if it consists of a decreasing sequence followed by an increasing sequence. More precisely, there is an index $m \in 1, 2, ..., n-2$ such that:
+* $[L[i] > L[i+1]$ for all $0 <= i < m$, and
+* $[L[i] < L[i+1]$ for all $m <= i < n-1$.
+
+Suppose the middle element of an unimodal list is $x$, and the elements to the left and right of $x$ are $p$ and $q$, respectively. Which of the following facts must be used to find the minimum element in $O(log n)$ time?
+
+Options :
+6406532467867. ✅ If $p > x < q$, then $x$ is the minimum in the list.
+
+6406532467868. ✅ If $p < x < q$, then the minimum element is in the left half of the list.
+
+6406532467869. ❌ If $p < x < q$, then the minimum element is in the right half of the list.
+
+6406532467870. ❌ If $p > x > q$, then the minimum element is in the left half of the list.

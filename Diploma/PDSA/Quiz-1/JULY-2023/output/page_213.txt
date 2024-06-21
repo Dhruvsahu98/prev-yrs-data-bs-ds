@@ -1,0 +1,32 @@
+Consider the following functions:
+- $f(n) = 102n^4 + 26n^3$
+- $g(n) = 103n^3 + 20n^2$
+- $h(n) = 110n^3 \log n + 36n$
+
+Which of the following is/are true?
+
+**Options :**
+
+6406531932645. ❌ $f(n) = O(g(n))$
+
+6406531932646. ✅ $g(n) = O(h(n))$
+
+6406531932647. ❌ $f(n) = O(h(n))$
+
+6406531932648. ❌ $h(n) = O(g(n))$
+
+6406531932649. ✅ $h(n) = O(f(n))$
+
+Question Number : 241 Question Id : 640653578806 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Unimodal List: A list $L[0 ... n-1]$ of distinct elements is unimodal if it consists of an increasing sequence followed by a decreasing sequence. More precisely, there is an index $m \in 1, 2, ... , n-2$ such that:
+
+- $L[i] < L[i+1]$ for all $0 \le i < m$, and
+
+- $L[i] > L[i+1]$ for all $m \le i < n-1$.
+
+Suppose the middle element of a unimodal list is $x$, and the elements to the left and right of $x$ are $p$ and $q$, respectively. Which of the following facts must be used to find the maximum element in $O(\log n)$ time?

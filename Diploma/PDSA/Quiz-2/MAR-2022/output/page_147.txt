@@ -1,0 +1,42 @@
+```python
+double c = Stream.iterate(1, n -> n+1)
+                .map(n -> n * n * n)
+                .dropWhile(n -> n <= 125)
+                .count();
+```
+
+D. $\times$
+
+PDSA
+
+Number of Questions : 14
+
+Section Marks : 50
+
+Question Number : 175 Question Type : MCQ
+
+Correct Marks : 0
+
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "**DIPLOMA LEVEL: PROGRAMMING DATA STRUCTURES AND ALGORITHMS USING PYTHON**"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE **TOP** FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+A. $\checkmark$ YES
+
+B. $\times$ NO
+
+Question Number : 176 Question Type : MCQ
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Let G be a complete undirected graph on 4 vertices, having 6 edges with weights being 1, 2, 3, 4, 5,

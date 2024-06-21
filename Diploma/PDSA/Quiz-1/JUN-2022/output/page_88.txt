@@ -1,0 +1,22 @@
+Question Number : 93 Question Id : 640653345535 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following statements:
+1. A single stack can be used to check whether a word is palindrome or not 
+2. A stack can be used to evaluate expressions. 
+3. The last element to be inserted into a stack will always be the last element to be taken out of the stack. 
+Choose the correct option regarding the given statements.
+Note: A palindrome is a word that spells the same from both sides. Eg: radar
+Options :
+6406531149180. ❌ Statement 1 and Statement 3 are false
+6406531149181. ❌ Statement 2 and Statement 3 are false
+6406531149182. ❌ Only statement 1 is false
+6406531149183. ✅ Only statement 3 is false
+
+Question Number : 94 Question Id : 640653345536 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+According to the conventional definition, an array is a fixed size data structure whose values are contiguously located in memory, whereas a linked list is a dynamic collection (size can change) of values that are not contiguously located in memory. 
+Considering the above definitions, if we use a Binary search algorithm to find a value from a linked list, then what would be the worst-case time complexity of Binary search?

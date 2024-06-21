@@ -1,0 +1,37 @@
+Sub-Section Number : 4
+Sub-Section Id : 64065382573
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 58 Question Id : 640653577808 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+Select an appropriate code snippet that can shift the given key `zamzamsayzam` by two places along the alphabet and generates the encrypted key `bcobcoucabco`.
+
+Options :
+```python
+1 alphabet = 'abcdefghijklmnopqrstuvwxyz'
+2 key = 'zamzamsayzam'
+3 encrypt_key = ''
+4 for i in key:
+5   encrypt_key = encrypt_key + (alphabet[((alphabet.index(i)) * 2)%26])
+6 print(encrypt_key)
+```
+```python
+1 alphabet = 'abcdefghijklmnopqrstuvwxyz'
+2 key = 'zamzamsayzam'
+3 encrypt_key = ''
+4 for i in key:
+5   encrypt_key = encrypt_key + (alphabet[((alphabet.index(i)) + 2)%25])
+6 print(encrypt_key)
+```
+```python
+1 alphabet = 'abcdefghijklmnopqrstuvwxyz'
+2 key = 'zamzamsayzam'
+3 encrypt_key = ''
+4 for i in key:
+5   encrypt_key = encrypt_key + (alphabet[((alphabet.index(i)) + 2) // 26])
+6 print(encrypt_key)
+```

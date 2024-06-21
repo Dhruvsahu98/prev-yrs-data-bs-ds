@@ -1,0 +1,20 @@
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A list of *n* strings, each of length *n* is sorted in lexicographical order using the Merge Sort algorithm. What is its time complexity? (Assume that comparing strings lexicographically takes *O(n)*).
+Options :
+6406531562789. ❌  *O(nlogn)*
+6406531562790. ✅  *O(n<sup>2</sup> logn)*
+6406531562791. ❌  *O(n<sup>2</sup>)*
+6406531562792. ❌  *O(logn)*
+
+Question Number : 90 Question Id : 640653470295 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+4 sorted lists each of length *n/2* are merged into a single sorted list of *2n* elements using two way merging. What will be the minimum number of element comparisons needed for this process ?
+Options :
+6406531562793. ❌  *n - 1*
+6406531562794. ❌  *2n - 1*
+6406531562795. ✅  *4n - 3*
+6406531562796. ❌  *4n - 1*

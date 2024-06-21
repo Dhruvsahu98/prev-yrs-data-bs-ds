@@ -1,0 +1,31 @@
+B. $\checkmark$ 013425
+C. $\times$ 013542
+D. $\checkmark$ 012543
+E. $\times$ 013245
+
+DBMS
+
+Number of Questions : 18
+Section Marks : 50
+
+Question Number : 18 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: DATABASE MANAGEMENT SYSTEMS"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+
+A. $\checkmark$ YES
+B. $\times$ NO
+
+Question Number : 19 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+An individual can use a graphical user interface (GUI) or a screen to interact with a system. However, he/she is not aware of the data that is stored in the database. At which level of abstraction is the individual working?

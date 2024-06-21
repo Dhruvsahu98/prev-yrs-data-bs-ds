@@ -1,0 +1,36 @@
+640653239778.  Minimum: $2n-1$, Maximum: $4n-3$
+640653239778.  Minimum: $2n-1$, Maximum: $4n+1$
+
+Question Number : 95 Question Id : 640653668534 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Let $s$ be a stack and $q$ be a queue supporting the following operations:
+
+**Stack operation:**
+
+- Push(d): Insert element d in stack
+- Pop(): Remove the element from the stack and return the removed element
+
+**Queue Operation:**
+
+- Enqueue(d): Insert element d in queue
+- Dequeue(): Remove the element from the queue and return the removed element
+
+Consider the following function:
+
+```python
+def fun(s, Q):
+    if (not s.isempty()):
+        Q.Enqueue(s.Pop())
+        fun(s, Q)
+    s.Push(Q.Dequeue())
+```
+
+What operation is performed by the above function $fun(s, Q)$? Suppose initially stack $s$ has $n$ elements and queue $q$ is empty.
+
+Options : 
+
+640653239787.  Leaves the stack $S$ unchanged
+640653239788.  Reverses the order of the elements in the stack $S$
+640653239789.  Swap the top and bottom element of the stack $S$, keeping the other elements in the same order

@@ -1,0 +1,33 @@
+Consider the following Insertion sort algorithm:
+
+```python
+def insertionsort(L):
+  n = len(L)
+  if n < 1:
+    return(L)
+  for i in range(n):
+    j = i
+    while (j > 0 and L[j] < L[j-1]):
+      (L[j-1], L[j]) = (L[j], L[j-1])
+      j = j - 1
+  return(L)
+```
+
+Given an input list $L$ of size $n$. What are the minimum and maximum number of swapping operations (Line-8) possible between elements to sort the input list $L$?
+
+**Options :**
+
+6406532239770. ❌ Minimum: 0, Maximum: $n(n+1)/2$
+
+6406532239771. ❌ Minimum: $n - 1$, Maximum: $n(n+1)/2$
+
+6406532239772. ✅ Minimum: 0, Maximum: $n(n-1)/2$
+
+6406532239773. ❌ Minimum: $n - 1$, Maximum: $n(n-1)/2$
+
+6406532239774. ❌ Minimum: 0, Maximum: $n^2$
+
+Question Number : 91 Question Id : 640653668532 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

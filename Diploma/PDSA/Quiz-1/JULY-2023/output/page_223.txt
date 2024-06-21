@@ -1,0 +1,32 @@
+Consider a graph $G$. Let $T$ be a BFS tree of $G$ with root $r$. Let $d(r, v)$ denote the length of the shortest path between the nodes $r$ and $v$. If vertex $x$ is visited before vertex $y$ in the breadth first search traversal, which of the following statements is true?
+
+**Options :**
+
+6406531932690. $\times$ $d(r, x) > d(r, y)$
+
+6406531932691. $\times$ $d(r, x) = d(r, y)$
+
+6406531932692. $\times$ $d(r, x) < d(r, y)$
+
+6406531932693. $\checkmark$ $d(r, x) \leq d(r, y)$
+
+6406531932694. $\times$ $d(r, x) \geq d(r, y)$
+
+
+**Question Number :** 253 **Question Id :** 640653578815 **Question Type :** MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+**Correct Marks :** 3
+
+**Question Label :** Multiple Choice Question
+
+Consider the following statements:
+
+1. While creating a DFS tree for a directed graph, among non-tree edges, only back edges correspond to cycles.
+
+2. The depth of any DFS tree rooted at a vertex is at least as much as the depth of any BFS tree rooted at the same vertex.
+
+Choose the correct option.
+
+**Options :**
+
+6406531932700. $\times$ Only statement 1 is true

@@ -1,0 +1,31 @@
+C.  The sum of $column(j)$ represents the in-degree of vertex $j$
+
+D.  The sum of $column(j)$ represents the out-degree of vertex $j$
+
+E.  The sum of $row(i)$ represents the total degree (in-degree + out-degree) of vertex $i$
+
+F.  The sum of $column(j)$ represents the total-degree (in-degree + out-degree) of vertex $j$
+
+
+Question Number : 15
+Correct Marks : 3
+Question Label : Multiple Select Question
+Which of the following statements is/are true with respect to merge sort and heap sort?
+Options :
+A.  Worst case time complexity of heap sort is same as that of merge sort.
+B.  Worst case time complexity of heap sort is better than that of merge sort.
+C.  Heap sort requires less space than merge sort.
+D.  Heap sort is stable sorting technique but merge sort is not.
+
+
+Question Number : 16
+Correct Marks : 5
+Question Label : Multiple Select Question
+Consider the following algorithm on a connected weighted graph with $n$ vertices and $m$ edges.
+* Sort the edges as $[E1, E2, ..., Em]$ in decreasing order of weight.
+* Consider each edge $Ej$ in sorted order.
+* If this edge is part of a cycle, then delete it. Otherwise, keep it in the resulting graph.
+Which of the following statements is/are true?
+Options :
+A.  Exactly $m-n+1$ edges will be deleted.
+B.  At most $n-1$ edges will be deleted.

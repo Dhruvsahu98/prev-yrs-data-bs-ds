@@ -1,0 +1,21 @@
+6406532239662. $\times \frac{1}{18}$
+6406532239663. $\times \frac{1}{6}$
+6406532239664. $\checkmark \frac{1}{9}$
+6406532239665. $\times \frac{1}{3}$
+
+Question Id : 640653668487 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (57 to 58)
+Question Label : Comprehension
+
+A box contains 7 milk chocolates and 3 dark chocolates. Two chocolates are drawn at random one after another without replacement from the box. Let a random variable X denote the number of milk chocolates drawn.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 57 Question Id : 640653668488 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+What is the PMF of X ?
+
+Options :

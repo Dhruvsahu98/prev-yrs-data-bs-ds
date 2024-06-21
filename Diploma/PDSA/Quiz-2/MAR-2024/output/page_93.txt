@@ -1,0 +1,16 @@
+Options :
+6406532577456. ❌ $O(n)$
+6406532577457. ❌ $O(log n)$
+6406532577458. ✅ $O(n^2)$
+6406532577459. ❌ $O(n log n)$
+
+Sub-Section Number : 4
+Sub-Section Id : 640653112600
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 115 Question Id : 640653770525 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

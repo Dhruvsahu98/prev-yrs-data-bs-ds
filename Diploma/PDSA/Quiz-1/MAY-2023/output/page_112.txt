@@ -1,0 +1,42 @@
+```python
+num_terms = 5
+start_num = 1
+sum_of_seq = 0
+for i in range(1, num_terms+1):
+    sum_of_seq += start_num
+    start_num = start_num * 10 + (i+1)
+print(sum_of_seq)
+```
+
+```python
+num_terms = 5
+start_num = 1
+sum_of_seq = 0
+for i in range(1, num_terms):
+    sum_of_seq += start_num
+    start_num = start_num * 10 + (i+1)
+print(sum_of_seq)
+```
+
+6406531929505.  ✔
+6406531929506.  ✖
+
+**Question Number : 60 Question Id : 640653577812 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4**
+
+**Question Label : Multiple Choice Question**
+
+Consider the following Python snippet:
+
+```python
+num = int(input("Enter a number"))
+r_num = 1
+while num != 0:
+    digit = num % 10
+    r_num = r_num * 10 + digit
+    num //= 10
+print(r_num)
+```
+
+Assume that 2345 is passed as input to the code. Which of the following option is the correct output for the given input?
+
+**Options :**

@@ -1,0 +1,27 @@
+Question Label : Multiple Choice Question
+Consider a connected, directed graph on which DFS is executed. Which of the following options are true regarding pre and post numbering used in the DFS algorithm on the graph?
+Options :
+6406531149203.  If $(u,v)$ is an edge of the graph such that $[pre(u),post(u)]$ contains $[pre(v),post(v)]$ then the graph is necessarily cyclic
+6406531149204.  If $(u,v)$ is an edge of the graph such that $[pre(u),post(u)]$ contains $[pre(v),post(v)]$ then the graph is necessarily cyclic
+6406531149205.  If $(u,v)$ is an edge of the graph such that $[pre(u),post(u)]$ and $[pre(v),post(v)]$ are disjoint intervals then the graph is necessarily cyclic
+6406531149206.  None of these
+
+Question Number : 97 Question Id : 640653345542 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following statements:
+1. Finding the longest path in DAG takes $o(m+n)$ time, where $n$ is the number of vertices and $m$ is the number of edges.
+2. A DAG will always have more than one topological ordering.
+3. DFS always produces the same number of tree edges, irrespective of the node from which the search started.
+Choose the correct option.
+Options :
+6406531149207.  Only statement 1 is true
+6406531149208.  Statement 1 and Statement 2 are true
+6406531149209.  Statement 1 and Statement 3 are true
+6406531149210.  Only statement 3 is true
+<div align="center">
+Correct option changed.
+Option 1 is correct.
+Option 3 is incorrect.
+</div>

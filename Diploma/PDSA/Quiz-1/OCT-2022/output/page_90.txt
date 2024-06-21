@@ -1,0 +1,26 @@
+6406531286180. ✖ pre[u] = 7 , post[u] = 8 , pre[v] = 4 , post[v] = 5
+6406531286181. ✖ pre[u] = 2 , post[u] = 9 , pre[v] = 7 , post[v] = 8
+6406531286182. ✖ pre[u] = 2 , post[u] = 9 , pre[v] = 4 , post[v] = 5
+
+Sub-Section Number : 3
+Sub-Section Id : 64065355350
+Question Shuffling Allowed : Yes
+
+Question Number : 95 Question Id : 640653386751 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+Which of the following statement(s) is/are true about Breadth First Search (BFS) on an undirected graph?
+
+Options :
+
+6406531286185. ✅ BFS systematically computes reachability in graphs.
+6406531286186. ✖ The Time complexity of BFS is $O(mn)$ when Adjacency List is used and $O(m^2)$ when Adjacency Matrix is used, where $m$ represents the number of vertices and $n$ represents the number of edges.
+6406531286187. ✖ BFS cannot be used to check for cycles in the graph.
+6406531286188. ✅ Paths discovered by BFS are the shortest paths in terms of the number of edges from source to destination.
+
+Sub-Section Number : 4
+Sub-Section Id : 64065355351
+Question Shuffling Allowed : Yes
+
+Question Number : 96 Question Id : 640653386749 Question Type : SA Calculator : None

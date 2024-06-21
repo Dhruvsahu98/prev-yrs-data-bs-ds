@@ -1,0 +1,32 @@
+6406531932687. ✅ 34, 45, 18, 51, 60
+6406531932688. ✅ 18, 34, 51, 45, 60
+
+Question Number : 244 Question Id : 640653578814 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction
+Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+Consider the following graph:
+
+\begin{tikzpicture}[scale=0.8]
+\tikzstyle{every node}=[draw,circle,minimum size=0.8cm]
+\node (A) at (0,0) {A};
+\node (B) at (-1,-1) {B};
+\node (C) at (-2,0) {C};
+\node (D) at (-2,1) {D};
+\node (E) at (-1,2) {E};
+\node (F) at (1,0) {F};
+\draw (A)--(B)--(C)--(D)--(E)--(A);
+\draw (A)--(F);
+\end{tikzpicture}
+
+If we run breadth first search(BFS) on the given graph starting at any vertex, which of the following is/are possible order of visiting the nodes?
+Note : When a node has multiple neighbours, BFS would visit alphabetically.
+
+**Options :**
+6406531932695. ❌ A B C D E F
+6406531932696. ✅ B A C D E F
+6406531932697. ✅ C B D A E F
+6406531932698. ✅ D B C E A F
+6406531932699. ❌ E A B D F C

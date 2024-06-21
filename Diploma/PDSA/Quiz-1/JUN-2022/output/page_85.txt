@@ -1,0 +1,38 @@
+THIS IS QUESTION PAPER FOR THE SUBJECT "PROGRAMMING DATA STRUCTURES AND ALGORITHMS USING PYTHON"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+**Options :**
+6406531149146. ✅ YES
+6406531149147. ❌ NO
+
+**Sub-Section Number :** 2
+**Sub-Section Id :** 64065348864
+**Question Shuffling Allowed :** Yes
+
+**Question Number : 89 Question Id : 640653345527 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 2**
+
+**Question Label : Multiple Choice Question**
+
+```python
+def fun(arr):
+    n = len(arr)
+    if n % 2 == 0:
+        while n > 1:
+            n = n // 4
+            print(arr[n])
+    else:
+        for i in range(0, n):
+            print(arr[i])
+```
+What is the worst case time complexity of the given function fun ?
+
+**Options :**
+6406531149148. ✅ $O(n)$
+6406531149149. ❌ $O(n^2)$
+6406531149150. ❌ $O(logn)$

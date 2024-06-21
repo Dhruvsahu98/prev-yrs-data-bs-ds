@@ -1,0 +1,30 @@
+You are given a list of 8 meetings, each represented by a tuple (start time, end time). Your goal is to schedule all meetings in the minimum number of conference rooms. If a meeting ends at time t in a conference room, another meeting can start at time t or afterwards in the same room.
+
+**Meetings:** [(1, 4), (6, 12), (2, 8), (11, 15), (3, 7), (5, 10), (9, 14), (13, 16)]
+
+The minimum number of conference rooms needed to schedule all meetings is  \_\_.
+
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+4
+
+**AppDev1**
+
+**Section Id :** 64065353264
+**Section Number :** 8
+**Section type :** Online
+**Mandatory or Optional :** Mandatory
+**Number of Questions :** 17
+**Number of Questions to be attempted :** 17
+**Section Marks :** 50
+**Display Number Panel :** Yes
+**Group All Questions :** No
+**Section Negative Marks :** 0
+**Enable Mark as Answered Mark for Review and Clear Response :** Yes
+**Maximum Instruction Time :** 0
+**Sub-Section Number :** 1
+**Sub-Section Id :** 640653112606

@@ -1,0 +1,40 @@
+```python
+count = 0
+i = 2
+while (count < 10):
+    flag = True
+    for j in range(2, i//2+1):
+        if i % j != 0:
+            break
+        else:
+            flag = False
+    if flag:
+        print(i)
+        count += 1
+    i += 1
+```
+
+```python
+# Look at the options for the value of M
+n = len(M)
+flag = True
+for i in range(n):
+    for j in range(n):
+        if (i != j) and (M[i][j] != 0):
+            flag = False
+            break
+        elif (i == j) and (M[i][j] != 1):
+            flag = False
+            break
+if flag == False:
+    break
+print(flag)
+```
+
+**Question Number : 64 Question Id : 640653577815 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 4 Max. Selectable Options : 0 Question Label : Multiple Select Question**
+
+Select all matrices (list of lists) $M$ for which the above snippet of code prints `True` to the console.
+
+**Options :**
+
+6406531929520.  $\checkmark$ [[1, 0, 0], [0, 1, 0], [0, 0, 1]]

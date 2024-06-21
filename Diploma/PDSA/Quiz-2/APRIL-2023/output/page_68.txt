@@ -1,0 +1,30 @@
+Question Number : 79 Question Id : 640653521065 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the following 4 items (one unit for each) with their weights and value.
+
+| Item No. | Weight(W) | Value(V) |
+|---|---|---|
+| 1 | 7 | 28 |
+| 2 | 10 | 60 |
+| 3 | 2 | 24 |
+| 4 | 4 | 28 |
+
+The task is to pick a subset of these items such that their total weight should be lesser or equal to 13 (maximum weight capacity C <= 13) and their total value is maximized. Consider that each item has only one unit and it can not be split.
+
+$V_{opt}$ = The total value of items picked by an optimal algorithm.
+
+$V_{greedy}$ = The total value of items picked by one greedy approach that sorts the item by value(V) to weight(W) ratio in descending order and picks them greedily starting from the first item in the ordered list (pick the item if the total weight of that item is less than or equal to the remaining capacity, otherwise, skip that item).
+
+The value of $V_{opt}$ - $V_{greedy}$ is ______
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+
+Question Number : 80 Question Id : 640653521066 Question Type : SA Calculator : None

@@ -1,0 +1,29 @@
+A.  ✓ In both min heaps and max heaps, both operations take $O(n)$ time.
+
+B.  × In both min heaps and max heaps, both operations take $O(log\ n)$ time.
+
+C.  × In a min heap, $next\_smaller(v)$ takes $O(log\ n)$ time and $next\_larger$ takes $O(n)$ time whereas in a max heap $next\_smaller(v)$ takes $O(n)$ time and $next\_larger$ takes $O(log\ n)$ time.
+
+D.  × In a min heap, $next\_smaller(v)$ takes $O(n)$ time and $next\_larger$ takes $O(log\ n)$ time whereas in a max heap $next\_smaller(v)$ takes $O(log\ n)$ time and $next\_larger$ takes $O(n)$ time.
+
+Question Number : 5
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Which of the following statements is/are true?
+
+I. Given a graph where all edges have positive weights, the shortest path produced by Dijkstra's and Bellman Ford algorithm may be different but path weight would be same.
+
+II. Given a weighted graph where weights of all edges are unique, there is always a unique shortest path from a source to destination in such a graph.
+
+Options :
+
+A.  ✓ Only (I)
+B.  × Only (II)
+C.  × Both (I) and (II)
+D.  × None of these
+
+Sub
+
+Numbers : (6 to 7)
+Question Label : Comprehension

@@ -1,0 +1,20 @@
+Options :
+A. ❌ $O(n \log n)$
+B. ✅ $O(\log n)$
+C. ❌ $O(n)$
+D. ❌ $O(1)$
+
+Question Number : 179 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+While inserting the elements 50, 80, 20, 60, 10, 45, 65, 30, and 90 in an empty binary search tree (BST) in the sequence shown, the elements at maximum depth are ______.
+Options :
+A. ❌ 30, 90
+B. ❌ 10, 90
+C. ✅ 30, 65
+D. ❌ 65, 90
+
+Question Number : 180 Question Type : MSQ
+Correct Marks : 3
+Question Label : Multiple Select Question
+Consider the graph shown below.

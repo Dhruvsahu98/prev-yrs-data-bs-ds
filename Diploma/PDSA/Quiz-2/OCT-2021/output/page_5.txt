@@ -1,0 +1,51 @@
+Consider the following class for tree nodes.
+
+```python
+class Node:
+    def __init__(self, value = None):
+        self.value = value
+        self.left = None
+        self.right = None
+```
+
+\begin{tikzpicture}[scale=0.8]
+\node[circle,draw] (A) at (0,0) {$A$};
+\node[circle,draw] (B) at (-2,-1) {$B$};
+\node[circle,draw] (C) at (2,-1) {$C$};
+\node[circle,draw] (D) at (-3,-2) {$D$};
+\node[circle,draw] (E) at (-1,-2) {$E$};
+\node[circle,draw] (F) at (1,-2) {$F$};
+\node[circle,draw] (G) at (3,-2) {$G$};
+\node[circle,draw] (H) at (-1,-3) {$H$};
+\node[circle,draw] (I) at (1,-3) {$I$};
+\draw (A)--(B);
+\draw (A)--(C);
+\draw (B)--(D);
+\draw (B)--(E);
+\draw (C)--(F);
+\draw (C)--(G);
+\draw (E)--(H);
+\draw (F)--(I);
+\end{tikzpicture}
+
+```python
+def traversal(t):
+    if t != None:
+        traversal(t.left)
+        traversal(t.right)
+        print(t.value, end = " ")
+traversal(root) # root refers to the node A
+```
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 6
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Which of the following order will be printed by the given code-snippet?
+Options :
+A.  \(\times\) ABDEHCFIG
+B.  \(\times\) DBHEAIFCG

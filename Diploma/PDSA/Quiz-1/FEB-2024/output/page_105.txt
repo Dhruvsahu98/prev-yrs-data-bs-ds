@@ -1,0 +1,34 @@
+An undirected graph $G$ has 5 vertices. The maximum number of edges in $G$ is \_\_\_.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+10
+
+Question Number : 116 Question Id : 640653737391 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the following DAG:
+
+```python
+  F
+ / \
+C   A
+ \ /
+  D
+  |
+  B
+```
+
+The number of different topological orderings of the vertices of the given graph is \_\_\_.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

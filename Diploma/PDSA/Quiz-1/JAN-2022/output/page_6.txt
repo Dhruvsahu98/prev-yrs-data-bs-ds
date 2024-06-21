@@ -1,0 +1,36 @@
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+```
+
+Suppose each node of the linked list is an object of class Node, head is the first node of the linked list and the list has the following elements:
+
+10, 5, 7, 20, 18, 15, 22, 25, 30
+
+```python
+def operation(head):
+    ptr0 = head
+    ptr1 = head
+    ptr2 = head
+    while (ptr2 != None and ptr2.next != None):
+        ptr0 = ptr1
+        ptr1 = ptr1.next
+        ptr2 = ptr2.next.next
+    ptr0.next = ptr1.next
+```
+
+What will be the updated list after calling function operation(head) ?
+
+**Options :**
+
+A. ✖ 10, 5, 7, 20, 18, 22, 25, 30 
+B. ✖ 10, 5, 7, 20, 18, 15, 25, 30
+C. ✖ 10, 5, 7, 20, 18, 15, 22, 25
+D. ✅ 10, 5, 7, 20, 15, 22, 25, 30
+
+**Question Number : 11 Question Type : SA**
+**Correct Marks : 4**
+
+**Question Label : Short Answer Question**

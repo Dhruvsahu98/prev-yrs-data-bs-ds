@@ -1,0 +1,37 @@
+Consider the following input list:
+[38, 28, 43, 22, 112, 33, 39]
+
+What will be the number of swaps that the following Insertion sort will make to sort this given list?
+
+```python
+def insertionsort(L):
+  n = len(L)
+  if n < 1:
+    return(L)
+  for i in range(n):
+    j = i
+    while(j > 0 and L[j] < L[j-1]):
+      (L[j], L[j-1]) = (L[j-1], L[j])
+      j = j-1
+  return(L)
+```
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9
+
+Question Number : 98 Question Id : 640653470302 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+
+Linear probing is an open addressing scheme in computer programming for resolving hash collisions in hash tables. Linear probing takes the original hash index and increments the value by 1 until a free slot is found.
+
+A hash table contains 8 buckets indexed from 0 to 7 and uses linear probing to resolve collisions. The key values are integers and the hash function used is $key \mod 8$. If key values 91, 27, 16, 64, 41 are inserted in to the table in the given order, in what location would the key value 160 be inserted after them?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes

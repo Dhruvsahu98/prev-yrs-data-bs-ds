@@ -1,0 +1,54 @@
+Consider the following implementation for merge two sorted list and return one sorted merged list:
+
+```python
+def merge(A, B): # Merge two sorted list A and B
+    (m, n) = (len(A), len(B))
+    (C, i, j) = ([], 0, 0)
+    #Case 1 :- when both lists A and B have elements for comparing
+    while i < m and j < n:
+        if A[i] <= B[j]: #Compare the elements
+            C.append(A[i])
+            i += 1
+        else:
+            C.append(B[j])
+            j += 1
+    #Case 2 :- if list B is over, shift all elements of A to C
+    while i < m:
+        C.append(A[i])
+        i += 1
+    #Case 3 :- if list A is over, shift all elements of B to C
+    while j < n:
+        C.append(B[j])
+        j += 1
+    # Return sorted merged list
+    return C
+```
+
+If 4 sorted lists $L_1$, $L_2$, $L_3$ and $L_4$ each of length $n/2$ are merged into a single sorted list of elements using two-way merging by given merge function. What will be the minimum and maximum number of element comparisons needed for this process?
+
+Two-way merge:
+
+\begin{tikzpicture}[scale=0.8]
+\node (L1) at (0,0) {$L_1$};
+\node (L2) at (2,0) {$L_2$};
+\node (L3) at (4,0) {$L_3$};
+\node (L4) at (6,0) {$L_4$};
+\node (M1) at (1,1) {};
+\node (M2) at (5,1) {};
+\node (M3) at (3,2) {};
+
+\draw[->] (L1) -- (M1) node[midway,below] {merge};
+\draw[->] (L2) -- (M1);
+\draw[->] (M1) -- (M3) node[midway,right] {merge};
+\draw[->] (L3) -- (M2) node[midway,below] {merge};
+\draw[->] (L4) -- (M2);
+\draw[->] (M2) -- (M3);
+\end{tikzpicture}
+
+Options :
+
+6406532239775.  ✔ Minimum: $2n$, Maximum: $4n - 3$
+
+6406532239776.  ✖ Minimum: $2n$, Maximum: $4n - 1$
+
+6406532239777.  ✖ 

@@ -1,0 +1,40 @@
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the following DAG
+
+\begin{tikzpicture}[scale=1.5]
+\tikzstyle{every node}=[draw,circle,fill=white,minimum size=10pt,inner sep=0pt]
+\node (A) at (0,1) {A};
+\node (B) at (0,0) {B};
+\node (C) at (1,0.5) {C};
+\node (D) at (1.5,1) {D};
+\node (E) at (1.5,0) {E};
+\node (F) at (2.5,0.5) {F};
+\node (G) at (3.5,1) {G};
+\node (H) at (3.5,0) {H};
+
+\draw[->] (A) -- (C);
+\draw[->] (B) -- (C);
+\draw[->] (D) -- (F);
+\draw[->] (E) -- (F);
+\draw[->] (F) -- (G);
+\draw[->] (F) -- (H);
+\end{tikzpicture}
+
+The number of different topological orderings of the vertices of the graph is \_\_.
+
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+8
+
+Question Number : 97 Question Id : 640653386750 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+A university offers an online learning program in which there are 12 courses in total. The program is divided into **semesters** of 6 months. Students can take any number of courses in one semester, but they can take a course only if they have finished taking its prerequisites.

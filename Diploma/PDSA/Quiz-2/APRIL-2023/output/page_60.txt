@@ -1,0 +1,44 @@
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+6406531736728. ✅ YES
+6406531736729. ❌ NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065373932
+Question Shuffling Allowed : Yes
+Is Section Default?: null
+
+Question Number : 67 Question Id : 640653521056 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+In the given graph, if we try to find the shortest path from node P to all other nodes using Dijkstra's algorithm, in what order do the nodes get included in the visited set?
+
+\begin{tikzpicture}[scale=0.8]
+\tikzstyle{every node}=[draw,shape=circle];
+
+\node (S) at (0,4) {S};
+\node (U) at (4,4) {U};
+\node (R) at (0,1) {R};
+\node (T) at (4,1) {T};
+\node (Q) at (0,-2) {Q};
+\node (P) at (4,-2) {P};
+
+
+\draw[->] (S) -- node[above] {2} (U);
+\draw[->] (U) -- node[right] {2} (T);
+\draw[->] (T) -- node[right] {7} (P);
+\draw[->] (P) -- node[below] {1} (Q);
+\draw[->] (Q) -- node[left] {1} (R);
+\draw[->] (R) -- node[left] {2} (S);
+\draw[->] (Q) -- node[above] {1} (S);
+\draw[->] (P) -- node[left] {6} (S);
+\draw[->] (R) -- node[right] {4} (S);
+\draw[->] (P) -- node[right] {3} (U);
+
+\end{tikzpicture}

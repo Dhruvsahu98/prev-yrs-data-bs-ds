@@ -1,0 +1,22 @@
+**Options :**
+6406531149156. ❌ Recurrence is $T(n)=2T(n-1)+O(n)$ and time complexity is $O(n^2)$
+6406531149157. ✅ Recurrence is $T(n)=T(n-1)+O(n)$ and time complexity is $O(n^2)$
+6406531149158. ❌ Recurrence is $T(n)=T(n-1)+O(1)$ and time complexity is $O(n)$
+6406531149159. ❌ Recurrence is $T(n)=2T(n/2)+O(n)$ and time complexity is $O(n\ log\ n)$
+
+**Question Number :** 92 **Question Id :** 640653345531 **Question Type :** MCQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question
+Consider the following functions:
+$f_1=n\sqrt{n}$
+$f_2=log^2n$
+$f_3=n\ log\ n$
+$f_4=log\ log\ n$
+
+Which of the following is correct order of increasing growth rate?
+
+**Options :**
+6406531149164. ❌ $f_2<f_4<f_1<f_3$
+6406531149165. ❌ $f_2<f_4<f_3<f_1$
+6406531149166. ✅ $f_4<f_2<f_3<f_1$
+6406531149167. ❌ $f_1<f_3<f_2<f_4$

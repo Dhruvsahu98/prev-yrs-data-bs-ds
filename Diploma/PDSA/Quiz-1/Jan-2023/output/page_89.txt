@@ -1,0 +1,42 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+Question Number : 99 Question Id : 640653470306 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Consider the following graph
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=3cm,
+                    thick,main node/.style={circle,draw,blue,font=\sffamily\Large\bfseries}]
+
+  \node[main node] (1) {1};
+  \node[main node] (2) [above right of=1] {2};
+  \node[main node] (3) [above left of=2] {3};
+  \node[main node] (4) [above left of=3] {4};
+  \node[main node] (5) [below left of=4] {5};
+  \node[main node] (6) [below left of=4] {6};
+
+  \path[every node/.style={font=\sffamily\small}]
+    (1) edge (2)
+    (1) edge (5)
+    (2) edge (4)
+    (3) edge (4)
+    (5) edge (4)
+    (6) edge (4);
+\end{tikzpicture}
+
+The number of different topological orderings possible for this DAG starting from vertex 1 is \_\_.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+12
+
+Sub-Section Number :
+5

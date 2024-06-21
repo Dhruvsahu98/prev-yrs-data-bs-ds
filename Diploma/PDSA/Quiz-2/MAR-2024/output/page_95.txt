@@ -1,0 +1,50 @@
+For a set of symbols with probabilities of occurrence, which of the following statement(s) about the Huffman tree is/are correct?
+
+**Options :**
+
+6406532577441. ✅ Symbols with higher probabilities are generally closer to the root of the tree
+
+6406532577442. ❌ Symbols with lower probabilities are generally closer to the root of the tree
+
+6406532577443. ❌ The Huffman tree is always a complete binary tree
+
+6406532577444. ✅ It generates prefix codes (no code is a prefix of another).
+
+**Sub-Section Number :** 6
+
+**Sub-Section Id :** 640653112602
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number :** 117 **Question Id :** 640653770531 **Question Type :** MSQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+**Correct Marks :** 3 **Max. Selectable Options :** 0
+
+**Question Label :** Multiple Select Question
+
+Define the **slope** of a node as the absolute difference in height between the left subtree and the right subtree of the node. Consider that the height of the empty tree is 0.
+
+Consider the below AVL Tree.
+
+\begin{tikzpicture}[
+  level distance=1.5cm,
+  level 1/.style={sibling distance=3cm},
+  level 2/.style={sibling distance=1.5cm}
+]
+  \node {38}
+    child {node {14}
+      child {node {8}}
+      child {node {23}
+        child {node {18}}
+      }
+    }
+    child {node {56}
+      child {node {45}}
+      child {node {82}
+        child {node {70}}
+      }
+    };
+\end{tikzpicture}

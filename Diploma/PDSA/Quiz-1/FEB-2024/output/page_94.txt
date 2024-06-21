@@ -1,0 +1,46 @@
+Correct Marks : 3 Max. Selectable Options : 0
+
+Question Label : Multiple Select Question
+
+Consider the below Merge Sort implementation
+
+```python
+def merge(A, B): # Merge two sorted list A and B
+    (m, n) = (len(A), len(B))
+    (c, i, j) = ([], 0, 0)
+    #Case 1 :- when both lists A and B have elements for comparing
+    while i < m and j < n:
+        if A[i] <= B[j]:
+            c.append(A[i])
+            i += 1
+        else:
+            c.append(B[j])
+            j += 1
+    #Case 2 :- If list B is over, shift all elements of A to C
+    while i < m:
+        c.append(A[i])
+        i += 1
+    #Case 3 :- If list A is over, shift all elements of B to C
+    while j < n:
+        c.append(B[j])
+        j += 1
+    # Return sorted merged list
+    return c
+
+def mergesort(L):
+    n = len(L)
+    if n <= 1:
+        return(L)
+    Left_Half = mergesort(L[:n//2])
+    Right_Half = mergesort(L[n//2:])
+    Sorted_Merged_List = merge(Left_Half, Right_Half)
+    return(Sorted_Merged_List)
+```
+
+Which of the following is/are true about given Merge Sort algorithm?
+
+Options :
+
+6406532467862.  ✔️ Worst case time complexity is $O(n \log n)$ 
+
+6406532467863.  ✖ Best case time complexity is $O(n)$ 

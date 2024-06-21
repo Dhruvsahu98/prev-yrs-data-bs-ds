@@ -1,0 +1,25 @@
+Options :
+A. ❌ Dijkstra's algorithm using priority queues
+B. ❌ Bellman-Ford algorithm
+C. ❌ Depth first search
+D. ✅ Breadth first search
+
+Question Number : 13
+Correct Marks : 2
+Question Label : Multiple Choice Question
+In a depth-first traversal of an undirected graph $G$ with $N$ vertices, $E$ edges are marked as tree edges. The number of connected components in $G$ is 
+
+Options :
+A. ❌ $N-E-1$
+B. ✅ $N-E$
+C. ❌ $N-E+1$
+D. ❌ $E-1$
+
+Question Number : 14
+Correct Marks : 3
+Question Label : Multiple Select Question
+Consider the adjacency matrix $AMat$ of a directed unweighted graph where $AMat[i][j] = 1$, if there is an edge from $i$ to $j$, otherwise 0. Which of the following statements is/are true?
+
+Options :
+A. ✅ The sum of $row(i)$ represents the out-degree of vertex $i$
+B. ❌ The sum of $row(i)$ represents the in-degree of vertex $i$

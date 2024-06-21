@@ -1,0 +1,32 @@
+Consider the following implementation for insertion sort
+
+```python
+def insertionsort(L):
+  n = len(L)
+  if n < 1:
+    return(L)
+  for i in range(n):
+    j = i - 1
+    while(j > 0 and L[j] < L[j-1]):
+      (L[j], L[j-1]) = (L[j-1], L[j])
+      j = j - 1
+  return(L)
+```
+
+Suppose L is a list of distinct integer elements. Let $x$, $y$ and $z$ be the largest, second largest, and third largest elements in the list L. Suppose $z$ appears before $x$ in the list. Which of the following is true, with respect to the implementation above?
+
+Options :
+
+6406531932658.  $x$ and $z$ are always compared in a run of insertion sort, regardless of the position of $y$.
+
+6406531932659.  $x$ and $z$ are compared in a run of insertion sort if and only if $y$ appears before $z$ in the list L.
+
+6406531932660. $\checkmark$ $x$ and $z$ are compared in a run of insertion sort if and only if $y$ appears after $z$ in the list L.
+
+6406531932661.  $x$ and $z$ are compared in a run of insertion sort if and only if $y$ appears after $z$ but before $x$ in the list L.
+
+Question Number : 249 Question Id : 640653578805 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+3-way-Merge Sort: Suppose that instead of dividing the input list L in half at each step of Merge Sort, you divide L into three equal parts, sort each parts, and finally combine all of them using an efficient three-way merge (merge three sorted lists instead of two).

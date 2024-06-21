@@ -1,0 +1,44 @@
+Consider the following graph.
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw, circle] (S) at (0,4) {S};
+\node[draw, circle] (U) at (4,4) {U};
+\node[draw, circle] (R) at (-2,2) {R};
+\node[draw, circle] (Q) at (-2,-2) {Q};
+\node[draw, circle] (P) at (4,-2) {P};
+\node[draw, circle] (T) at (4,2) {T};
+\draw[->] (S) -- (U) node[midway, above] {2};
+\draw[->] (S) -- (R) node[midway, left] {2};
+\draw[->] (S) -- (Q) node[midway, right] {1};
+\draw[->] (S) -- (T) node[midway, right] {1};
+\draw[->] (R) -- (S) node[midway, left] {4};
+\draw[->] (R) -- (T) node[midway, above] {6};
+\draw[->] (Q) -- (S) node[midway, left] {1};
+\draw[->] (Q) -- (P) node[midway, below] {1};
+\draw[->] (P) -- (S) node[midway, right] {7};
+\draw[->] (P) -- (U) node[midway, right] {2};
+\draw[->] (T) -- (U) node[midway, right] {3};
+\end{tikzpicture}
+
+If Dijkstra's algorithm is used with P as the source vertex then what is the order in which all vertices are visited?
+
+**Options :**
+
+6406532577408. ❌ P, Q, R, U, T
+
+6406532577409. ❌ P, Q, R, S, T, U
+
+6406532577410. ❌ P, Q, R, S, U, T
+
+6406532577411. ✅ P, Q, R, U, S, T
+
+**Question Number : 110 Question Id : 640653770527 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+You have a **max-heap** with the following set of elements:
+$\{10, 5, 15, 3, 8, 12\}$
+
+Which of the following elements is guaranteed to be a child of the element 15?
+
+**Options :**

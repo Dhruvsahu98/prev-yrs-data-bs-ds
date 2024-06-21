@@ -1,0 +1,37 @@
+6406531929511. ✖ 5432
+6406531929512. ✔ 15432
+6406531929513. ✖ 2345
+6406531929514. ✖ 12345
+
+Question Number : 61 Question Id : 640653577813 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Select all the code snippets that prints `Magic Number` if the number `n` leaves remainder `0` when divided by 7 but leaves the remainder 1 when the number is divided by 2, 3, 4, 5, and 6. Otherwise print `Not Magic Number`.
+
+Options :
+```python
+n = int(input())
+flag = 0
+for i in range(2, 7):
+    if n % i == 1:
+        flag = 1
+        break
+if flag == 0 and n % 7 == 0:
+    print("Magic Number")
+else:
+    print("Not Magic Number")
+```
+6406531929515. ✖
+```python
+n = int(input())
+flag = 0
+for i in range(2, 7):
+    if n % i != 1:
+        flag = 1
+        break
+if flag == 0 and n % 7 == 0:
+    print("Magic Number")
+else:
+    print("Not Magic Number")
+```
+6406531929516. ✔

@@ -1,0 +1,31 @@
+Assume $\textbf{s}$ is a stack and $\textbf{q}$ is a queue. Push and Pop operations are usual stack operations, Enqueue and Dequeue are usual queue operations, and $\textbf{isEmpty()}$ is a method that returns true if either the stack or the queue is empty. Assume that stack $\textbf{s}$ and Queue $\textbf{q}$ are empty initially.
+
+```python
+for i in range(5, 0, -1):
+    S.Push(i)
+    Q.Enqueue(i)
+while not Q.isEmpty():
+    S.Push(Q.Dequeue())
+while not S.isEmpty():
+    Q.Enqueue(S.Pop())
+while not Q.isEmpty():
+    print(Q.Dequeue(), end = " ")
+```
+What is the output of the given code snippet?
+
+Options :
+6406532467881.  $\times$ 1 2 3 4 5 4 3 2 1
+6406532467882.  $\times$ 5 4 3 2 1 1 2 3 4 5
+6406532467883.  $\times$ 5 4 3 2 1 5 4 3 2 1
+6406532467884.  $\checkmark$ 1 2 3 4 5 1 2 3 4 5
+
+Sub-Section Number : 
+Sub-Section Id : 
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 112 Question Id : 640653737392 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Let G be a graph with $n$ vertices and $m$ edges. What is the tightest upper bound complexity of Depth First search(DFS) on graph G, when G is represented as an adjacency matrix?

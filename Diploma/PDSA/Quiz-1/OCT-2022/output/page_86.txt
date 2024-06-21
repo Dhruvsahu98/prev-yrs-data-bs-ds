@@ -1,0 +1,36 @@
+6406531286158. ✖ 1, 2, 3 and 4
+
+**Question Number : 89 Question Id : 640653386743 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+A hash table of size 10 uses open addressing with hash function $h(k) = k \mod 10$, and linear probing. After inserting 6 keys into an empty hash table, the table is as shown below.
+
+| Index | Key(k) |
+|---|---|
+| 0 |  |
+| 1 |  |
+| 2 | 72 |
+| 3 | 23 |
+| 4 | 12 |
+| 5 | 54 |
+| 6 | 36 |
+| 7 | 83 |
+| 8 |  |
+| 9 |  |
+
+Which of the following option cannot be a possible order in which the key could have been inserted in the hash table?
+
+**Options :**
+
+6406531286159. ✖ 23, 36, 72, 12, 54, 83
+
+6406531286160. ✖ 36, 72, 23, 12, 54, 83
+
+6406531286161. ✔️ 36, 23, 72, 12, 83, 54
+
+6406531286162. ✖ 36, 23, 72, 12, 54, 83
+
+**Question Number : 90 Question Id : 640653386744 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**

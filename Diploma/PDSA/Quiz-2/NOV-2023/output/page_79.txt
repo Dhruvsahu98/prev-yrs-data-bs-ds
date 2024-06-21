@@ -1,0 +1,9 @@
+6406531485444. ❌ Statement 1 only
+6406531485445. ❌ Statement 3 only
+6406531485446. ❌ Statements 1 and 2
+6406531485447. ✅ Statements 1 and 3
+
+Question Number : 109 Question Id : 640653445852 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

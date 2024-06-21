@@ -1,0 +1,47 @@
+O(log n).
+
+3. A binary tree can be reconstructed back if either its preorder or postorder traversal is known.
+
+4. A binary search tree can be reconstructed back if its inorder traversal is known.
+
+Which of the above given statement(s) is/are true?
+
+**Options :**
+
+6406531485462. ❌ Statements 1 and 3
+
+6406531485463. ❌ Statements 3 and 4
+
+6406531485464. ❌ Statements 1 and 2
+
+6406531485465. ❌ Statement 4 only
+
+6406531485466. ✅ Statement 2 only
+
+**Question Number : 112 Question Id : 640653445857 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+While inserting the elements 20, 60, 10, 45, 65, 30, and 90 in an empty binary search tree (BST) in the sequence shown, the elements at maximum depth are\_\_
+
+**Options :**
+
+6406531485467. ✅ 30, 90
+
+6406531485468. ❌ 45, 90
+
+6406531485469. ❌ 65, 90
+
+6406531485470. ❌ 45, 65
+
+**Question Number : 113 Question Id : 640653445859 Question Type : MCQ Is Question**
+
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**

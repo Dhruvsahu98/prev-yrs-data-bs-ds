@@ -1,0 +1,23 @@
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following statement is **true** for searching the $k^{th}$ smallest element in an unsorted array of size $n$ ?
+Options :
+6406531485489. ❌ Using Quick select strategy the worst case running time will be $O(n \log n)$.
+6406531485490. ❌ Using max-heap of size $k$ the worst case running time will be $O(k)$.
+6406531485491. ✅ Using Quick select strategy the worst case running time will be $O(n^2)$.
+6406531485492. ❌ Using Quick select strategy the worst case running time will be $O(n)$.
+Sub-Section Number : 4
+Sub-Section Id : 64065363422
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 116 Question Id : 640653445853 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+Which of the following statement(s) is/are **true** ?
+Options :
+6406531485452. ✅ Bellman Ford algorithm can detect negative weight cycles in a graph.
+6406531485453. ❌ Time complexity of Dijkstra's algorithm when implemented using an adjacency list is $O(E + V)$.
+6406531485454. ❌ The formula to update the length of the shortest path from vertex $i$ to $j$ in Floyd-Warshall algorithm is 
+$SP^k[i, j] = min[SP^k[i, k] + SP^k[k, j], SP^{k-1}[i, j]]$

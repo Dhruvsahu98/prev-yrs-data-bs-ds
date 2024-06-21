@@ -1,0 +1,63 @@
+Consider the following graph.
+
+```python
+# graph represented as a dictionary 
+graph = {
+    'a': {'b': 2, 'c': 7},
+    'b': {'a': 2, 'c': 4, 'd': 9},
+    'c': {'a': 7, 'b': 4, 'e': 15},
+    'd': {'b': 9, 'f': 11},
+    'e': {'c': 15, 'g': 8},
+    'f': {'d': 11, 'h': 6},
+    'g': {'e': 8, 'h': 3},
+    'h': {'f': 6, 'g': 3}
+}
+```
+
+\begin{tikzpicture}[scale=0.8]
+\node[circle,draw] (a) at (0,3) {a};
+\node[circle,draw] (b) at (-1.5,1.5) {b};
+\node[circle,draw] (c) at (1.5,1.5) {c};
+\node[circle,draw] (d) at (-2.5,0) {d};
+\node[circle,draw] (e) at (2.5,0) {e};
+\node[circle,draw] (f) at (-1.5,-1.5) {f};
+\node[circle,draw] (g) at (1.5,-1.5) {g};
+\node[circle,draw] (h) at (0,-3) {h};
+\draw (a) -- (b) node[midway,left] {2};
+\draw (a) -- (c) node[midway,right] {7};
+\draw (b) -- (c) node[midway,below] {4};
+\draw (b) -- (d) node[midway,left] {9};
+\draw (c) -- (e) node[midway,right] {15};
+\draw (d) -- (f) node[midway,left] {11};
+\draw (e) -- (g) node[midway,right] {8};
+\draw (f) -- (h) node[midway,left] {6};
+\draw (g) -- (h) node[midway,right] {3};
+\draw (d) to [out=180,in=180] (a) node[midway,left] {5};
+\draw (e) to [out=0,in=0] (a) node[midway,right] {1};
+\end{tikzpicture}
+
+If Prim's algorithm started with vertex a to construct a Minimum Spanning Tree, then what is the order in which vertices are marked visited?
+
+**Options :**
+
+6406532577416: $\checkmark$ a, e, b, c, d, g, h, f
+
+6406532577417: $\times$ a, e, b, c, g, h, d, f
+
+6406532577418: $\times$ a, e, b, d, c, h, g, f
+
+6406532577419: $\times$ a, e, b, d, c, g, f, h
+
+**Sub-Section Number :** 5
+
+**Sub-Section Id :** 640653112601
+
+**Question Shuffling Allowed :** Yes
+
+**Is Section Default? :** null
+
+**Question Number :** 116 **Question Id :** 640653770532 **Question Type :** MSQ **Is Question Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+**Correct Marks :** 2 **Max. Selectable Options :** 0
+
+**Question Label :** Multiple Select Question

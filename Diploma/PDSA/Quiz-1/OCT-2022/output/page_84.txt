@@ -1,0 +1,27 @@
+**Question Number : 86 Question Id : 640653386740 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+Consider an input list L of n distinct elements, and the aim is to sort it in increasing order. Which of the following statement(s) is/are true?
+1. Input in increasing order is the worst case for Insertion sort, but not for Quick sort.
+2. Input in increasing order is the worst case for Quick sort, but not for Insertion sort.
+3. Input in decreasing order is the worst case for both Quick sort and Insertion sort.
+**Options :**
+6406531286147.  1 and 2
+6406531286148.  1 and 3
+6406531286149.  2 and 3
+6406531286150.  1, 2 and 3
+
+**Question Number : 87 Question Id : 640653386741 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+Consider a list L of n sorted numbers that are circularly shifted k positions to the right.
+For example, [-1, 0, 3, 4, 9, 12] is a sorted list.
+[9, 12, -1, 0, 3, 4] : circularly shifted 2 positions to the right.
+[3, 4, 9, 12, -1, 0] : circularly shifted 4 positions to the right.
+What will be the complexity of the **most efficient algorithm** to search for the smallest element in L for the two cases listed below?
+I. Value of k is not known.
+II. Value of k is known.
+**Options :**
+6406531286151.  I. $O(n)$, II. $O(1)$

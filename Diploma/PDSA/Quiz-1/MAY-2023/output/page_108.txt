@@ -1,0 +1,42 @@
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+Consider the following code snippet:
+
+```python
+1  a = 4
+2  b = 7
+3  c = int(input())
+4  if a > b:
+5    if b > c:
+6      print("A")
+7    elif a > c:
+8      print("B")
+9    else:
+10     print("C")
+11  else:
+12    if b < c:
+13      print("D")
+14    else:
+15     print("E")
+```
+
+Based on the above snippet of code, which of the following options is correct ?
+
+**Options :**
+
+6406531929482. ❌ If c = 5, then the output generated is "D"
+6406531929483. ❌ If c = 10, then the output generated is "E"
+6406531929484. ✅ If c >= 8, then the output is always "D"
+6406531929485. ❌ If c < 7, then the output generated is always "D"
+
+
+**Question Number : 57 Question Id : 640653577809 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+What will be the output of the code snippet given below?

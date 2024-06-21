@@ -1,0 +1,18 @@
+```python
+# This is a code block
+print("Hello World")
+```
+
+Which of the following depth-first traversal(s) is/are valid if we start from node a ?
+
+**Options :**
+
+A.  $\checkmark$  a b e f d c
+B.  $\times$  a d c b e f
+C.  $\times$  a d e b f c
+D.  $\checkmark$  a d e b c f
+E.  $\checkmark$  a c f d b e
+
+**Question Number :** 3
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question

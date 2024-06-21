@@ -1,0 +1,29 @@
+Question Number : 64 Question Id : 640653668500 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find $P(X = 4)$. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.16 to 0.22
+
+Question Id : 640653668501 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (65 to 66)
+Question Label : Comprehension
+Suppose $X \sim Poisson(\lambda)$.
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 65 Question Id : 640653668502 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Find the value of $\lambda$ for which $3P(X = 3) = 2P(X = 2) + 4P(X = 1)$.
+Options :
+6406532239688.

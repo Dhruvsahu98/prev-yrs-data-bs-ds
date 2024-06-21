@@ -1,0 +1,27 @@
+Question Number : 1 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: PROGRAMMING DATA STRUCTURES AND ALGORITHMS USING PYTHON"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+A.  ✅ Yes
+B.  ❌ No
+
+Question Number : 2 Question Type : MSQ
+Correct Marks : 2
+Question Label : Multiple Select Question
+Which of the following statements is/are **correct** about the Quicksort algorithm? Assume that the first element in the list is selected as the pivot for partitioning each time.
+Options :
+A.  ✅ The best case is when the pivot element always divides the list into two halves.
+B.  ❌ The best case is only when the input list is arranged in ascending order.
+C.  ❌ The worst case is when the pivot element always divides the list into two equal halves.
+D.  ✅ The worst case is when the input list is arranged in either ascending or descending order.
+E.  ❌ The worst case is only when the input list is arranged in descending order.
+
+Question Number : 3 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A list of n strings, each of length n is sorted in  Texicographical order using the Merge Sort algorithm. What is its time complexity? (Assume that comparing strings lexicographically takes O(n))
+Options :

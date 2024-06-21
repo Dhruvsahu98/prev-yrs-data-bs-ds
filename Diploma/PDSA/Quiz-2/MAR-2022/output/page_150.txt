@@ -1,0 +1,21 @@
+Which of the following can be the sequence of edges added, in that order, to create a minimum spanning tree using Kruskal's algorithm?
+
+**Options :**
+
+A.  $\checkmark$ (a,e), (a,d), (c,d), (b,c), (a,f)
+B.  $\checkmark$ (a,e), (c,e), (a,d), (b,c), (a,f)
+C.  $\times$ (a,e), (a,d), (b,c), (a,b), (a,f)
+D.  $\times$ (a,e), (c,d), (a,d), (a,b), (a,f)
+E.  $\checkmark$ (a,e), (c,d), (a,d), (b,c), (a,f)
+
+**Question Number :** 181 **Question Type :** MSQ
+
+**Correct Marks :** 3
+
+Question Label : Multiple Select Question
+
+Which of the following is/are always **true** about the Floyd-Warshall algorithm?
+
+**Options :**
+
+A.  $\checkmark$ If the shortest path entry $SP[i][i]$ in the resultant matrix is negative, then it represents the graph has a negative weight cycle.

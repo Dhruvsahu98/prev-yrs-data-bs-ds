@@ -1,0 +1,41 @@
+```python
+def prime_bad(n):
+  if n < 2:
+    return False
+  for i in range(2, int(n**0.5)):
+    if n % i == 0:
+      return False
+  return True
+```
+
+Here is a function `prime_bad` that takes a positive integer `n` as input and returns `True` if the number is prime and `False` otherwise. There is an error in this function. For which of the following input values of `n`, does function `prime_bad` return an incorrect output?
+
+**Options :**
+
+6406531286135.  : 36
+6406531286136. : 29
+6406531286137. : 49
+6406531286138. : 37
+
+**Question Number :** 84 **Question Id :** 640653386738 **Question Type :** MCQ **Is Question Mandatory :** No **Calculator :** None **Response Time :** N.A **Think Time :** N.A **Minimum Instruction Time :** 0
+
+**Correct Marks :** 3
+
+**Question Label :** Multiple Choice Question
+
+$f_1(n) = 30n^2 + 6n$
+
+$f_2(n) = 5n + (log n)^2$
+
+$f_3(n) = 2log(log n)$
+
+$f_4(n) = 10 log n$
+
+$f_5(n) = 7n log n + 20$
+
+Arrange the above functions in increasing order of asymptotic complexity.
+
+**Options :**
+
+6406531286139. : $f_3(n), f_4(n), f_2(n), f_1(n), f_5(n)$
+6406531286140. : $f_3(n), f_2(n), f_1(n), f_5(n), f_4(n)$

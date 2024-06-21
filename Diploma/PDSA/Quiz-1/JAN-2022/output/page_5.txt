@@ -1,0 +1,28 @@
+C.  ✔ Recurrence is $T(n) = 2T(n/2) + O(n)$ and time complexity is $O(n \log n)$
+
+D.  ✖ Recurrence is $T(n) = 2T(n/2) + O(1)$ and time complexity is $O(n \log n)$
+
+
+**Question Number : 9 Question Type : MCQ**
+**Correct Marks : 2**
+**Question Label : Multiple Choice Question**
+
+Select the most appropriate data structure for the following applications.
+
+| Application                                 | Data Structure |
+|----------------------------------------------|-----------------|
+| 1. To implement ticket reservation waiting list. | a. Array        |
+| 2. Matrix operations                        | b. Graph         |
+| 3. Evaluating an expression                 | c. Stack         |
+| 4. Google map's algorithm to find a route between locations A and B | d. Queue        |
+
+**Options :**
+
+A.  ✔ 1-d, 2-a, 3-c, 4-b
+B.  ✖ 1-d, 2-b, 3-c, 4-a
+C.  ✖ 1-d, 2-a, 3-b, 4-c
+D.  ✖ 1-c, 2-a, 3-d, 4-b
+
+**Question Number : 10 Question Type : MCQ**
+**Correct Marks : 4**
+**Question Label : Multiple Choice Question**

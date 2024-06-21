@@ -1,0 +1,32 @@
+Is Section Default?: null
+
+Question Number : 52 Question Id : 640653577803 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Consider the following code snippet:
+
+```python
+1 x = int(input())
+2 y = int(input())
+3 if x > 5:
+4   if y > 15:
+5     print("A")
+```
+
+For what values as input, after execution, the above code snippet does **not** produce any output but runs without any error?
+
+Options :
+
+6406531929474. ❌ x = 10 and y = 25
+6406531929475. ❌ x = 6 and y = 20
+6406531929476. ✅ x = 12 and y = 15
+6406531929477. ❌ x = 15 and y = 16
+
+Question Number : 53 Question Id : 640653577804 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+What is the output of the following code?

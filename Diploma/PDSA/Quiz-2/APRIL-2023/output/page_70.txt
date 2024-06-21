@@ -1,0 +1,29 @@
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+36
+
+AppDev1
+
+Section Id : 6406533934
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 17
+Number of Questions to be attempted : 17
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 6406537936
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 82 Question Id : 640653521071 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+
+THIS IS QUESTION PAPER FOR THE SUBJECT "**DIPLOMA LEVEL : MODERN APPLICATION**"

@@ -1,0 +1,47 @@
+In the given graph, if we try to find the shortest path from node 0 to all other nodes using the Dijkstra's algorithm given below, in what order will the nodes be marked as `True` in the `visited` dictionary?
+
+```python
+def djikstraList(wList,s):
+    infinity = 1 + len(wList.keys())*max([d for u in wList.keys() for (v,d) in wList[u]])
+    (visited, distance) = ({}, {})
+    for v in wList.keys():
+        (visited[v], distance[v]) = (False, infinity)
+    distance[s] = 0
+    for u in wList.keys():
+        nextd = min([distance[v] for v in wList.keys() if not visited[v]])
+        nextvList = [v for v in wList.keys() if (not visited[v]) and distance[v] == nextd]
+        if nextvList == []:
+            break
+        nextv = min(nextvList)
+        visited[nextv] = True
+        for (v,d) in wList[nextv]:
+            if not visited[v]:
+                distance[v] = min(distance[v], distance[nextv]+d)
+    return(distance)
+```
+
+\begin{tikzpicture}[scale=0.8, every node/.style={circle, draw=blue, fill=orange, inner sep=0pt, minimum size=10pt}]
+  \node (0) at (0,0) {0};
+  \node (1) at (0,-2) {1};
+  \node (2) at (2,-2) {2};
+  \node (3) at (2,0) {3};
+  \node (4) at (3,2) {4};
+  \node (5) at (1,2) {5};
+  \node (6) at (1,0) {6};
+
+  \draw (0) -- node[above left]{6} (5);
+  \draw (0) -- node[left]{4} (1);
+  \draw (1) -- node[below left]{6} (6);
+  \draw (2) -- node[right]{2} (6);
+  \draw (2) -- node[below right]{5} (3);
+  \draw (3) -- node[above right]{3} (6);
+  \draw (4) -- node[above]{10} (5);
+\end{tikzpicture}
+
+**Options :**
+
+6406531485448. ❌ 0 1 2 6 5 4 3
+
+6406531485449. ❌ 0 1 5 6 2 3 4
+
+6406531485450. ✅ 0 1 5 6 2 4 3

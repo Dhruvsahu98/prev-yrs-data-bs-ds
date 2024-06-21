@@ -1,0 +1,30 @@
+6406531736766. ✖ 33, 63
+6406531736767. ✔ 33, 127
+6406531736768. ✖ 7, 127
+6406531736769. ✖ 7, 63
+Sub-Section Number : 3
+Sub-Section Id : 64065373933
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 75 Question Id : 640653521070 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+| Recurrence Relation | Complexity |
+|---|---|
+| A | $T(n) = 2T(n/4) + O(n)$ | 1 | $O(log n)$ |
+| B | $T(n) = 3T(n/3) + O(n)$ | 2 | $O(n)$ |
+| C | $T(n) = 9T(n/3) + O(n)$ | 3 | $O(n log n)$ |
+| D | $T(n) = T(n/2) + O(1)$ | 4 | $O(n^2)$ |
+
+Note: Consider the base Case for each recurrence: $T(1) = 1$
+Select the correct match of recurrence relation with corresponding complexity.
+Options :
+6406531736775. ✖ A-2, B-4, C-3, D-1
+6406531736776. ✔ A-2, B-3, C-4, D-1
+6406531736777. ✖ A-2, B-3, C-1, D-4
+6406531736778. ✖ A-3, B-2, C-4, D-1
+Sub-Section Number : 4
+Sub-Section Id : 64065373934
+Question Shuffling Allowed : Yes

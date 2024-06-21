@@ -1,0 +1,27 @@
+## Question Numbers : (55 to 56)
+
+Question Label : Comprehension
+
+A fair six - sided die is marked '1' on one face, '2' on two of its faces, and '3' on the remaining three faces. The die is thrown twice. Let a random variable $X$ denote the number obtained on the first throw and let a random variable $Y$ denote the number obtained on the second throw. Define a new random variable $Z = X + Y$.
+
+Based on the above data, answer the given subquestions.
+
+## Sub questions
+
+## Question Number : 55 Question Id : 640653668485 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Find the range of $Z$.
+## Options :
+6406532239658. ❌ $T_Z = \{1, 2, 3, 4, 5, 6\}$
+6406532239659. ❌ $T_Z = \{1, 2, 3\}$
+6406532239660. ✅ $T_Z = \{2, 3, 4, 5, 6\}$
+6406532239661. ❌ $T_Z = \{2, 3, 4, 5\}$
+
+## Question Number : 56 Question Id : 640653668486 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the value of $P(Z = 3)$.
+## Options :

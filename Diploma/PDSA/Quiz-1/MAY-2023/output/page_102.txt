@@ -1,0 +1,35 @@
+```python
+A = False, B = False
+if(X.Gender == Y.Gender){
+    A = True
+}
+if(X.TownCity == Y.TownCity){
+    B = True
+}
+if((A and not B) or (not A or B)){
+    return(1)
+}
+return(0)
+```
+6406531929469. 
+
+# Intro to Python
+64065339069
+4
+
+**Section Id :**
+**Section Number :**
+**Section type :**
+**Mandatory or Optional :**
+**Number of Questions :**
+**Number of Questions to be attempted :**
+**Section Marks :**
+**Display Number Panel :**
+**Group All Questions :**
+Online
+Mandatory
+17
+17
+50
+Yes
+No

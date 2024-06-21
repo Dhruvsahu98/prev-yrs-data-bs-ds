@@ -1,0 +1,34 @@
+| Course | Prerequisite |
+|---|---|
+| Course 1 | None |
+| Course 2 | None |
+| Course 3 | Course 1 |
+| Course 4 | Course 2 |
+| Course 5 | None |
+| Course 6 | Course 1, Course 3 |
+| Course 7 | Course 2, Course 4 |
+| Course 8 | Course 3 |
+| Course 9 | Course 5, Course 7 |
+| Course 10 | Course 6, Course 8 |
+| Course 11 | Course 7 |
+| Course 12 | Course 4, Course 8 |
+
+There is no constraint on how many courses a student can take in a semester. The minimum number of **semesters** required to complete all 12 courses is \_\_\_.
+
+**NOTE:** Enter your answer to the nearest integer.
+
+**Response Type:** Numeric
+
+**Evaluation Required For SA:** Yes
+
+**Show Word Count:** Yes
+
+**Answers Type:** Equal
+
+**Text Areas:** PlainText
+
+**Possible Answers:**
+
+4
+
+AppDev1

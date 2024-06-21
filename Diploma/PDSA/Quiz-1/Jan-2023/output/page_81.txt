@@ -1,0 +1,28 @@
+6406531562783. ✓ $f_3(n), f_4(n), f_2(n), f_5(n), f_1(n)$
+
+Sub-Section Number : 3
+Sub-Section Id : 64065367774
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 88 Question Id : 640653470293 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Given the following sorted list : 
+[16, 53, 59, 81, 94, 99, 121, 150, 162, 170]
+
+If we use binary search algorithm to search the element 99 in the list, then which of the following option corresponds to the correct sequence of comparison done in this process?
+
+Note: Assume here binary search will compute the midpoint by using $(firstindex + lastindex) // 2$
+
+Options :
+6406531562784. ❌ 94, 99
+6406531562785. ❌ 16, 99
+6406531562786. ❌ 94, 150, 121, 99
+6406531562787. ✓ 94, 150, 99
+6406531562788. ❌ None of these
+
+Question Number : 89 Question Id : 640653470294 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

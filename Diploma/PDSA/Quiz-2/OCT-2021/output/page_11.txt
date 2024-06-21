@@ -1,0 +1,26 @@
+C.  ✓ After processing all m edges, the resulting graph is connected.
+
+D.  ✓ What remains at the end is a minimum cost spanning tree.
+
+E.  ✓ After processing all m edges, the resulting graph has exactly n - 1 edges.
+
+MLF
+
+Number of Questions : 13
+Section Marks : 50
+
+Question Number : 17
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL: MACHINE LEARNING FOUNDATIONS"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+
+Options :
+A.  ✓ YES
+B.  ✗ NO
+
+Question Number : 18
+Correct Marks : 3
+Question Label : Multiple Choice Question

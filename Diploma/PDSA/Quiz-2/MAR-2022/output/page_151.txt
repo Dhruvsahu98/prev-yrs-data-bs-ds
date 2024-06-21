@@ -1,0 +1,36 @@
+B. ❌ The time complexity of Floyd-Warshall is $O(V^2)$, where V is the number of vertices in the graph.
+
+C. ✅ It works correctly if the graph has negative edge weights but does not have negative weight cycles.
+
+D. ❌ The formula to compute the shortest path from vertex i to j in Floyd-Warshall algorithm is 
+$SP^k[i, j] = min[SP^{k-1}[i, j] + SP^{k-1}[i, k], SP^{k-1}[k, j]]$
+
+**Question Number : 182 Question Type : MSQ**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Select Question**
+
+Which of the following are possible valid codes for the character set $S = \{A, B, C, D, E, F\}$, generated using the Huffman algorithm?
+
+**Options :**
+
+A. ❌ 
+| Character | A | B | C | D | E | F |
+|---|---|---|---|---|---|---|
+| Huffman code | 000 | 0010 | 0101 | 01 | 10 | 11 |
+
+B. ✅ 
+| Character | A | B | C | D | E | F |
+|---|---|---|---|---|---|---|
+| Huffman code | 000 | 0010 | 0011 | 01 | 10 | 11 |
+
+C. ❌ 
+| Character | A | B | C | D | E | F |
+|---|---|---|---|---|---|---|
+| Huffman code | 100 | 1011 | 1001 | 0111 | 101 | 000 |
+
+D. ✅ 
+| Character | A | B | C | D | E | F |
+|---|---|---|---|---|---|---|
+| Huffman code | 00 | 010 | 011 | 10 | 110 | 111 |

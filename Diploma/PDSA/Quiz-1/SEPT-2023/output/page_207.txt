@@ -1,0 +1,23 @@
+✓ (H, J)
+6406532239799. ✓ (M, N)
+6406532239800. ✗ (B, O)
+6406532239801. ✓ (P, E)
+6406532239802. ✗ (C, M)
+Sub-Section Number: 8
+Sub-Section Id : 64065395162
+Question Shuffling Allowed : Yes
+Is Section Default?: null
+Question Number : 97 Question Id : 640653668535 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Linear probing is an open addressing scheme in computer programming for resolving hash collisions in hash tables. Linear probing takes the original hash index and increments the value by 1 until a free slot is found.
+A hash table contains 13 buckets(indexed from 0 to 12) and uses linear probing to resolve collisions. The key values are integers and the hash function used is `key mod 13`. If key values 14, 55, 1, 44, 83, 122, 131 are inserted into the table, in what index would the key value 131 be inserted?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+4
+Question Number : 98 Question Id : 640653668539 Question Type : SA Calculator : None

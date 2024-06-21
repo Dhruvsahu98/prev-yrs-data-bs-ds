@@ -1,0 +1,33 @@
+Consider an undirected connected graph $G$ with 7 vertices. Which of the following is a possible listing of the degrees of vertices in graph $G$?
+
+**Options :**
+
+6406531286171.  $\times$ 6, 6, 6, 6, 6, 1
+6406531286172. $\times$ 4, 4, 4, 3, 3, 2
+6406531286173. $\checkmark$ 5, 4, 3, 3, 2, 2, 1
+6406531286174. $\times$ 7, 7, 6, 2, 1, 1, 2
+
+**Question Number : 93 Question Id : 640653386747 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+
+Let $G$ be an undirected connected graph and $T$ be a breadth-first search tree for $G$. Let $x$ and $y$ be nodes in $T$ belonging to the levels $i$ and $j$ respectively, and let $(x,y)$ be an edge of $G$. Then $i$ and $j$ differ by at most _____.
+
+**Options :**
+
+6406531286175. $\times$ 0
+6406531286176. $\checkmark$ 1
+6406531286177. $\times$ 2
+6406531286178. $\times$ 3
+
+**Question Number : 94 Question Id : 640653386748 Question Type : MCQ Is Question**
+**Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+**Correct Marks : 3**
+**Question Label : Multiple Choice Question**
+
+Consider a connected, directed graph $G$ on which $DFS$ is executed. $pre$ and $post$ numbering is used in the $DFS$ algorithm on the graph. In which of the following situations can we conclude that edge $(u,v)$ is a **Back edge**?
+
+**Options :**
+
+6406531286179. $\checkmark$ $pre[u]=3$, $post[u]=6$, $pre[v]=1$, $post[v]=10$

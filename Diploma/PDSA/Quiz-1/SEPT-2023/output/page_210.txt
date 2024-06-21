@@ -1,0 +1,23 @@
+6406532239647. ❌ The set of real numbers with addition defined by $x + y = x - y$ forms a vector space.
+
+6406532239648. ✅ Let $A \in \mathbb{R}^{3 \times 3}$ be an invertible matrix. The set of all solutions of the homogeneous system $AX = 0$ is a vector space of dimension 0.
+
+6406532239649. ✅ Any vector subspace of $\mathbb{R}^2$ with dimension 1 is of the form $ax + by = 0$ where $a \neq 0$ or $b \neq 0$.
+
+6406532239650. ❌ Any vector subspace of $\mathbb{R}^3$ with dimension 1 is of the form $ax + by = c$ where $a \neq 0$ or $b \neq 0$.
+
+6406532239651. ✅ $V = \left\{ \begin{pmatrix} a & b \\ c & d \end{pmatrix}: a + b = c + d \right\}$ forms a vector space.
+
+6406532239652. ✅ The set of all $n \times n$ matrices with rank strictly less than $n$ does not form a vector space.
+
+# Statistics2
+
+Section Id : 64065344898
+Section Number : 4
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 12
+Number of Questions to be attempted : 12
+Section Marks : 40
+Display Number Panel : Yes
+Section Negative Marks : 0

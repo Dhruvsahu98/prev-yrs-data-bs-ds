@@ -1,0 +1,65 @@
+Consider an undirected graph with 5 vertices (A, B, C, D, E). DFS is executed on this graph with the start vertex as A. Let $push\_time(v)$ represent the sequence number when the vertex 'v' is first visited (i.e. pushed onto the stack) and let $pop\_time(v)$ represent the sequence number when vertex 'v' is last visited (i.e. popped out of stack).
+For the given values of $pop\_time$ and $push\_time$ of all the vertices, find the number of components in the graph
+$push\_time(A) = 1, pop\_time(A) = 6$
+$push\_time(B) = 2, pop\_time(B) = 5$
+$push\_time(C) = 3, pop\_time(C) = 4$
+$push\_time(D) = 7, pop\_time(D) = 10$
+$push\_time(E) = 8, pop\_time(E) = 9$
+
+NOTE: Enter your answer to the nearest integer.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+```python
+# This is a sample code for the problem.
+# You can modify it to suit your needs.
+def dfs(graph, start, visited, push_time, pop_time):
+  visited[start] = True
+  push_time[start] = time
+  for neighbor in graph[start]:
+    if not visited[neighbor]:
+      dfs(graph, neighbor, visited, push_time, pop_time)
+  pop_time[start] = time
+  time += 1
+
+graph = {
+  'A': ['B', 'C'],
+  'B': ['A', 'D'],
+  'C': ['A', 'E'],
+  'D': ['B'],
+  'E': ['C']
+}
+
+visited = [False] * len(graph)
+push_time = [0] * len(graph)
+pop_time = [0] * len(graph)
+time = 1
+dfs(graph, 'A', visited, push_time, pop_time)
+
+# Check for disconnected components
+num_components = 0
+for i in range(len(graph)):
+  if not visited[i]:
+    dfs(graph, i, visited, push_time, pop_time)
+    num_components += 1
+
+print(num_components)
+```
+
+AppDev-1
+64065321873
+7
+Online
+Mandatory or Optional : Mandatory
+Number of Questions : 17
+Number of Questions to be attempted : 17
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Yes

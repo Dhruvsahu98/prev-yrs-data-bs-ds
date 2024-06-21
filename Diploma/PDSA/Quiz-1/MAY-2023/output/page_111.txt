@@ -1,0 +1,36 @@
+```python
+alphabet = 'abcdefghijklmnopqrstuvwxyz'
+key = 'zamzamsayzzam'
+encrypt_key = ''
+for i in key:
+  encrypt_key = encrypt_key + (alphabet[(alphabet.index(i)+2)%26])
+print(encrypt_key)
+```
+6406531929497. ✅
+
+Question Number : 59 Question Id : 640653577810 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Select an appropriate code snippet that calculate the sum of a series up to n terms. The series defined here for n = 5 is given in below example.
+$1 + 12 + 123 + 1234 + 12345 = 13715$
+Options :
+```python
+num_terms = 5
+start_num = 1
+sum_of_seq = 0
+for i in range(1, num_terms+1):
+  start_num = start_num * 10 + (i+1)
+  sum_of_seq += start_num
+print(sum_of_seq)
+```
+6406531929503. ❌
+```python
+num_terms = 5
+start_num = 1
+sum_of_seq = 0
+for i in range(1, num_terms):
+  start_num = start_num * 10 + (i+1)
+  sum_of_seq += start_num
+print(sum_of_seq)
+```
+6406531929504. ❌

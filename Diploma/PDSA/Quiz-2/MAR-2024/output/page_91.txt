@@ -1,0 +1,22 @@
+6406532577424. 10
+6406532577425. 5
+6406532577426. 12
+6406532577427. 8
+
+Question Number : 111 Question Id : 640653770529 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following sequence of numbers inserted into an empty **Binary Search Tree(BST):** 
+50, 30, 20, 40, 70, 60, 80, 35
+What will be the height of the resulting BST? Consider that the height of empty binary search tree is 0.
+Options :
+6406532577429. 3
+6406532577430. 4
+6406532577431. 5
+6406532577432. 6
+
+Question Number : 112 Question Id : 640653770530 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following traversals would visit the nodes of a **binary search tree** in the following order?
+10, 5, 3, 8, 15, 12, 20

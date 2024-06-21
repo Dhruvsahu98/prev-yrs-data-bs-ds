@@ -1,0 +1,36 @@
+```python
+# This is a code block
+print("Hello world!")
+```
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw,circle] (A) at (2,2) {A};
+\node[draw,circle] (B) at (0,2) {B};
+\node[draw,circle] (C) at (2,0) {C};
+\node[draw,circle] (D) at (-1,1) {D};
+\node[draw,circle] (E) at (0,0.5) {E};
+\node[draw,circle] (F) at (-1,-1) {F};
+\node[draw,circle] (G) at (1,-1) {G};
+\draw[->] (A) -- (B);
+\draw[->] (B) -- (D);
+\draw[->] (D) -- (E);
+\draw[->] (A) -- (C);
+\draw[->] (D) -- (F);
+\draw[->] (G) -- (F);
+\end{tikzpicture}
+
+Options :
+6406531149197.  $\times$ A B C D E F G
+6406531149198. $\checkmark$ A B G C D E F
+6406531149199. $\times$ G A C F B D E
+6406531149200. $\checkmark$ A G C B D F E
+6406531149201. $\checkmark$ G A B D F C E
+
+Sub-Section Number : 6
+Sub-Section Id : 64065348868
+Question Shuffling Allowed : Yes
+
+Question Number : 104 Question Id : 640653345540 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question

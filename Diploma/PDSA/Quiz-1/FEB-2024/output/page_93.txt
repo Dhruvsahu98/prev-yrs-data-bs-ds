@@ -1,0 +1,24 @@
+Sub-Section Number : 2
+Sub-Section Id : 640653107618
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 102 Question Id : 640653737378 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the following functions:
+* $f(n) = 102n^4 + 26n^3$
+* $g(n) = 103n^3 + 20n^2$
+* $h(n) = 110n^3 log n + 36n^2$
+
+Which of the following is/are false?
+
+Options :
+6406532467849. $\checkmark$ $f(n) = O(g(n))$
+6406532467850. $\times$ $g(n) = O(h(n))$
+6406532467851. $\checkmark$ $f(n) = O(h(n))$
+6406532467852. $\times$ $h(n) = O(f(n))$
+
+Question Number : 103 Question Id : 640653737382 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,25 @@
+640653246781.  ✓ If $p > x > q$, then the minimum element is in the right half of the list.
+
+Question Number : 105 Question Id : 640653737385 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+```
+Consider an implementation of a singly linked list where each node is created using the given class `Node`. Suppose we have a variable `head` that points to the first node of the linked list. Which of the below operation cannot be performed in constant time with the above representation of the linked list?
+
+Options :
+
+640653246786. ❌ Insertion of the new node at the front of the linked list.
+640653246787. ✓ Insertion of the new node at the end of the linked list.
+640653246788. ❌ Deletion of the first node of the linked list.
+640653246789. ✓ Deletion of the last node of the linked list.
+640653246780. ❌ Deletion of the second node (from starting) of the linked list.
+
+Question Number : 106 Question Id : 640653737389 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question

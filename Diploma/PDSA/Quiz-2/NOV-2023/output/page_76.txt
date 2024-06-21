@@ -1,0 +1,59 @@
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+Consider the graph G given below.
+
+\begin{tikzpicture}[scale=0.8]
+\tikzstyle{every node}=[draw,circle,fill=orange,minimum size=10pt,inner sep=0pt]
+\node (A) at (0,0) {A};
+\node (B) at (0,-2) {B};
+\node (C) at (0,-4) {C};
+\node (D) at (2,-4) {D};
+\node (E) at (4,-4) {E};
+\node (F) at (4,-2) {F};
+\node (G) at (4,0) {G};
+\node (H) at (2,0) {H};
+\tikzstyle{every node}=[font=\small]
+\draw (A) -- (H) node[midway,above] {1};
+\draw (A) -- (B) node[midway,left] {3};
+\draw (B) -- (C) node[midway,left] {9};
+\draw (B) -- (D) node[midway,right] {6};
+\draw (B) -- (F) node[midway,above] {13};
+\draw (C) -- (D) node[midway,above] {10};
+\draw (D) -- (E) node[midway,above] {11};
+\draw (D) -- (F) node[midway,right] {5};
+\draw (E) -- (F) node[midway,right] {12};
+\draw (F) -- (G) node[midway,right] {8};
+\draw (G) -- (H) node[midway,above] {7};
+\draw (H) -- (B) node[midway,left] {2};
+\draw (H) -- (F) node[midway,right] {4};
+\end{tikzpicture}
+
+Let $\alpha$ denote the number of minimum spanning trees of G and $\beta$ denote the weight of such a minimum spanning tree.
+
+The value of $\alpha + \beta$ is _____.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+40
+
+**Question Number : 105 Question Id : 640653445855 Question Type : SA Calculator : None**
+
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 4**
+
+Question Label : Short Answer Question
+
+Consider a binary tree $T$ that has 50 leaf nodes. Then the number of nodes in $T$ that has exactly two children are ______.

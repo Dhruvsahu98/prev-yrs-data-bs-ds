@@ -1,0 +1,50 @@
+For the undirected, weighted graph given below, which of the following sequences of edges represents a correct execution of Prim's algorithm started with vertex a to construct a Minimum Spanning Tree?
+
+\begin{tikzpicture}[scale=0.8]
+
+\tikzstyle{every node}=[draw,circle,fill=white,minimum size=10pt,
+inner sep=0pt]
+\node (a) at (0,4) {a};
+\node (b) at (-2,2) {b};
+\node (c) at (2,2) {c};
+\node (d) at (-2,0) {d};
+\node (e) at (2,0) {e};
+\node (f) at (-2,-2) {f};
+\node (g) at (2,-2) {g};
+\node (h) at (0,-4) {h};
+
+\draw (a)--(b) node[midway, above] {2};
+\draw (a)--(c) node[midway, above] {7};
+\draw (a)--(e) node[midway, above, right] {1};
+\draw (b)--(c) node[midway, below] {4};
+\draw (b)--(d) node[midway, left] {5};
+\draw (c)--(e) node[midway, right] {15};
+\draw (c)--(g) node[midway, right] {8};
+\draw (d)--(f) node[midway, left] {11};
+\draw (e)--(g) node[midway, below] {3};
+\draw (f)--(h) node[midway, below] {6};
+\draw (g)--(h) node[midway, below] {3};
+
+\end{tikzpicture}
+
+Options :
+
+6406531736738.  $\times$ (a, e), (a, b), (b, c), (a, d), (g, h), (f, h), (e, g)
+
+6406531736739.  $\checkmark$ (a, e), (a, b), (b, c), (a, d), (e, g), (g, h), (f, h)
+
+6406531736740.  $\times$ (a, e), (a, b), (g, h), (b, c), (a, d), (f, h), (e, g)
+
+6406531736741.  $\times$ (a, e), (a, b), (g, h), (b, c), (a, d), (f, h), (a, c)
+
+Question Number : 70 Question Id : 640653521060 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Which of the following binary min-heap operation has the highest time complexity? Consider the size of min-heap is n and implemented using an array.
+
+Options :
+
+6406531736747.  $\times$ Inserting a new element

@@ -1,0 +1,37 @@
+Sub-Section Id : 64065395146
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653668492 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (59 to 60)
+Question Label : Comprehension
+The joint PMF of two discrete random variables X and Y is 
+$$f_{XY}(x,y) = \begin{cases}
+\frac{1}{27}(2x+y), & x,y \in \{0,1,2\},\\
+0, & otherwise.
+\end{cases}$$
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 59 Question Id : 640653668493 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Identify the correct joint PMF table of X and Y:
+
+Options :
+
+$$\begin{array}{|c|c|c|c|}
+\hline
+& X & & \\
+\hline
+Y & 0 & 1 & 2 \\
+\hline
+0 & 0 & \frac{2}{27} & \frac{4}{27} \\
+\hline
+1 & \frac{1}{27} & \frac{3}{27} & \frac{5}{27} \\
+\hline
+2 & \frac{2}{27} & \frac{4}{27} & \frac{6}{27} \\
+\hline
+\end{array}$$
+6406532239673. 

@@ -1,0 +1,31 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+49
+
+Question Number : 106 Question Id : 640653445861 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Meetings M1, M2, ...., M10 are to be conducted in a single available meeting room. The table below gives the start and end times of these meetings. If any activity finishes at time $T$, then other activities can be started at time $T$ or afterward.
+
+|  | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 | M10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| start | 8 | 2 | 11 | 4 | 10 | 6 | 6 | 3 | 1 | 2 |
+| end | 15 | 3 | 12 | 7 | 11 | 9 | 10 | 5 | 4 | 7 |
+
+How many meetings can be scheduled at most by following the timing constraints given above?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+5
+
+Question Number : 107 Question Id : 640653445864 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

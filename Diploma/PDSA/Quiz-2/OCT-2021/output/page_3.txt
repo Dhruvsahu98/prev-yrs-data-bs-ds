@@ -1,0 +1,33 @@
+Consider the following binary search tree. The letters indicate the names of the nodes, not the values that are stored.
+
+```python
+     A
+    / \
+   B   C
+  / \ / \
+ D  E F  G
+ / \ / \ / \
+H  I J K L M N
+ \ /
+  O P
+```
+
+What is the predecessor node (in terms of value) of the node M?
+
+**Options :**
+
+A.  N
+B.  G
+C.  A
+D.  C
+E.  L
+
+**Question Number : 4**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+We want to support the operations `next_smaller` and `next_larger` in a heap. Given a value `v` in the heap, `next_smaller(v)` gives us the next smaller value of `v` in the heap and `next_larger(v)` gives us the next larger value of `v` in the heap. Which of the following statements is true?
+
+**Options :**

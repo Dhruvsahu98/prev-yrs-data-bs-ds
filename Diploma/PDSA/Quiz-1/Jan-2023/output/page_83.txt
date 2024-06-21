@@ -1,0 +1,28 @@
+Question Number : 91 Question Id : 640653470296 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Select the most appropriate data structure for the following applications. 
+
+| Application | Data Structure |
+|---|---|
+| 1. To implement undo - redo operations in a text editor | a. Array |
+| 2. Matrix operations | b. Graph |
+| 3. To implement a music playlist feature which plays songs in sequence | c. Stack |
+| 4. To represent communication networks | d. Queue |
+
+Options :
+```python
+6406531562797. ❌ 1-d, 2-a, 3-c, 4-b
+6406531562798. ❌ 1-d, 2-b, 3-c, 4-a
+6406531562799. ❌ 1-d, 2-a, 3-b, 4-c
+6406531562800. ✅ 1-c, 2-a, 3-d, 4-b
+```
+
+Question Number : 92 Question Id : 640653470298 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider that Quick sort is applied on a list of size $n$ which is already sorted. What will be the asymptotic running time of Quick sort if the pivot is taken to be 
+I) Middle element II) Last element
+Choose the correct option corresponding to the correct pair of complexities for both pivots.
+
+Options :

@@ -1,0 +1,13 @@
+# Question Paper Preview
+
+## Notations :
+
+1.Options shown in **green** color and with  ✔️ icon are correct.
+2.Options shown in **red** color and with ✖️ icon are incorrect.
+
+## Question Paper Name : IIT M QUIZ DIPLOMA EXAM QPC 31 OCT 2021
+## Total Marks : 250
+
+## PDSA 
+## Number of Questions : 15
+## Section Marks : 50

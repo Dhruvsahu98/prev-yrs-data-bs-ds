@@ -1,0 +1,30 @@
+6406531929742. ✅ No
+Question Number : 134 Question Id : 640653577882 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Using the least square approximation, find the length of the projection vector $p$ of $b$ onto the column space of $A$. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+3.12 to 3.16
+
+```python
+# Your code goes here
+```
+
+## Java
+Section Id : 64065339074
+Section Number : 9
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0

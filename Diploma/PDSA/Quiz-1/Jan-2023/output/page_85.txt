@@ -1,0 +1,26 @@
+6406531562808. ✅ [ 56, 19, 10, 45, 78, 26 ]
+6406531562809. ❌ None of these
+
+Question Number : 94 Question Id : 640653470301 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following function:
+
+```python
+def fun(n):
+    total = 0
+    for i in range(n//2, n):
+        j = 2
+        while(j <= i):
+            total = total + n/2
+            j = j * 2
+    return total
+```
+
+Which of the following option correctly mentions the return value (total) of function fun in terms of *n*? Consider that input *n* = 2<sup>*k*</sup> where *k* is a positive integer.
+
+Options :
+6406531562815. ❌ *n*<sup>2</sup>
+6406531562816. ❌ (log *n*)<sup>2</sup>/4
+6406531562817. ❌ (*n* log *n*)/2
+6406531562818. ✅ (*n*<sup>2</sup> log *n*)/4

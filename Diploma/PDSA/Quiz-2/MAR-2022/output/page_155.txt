@@ -1,0 +1,24 @@
+Text Areas : PlainText
+Possible Answers :
+6
+
+Question Number : 186 Question Type : SA
+Correct Marks : 4
+Question Label : Short Answer Question
+In an array A, two elements A[i] and A[j] form an inversion pair, if A[i] > A[j] for i < j.
+The maximum number of inversion pairs possible in an integer array A of size 12 is ______.
+
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+66
+
+Question Type : COMPREHENSION
+
+Question Numbers : (187 to 188)
+Question Label : Comprehension
+Consider the following class for tree nodes in the given tree and answer the subquestions.

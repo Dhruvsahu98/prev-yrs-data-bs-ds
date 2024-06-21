@@ -1,0 +1,23 @@
+Options :
+6406531736730. ❌ P, Q, R, S, T, U
+6406531736731. ❌ P, Q, R, U, T, S
+6406531736732. ❌ P, Q, T, R, U, S
+6406531736733. ✅ P, Q, R, U, S, T
+
+Question Number : 68 Question Id : 640653521057 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following statements is/are true?
+I. Given a graph where all edges have positive weights, the shortest path produced by Dijkstra's and Bellman Ford algorithm may be different, but the path weight would be the same.
+II. Given a weighted graph where the weights of all edges are unique, there is always a unique shortest path from a source to a destination in such a graph.
+Options :
+6406531736734. ✅ Only (I)
+6406531736735. ❌ Only (II)
+6406531736736. ❌ Both (I) and (II)
+6406531736737. ❌ None of these
+
+Question Number : 69 Question Id : 640653521058 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

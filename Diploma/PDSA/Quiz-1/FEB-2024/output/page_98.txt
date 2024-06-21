@@ -1,0 +1,28 @@
+Consider the following code.
+```python
+def fun(n):
+    total = 0
+    for i in range(n):
+        for j in range(n):
+            k = 1
+            while (k < n):
+                total = total + 1
+                k = k * 2
+    return total
+```
+What is the time complexity of the function `fun` in terms of $n$?
+
+Options :
+6406532467853.  $O(n^2)$
+6406532467854.  $O(n \log n)$
+6406532467855.  $\checkmark O(n^2 \log n)$
+6406532467856.  $O(n)$
+
+Question Number : 108 Question Id : 640653737380 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+We have an input list of two-dimensional points [(8, 1), (7, 5), (6, 1), (2, 5), (5, 2), (9, 0)]. We sort these in ascending order by the second coordinate. Which of the following corresponds to a stable sort of this input?
+Options :
+6406532467857.  [(9, 0), (6, 1), (8, 1), (5, 2), (2, 5), (7, 5)]

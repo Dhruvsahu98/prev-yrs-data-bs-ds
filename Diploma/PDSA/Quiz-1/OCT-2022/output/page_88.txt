@@ -1,0 +1,39 @@
+Consider the following implementation for queue.
+
+```python
+class Queue:
+    def __init__(self):
+        self.L = []
+    def enqueue(self,v):
+        self.L.append(v)
+    def isempty(self):
+        return(self.L == [])
+    def dequeue(self):
+        v = None
+        if not self.isempty():
+            v = self.L.pop(0)
+        return(v)
+```
+
+```python
+def fun(Q):
+    if (not Q.isempty()):
+        i = Q.dequeue()
+        fun(Q)
+        Q.enqueue(i)
+```
+
+Let Q be a queue $[5, 3, 7, 2, 8, 1, 4]$ created using the given class `queue`. What will be the state of the queue after the execution of `fun(Q)`?
+
+**Options :**
+
+6406531286167.  : $[5, 3, 7, 2, 8, 1, 4]$ 
+6406531286168.  : $[4, 3, 7, 2, 8, 1, 5]$ 
+6406531286169.  : $[4, 1, 8, 2, 7, 3, 5]$ 
+6406531286170.  : $[3, 4, 2, 7, 1, 8, 5]$ 
+
+**Question Number : 92 Question Id : 640653386746 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**

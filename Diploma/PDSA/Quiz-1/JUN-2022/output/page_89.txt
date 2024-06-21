@@ -1,0 +1,24 @@
+Options :
+6406531149184.  ❌ $O(n \log n)$
+6406531149185.  ❌ $O(n^2)$
+6406531149186.  ✅ $O(n)$
+6406531149187.  ❌ $O(\log n)$
+
+Question Number : 95 Question Id : 640653345537 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following statements about Depth First Search (DFS) on an undirected graph:
+(1) DFS systematically computes reachability in graphs.
+(2) Complexity of DFS is $O(n^2)$ using adjacency matrix and $O(m + n)$ using adjacency list.
+(3) DFS can be used to identify connected components in an undirected graph. 
+Choose the correct option regarding the given statements.
+Options :
+6406531149188.  ❌ Only Statement 1 and Statement 3 are true
+6406531149189.  ❌ Only Statement 2 and Statement 3 are true
+6406531149190.  ❌ Only Statement 1 and Statement 2 are true
+6406531149191.  ✅ All statements are true
+
+Question Number : 96 Question Id : 640653345541 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

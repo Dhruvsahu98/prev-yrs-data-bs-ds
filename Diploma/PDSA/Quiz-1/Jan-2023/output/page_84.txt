@@ -1,0 +1,28 @@
+6406531562802. ❌  $I: O(n^2)$ and $II: O(n \log n)$
+6406531562803. ❌  $I: O(n^2)$ and $II: O(n)$
+6406531562804. ❌  $I: O(n \log n)$ and $II: O(n \log n)$
+6406531562805. ✅  $I: O(n \log n)$ and $II: O(n^2)$
+
+Question Number : 93 Question Id : 640653470299 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Assume $S$ is a stack and $Q$ is a queue. Push and Pop operations are usual stack operations, Enqueue and dequeue are usual queue operations and $isEmpty()$ is a method which returns true if either the stack or the queue are empty.
+Now consider the function $fun$ given below:
+
+```python
+def fun(Q):
+    while(!Q.isEmpty()):
+        temp = Q.Dequeue()
+        S.Push(temp)
+    while(!S.isEmpty()):
+        temp = S.Pop()
+        Q.Enqueue(temp)
+```
+
+Suppose the initial content of the queue $Q$ is $[26, 78, 45, 10, 19, 56]$ and the stack $S$ is empty initially. If $fun$ is invoked on $Q$ then what will be the content of $Q$ after $fun$ finishes its execution?
+
+Options : 
+6406531562806. ❌ $[26, 78, 45, 10, 19, 56]$
+6406531562807. ❌ $[56, 19, 10, 26, 78, 45]$

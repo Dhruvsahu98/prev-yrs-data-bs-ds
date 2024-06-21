@@ -1,0 +1,32 @@
+Let $s(h)$ denote the minimum number of nodes in an AVL tree of height $h$ then 
+$s(h) = s(h-1) + s(h-2) - 1$, where $s(0) = 0$ and $s(1) = 1$. 
+
+B.  ✓ In AVL tree, the absolute difference between the height of the left subtree and the height of the right subtree of any node can't be more than 1. 
+
+C. ✓ The complexity of searching in an AVL tree is $O(log n)$.
+
+D. ✓ If the height of an AVL tree is $h$, the maximum number of nodes will be $2^h - 1$. 
+
+E. ✖ The complexity of both insertion and deletion in AVL tree is $O(n)$.
+
+Question Number : 185 Question Type : SA
+Correct Marks : 4
+Question Label : Short Answer Question
+
+Meetings M1, M2, ...., M11 are to be conducted in a single available meeting room. The table below gives the start and end times of these meetings. If any activity finishes at time $T$, then other activities can be started at time $T$ or afterward. 
+
+What is the maximum number of meetings that can be held in the meeting room without conflicts?
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ & M1 & M2 & M3 & M4 & M5 & M6 & M7 & M8 & M9 & M10 & M11 \\ \hline
+start & 4 & 2 & 11 & 9 & 10 & 7 & 6 & 3 & 6 & 2 & 13 \\ \hline
+end & 7 & 3 & 12 & 12 & 11 & 9 & 8 & 5 & 9 & 7 & 15 \\ \hline
+\end{tabular}
+
+NOTE: Enter your answer to the nearest integer. 
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

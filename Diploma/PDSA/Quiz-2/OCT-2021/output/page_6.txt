@@ -1,0 +1,21 @@
+C. ❌ DEHBCIFGA
+D. ✅ DHEBIFGCA
+
+Question Number : 7
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Which of the following statements is true about complexity of the given function where $n$ is the number of nodes?
+
+Options :
+A. ❌ $O(n \log n)$ whether the tree is balanced or unbalanced.
+B. ❌ $O(n)$ if the tree is balanced, $O(n \log n)$ otherwise.
+C. ✅ $O(n)$ whether the tree is balanced or unbalanced.
+D. ❌ $O(\log n)$ if the tree is balanced, $O(n^2)$ otherwise.
+
+Question Number : 8
+Correct Marks : 4
+Question Label : Multiple Select Question
+Consider a binary search tree of height $h$. Which of the following statements is/are true?
+
+Options :
+A. ❌ The number of elements in the tree is at most $h$.

@@ -1,0 +1,35 @@
+* Single stack
+6406532239784. * Two stacks
+6406532239785. * Single queue
+6406532239786. * Two queues
+
+Question Number : 93 Question Id : 640653668537 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider the following graph:
+
+\begin{tikzpicture}[scale=0.8]
+\node[draw, circle] (A) at (0,3) {A};
+\node[draw, circle] (B) at (-1.5,1) {B};
+\node[draw, circle] (C) at (1.5,1) {C};
+\node[draw, circle] (D) at (1.5,3) {D};
+\node[draw, circle] (E) at (-1.5,-1) {E};
+\node[draw, circle] (F) at (1.5,-1) {F};
+\node[draw, circle] (G) at (0,-3) {G};
+\node[draw, circle] (H) at (1.5,-3) {H};
+\draw (A)--(B);
+\draw (A)--(C);
+\draw (A)--(D);
+\draw (B)--(E);
+\draw (C)--(F);
+\draw (D)--(H);
+\draw (E)--(G);
+\draw (F)--(G);
+\end{tikzpicture}
+
+If we run Breadth First Search(BFS) on the given graph starting from vertex A, which of the following is the order of visiting the nodes?
+Note: Assume that when a node has multiple neighbours, BFS visits them alphabetically.
+
+Options :
+6406532239793. * ABCGEDFH
+6406532239794. * ABCGEDFH

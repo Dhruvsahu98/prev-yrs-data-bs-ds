@@ -1,0 +1,26 @@
+```python
+# This is a code block in python format
+print("Hello World")
+```
+
+# Options :
+
+A. $\times$  abcdefhg
+
+B. $\times$  abcefdgh
+
+C. $\checkmark$  abcefhdg
+
+D. $\times$  abcfedhg
+
+# Question Number : 184 Question Type : MSQ
+
+# Correct Marks : 4
+
+# Question Label : Multiple Select Question
+
+Which of the following is/are **true** about AVL Trees? Assume that the height of the empty tree is 0.
+
+# Options :
+
+A. $\times$ 

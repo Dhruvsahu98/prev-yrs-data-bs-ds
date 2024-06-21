@@ -1,0 +1,38 @@
+Question Number : 100 Question Id : 640653668540 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Consider the following Directed Acyclic Graph(DAG):
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2cm,
+                thick,main node/.style={circle,draw,font=\sffamily\small}]
+
+  \node[main node] (A) {A};
+  \node[main node] (B) [right of=A] {B};
+  \node[main node] (C) [below of=A] {C};
+  \node[main node] (D) [below of=B] {D};
+  \node[main node] (E) [below of=C] {E};
+
+  \path[every node/.style={font=\sffamily\small}]
+    (A) edge (C)
+    (A) edge (D)
+    (B) edge (C)
+    (B) edge (E)
+    (C) edge (E)
+    (D) edge (E);
+\end{tikzpicture}
+
+The number of possible topological order(s) for the given graph is \_\_\_\_\_\_\_.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+AppDev1
+Section Id : 64065344901
+Section Number : 7
+Section type : Online

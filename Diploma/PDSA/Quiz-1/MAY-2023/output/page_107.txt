@@ -1,0 +1,27 @@
+Question Number : 55 Question Id : 640653577807 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the following Python code snippet:
+```python
+1 x = 15
+2 y = 20
+3 if x > y:
+4   result = x - y
+5 elif x < y:
+6   result = y - x
+7 else:
+8   result = x + y
+9 print(result)
+10
+```
+What will be the output when you run the above snippet of code?
+Options :
+6406531929490.  5
+6406531929491.  20
+6406531929492.  35
+6406531929493.  15
+Sub-Section Number : 3
+Sub-Section Id : 64065382572
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 56 Question Id : 640653577805 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

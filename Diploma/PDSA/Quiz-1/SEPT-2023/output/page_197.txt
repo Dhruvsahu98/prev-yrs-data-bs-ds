@@ -1,0 +1,45 @@
+Consider the following two implementations to calculate the factorial of n:
+
+A. `factorial1(n)` using iteration below:
+
+```python
+def factorial1(n):
+  f = 1
+  for i in range(2, n + 1):
+    f = f * i
+  return f
+```
+
+B. `factorial(n)` using recursion below:
+
+```python
+def factorial(n):
+  if n == 1 or n == 0:
+    return 1
+  else:
+    return (n * factorial(n - 1))
+```
+
+Which of the following option represent the correct complexity for both implementation?
+
+**Options :**
+
+6406532239760. ❌ A- $O(n)$, B- $O(n^2)$
+
+6406532239761. ❌ A- $O(n)$, B- $O(log \ n)$
+
+6406532239762. ❌ A- $O(n^2)$, B- $O(n^2)$
+
+6406532239763. ✅ A- $O(n)$, B- $O(n)$
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065395157
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 88 Question Id : 640653668528 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

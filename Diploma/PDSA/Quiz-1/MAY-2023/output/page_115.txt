@@ -1,0 +1,17 @@
+Options :
+6406531929524. ❌  1 | [-1, 1, 0, 1, 1, 2, 3, 5, 8, 13]
+6406531929525. ✅  1 | [-1, 1, 0, 2, 4, 12, 32, 88, 240, 656]
+6406531929526. ❌  1 | [-1, 1, 0, -2, -4, -12, -32, -88, -240, -656]
+6406531929527. ❌  1 | [-1, 1, 0, -1, -1, -2, -3, -5, -8, -13]
+
+Sub-Section Number : 5
+Sub-Section Id : 64065382574
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 63 Question Id : 640653577811 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Select all correct implementations of a program that prints the first 10 prime numbers to the console, as one number on each line. Please note that the first 10 prime numbers are less than 30 and 11th prime number is more than 30. It is a Multiple Select Question.
+Options :
+6406531929507. ✅

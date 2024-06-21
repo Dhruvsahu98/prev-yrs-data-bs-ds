@@ -1,0 +1,23 @@
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following options is/are true?
+Options :
+6406531932633. $\checkmark$ The Minimum value of the quotient $q(x)$ is 0.
+6406531932634. $\times$ $p(x)$ is an odd degree polynomial.
+6406531932635. $\checkmark$ End behavior $p(x) \rightarrow +\infty$ as $x \rightarrow +\infty$
+6406531932636. $\checkmark$ End behavior $p(x) \rightarrow +\infty$ as $x \rightarrow -\infty$
+
+Section Id :                                  PDSA     64065339124
+Section Number :                             14
+Section type :                               Online
+Mandatory or Optional :                    Mandatory
+Number of Questions :                        17
+Number of Questions to be attempted :    17
+Section Marks :                              50
+Display Number Panel :                        Yes
+Group All Questions :                         No
+Enable Mark as Answered Mark for Review and
+Clear Response :                               Yes
+Maximum Instruction Time :                   0
+Sub-Section Number :                         1
+Sub-Section Id :                              64065382915

@@ -1,0 +1,45 @@
+6406531286152. ❌ I. $O(log \ n)$, II. $O(log \ n)$
+6406531286153. ❌ I. $O(n)$, II. $O(log \ n)$
+6406531286154. ✅ I. $O(log \ n)$, II. $O(1)$
+
+Question Number : 88 Question Id : 640653386742 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+```
+Consider an implementation of a singly linked list, where each node is created using the given class Node. Suppose it has a head variable that points to the first node of the linked list and a tail variable that points to the last element of the linked list.
+
+\begin{tikzpicture}[scale=0.5]
+\draw (0,0) rectangle (2,1);
+\draw (1,1) -- (1,0);
+\draw[->,thick] (2,0.5) -- (4,0.5);
+\draw (4,0) rectangle (6,1);
+\draw (5,1) -- (5,0);
+\draw[dotted,thick] (6,0.5) -- (8,0.5);
+\draw[->,thick] (8,0.5) -- (10,0.5);
+\draw (10,0) rectangle (12,1);
+\draw (11,1) -- (11,0);
+\draw[->,thick] (12,0.5) -- (12,-1);
+\draw (12,-1.5) node {$tail$};
+\draw[->,thick] (1,0) -- (1,-1);
+\draw (1,-1.5) node {$head$};
+\end{tikzpicture}
+
+Suppose we want to perform the following operations on the given linked list:-
+
+1. Insertion of the new node at the first position of the linked list.
+2. Insertion of the new node at the last position of the linked list.
+3. Deletion of the first node of the linked list.
+4. Deletion of the last node of the linked list.
+
+Which of the above operation can be performed in **constant time** $O(1)$?
+
+Options :
+6406531286155. ❌ 1, 2 and 4
+6406531286156. ✅ 1, 2 and 3
+6406531286157. ❌ 2, 3 and 4

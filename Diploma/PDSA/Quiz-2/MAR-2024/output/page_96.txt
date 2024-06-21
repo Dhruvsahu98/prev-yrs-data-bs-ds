@@ -1,0 +1,21 @@
+After inserting 19 in the given AVL tree (before applying rotation), which of the following node's slopes will become greater than 1? Select all that are correct.
+
+Options :
+6406532577436. ✖ 38
+6406532577437. ✔ 56
+6406532577438. ✔ 14
+6406532577439. ✖ 18
+6406532577440. ✔ 23
+
+Question Number : 118 Question Id : 640653770537 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Consider the following statements and choose the correct ones.
+Options :
+6406532577452. ✖ The worst case running time of Quick select algorithm to find the kth largest number is $O(n)$.
+6406532577453. ✔ The time taken to find the median in an unsorted list using the Median of Medians(MoM) algorithm is $O(n)$.
+6406532577454. ✔ The Quick select algorithm is an example of the divide-and-conquer approach.
+6406532577455. ✖ Using the Fast Select (Quick Select using MoM for pivot selection) strategy, the worst-case running time will be $O(n^2)$ to find the kth largest number.
+
+Sub-Section Number : 7

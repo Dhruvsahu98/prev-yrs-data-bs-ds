@@ -1,0 +1,32 @@
+Options :
+6406532467896. ❌ $O(n)$
+6406532467897. ❌ $O(n + m)$
+6406532467898. ✅ $O(n^2)$
+6406532467899. ❌ $O(m^2)$
+
+Sub-Section Number : 6
+Sub-Section Id : 640653107622
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 113 Question Id : 640653737381 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+
+Consider the following Implementation for Insertion sort
+
+```python
+def insertionsort(L):
+    n = len(L)
+    if n < 1:
+        return(L)
+    for i in range(n):
+        j = i
+        while (j > 0 and L[j] < L[j-1]):
+            (L[j], L[j-1]) = (L[j-1], L[j])
+            j = j-1
+    return(L)
+```
+
+Suppose a list L=[1,3,2,6,5,8,7,9] is used as input parameter to above insertion sort. How many times will the while condition evaluate to true?

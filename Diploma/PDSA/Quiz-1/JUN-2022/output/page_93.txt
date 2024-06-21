@@ -1,0 +1,32 @@
+Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Consider a linked list made up of nodes whose structure is defined by the following class
+```python
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.next = None
+```
+Assume we have a class LinkedList in which `head` refers to the first node of the linked list. A method `fun(self, curr_node, prev_node)` is defined in the LinkedList class, as given below:
+```python
+def fun(self, curr_node, prev_node):
+    if curr_node.next is None:
+        self.head = curr_node
+        curr_node.next = prev_node
+        return
+    temp = curr_node.next
+    curr_node.next = prev_node
+    self.fun(temp, curr_node)
+```
+The initial state of the linked list before calling `fun` was: 34, 12, 67, 9, 12, 4
+What would be the state of the linked list after calling `fun(1.head, None)`, where `1` is the LinkedList object?
+Options :
+6406531149172. ❌ 12, 34, 9, 67, 4, 12
+6406531149173. ✅ 4, 12, 9, 67, 12, 34
+6406531149174. ❌ 4, 12, 67, 9, 12, 34
+6406531149175. ❌ None of these
+Sub-Section Number : 5
+Sub-Section Id : 64065348867
+Question Shuffling Allowed : Yes
+Question Number : 101 Question Id : 640653345534 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 

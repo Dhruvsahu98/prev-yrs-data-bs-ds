@@ -1,0 +1,33 @@
+Which of the following is/are possible degree sequence(s) of vertices of a connected undirected graph with six vertices?
+
+Note: Degree sequence is a series of positive integer $a_1, a_2, ..., a_n$ where each $a_i$ is the degree of the $i^{th}$ vertex of the graph.
+
+**Options :**
+
+6406531562820. ❌ 1,1,1,1,1,1
+
+6406531562821. ✅ 2,2,2,2,2,2
+
+6406531562822. ✅ 1,1,2,2,3,5
+
+6406531562823. ❌ 1,2,2,2,3,3
+
+**Question Number : 102 Question Id : 640653470307 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3 Selectable Option : 0**
+
+**Question Label : Multiple Select Question**
+
+Which of the following statement(s) is/are **true** about Depth First Search (DFS) on an undirected and connected graph?
+
+**Options :**
+
+6406531562834. ✅ DFS can be used to detect cycles in the graph.
+
+6406531562835. ✅ DFS can be used to identify connected components in an undirected graph.
+
+6406531562836. ✅ Using an adjacency list instead of an adjacency matrix can improve the worst case complexity to $O(V + E)$, where V is number of vertices and E is number of edges.
+
+6406531562837. ❌ In an unweighted graph, DFS can be used to identify the shortest path from a starting vertex $s$ to every other vertex in the graph
+
+6406531562838. ✅ DFS always produces the same number of tree edges irrespective of the order in which the vertices are considered for DFS.

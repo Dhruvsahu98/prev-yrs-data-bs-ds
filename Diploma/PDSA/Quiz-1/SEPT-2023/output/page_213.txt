@@ -1,0 +1,33 @@
+Continuous random variables:
+
+| Distribution | PDF ($f_X(x)$) | CDF ($F_X(x)$) | E[X] | Var(X) |
+|---|---|---|---|---|
+| Uniform[a, b] | $\begin{cases} \frac{1}{b-a}, & a \leq x \leq b \\ 0, & \text{otherwise} \end{cases}$ | $\begin{cases} 0, & x \leq a \\ \frac{x-a}{b-a}, & a < x < b \\ 1, & x \geq b \end{cases}$ | $\frac{a+b}{2}$ | $\frac{(b-a)^2}{12}$ |
+| Exp($\lambda$) | $\lambda e^{-\lambda x}, x > 0$ | $\begin{cases} 0, & x \leq 0 \\ 1-e^{-\lambda x}, & x > 0 \end{cases}$ | $\frac{1}{\lambda}$ | $\frac{1}{\lambda^2}$ |
+| Normal($\mu, \sigma^2$) | $\frac{1}{\sigma \sqrt{2 \pi}} exp \left( -\frac{(x-\mu)^2}{2\sigma^2} \right), -\infty < x < \infty$ | No closed form | $\mu$ | $\sigma^2$ |
+| Gamma($\alpha, \beta$) | $\frac{\beta^\alpha}{\Gamma(\alpha)} x^{\alpha-1} e^{-\beta x}, x > 0$ |  | $\frac{\alpha}{\beta}$ | $\frac{\alpha}{\beta^2}$ |
+| Beta($\alpha, \beta$) | $\frac{\Gamma(\alpha+\beta)}{\Gamma(\alpha)\Gamma(\beta)} x^{\alpha-1}(1-x)^{\beta-1}, 0 < x < 1$ |  | $\frac{\alpha}{\alpha+\beta}$ | $\frac{\alpha \beta}{(\alpha+\beta)^2 (\alpha+\beta+1)}$ |
+
+1. Markov's inequality: Let X be a discrete random variable taking non-negative values with a finite mean $\mu$. Then,
+$P(X \geq c) \leq \frac{\mu}{c}$
+
+2. Chebyshev's inequality: Let X be a discrete random variable with a finite mean $\mu$ and a finite variance $\sigma^2$. Then,
+$P(|X-\mu| \geq k\sigma) \leq \frac{1}{k^2}$
+
+Options :
+
+6406532239655. ✅ Useful Data has been mentioned above.
+
+6406532239656. ❌ This data attachment is just for a reference & not for an evaluation.
+
+Sub-Section Number : 2
+
+Sub-Section Id : 64065395144
+
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 52 Question Id : 640653668483 Question Type : SA Calculator : None
+
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

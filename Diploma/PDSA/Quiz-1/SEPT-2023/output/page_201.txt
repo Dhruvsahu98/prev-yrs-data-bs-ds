@@ -1,0 +1,47 @@
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+```
+
+Consider the following linked list structure, where each node is an object of class `Node` and it has a head pointer that points to the first node of the linked list and a `tail` pointer that points to the last node of the linked list.
+
+\begin{tikzpicture}
+  \node[draw, rectangle] (node1) {};
+  \node[draw, rectangle, right=of node1] (node2) {};
+  \node[draw, rectangle, right=of node2] (node3) {};
+  
+  \draw[->] (node1) -- (node2);
+  \draw[->, dotted] (node2) -- (node3);
+  \draw[->] (node3) -- ++(0.5,0) coordinate (tail);
+  
+  \draw[->] (node1) -- ++(0,-1) coordinate (head);
+  
+  \node[below=of head] {head};
+  \node[below=of tail] {tail};
+\end{tikzpicture}
+
+Which of the following operations on a given linked list requires traversal of the entire list?
+
+Options :
+
+6406532239779. ❌ Insert a new node at the beginning
+
+6406532239780. ✅ Delete a node from the end
+
+6406532239781. ❌ Insert a new node at the end
+
+6406532239782. ❌ Delete a node from the beginning
+
+Question Number : 92 Question Id : 640653668533 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+A doctor sees patients in his consulting room every evening. A certain number of appointments are given for each evening. Patients can also take a chance and come without an appointment. Appointments are not for a fixed time. The receptionist allows patients in to see the doctor in the order in which they arrive, with the provision that any patient with an appointment goes in before any patient without an appointment. What would be a good data structure for the receptionist to keep track of the waiting patients?
+
+Options :
+
+6406532239783. 

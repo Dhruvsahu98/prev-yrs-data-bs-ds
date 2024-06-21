@@ -1,0 +1,28 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+Question Number : 100 Question Id : 640653737376 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+What will be the output of the following query?
+```python
+select distinct name
+from Players
+except
+select t1.name
+from Players as t1, Players as t2
+where t1.Jersey_No<t2.Jersey_No
+```
+Options :
+6406532467843. ❌ Name of the player having the lowest jersey number
+6406532467844. ❌ Name of the player having the second highest jersey number
+6406532467845. ✅ Name of the player having the highest jersey number
+6406532467846. ❌ Name of the player having the second lowest jersey number
+PDSA
+Section Id : 64065351355
+Section Number : 7
+Section type : Online

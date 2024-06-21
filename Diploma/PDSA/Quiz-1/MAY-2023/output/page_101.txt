@@ -1,0 +1,51 @@
+Question Label : Short Answer Question
+Consider the E-R diagram in Figure 5.
+
+\begin{tikzpicture}[scale=0.8, every node/.style={scale=0.8}]
+\node[rectangle, draw, thick] (A) at (0,0) {A};
+\node[diamond, draw, thick] (N) at (2,0) {N};
+\node[rectangle, draw, thick] (B) at (4,0) {B};
+\node[ellipse, draw] (C) at (-1,1.5) {C};
+\node[ellipse, draw, dashed] (D) at (1,1.5) {D};
+\node[ellipse, draw] (P) at (3,1.5) {P};
+\node[ellipse, draw, dashed] (Q) at (5,1.5) {Q};
+\node[ellipse, draw] (E) at (-1,-1.5) {E};
+\node[ellipse, draw] (X) at (-2,-2.5) {X};
+\node[ellipse, draw] (Y) at (-1,-2.5) {Y};
+\node[ellipse, draw] (Z) at (0,-2.5) {Z};
+\node[ellipse, draw] (R) at (5,-1.5) {R};
+
+\draw (A) -- (N);
+\draw (N) -- (B);
+\draw (C) -- (A);
+\draw (D) -- (A);
+\draw (P) -- (B);
+\draw (Q) -- (B);
+\draw (E) -- (X);
+\draw (E) -- (Y);
+\draw (E) -- (Z);
+\draw (R) -- (B);
+\end{tikzpicture}
+
+Figure 5: ERD
+
+Consider the following assumptions :
+a : denotes the number of attributes in entity set A
+b : denotes the minimum number of table(s) required to represent this E-R diagram?
+
+What is the value of a + b?
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+8
+
+## PDSA
+
+Section Id : 64065339071
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory

@@ -1,0 +1,20 @@
+Select the most appropriate data structure for the following applications:
+
+| Application | Data Structure |
+|---|---|
+| 1. To implement ticket reservation waiting list | a. Array |
+| 2. Matrix operations | b. Graph |
+| 3. Undo/Redo operation for editor | c. Stack |
+| 4. Friend suggestion algorithm for social networking site | d. Queue |
+
+**Options :**
+
+6406531286163. ✅ 1-d, 2-a, 3-c, 4-b
+6406531286164. ❌ 1-d, 2-b, 3-c, 4-a
+6406531286165. ❌ 1-d, 2-a, 3-b, 4-c
+6406531286166. ❌ 1-c, 2-a, 3-d, 4-b
+
+Question Number : 91 Question Id : 640653386745 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

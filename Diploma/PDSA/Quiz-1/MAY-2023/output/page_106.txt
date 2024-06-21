@@ -1,0 +1,31 @@
+```python
+str1 = "Python"
+str2 = "Programming"
+str3 = str1 + " " + str2[:]
+print(len(str3))
+```
+#There is single space in between quotes 
+Options :
+6406531929478. ✅ 15
+6406531929479. ❌ 14
+6406531929480. ❌ 11
+6406531929481. ❌ 12
+Question Number : 54 Question Id : 640653577806 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider the following code snippet:
+```python
+days = int(input())
+years = days // 365
+weeks = (days % 365) // 7
+remaining_days = (days % 365) % 7
+print("Years:", years)
+print("Weeks:", weeks)
+print("Days:", remaining_days)
+```
+What will be the output if the input *days* is 437?
+Options :
+6406531929486. ✅ Years: 1, Weeks: 10, Days: 2
+6406531929487. ❌ Years: 2, Weeks: 10, Days: 3
+6406531929488. ❌ Years: 1, Weeks: 62, Days: 2
+6406531929489. ❌ Years: 2, Weeks: 22, Days: 2

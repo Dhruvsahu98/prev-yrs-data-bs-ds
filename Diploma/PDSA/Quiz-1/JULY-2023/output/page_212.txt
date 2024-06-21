@@ -1,0 +1,22 @@
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Number : 239 Question Id : 640653578800 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL : PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON (COMPUTER BASED EXAM)"
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT?
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)
+Options :
+6406531932643 : YES
+6406531932644 : NO
+
+Sub-Section Number : 2
+Sub-Section Id : 64065382916
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 240 Question Id : 640653578801 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question

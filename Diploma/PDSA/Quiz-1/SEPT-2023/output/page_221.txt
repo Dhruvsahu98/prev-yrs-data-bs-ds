@@ -1,0 +1,30 @@
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :** 
+0.35 to 0.40
+
+**Question Id :** 640653668495 **Question Type :** COMPREHENSION **Sub Question Shuffling Allowed :** No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Question Numbers :** (61 to 62)
+
+**Question Label :** Comprehension
+An unbiased coin is tossed three times independently. Let $X$ represent the number of heads in all three tosses, $Y$ represent the number of tails in the first two tosses. Define another random variable $U = XY$.
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number :** 61 **Question Id :** 640653668496 **Question Type :** MCQ Is Question
+**Mandatory :** No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+**Correct Marks :** 3
+**Question Label :** Multiple Choice Question
+Find the PMF of $U$.
+
+**Options :** 
+$$\begin{array}{|c|c|c|c|}
+\hline
+u & 0 & 1 & 2 \\ \hline
+f(u) & 1/4 & 1/4 & 1/2 \\ \hline
+\end{array}$$
+6406532239678. 
+
+6406532239679. 

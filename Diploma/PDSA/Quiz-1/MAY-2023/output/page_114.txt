@@ -1,0 +1,41 @@
+```python
+n = int(input())
+flag = 0
+for i in range(2, 7):
+    if n % i == 0:
+        flag = 1
+        break
+if flag == 1 and n % 7 == 0:
+    print("Magic Number")
+else:
+    print("Not Magic Number")
+```
+6406531929517. ✖
+
+```python
+n = int(input())
+flag = 0
+for i in range(2, 7):
+    if n % (i+1) == 1:
+        flag = 1
+        break
+if flag == 1 or n % 7 == 0:
+    print("Magic Number")
+else:
+    print("Not Magic Number")
+```
+6406531929518. ✖
+
+Question Number : 62 Question Id : 640653577816 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question
+What will be the output of the code snippet given below?
+```python
+L = [-1, 1]
+for i in range(8):
+    size = len(L)
+    value = (L[size - 2] + L[size - 1])**2
+    L.append(value)
+print(L)
+```

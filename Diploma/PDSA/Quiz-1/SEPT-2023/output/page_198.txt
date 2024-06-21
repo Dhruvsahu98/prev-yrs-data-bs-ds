@@ -1,0 +1,48 @@
+**Correct Marks : 3**
+
+**Question Label : Short Answer Question**
+
+Given the following sorted list:
+
+[16, 53, 59, 81, 94, 99, 121, 150, 162, 170]
+
+If we use binary search algorithm to search for element 105 in the given list, then the number of comparisons of searching element 105 with list elements done in this process is...
+
+**Note:** Assume here that binary search will compute the midpoint by using
+($First~index~+~Last~index$)/2
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+4
+
+**Sub-Section Number :**
+
+4
+
+**Sub-Section Id :**
+
+64065395158
+
+**Question Shuffling Allowed :**
+
+Yes
+
+**Is Section Default? :**
+
+null
+
+**Question Number : 89 Question Id : 640653668529 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3 Max. Selectable Options : 0**
+
+**Question Label : Multiple Select Question**

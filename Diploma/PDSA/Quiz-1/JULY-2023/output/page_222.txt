@@ -1,0 +1,31 @@
+Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Assume $s$ is a stack and $q$ is a queue. Push and Pop operations are usual stack operations, enqueue and dequeue are usual queue operations, and isEmpty() is a method that returns true if either the stack or the queue is empty. Assume that stack $s$ and Queue $q$ are empty initially.
+
+```python
+for i in range(5):
+    s.Push(i)
+q.Enqueue(1)
+while not q.isEmpty():
+    s.Push(q.Dequeue())
+while not s.isEmpty():
+    q.Enqueue(s.Pop())
+while not q.isEmpty():
+    print(q.Dequeue(), end = " ")
+```
+
+What is the output of the given code snippet?
+
+Options :
+
+6406531932680. ❌ 0 1 2 3 4
+6406531932681. ❌ 4 3 2 1 0
+6406531932682. ✅ 4 3 2 1 0
+6406531932683. ❌ 0 1 2 3 4
+
+Question Number : 252 Question Id : 640653578813 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

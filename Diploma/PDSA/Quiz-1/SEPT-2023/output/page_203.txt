@@ -1,0 +1,12 @@
+6406532239795. ✖️  ABCEFGDH
+6406532239796. ✖️  ABCGDEFH
+
+Sub-Section Number : 6
+Sub-Section Id : 64065395160
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 94 Question Id : 640653668531 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Multiple Choice Question

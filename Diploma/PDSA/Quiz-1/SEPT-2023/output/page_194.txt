@@ -1,0 +1,58 @@
+6406532239742. 
+\begin{tabular}{|c|c|}
+\hline
+nomineename & \\
+\hline
+Yukti & \\
+\hline
+Mukti & \\
+\hline
+\end{tabular}
+
+6406532239743. 
+\begin{tabular}{|c|c|}
+\hline
+nomineename & \\
+\hline
+Shakti & \\
+\hline
+Mukti & \\
+\hline
+\end{tabular}
+
+6406532239744. 
+\begin{tabular}{|c|c|}
+\hline
+nomineename & \\
+\hline
+Shakti & \\
+\hline
+Yukti & \\
+\hline
+Mukti & \\
+\hline
+\end{tabular}
+
+6406532239745. 
+\begin{tabular}{|c|c|}
+\hline
+nomineename & \\
+\hline
+Shakti & \\
+\hline
+Yukti & \\
+\hline
+\end{tabular}
+
+PDSA 64065344900
+Section Id : 
+Section Number : 6
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 16
+Number of Questions to be attempted : 16
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Clear Response : Yes

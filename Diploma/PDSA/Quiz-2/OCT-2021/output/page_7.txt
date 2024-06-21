@@ -1,0 +1,21 @@
+B.  ✓ The number of elements in the tree is at least h. 
+C.  ✗ The number of elements in the tree is at least 2h. 
+D.  ✓ The number of elements in the tree is at most $2^h-1$. 
+E.  ✗ The number of elements in the tree is at most $2^h$. 
+F.  ✓ In a binary search tree, if the number of nodes with zero child nodes are $n_0$ and the number of nodes with two child nodes are $n_2$ then $n_0=n_2+1$ is always true. 
+
+**Question Number : 9**
+**Correct Marks : 5**
+**Question Label : Multiple Choice Question**
+Consider the min-heap [10, 25, 45, 35, 38, 70, 54, 43, 39] built by repeatedly inserting values into an empty heap. Which of the following could not have been the last element inserted into this heap?
+**Options :**
+A.  ✗ 25
+B.  ✗ 35
+C.  ✗ 39
+D.  ✓ 38
+
+**Question Number : 10**
+**Correct Marks : 5**
+**Question Label : Multiple Choice Question**
+Consider the max-heap [95, 70, 61, 43, 47, 24, 12, 31, 39] built by repeatedly inserting values into an empty heap. Suppose the last value inserted was 95. What was the heap structure before this value was inserted?
+**Options :**

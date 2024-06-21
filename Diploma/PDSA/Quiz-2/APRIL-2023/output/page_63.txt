@@ -1,0 +1,26 @@
+6406531736748. ❌ Deleting the minimum element
+6406531736749. ✅ Merging with another min-heap of size n
+6406531736750. ❌ Update the value at the known index
+
+Question Number : 71 Question Id : 640653521061 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Consider a max-heap with 37 distinct elements implemented using array A with index 0 to 36. The smallest element be always situated at any position in between ______.
+
+Options :
+6406531736751. ❌ A[16] and A[36] (both inclusive)
+6406531736752. ✅ A[18] and A[36] (both inclusive)
+6406531736753. ❌ A[32] and A[36] (both inclusive)
+6406531736754. ❌ A[31] and A[36] (both inclusive)
+
+Question Number : 72 Question Id : 640653521062 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following statements is true about the worst case time complexity of searching operation in binary search tree of size n?
+
+Options :
+6406531736755. ❌ $O(n)$ whether the tree is balanced or unbalanced.
+6406531736756. ❌ $O(n)$ if the tree is balanced, $O(logn)$ otherwise.
+6406531736757. ❌ $O(logn)$ whether the tree is balanced or unbalanced.

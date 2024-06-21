@@ -1,0 +1,25 @@
+Options :
+6406531932666. ✅ If $p < x < q$, then $x$ is the maximum in the list.
+6406531932667. ❌ If $p < x < q$, then the maximum element is in the left half of the list.
+6406531932668. ✅ If $p < x < q$, then the maximum element is in the right half of the list.
+6406531932669. ✅ If $p > x > q$, then the maximum element is in the left half of the list.
+6406531932670. ❌ If $p > x > q$, then the maximum element is in the right half of the list.
+
+Question Number : 242 Question Id : 640653578809 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+```
+
+Consider an implementation of a singly linked list, where each node is created using the given class `Node`. Suppose it has only a `head` pointer that points to the first node of the linked list.
+
+Which of the following statement(s) is/are true? Assume we are using the most efficient algorithms.
+
+Options :
+6406531932675. ✅ Finding an item in a sorted linked list of $n$ items takes $O(n)$ time.
+6406531932676. ❌ Finding an item in a sorted linked list of $n$ items takes $O(log n)$ time.
