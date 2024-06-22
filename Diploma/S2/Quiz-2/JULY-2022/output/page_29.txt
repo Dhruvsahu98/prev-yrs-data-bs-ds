@@ -1,0 +1,20 @@
+Consider a sample of i.i.d. random variables ($X_1, X_2, ..., X_n$), where each of the $X_i$'s follows Uniform(-0.5, 0.5) distribution.
+
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 36 Question Id : 640653351542 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Compute the expected value and variance of sample mean, 
+$\bar{X} = \frac{X_1 + ... + X_n}{n}$.
+
+Options :
+6406531166658.  $\mathbb{E}[\bar{X}] = 0$ and $Var[\bar{X}] = 0$
+6406531166659.  $\mathbb{E}[\bar{X}] = 0$ and $Var[\bar{X}] = \frac{1}{12}$
+6406531166660.  $\mathbb{E}[\bar{X}] = \frac{1}{2}$ and $Var[\bar{X}] = \frac{1}{n}$
+6406531166661.  $\mathbb{E}[\bar{X}] = 0$ and $Var[\bar{X}] = \frac{1}{12n}$
+
+Question Number : 37 Question Id : 640653351543 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question

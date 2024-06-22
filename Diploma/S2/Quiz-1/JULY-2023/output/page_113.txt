@@ -1,0 +1,28 @@
+Text Areas : PlainText
+Possible Answers :
+4
+
+Question Number : 123 Question Id : 640653578676 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find the value of $P(\frac{1}{4} \leq X \leq \frac{3}{4})$. Enter 
+the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.66 to 0.72
+
+## Business Analytics
+Section Id : 64065339117
+Section Number : 7
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 11
+Number of Questions to be attempted : 11
+Section Marks : 20
+Display Number Panel : Yes
+Group All Questions : No

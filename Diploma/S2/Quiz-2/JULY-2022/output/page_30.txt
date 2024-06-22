@@ -1,0 +1,23 @@
+Find the minimum value of *n* such that probability that the sample mean, $\bar{X}$ is within 0.2 of the distribution mean is at least 0.9 using Weak Law of Large numbers.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+21
+
+Question Id : 640653351544 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (38 to 39)
+Question Label : Comprehension
+Let *X* be a continuous uniform random variable on [0, 1] and $Y = \frac{1}{X}$.
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 38 Question Id : 640653351545 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Find the probability density function of *Y*.
+Options :
+6406531166663. $f_Y(y) = 1 - \frac{1}{y}$, for $0 \leq y < \infty$

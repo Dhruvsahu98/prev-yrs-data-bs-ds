@@ -1,0 +1,25 @@
+Based on the above data, answer the given subquestions.
+
+Sub questions
+**Question Number : 255 Question Type : SA**
+Correct Marks : 2
+Question Label : Short Answer Question
+Find $c$ so that $f_{XY}$ is a valid PDF.
+NOTE: Enter your answer to the nearest integer.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+**Question Number : 256 Question Type : SA**
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the probability that in a given week the amount of petrol sold is less than half the amount that is stocked. Enter the answer correct to one decimal place.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

@@ -1,0 +1,18 @@
+Question Number : 251 Question Type : MSQ
+Correct Marks : 5
+Question Label : Multiple Select Question
+Suppose $X_1, X_2,..., X_9 \sim i.i.d. Poisson(\lambda)$. Let $\hat{\lambda}_1 = \frac{1}{8} \sum_{i=1}^{8} \frac{X_i + X_{i+1}}{2}$ and $\hat{\lambda}_2 = \frac{1}{9} \sum_{i=1}^{9} X_i + X_{i+1}$ be two estimators of $\lambda$. Which of the following statements are correct?
+Options :
+A. ❌ Both $\hat{\lambda}_1$ and $\hat{\lambda}_2$ are biased estimators of $\lambda$.
+B. ✅ $\hat{\lambda}_1$ is an unbiased estimator of $\lambda$.
+C. ❌ $\hat{\lambda}_2$ is an unbiased estimator of $\lambda$.
+D. ✅ The variance of $\hat{\lambda}_1$ is $\frac{15 \lambda}{128}$.
+E. ✅ The bias of $\hat{\lambda}_2$ is $\frac{-\lambda}{9}$.
+
+Question Number : 252 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+A random sample of size 64 is collected from a normal population with mean $\mu$ and variance $\sigma^2$. Suppose the expected value and the variance of the sample mean is 50 and 0.25, respectively. Find the value of $\mu - 11\sigma$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

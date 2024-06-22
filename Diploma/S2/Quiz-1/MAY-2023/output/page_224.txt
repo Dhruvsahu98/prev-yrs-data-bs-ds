@@ -1,0 +1,20 @@
+Question Number : 20 Question Id : 64065357764 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Find the range of $U$.
+Options :
+6406531929380. ❌ $T_U = \{0,1,2,...,12\}$
+6406531929381. ❌ $T_U = \{1,2,...,12\}$
+6406531929382. ❌ $T_U = \{0,1,2,...,11\}$
+6406531929383. ✅ $T_U = \{1,2,...,11\}$
+
+Question Number : 21 Question Id : 64065357765 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the value of $P(X = 4, U = 8)$.
+Options :
+6406531929384. ❌ $\frac{1}{6}$
+6406531929385. ❌ $\frac{2}{3}$
+6406531929386. ✅ $\frac{1}{3}$

@@ -1,0 +1,19 @@
+Question Number : 76 Question Id : 640653737348 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+If X = 5, then which of the following options are true?
+Options :
+6406532467782. ❌ Range of (Y|X = 5) = {1, 2, 3, 4, 5, 6}
+6406532467783. ✅ Range of (Y|X = 5) = {0, 1, 2, 3, 4, 5}
+6406532467784. ❌ (Y|X = 5) ~ Binomial ($\begin{pmatrix} 5 \\ \frac{1}{6} \end{pmatrix}$)
+6406532467785. ✅ (Y|X = 5) ~ Binomial ($\begin{pmatrix} 5 \\ \frac{1}{2} \end{pmatrix}$)
+Question Number : 77 Question Id : 640653737349 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of P(Y = 1|X = 5). Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :

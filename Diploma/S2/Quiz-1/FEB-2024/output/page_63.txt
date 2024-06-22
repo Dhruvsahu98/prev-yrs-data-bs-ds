@@ -1,0 +1,24 @@
+##  
+|  X | 1 | 2 |
+|---|---|---|
+| Y |  |  |
+| 1 | $\frac{1}{4}$ | $\frac{1}{4}$ |
+| 2 | $\frac{1}{4}$ | $\frac{1}{4}$ |
+
+Question Number : 69 Question Id : 640653737341 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Suppose X and Y are independent random variables with means 10 and 20, and variances 2 and 4, respectively. Find the value of Var(XY).
+
+Hint: If X and Y are independent, then $X^2$ and $Y^2$ are also independent.
+Options : 
+6406532467768. ❌ 0
+6406532467769. ❌ 40000
+6406532467770. ✅ 1208
+6406532467771. ❌ Cannot be determined
+
+Question Number : 70 Question Id : 640653737343 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question

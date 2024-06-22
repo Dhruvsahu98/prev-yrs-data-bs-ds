@@ -1,0 +1,28 @@
+6406531736591. ✅ 80
+6406531736592. ❌ 100
+6406531736593. ❌ 95
+Sub-Section Number : 3
+Sub-Section Id : 64065373909
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 19 Question Id : 640653521001 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+The probability density function of a continuous random variable X is given by
+ $$f(x) = \begin{cases}
+\frac{6x+1}{10}, & \text{if } 1 \leq x \leq 2 \\
+0, & \text{otherwise}
+\end{cases}$$
+Find the value of $E[X]$. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+1.53 to 1.57
+Question Number : 20 Question Id : 640653521002 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question

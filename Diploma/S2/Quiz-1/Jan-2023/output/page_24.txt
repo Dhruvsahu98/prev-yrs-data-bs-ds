@@ -1,0 +1,36 @@
+Two matches are played between John and Walter. The probability that John wins the first match against Walter is 0.75. The probability that John wins the second match given that he won the first is 0.9, and the probability that John wins the second match given that he lost the first is 0.5. No match ends in a draw. Let $X_1$, $X_2$ be two random variables defined as 
+
+$$X_i = \begin{cases}
+1 & \text{if John wins the } i^{th} \text{ match} \\
+0 & \text{if Walter wins the } i^{th} \text{ match}
+\end{cases}$$
+
+for $i \in \{1, 2\}$.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 27 Question Id : 640653470226 Question Type : MCQ Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Find the joint PMF of $X_1$ and $X_2$.
+
+Options : 
+
+| $X_1$ | 0 | 1 |
+|---|---|---|
+| 0 | $\frac{1}{8}$ | $\frac{1}{8}$ |
+| 1 | $\frac{3}{40}$ | $\frac{27}{40}$ |
+
+6406531562583. 
+
+| $X_1$ | 0 | 1 |
+|---|---|---|
+| 0 | $\frac{1}{8}$ | $\frac{27}{40}$ |
+| 1 | $\frac{1}{8}$ | $\frac{3}{40}$ |
+
+6406531562584. 

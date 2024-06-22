@@ -1,0 +1,24 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1125
+Sub-Section Number : 4
+Sub-Section Id : 6406536396
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+Question Number : 58 Question Id : 640653445796 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Suppose iron rods are manufactured with a mean weight of 10 kg and a standard deviation of 0.4 kg. How does the variance of the sample mean change when the sample size is increased from 25 to 64?
+Options :
+6406531485303. ❌ Variance is increased from 0.00625 to 0.016.
+6406531485304. ❌ Variance is increased from 0.0025 to 0.0064.
+6406531485305. ✅ Variance is reduced from 0.0064 to 0.0025.
+6406531485306. ❌ Variance is reduced from 0.016 to 0.00625.
+Sub-Section Number : 5
+Sub-Section Id : 6406536397
+Question Shuffling Allowed : No
+Is Section Default? : null

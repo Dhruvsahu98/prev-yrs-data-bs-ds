@@ -1,0 +1,29 @@
+Question Label : Comprehension
+Let the random variables X and Y have the following joint density function:
+$f_{XY}(x,y) = \begin{cases}
+1 & \text{for } 0 \le x < 1, 0 \le y < 1 \\
+0 & \text{otherwise}
+\end{cases}$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 33 Question Id : 640653351522 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Calculate $P \left( 0 < X < \frac{1}{2}, Y < \frac{1}{4} \right)$. Enter the answer correct to three decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.125
+
+Question Number : 34 Question Id : 640653351523 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Find $P \left( 0 < X < \frac{1}{2} \right)$. Enter the answer correct to one decimal place.

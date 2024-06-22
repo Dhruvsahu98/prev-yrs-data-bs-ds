@@ -1,0 +1,24 @@
+1
+Question Number : 14 Question Id : 640653520985 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+If the $m \times n$ matrix $B$ is the matrix of $T$ with respect to some basis for $W$ and the standard ordered basis for $\mathbb{R}^2$, then what is $m + n$?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+## Statistics2
+Section Id : 64065333930
+Section Number : 2
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 12
+Number of Questions to be attempted : 12
+Section Marks : 40
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and : Yes

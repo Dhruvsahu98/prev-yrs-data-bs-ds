@@ -1,0 +1,20 @@
+Question Shuffling Allowed : No
+Is Section Default : null
+
+Question Number : 16 Question Id : 640653470212 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question 
+THIS IS QUESTION PAPER FOR THE SUBJECT "STATISTICS FOR DATA SCIENCE II"
+
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.
+
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU) 
+
+Options : 
+6406531562555.  ✔️ YES
+6406531562556.  ❌ NO
+
+Question Number : 17 Question Id : 640653470213 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 0
+Question Label : Multiple Choice Question 

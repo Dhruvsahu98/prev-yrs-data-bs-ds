@@ -1,0 +1,49 @@
+**Correct Marks : 3**
+
+Question Label : Short Answer Question
+
+Using the Central Limit Theorem, find the approximate probability that in a random sample of 300 selected children at least 30 will have defective eye-sight. Enter the answer correct to 1 decimal place.
+
+**Response Type : Numeric**
+
+Evaluation Required For SA : Yes
+
+**Show Word Count : Yes**
+
+Answers Type : Equal
+
+**Text Areas : PlainText**
+
+Possible Answers :
+
+0.5
+
+**Business Analytics**
+
+Section Id : 6406533980
+
+Section Number : 7
+
+Section type : Online
+
+Mandatory or Optional : Mandatory
+
+Number of Questions : 11
+
+Number of Questions to be attempted : 11
+
+Section Marks : 20
+
+Display Number Panel : Yes
+
+Group All Questions : No
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+
+Maximum Instruction Time : 0
+
+Sub-Section Number : 1
+
+Sub-Section Id : 6406538496
+
+Question Shuffling Allowed : No

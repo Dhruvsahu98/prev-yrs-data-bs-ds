@@ -1,0 +1,41 @@
+| $z$ | $-1$ | $0$ | $1$ |
+|---|---|---|---|
+| $f(z)$ | $1/10$ | $2/5$ | $3/10$ |
+
+6406531562565. ❌
+
+| $z$ | $-3$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $3$ |
+|---|---|---|---|---|---|---|---|
+| $f(z)$ | $1/10$ | $1/10$ | $1/5$ | $1/5$ | $1/5$ | $1/10$ | $1/10$ |
+
+| $z$ | $-1$ | $0$ | $1$ |
+|---|---|---|---|
+| $f(z)$ | $1/5$ | $2/5$ | $2/5$ |
+
+6406531562566. ✅
+
+Question Number : 20 Question Id : 640653470218 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Consider a function $f: \mathbb{R} \rightarrow \mathbb{R}$ such that 
+$$
+f(x) = 
+\begin{cases}
+e^{(1 - \alpha x)}, & 0 < x < \infty, \\
+0, & \text{otherwise},
+\end{cases}
+$$
+where $\alpha$ is any real constant. Find a such that the function $f$ is a valid density function.
+
+Hint: $\int e^{kx} dx = \frac{e^{kx}}{k}$.
+
+Options : 
+
+6406531562569. ❌ $\frac{1}{e}$
+
+6406531562570. ❌ $1- e$
+
+6406531562571. ❌ $\frac{2}{e} - \frac{1}{e^2}$
+
+6406531562572. ✅ $e$

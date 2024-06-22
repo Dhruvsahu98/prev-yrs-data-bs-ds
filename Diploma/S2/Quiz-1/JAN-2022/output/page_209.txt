@@ -1,0 +1,29 @@
+Question Label : Comprehension
+Answer the subquestions.
+
+Sub questions
+
+Question Number : 266 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+
+Five unbiased dice are rolled independently. Let X be the sum of outcomes of all the dice. Find an upper bound on 
+$$P(|X-17.5| \ge 2\sqrt{\frac{175}{12}})$$
+using Chebyshev's inequality. 
+Enter the answer correct to two decimal places. 
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.25
+
+Question Number : 267 Question Type : SA
+Correct Marks : 0
+Question Label : Short Answer Question
+
+Select three facts/formulae/steps from the list of options that you will use for solving previous question. 
+
+Note: "This question is optional. We will check your answer to this question if you make a mistake in the previous one. Please enter your answers in comma-separated format. E.g. 1,2,3". Check the

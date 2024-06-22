@@ -1,0 +1,22 @@
+Question Id : 640653588628 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Label : Comprehension
+
+In a large city, it is expected that 10% of children have defective eye-sight. Suppose a random sample of 300 children is selected from the city.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 118 Question Id : 640653588629 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Let a random variable $X$ denote the total number of children who have normal eye-sight in the selected sample. Which of the following is true? 
+
+Options :
+6406531963338.  $X \sim Binomial(300, 0.1)$
+6406531963339.  $X \sim Binomial(300, 0.9)$
+6406531963340.  $X \sim Binomial(300, 0.5)$
+6406531963341.  $X \sim Binomial(300, 0.01)$
+
+Question Number : 119 Question Id : 640653588630 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

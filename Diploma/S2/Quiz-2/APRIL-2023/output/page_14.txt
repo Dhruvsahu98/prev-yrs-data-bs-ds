@@ -1,0 +1,44 @@
+Continuous random variables:
+
+| Distribution | PDF ($f_X(x)$) | CDF ($F_X(x)$) | $E[X]$ | Var(X) |
+|---|---|---|---|---|
+| Uniform[a,b] | $\frac{1}{b-a}$,  $a \le x \le b$ |  $$\begin{cases} 0 & x \le a \\ \frac{x-a}{b-a} & a < x < b \\ 1 & x \ge b \end{cases}$$ | $\frac{a+b}{2}$ | $\frac{(b-a)^2}{12}$ |
+| Exp($\lambda$) | $\lambda e^{-\lambda x}$, $x > 0$ | $$\begin{cases} 0 & x \le 0 \\ 1-e^{-\lambda x} & x > 0 \end{cases}$$ | $\frac{1}{\lambda}$ | $\frac{1}{\lambda^2}$ |
+| Normal($\mu$, $\sigma^2$) | $\frac{1}{\sigma \sqrt{2 \pi}} exp\left( -\frac{(x-\mu)^2}{2 \sigma^2} \right)$, $-\infty < x < \infty$ | No closed form | $\mu$ | $\sigma^2$ |
+| Gamma($\alpha$, $\beta$) | $\frac{\beta^\alpha}{\Gamma(\alpha)} x^{\alpha-1} e^{-\beta x}$, $x > 0$ |  | $\frac{\alpha}{\beta}$ | $\frac{\alpha}{\beta^2}$ |
+| Beta($\alpha$, $\beta$) | $\frac{\Gamma(\alpha+\beta)}{\Gamma(\alpha)\Gamma(\beta)} x^{\alpha-1} (1-x)^{\beta-1}$, $0 < x < 1$ |  | $\frac{\alpha}{\alpha+\beta}$ | $\frac{\alpha \beta}{(\alpha+\beta)^2(\alpha+\beta+1)}$ |
+
+1. **Markov's inequality:** Let X be a discrete random variable taking non-negative values with a finite mean $\mu$. Then, 
+
+$P(X \ge c) \le \frac{\mu}{c}$
+
+2. **Chebyshev's inequality:** Let X be a discrete random variable with a finite mean $\mu$ and a finite variance $\sigma^2$. Then,
+
+$P(|X-\mu| \ge k \sigma) \le \frac{1}{k^2}$
+
+3. **Weak Law of Large numbers:** Let $X_1$, $X_2$, ..., $X_n$ ~ iid X with $E[X] = \mu$, Var(X) = $\sigma^2$. 
+
+Define sample mean $\overline{X} = \frac{X_1 + X_2 + ... + X_n}{n}$. Then,
+
+$P(|\overline{X}-\mu| \ge \delta) \le \frac{\sigma^2}{n \delta^2}$
+
+4. **Using CLT to approximate probability:** Let $X_1$, $X_2$, ..., $X_n$ ~ iid X with $E[X] = \mu$, Var(X) = $\sigma^2$.
+
+Define $Y = X_1 + X_2 + ... + X_n$. Then,
+
+$\frac{Y - n\mu}{\sigma \sqrt{n}}$ ~ Normal(0,1).
+
+5. Use the following values of $F_Z$ if required:
+$F_Z(-\frac{5}{6}) = 0.20$, $F_Z(\frac{5}{6}) = 0.80$, $F_Z(2) = 0.977$, $F_Z(-2) = 0.023$, $F_Z(1) = 0.84$,
+$F_Z(\frac{2}{3}) = 0.75$, $F_Z(\frac{2}{3}) = 0.25$, $F_Z(\frac{5}{6}) = 0.994$, $F_Z(\frac{5}{6}) = 0.797$
+
+6. $\int x^n dx = \frac{x^{n+1}}{n+1}$
+
+**Options:**
+
+6406531736574. ✅ Useful Data has been mentioned above.
+6406531736575. ❌ This data attachment is just for a reference & not for an evaluation.
+
+Sub-Section Number: 2
+Sub-Section Id: 64065373908
+Question Shuffling Allowed: Yes

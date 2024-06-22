@@ -1,0 +1,47 @@
+**Question Numbers : (251 to 252)**
+
+Question Label : Comprehension
+
+Answer the subquestions.
+
+**Sub questions**
+
+**Question Number : 251 Question Type : SA**
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Suppose X is a continuous random variable uniformly distributed between -1 and 1. Let Y be another random variable such that $Y = X^2$. Calculate $Cov[X, Y]$.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers :
+
+0
+
+**Question Number : 252 Question Type : SA**
+
+Correct Marks : 0
+
+Question Label : Short Answer Question
+
+Select three facts/formulae/steps from the list of options that you will use for solving previous question.
+
+Note: "This question is optional. We will check your answer to this question if you make a mistake in the previous one. Please enter your answers in comma-separated format. E.g. '1,2,3'. Check the list of options given in the data attachment.
+
+Response Type : Alphanumeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Set

@@ -1,0 +1,27 @@
+Correct Marks : 0
+Question Label : Short Answer Question
+Select three facts/formulae/steps from the list of options that you will use for solving the previous question.
+
+Note: "This question is optional. We will check your answer to this question if you make a mistake in the previous one. Please enter your answers in comma-separated format. E.g. 1, 2, 3". Check the list of options given in the data attachment.
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+3, 8, 12
+
+Question Type : COMPREHENSION
+
+Question Numbers : (255 to 257)
+Question Label : Comprehension
+
+At a particular petrol pump, petrol is stocked in a bulk tank each week. Let random variable X denote the proportion of the tank's capacity that is filled for a given week, and let Y denote the proportion of the tank's capacity that is sold in the same week. The petrol pump cannot sell more than what was stocked in a given week. Assume the joint density function of X and Y is given by
+$$
+f_{XY}(x,y) = \begin{cases}
+c & \text{if } 0 \leq y \leq x \leq 1 \\
+0 & \text{otherwise}
+\end{cases}
+$$

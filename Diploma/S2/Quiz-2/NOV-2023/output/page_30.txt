@@ -1,0 +1,26 @@
+6406531485289. ❌ $T_z = \{1, 2, 3, 4, 5, 6\}$
+6406531485290. ❌ $T_z = \{0, 1, 2, 3, 4, 5, 6\}$
+
+Question Number : 53 Question Id : 640653445791 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the probability mass function (PMF) of Z.
+
+Options :
+6406531485291. ❌ 
+$\begin{array}{|c|c|c|c|c|c|}\hline z & 1 & 2 & 3 & 4 & 5 \\\hline f_z(z) & 6/36 & 16/36 & 24/36 & 30/36 & 34/36 \\\hline \end{array}$
+
+6406531485292. ✅ 
+$\begin{array}{|c|c|c|c|c|c|}\hline z & 0 & 1 & 2 & 3 & 4 & 5 \\\hline f_z(z) & 6/36 & 10/36 & 8/36 & 6/36 & 4/36 & 2/36 \\\hline \end{array}$
+
+6406531485293. ❌ 
+$\begin{array}{|c|c|c|c|c|c|}\hline z & 1 & 2 & 3 & 4 & 5 \\\hline f_z(z) & 6/36 & 10/36 & 8/36 & 6/36 & 4/36 & 2/36 \\\hline \end{array}$
+
+6406531485294. ❌ 
+$\begin{array}{|c|c|c|c|c|c|}\hline z & 0 & 1 & 2 & 3 & 4 & 5 \\\hline f_z(z) & 0 & 6/36 & 16/36 & 24/36 & 30/36 & 34/36 \\\hline \end{array}$
+
+6406531485295. ❌ 
+$\begin{array}{|c|c|c|c|c|c|c|}\hline z & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\\hline f_z(z) & 6/36 & 6/36 & 6/36 & 6/36 & 4/36 & 2/36 & 6/36 \\\hline \end{array}$
+
+Question Id : 640653445792 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (54 to 55)

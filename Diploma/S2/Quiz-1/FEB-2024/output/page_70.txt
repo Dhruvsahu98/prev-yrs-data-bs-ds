@@ -1,0 +1,29 @@
+0.13 to 0.19
+
+Question Id : 640653737350 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (78 to 79)
+Question Label : Comprehension
+
+A fair die is thrown two times independently. Let 
+$X_1$ represent the number obtained in the 1st throw,
+$X_2$ represent the number obtained in the 2nd throw.
+Define a new random variable Z such that
+$Z = max(X_1, X_2)$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 78 Question Id : 640653737351 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Find the value of $P(Z \le 3)$.
+
+Options :
+
+6406532467787.  $\checkmark$ $\frac{1}{4}$
+
+6406532467788.  $\times$ $\frac{1}{2}$
+
+6406532467789.  $\times$ $\frac{3}{4}$

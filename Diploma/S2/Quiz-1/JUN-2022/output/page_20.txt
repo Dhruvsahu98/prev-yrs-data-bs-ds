@@ -1,0 +1,80 @@
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+Find the distribution of $Z_1 = max(X,Y)$.
+
+**Options :**
+
+6406531148931. 
+$\begin{array}{|c|c|c|c|}
+\hline
+z_1 & 1 & 2 & 3 \\
+\hline
+P(max(X,Y) = z_1) & 0.1 & 0.4 & 0.5 \\
+\hline
+\end{array}$
+
+6406531148932. 
+$\begin{array}{|c|c|c|c|}
+\hline
+z_1 & 1 & 2 & 3 \\
+\hline
+P(max(X,Y) = z_1) & 0.3 & 0.4 & 0.3 \\
+\hline
+\end{array}$
+
+6406531148933. 
+$\begin{array}{|c|c|c|c|}
+\hline
+z_1 & 1 & 2 & 3 \\
+\hline
+P(max(X,Y) = z_1) & 0.1 & 0.7 & 0.2 \\
+\hline
+\end{array}$
+
+6406531148934. 
+$\begin{array}{|c|c|c|c|}
+\hline
+z_1 & 1 & 2 & 3 \\
+\hline
+P(max(X,Y) = z_1) & 0.4 & 0.4 & 0.2 \\
+\hline
+\end{array}$
+
+**Question Number : 24 Question Id : 640653345457 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+Find the distribution of $Z_2 = min(X,Y)$.
+
+**Options :**
+
+6406531148935. 
+$\begin{array}{|c|c|c|}
+\hline
+z_2 & 1 & 2 \\
+\hline
+P(min(X,Y) = z_2) & 0.6 & 0.4 \\
+\hline
+\end{array}$
+
+6406531148936. 
+$\begin{array}{|c|c|c|}
+\hline
+z_2 & 1 & 2 \\
+\hline
+P(min(X,Y) = z_2) & 0.4 & 0.6 \\
+\hline
+\end{array}$
+
+6406531148937. 
+$\begin{array}{|c|c|c|}
+\hline
+z_2 & 1 & 2 \\
+\hline
+P(min(X,Y) = z_2) & 0.9 & 0.1 \\
+\hline
+\end{array}$

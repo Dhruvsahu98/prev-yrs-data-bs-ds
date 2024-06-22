@@ -1,0 +1,18 @@
+Question Label : Multiple Choice Question
+
+Let $X_1, X_2,..., X_{50} \sim i.i.d. Poisson(2)$ and let $Y = \sum_{i=1}^{50} X_i$. Using Central Limit theorem, find the value of $P(Y > 50)$.
+
+Options : 
+640653116668.  $\checkmark$  $1 - F_z(-5)$
+640653116669.  $\times$  $1 - F_z(5)$
+640653116670.  $\times$  $F_z(-0.5)$
+640653116671.  $\times$  $1 - F_z(-0.5)$
+
+Sub-Section Number : 4
+Sub-Section Id : 64065350464
+Question Shuffling Allowed : Yes
+
+Question Number : 27 Question Id : 640653351533 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question

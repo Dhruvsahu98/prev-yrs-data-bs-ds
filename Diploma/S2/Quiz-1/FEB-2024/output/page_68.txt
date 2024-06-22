@@ -1,0 +1,28 @@
+| $x$ | 0 | 1 |
+|---|---|---|
+| $f(x)$ | 1/2 | 1/2 |
+
+Question Number : 75 Question Id : 640653737346 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+Find the value of $P(X = 0 | Z = 1)$. Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.4 to 0.6
+
+Question Id : 640653737347 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (76 to 77)
+
+Question Label : Comprehension
+Kunal and Sanskriti are playing a game. Kunal will roll a fair six-sided die, and Sanskriti will flip a fair coin as many times as the number shown on the die. Let X represent the number displayed on the die, and Y represent the number of heads obtained by Sanskriti.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions

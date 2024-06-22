@@ -1,0 +1,34 @@
+**Correct Marks : 2**
+
+Question Label : Multiple Choice Question
+
+Suppose a sample of 20 bottles is selected for a quality inspection. Let a random variable 'X' denote the total number of bottles that are of bad quality in the selected sample. Which of the following is true?
+
+**Options :**
+
+6406531736606. ❌ $X \sim Binomial(600, 0.6)$
+
+6406531736607. ❌ $X \sim Binomial(20, 0.6)$
+
+6406531736608. ✅ $X \sim Binomial(20, 0.4)$
+
+6406531736609. ❌ $X \sim Binomial(600, 0.4)$
+
+**Question Number : 30 Question Id : 640653521015 Question Type : SA Calculator : None**
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+Question Label : Short Answer Question
+
+Using the Central Limit Theorem, find the approximate probability that a machine will produce more than 370 bottles that are of good quality on a particular day. Enter the answer correct to two decimal places.
+
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Range**
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+0.17 to 0.23

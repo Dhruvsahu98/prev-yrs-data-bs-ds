@@ -1,0 +1,31 @@
+Sub questions
+
+Question Number : 34 Question Id : 640653345472 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+Use Markov's inequality to find an upper bound on $P(X \ge 2040)$. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.98 to 0.99
+
+Question Number : 35 Question Id : 640653345473 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+Use Chebyshev's inequality to find a lower bound on $P(1988 < X < 2012)$. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.30 to 0.31

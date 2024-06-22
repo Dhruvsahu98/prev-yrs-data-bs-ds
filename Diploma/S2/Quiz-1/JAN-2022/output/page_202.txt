@@ -1,0 +1,27 @@
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers : 
+2, 4, 9, 12, 17, 22
+
+Question Type : COMPREHENSION
+Question Numbers : (256 to 257)
+Question Label : Comprehension
+Use the following information to answer the subquestions
+
+Two chess games are played between Anand and Kasparov. The probability that Anand wins the first game against Kasparov is 0.6, the probability that Anand wins the second game given that he won the first is 0.8 and the probability that Anand wins the second game given that he lost the first is 0.5. No game is drawn. Let $X_1$, $X_2$ be two random variables defined as 
+$$X_i = \begin{cases} 
+1 &\text{if Anand wins the $i$-th game} \\
+0 &\text{if Kasparov wins the $i$-th game}
+\end{cases}$$
+for $i \in \{1, 2\}$.
+
+Sub questions
+
+Question Number : 256 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Find the joint PMF of $X_1$ and $X_2$.
+Options : 
+A. $\times$

@@ -1,0 +1,45 @@
+## Question Numbers : (29 to 30)
+
+Question Label : Comprehension
+
+From a well-shuffled deck of 52 cards, one card is drawn randomly. Let $X$ and $Y$ be defined as 
+
+$X = \begin{cases}
+0, & \text{if the drawn card is a red color card(Hearts or Diamonds)}, \\
+1, & \text{otherwise}
+\end{cases}$
+
+$Y = \begin{cases}
+0, & \text{if the drawn card is a face card(J or Q or K)}, \\
+1, & \text{otherwise}
+\end{cases}$
+
+Based on the above data, answer the given subquestions.
+
+## Sub questions
+
+## Question Number : 29 Question Id : 640653470229 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+Find $E[X^2Y^2]$. Enter the answer correct to three decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers :
+0.36 to 0.41
+
+## Question Number : 30 Question Id : 640653470230 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Multiple Choice Question

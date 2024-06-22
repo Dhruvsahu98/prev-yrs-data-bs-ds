@@ -1,0 +1,32 @@
+Sub questions
+
+Question Number : 112 Question Id : 640653588620 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Find the joint density function $f_{XY}(x,y)$.
+Options :
+6406531963329. 
+$\qquad f_{XY}(x,y) = \begin{cases}
+2, & 1<x<2, 1<y<3, \\
+0, & \text{otherwise}.
+\end{cases}$
+6406531963330. $\checkmark$ 
+$\qquad f_{XY}(x,y) = \begin{cases}
+\frac{1}{2}, & 1<x<2, 1<y<3, \\
+0, & \text{otherwise}.
+\end{cases}$
+6406531963331. $\ast$ 
+$\qquad f_{XY}(x,y) = \begin{cases}
+6, & 1<x<2, 1<y<3, \\
+0, & \text{otherwise}.
+\end{cases}$
+6406531963332. $\ast$ 
+$\qquad f_{XY}(x,y) = \begin{cases}
+\frac{1}{6}, & 1<x<2, 1<y<3, \\
+0, & \text{otherwise}.
+\end{cases}$
+
+Question Number : 113 Question Id : 640653588621 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 4
+Question Label : Short Answer Question
+Find $P(|X-Y| < 1)$. Enter the answer correct to two decimal places.

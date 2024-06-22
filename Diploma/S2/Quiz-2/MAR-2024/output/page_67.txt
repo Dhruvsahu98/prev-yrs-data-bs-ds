@@ -1,0 +1,22 @@
+The joint probability density function of two continuous random variables $X$ and $Y$ is given as, 
+$$f(x,y) = \begin{cases} 8xy, & 0 \le y \le x \le 1, \\ 0, & \text{otherwise} \end{cases}$$ 
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 81 Question Id : 640653770490 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Find the marginal density of $X$.
+
+Options :
+6406532577331. $\times$ $$f_X(x) = \begin{cases} 4x, & 0 \le x \le 1, \\ 0, & \text{otherwise}. \end{cases}$$
+6406532577332. $\times$ $$f_X(x) = \begin{cases} 4x, & y \le x \le 1, \\ 0, & \text{otherwise}. \end{cases}$$
+6406532577333. $\checkmark$ $$f_X(x) = \begin{cases} 4x^3, & 0 \le x \le 1, \\ 0, & \text{otherwise}. \end{cases}$$
+6406532577334. $\times$ $$f_X(x) = \begin{cases} 4x^3, & y \le x \le 1, \\ 0, & \text{otherwise}. \end{cases}$$
+
+Question Number : 82 Question Id : 640653770491 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,28 @@
+## Answers Type : Equal
+## Text Areas : PlainText
+## Possible Answers :
+0.72
+
+## Question Number : 269 Question Type : SA
+## Correct Marks : 0
+## Question Label : Short Answer Question
+Select three facts/formulae/steps from the list of options that you will use for solving previous question.
+
+## Note: "This question is optional. We will check your answer to this question if you make a mistake in the previous one. Please enter your answers in comma-separated format. E.g. 1,2,3". Check the list of options given in the data attachment. 
+
+## Response Type : Alphanumeric
+## Evaluation Required For SA : Yes
+## Show Word Count : Yes
+## Answers Type : Set
+## Answers Case Sensitive : No
+## Text Areas : PlainText
+## Possible Answers :
+1, 13, 19, 23
+
+## Question Number : 270 Question Type : MCQ
+## Correct Marks : 3
+## Question Label : Multiple Choice Question
+The marks of students in a class is normally distributed with mean $\mu$ and standard deviation 10. If 10% of the students have scored more than 80, find the value of $\mu$.
+
+## Options :
+A. $\times$ 80 + $10F^{-1}_Z$(0.9)

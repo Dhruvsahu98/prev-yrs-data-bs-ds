@@ -1,0 +1,31 @@
+6406531148938. 
+$\begin{array}{|c|c|c|c|}
+\hline
+z_2 & 1 & 2 & 3 \\
+\hline
+P(min(X,Y)=z_2) & 0.3 & 0.5 & 0.2 \\
+\hline
+\end{array}$
+
+Sub-Section Number : 3
+Sub-Section Id : 64065348842
+Question Shuffling Allowed : Yes
+
+Question Number : 25 Question Id : 640653345458 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+A coin is biased so that the probability of obtaining a head is 0.75. The coin is tossed four times and number of heads obtained is given by X. Find Var(X). Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.75
+
+Question Number : 26 Question Id : 640653345459 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question

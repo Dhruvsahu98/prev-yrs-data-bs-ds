@@ -1,0 +1,18 @@
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (74 to 75)
+Question Label : Comprehension
+Let X and Y be i.i.d. Uniform (-1, 0, 1). Define a new random variable Z = |X + Y|, where | . | denotes the absolute value.
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 74 Question Id : 640653737345 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Find the PMF of Z.
+Options :
+6406532467777. 
+$\begin{array}{|c|c|c|c|}\hline z & 0 & 1 & 2 \\\hline f(z) & 1/3 & 1/3 & 1/3 \\\hline\end{array}$
+6406532467778. 
+$\begin{array}{|c|c|c|c|}\hline z & 0 & 1 & 2 \\\hline f(z) & 1/3 & 4/9 & 2/9 \\\hline\end{array}$
+6406532467779. 
+$\begin{array}{|c|c|c|c|}\hline z & 0 & 1 & 2 \\\hline f(z) & 2/9 & 4/9 & 1/3 \\\hline\end{array}$
+6406532467780. 

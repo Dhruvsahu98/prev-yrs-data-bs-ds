@@ -1,0 +1,26 @@
+Possible Answers :
+0.48 to 0.52
+
+Question Number : 28 Question Id : 640653521012 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find the probability that the amount of petrol sold in a given week is less than half the amount stocked in that week. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.23 to 0.27
+
+Question Id : 640653521013 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (29 to 30)
+Question Label : Comprehension
+In a manufacturing company, each machine produces 600 bottles daily. If a bottle is selected uniformly at random, then the probability that the bottle is of good quality is 60%.
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 29 Question Id : 640653521014 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

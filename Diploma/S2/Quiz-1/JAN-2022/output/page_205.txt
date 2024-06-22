@@ -1,0 +1,17 @@
+C. $\ast$ Supp(Y) = ($-\infty$, 0)
+D. $\ast$ Supp(Y) = (0, 1)
+
+Question Number : 260 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+Find the distribution of Y.
+Options :
+A. $\ast$ $f_Y(y) = \frac{1}{\sigma \sqrt{2\pi}} exp \left( -\frac{1}{2} \left(\frac{ln(y)-\mu}{\sigma} \right)^2 \right)$
+B. $\checkmark$ $f_Y(y) = \frac{1}{y\sigma \sqrt{2\pi}} exp \left( -\frac{1}{2} \left(\frac{ln(y)-\mu}{\sigma} \right)^2 \right)$
+C. $\ast$ $f_Y(y) = \frac{1}{y\sigma \sqrt{2\pi}} exp \left( -\frac{1}{2} \left(\frac{y-\mu}{\sigma} \right)^2 \right)$
+D. $\ast$ $f_Y(y) = \frac{1}{\sigma \sqrt{2\pi}} exp \left( -\frac{1}{2} \left(\frac{y-\mu}{\sigma} \right)^2 \right)$
+
+Question Type : COMPREHENSION
+Question Numbers : (261 to 263)
+Question Label : Comprehension
+Use the following information to answer the subquestions

@@ -1,0 +1,30 @@
+1. Markov's inequality: Let $X$ be a discrete random variable taking non-negative values with a finite mean $\mu$. Then, 
+ $$P(X \ge c) \le \frac{\mu}{c}$$
+
+2. Chebyshev's inequality: Let $X$ be a discrete random variable with a finite mean $\mu$ and a finite variance $\sigma^2$. Then, 
+ $$P(|X-\mu| \ge k\sigma) \le \frac{1}{k^2}$$
+
+3. Weak Law of Large numbers: Let $X_1, X_2, ..., X_n \sim iid X$ with $E[X] = \mu, Var(X) = \sigma^2$. Define sample mean $\overline{X} = \frac{X_1 + X_2 + ... + X_n}{n}$. Then, 
+ $$P(|\overline{X}-\mu| > \delta) \le \frac{\sigma^2}{n\delta^2}$$
+
+4. Using CLT to approximate probability: Let $X_1, X_2, ..., X_n \sim iid X$ with $E[X] = \mu, Var(X) = \sigma^2$. Define $Y = X_1 + X_2 + ... + X_n$. Then, 
+ $$\frac{Y-n\mu}{\sqrt{n}\sigma} \sim Normal(0,1).$$
+
+Useful data:
+
+1. Use the following values of $F_Z$ if required: $F_Z(1.40) = 0.9192, F_Z(1.41) = 0.9207, F_Z(1.42) = 0.9222$
+2. $\int x^n dx = \frac{x^{n+1}}{n+1}$.
+
+Options:
+
+6406531963305.  ✅ Useful Data has been mentioned above
+6406531963306. ❌ This data attachment is just for a reference & not for an evaluation.
+
+Sub-Section Number : 2
+Sub-Section Id : 64065384957
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 105 Question Id : 640653588611 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

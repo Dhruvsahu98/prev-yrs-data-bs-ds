@@ -1,0 +1,17 @@
+```python
+6406531736597. * 1/(20*sqrt(2*pi)) * (2*exp(-(y-60)**2/36) + exp(-(y-55)**2/49))
+6406531736598. * 7/(60*sqrt(2*pi)) * exp(-(y-60)**2/72) + 3/(70*sqrt(2*pi)) * exp(-(y-55)**2/98)
+6406531736599. * 1/(2*sqrt(2*pi)) * (1/6 * exp(-(y-60)**2/72) + 1/7 * exp(-(y-55)**2/98))
+```
+Question Number : 26 Question Id : 640653521009 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+If a randomly selected candidate got 60 marks, what is the probability that the selected candidate is a boy?
+Options :
+```python
+6406531736600. * 2/(2 + exp(-25/49))
+6406531736601. * 2/(2 + exp(-25/98))
+6406531736602. * 1/(20*sqrt(2*pi))
+6406531736603. * 1/2
+```

@@ -1,0 +1,20 @@
+2
+Question Id : 640653470222 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (25 to 26)
+Question Label : Comprehension
+Urn I contains three balls numbered 0, 1 and 2, and Urn II contains three balls numbered 1, 2, and 3. One ball from each of the urns is drawn randomly and independently. Let
+$X_1$ denote the number on the ball drawn from Urn I,
+$X_2$ denote the number on the ball drawn from Urn-II.
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 25 Question Id : 640653470223 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Suppose $Y = X_1 - X_2$. Find the value of $P(Y \geq 0)$. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.31 to 0.35

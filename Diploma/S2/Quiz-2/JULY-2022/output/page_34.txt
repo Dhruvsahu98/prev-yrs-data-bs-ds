@@ -1,0 +1,27 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+20
+
+Question Number : 43 Question Id : 640653351539 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Find the value of $a + \beta$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+9
+
+Question Number : 44 Question Id : 640653351540 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find the probability that Device B will last longer when compared to Device A.
+Enter the answer correct to two decimal places.
+Hint: Use $\int_a^b e^{nx} dx = \frac{e^{nx}}{n} |_a^b$

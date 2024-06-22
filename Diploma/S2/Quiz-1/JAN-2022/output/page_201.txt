@@ -1,0 +1,26 @@
+$Y \sim Geometric\left(\frac{2}{3}\right)$
+
+E.  $\checkmark$ Range of $Y$ is {0, 1, 2, ...., 10}
+
+F.  $\times$ Range of $Y$ is {1, 2, 3, ...}
+
+**Question Number : 254 Question Type : SA**
+**Correct Marks : 3**
+**Question Label : Short Answer Question**
+Find the value of $P(X_1 = 0 \mid Y = 8)$. Enter the answer correct to one decimal place.
+**Response Type : Numeric**
+**Evaluation Required For SA : Yes**
+**Show Word Count : Yes**
+**Answers Type : Equal**
+**Text Areas : PlainText**
+**Possible Answers :**
+0.2
+
+**Question Number : 255 Question Type : SA**
+**Correct Marks : 0**
+**Question Label : Short Answer Question**
+Select three facts/formulae/steps from the list of options that you will use for solving previous questions no 5 & 6.
+
+**Note:** "This question is optional. We will check your answer to this question if you make a mistake in the previous one. Please enter your answers in comma-separated format. E.g. 1,2,3". Check the list of options given in the data attachment.
+**Response Type : Alphanumeric**
+**Evaluation Required For SA : Yes**

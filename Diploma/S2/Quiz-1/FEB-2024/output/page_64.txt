@@ -1,0 +1,24 @@
+The CDF of a random variable $X$ is given as
+ $$
+ F_X(x) = \begin{cases}
+ 1-e^{-4x}, & x \geq 0, \\
+ 0, & \text{otherwise}.
+ \end{cases}
+ $$
+What is the value of $P(-4 \leq X \leq 6)$?
+Options :
+6406532467773. ❌ $e^{-20} - e^{-24}$
+6406532467774. ✅ $1 - e^{-24}$
+6406532467775. ❌ $e^{-24} - e^{-20}$
+6406532467776. ❌ $e^{24}$
+Sub-Section Number : 3
+Sub-Section Id : 640653107604
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653737338 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (71 to 72)
+Question Label : Comprehension
+An analyst is responsible for conducting emissions inspections on bikes. During the inspections, the analyst found that 10% of the bikes fail the inspection. Let $X$ be a geometric variable which denotes the number of bikes the analyst inspects until a bike fails an inspection. Assume that the results of each inspection are independent.
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 71 Question Id : 640653737339 Question Type : MCQ Is Question

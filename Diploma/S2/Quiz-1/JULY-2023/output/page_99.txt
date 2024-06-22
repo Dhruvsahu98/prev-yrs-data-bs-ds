@@ -1,0 +1,9 @@
+Discrete random variables:
+
+| Distribution | PMF ($f_X(k)$) | CDF ($F_X(x)$) | E[X] | Var(X) |
+|---|---|---|---|---|
+| Uniform(A) <br> A = {a, a+1, ..., b} | $\frac{1}{n}$, x = k <br> n = b - a + 1 <br> k = a, a+1, ..., b | $\begin{cases} 0 & x < 0 \\ \frac{k-a+1}{n} & k \le x < k+1 \\ & k = a, a+1, ..., b-1, b \\ 1 & x \ge n \end{cases}$ | $\frac{a+b}{2}$ | $\frac{n^2 - 1}{12}$ |
+| Bernoulli(p) | $\begin{cases} p & x = 1 \\ 1-p & x = 0 \end{cases}$ | $\begin{cases} 0 & x < 0 \\ 1-p & 0 \le x < 1 \\ 1 & x \ge 1 \end{cases}$ | p | p(1-p) |
+| Binomial(n, p) | $^{n}C_kp^k(1-p)^{n-k}$, <br> k = 0, 1, ..., n | $\begin{cases} 0 & x < 0 \\ \sum_{i=0}^k ^nC_ip^i(1-p)^{n-i} & k \le x < k+1 \\ & k = 0, 1, ..., n \\ 1 & x \ge n \end{cases}$ | np | np(1-p) |
+| Geometric(p) | $(1-p)^{k-1}p$, <br> k = 1, ..., $\infty$ | $\begin{cases} 0 & x < 0 \\ 1 - (1-p)^k & k \le x < k+1 \\ & k = 1, ..., \infty \\ 1 & x \ge 1 \end{cases}$ | $\frac{1}{p}$ | $\frac{1-p}{p^2}$ |
+| Poisson($\lambda$) | $\frac{e^{-\lambda}\lambda^k}{k!}$, <br> k = 0, 1, ..., $\infty$ | $\begin{cases} 0 & x < 0 \\ e^{-\lambda}\sum_{i=0}^k \frac{\lambda^i}{i!} & k \le x < k+1 \\ & k = 0, 1, ..., \infty \\ 1 & x \ge 1 \end{cases}$ | $\lambda$ | $\lambda$ |

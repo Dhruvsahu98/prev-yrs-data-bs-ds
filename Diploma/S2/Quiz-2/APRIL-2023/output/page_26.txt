@@ -1,0 +1,33 @@
+6406531736615. &#x2714; 
+$M_Y(\lambda) = \frac{1}{16} + \frac{1}{4}e^{\lambda} + \frac{3}{8}e^{2\lambda} + \frac{1}{4}e^{3\lambda} + \frac{1}{16}e^{4\lambda}$
+
+Question Number : 32 Question Id : 640653521018 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+Find the expected value of Y.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+
+Possible Answers :
+2
+
+```python
+# Code block
+```
+
+Section Id : CT 64065333931
+Section Number : 3
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 14
+Number of Questions to be attempted : 14
+Section Marks : 50
+Display Number Panel : Yes
+Group All Questions : No
+Enable Mark as Answered Mark for Review and Yes

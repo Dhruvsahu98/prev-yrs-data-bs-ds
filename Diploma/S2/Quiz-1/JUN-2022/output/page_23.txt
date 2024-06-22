@@ -1,0 +1,28 @@
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+1.7
+Sub-Section Number : 4
+Sub-Section Id : 64065348843
+Question Shuffling Allowed : No
+Question Id : 640653345461 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (28 to 29)
+Question Label : Comprehension
+Consider two random variables $X$ and $Y$ with Joint PMF given in Table 1.1.
+
+| $Y$ | $X$ | 0 | 1 | 2 |
+|---|---|---|---|---|
+| 0 |  | $\frac{1}{12}$ | $\frac{1}{8}$ | $\frac{1}{24}$ |
+| 1 |  | $\frac{1}{4}$ | $\frac{3}{8}$ | $\frac{1}{8}$ |
+
+Table 1.1: Joint PMF of $X$ and $Y$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 28 Question Id : 640653345462 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Select Question
+Which of the following options are true?

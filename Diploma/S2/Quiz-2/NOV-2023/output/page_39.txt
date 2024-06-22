@@ -1,0 +1,29 @@
+Question Number : 66 Question Id : 640653445810 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find the probability that the stock price of A will be higher than that of B. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.31 to 0.35
+Sub-Section Number : 
+6
+Sub-Section Id : 
+64065363398
+Question Shuffling Allowed : 
+Yes
+Is Section Default? : 
+null
+Question Number : 67 Question Id : 640653445801 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 5
+Question Label : Short Answer Question
+A company manufactures square shaped chess boards. The length of the chess board is normally distributed with mean equal to 40 cm with standard deviation of 5 cm. Find the probability that the area of the chess board is less than 2500 $cm^2$. Enter the answer correct to three decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range

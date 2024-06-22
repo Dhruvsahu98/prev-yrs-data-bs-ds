@@ -1,0 +1,33 @@
+Find Var(XY).
+
+Options :
+6406531562589.  $\times$  $\frac{69}{676}$
+6406531562590.  $\checkmark$  $\frac{40}{169}$
+6406531562591.  $\times$  0
+6406531562592.  $\times$  $\frac{1}{2704}$
+
+Question Id : 640653470231 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (31 to 32)
+Question Label : Comprehension
+
+The graph of a probability density function ($f_X(x)$) of a continuous random variable (X) is shown below:
+
+$f_X(x)$
+
+\begin{tikzpicture}[scale=0.8]
+\draw[->] (-4,0) -- (4,0);
+\draw[->] (0,0) -- (0,3);
+\draw[very thick,blue] (-3,0) -- (0,2) -- (3,0);
+\node at (4,0) {$x$};
+\node at (0,3) {$f_X(x)$};
+\node at (0,2) [right] {$(0,\beta)$};
+\node at (-3,0) [below] {$(-a,0)$};
+\node at (3,0) [below] {$(a,0)$};
+\filldraw (0,2) circle (2pt);
+\filldraw (-3,0) circle (2pt);
+\filldraw (3,0) circle (2pt);
+\end{tikzpicture}
+
+where $\alpha$, $\beta$ $\in$ $\mathbb{R}$.
+
+5.1: Graph of a pdf of $X$

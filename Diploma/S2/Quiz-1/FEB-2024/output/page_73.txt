@@ -1,0 +1,33 @@
+Possible Answers : 
+0.72 to 0.78
+
+Question Id : 640653737356 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (82 to 83)
+Question Label : Comprehension
+
+The probability density function of a random variable $X$ is given as 
+\begin{equation*}
+f_X(x) = 
+\begin{cases}
+\frac{1}{10}, & 0 \le x < 1, \\
+kx, & 1 \le x < 2, \\
+\frac{3}{10}, & 2 \le x < 3, \\
+0, & \text{otherwise}.
+\end{cases}
+\end{equation*}
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 82 Question Id : 640653737357 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of $k$.Enter the answer correct to one decimal place. 
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+0.4

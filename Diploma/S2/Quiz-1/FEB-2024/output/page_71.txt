@@ -1,0 +1,24 @@
+6406532467790. $\times \frac{1}{8}$
+
+Question Number : 79 Question Id : 640653737352 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+If $P(Z=4)=\frac{\alpha}{36}$, what is the value of $\alpha$?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+7
+
+Question Id : 640653737353 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (80 to 81)
+Question Label : Comprehension
+Suppose that a random variable X denotes the number of items produced in a factory during a week with mean 50 and variance 25.
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 80 Question Id : 640653737354 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction

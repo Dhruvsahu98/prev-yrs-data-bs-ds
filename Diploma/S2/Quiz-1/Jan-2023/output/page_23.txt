@@ -1,0 +1,14 @@
+Question Number : 26 Question Id : 640653470224 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Suppose $Z = max(X_1, X_2)$.
+Find the value of $P(Z \le 1)$.
+Options :
+6406531562579. $\times$ $\frac{2}{3}$
+6406531562580. $\times$ $\frac{1}{9}$
+6406531562581. $\checkmark$ $\frac{2}{9}$
+6406531562582. $\times$ $\frac{4}{9}$
+
+Question Id : 640653470225 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (27 to 28)
+Question Label : Comprehension

@@ -1,0 +1,57 @@
+The joint probability mass function of two discrete random variables X and Y is given by
+
+|  | X | 1 | 2 | 3 |
+|---|---|---|---|---|
+| Y |  |  |  |  |
+| 1 |  | 0.1 | 0.2 | 0.1 |
+| 2 |  | 0.2 | 0.3 | 0.1 |
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 22 Question Id : 640653345455 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the distribution of $S = X+Y$.
+
+Options :
+6406531148927. 
+$\begin{array}{|c|c|c|c|c|}
+\hline
+s & 2 & 3 & 4 & 5 \\
+\hline
+P(X + Y = s) & 0.1 & 0.3 & 0.5 & 0.1 \\
+\hline
+\end{array}$
+
+6406531148928. 
+$\begin{array}{|c|c|c|c|c|}
+\hline
+s & 2 & 3 & 4 & 5 \\
+\hline
+P(X + Y = s) & 0.1 & 0.4 & 0.4 & 0.1 \\
+\hline
+\end{array}$
+
+6406531148929. 
+$\begin{array}{|c|c|c|c|c|}
+\hline
+s & 1 & 2 & 3 & 4 & 5 \\
+\hline
+P(X + Y = s) & 0.1 & 0.2 & 0.1 & 0.5 & 0.1 \\
+\hline
+\end{array}$
+
+6406531148930. 
+$\begin{array}{|c|c|c|c|c|}
+\hline
+s & 1 & 2 & 3 & 4 & 5 \\
+\hline
+P(X + Y = s) & 0.1 & 0.2 & 0.1 & 0.4 & 0.2 \\
+\hline
+\end{array}$
+
+Question Number : 23 Question Id : 640653345456 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,34 @@
+6406531932226. $\times$  $\{ (\frac{1}{2},1,1),(0,1,-1)\}$
+6406531932227. $\times$  $\{ (\frac{1}{2},1,1)\}$
+
+Question Number : 105 Question Id : 640653578652 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+What is the rank of A?
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2
+
+## Sem2 Statistics2
+64065339116
+
+Section Id :
+Section Number :
+Section type :
+Mandatory or Optional :
+Number of Questions :
+Number of Questions to be attempted :
+Section Marks :
+Display Number Panel :
+6
+Online
+Mandatory
+12
+12
+40
+Yes

@@ -1,0 +1,27 @@
+Question Label : Short Answer Question
+Find $P(Y\leq\frac{X}{2})$. Enter the answer correct to three decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.125
+
+Question Number : 262 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+Find $P(Y\leq\frac{X}{4}|Y\leq\frac{X}{2})$. Enter the answer correct to two decimal places.
+Hint: 
+Use $\int_{x=a}^{b}x^n dx=\frac{1}{n+1}(b^{n+1}-a^{n+1})$
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.25
+
+Question Type : COMPREHENSION

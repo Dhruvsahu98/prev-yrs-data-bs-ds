@@ -1,0 +1,23 @@
+Question Number : 25 Question Id : 640653351532 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Consider a random variable X with the following PMF:
+
+| X | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| $p_X(x)$ | 1/8 | 1/4 | 1/8 | 1/2 |
+
+Find the moment generating function of X.
+Options :
+6406531166641.  * $M_X(\lambda) = \frac{1}{4}e^{-\lambda} + \frac{1}{8}e^{-2\lambda} + \frac{1}{2}e^{-3\lambda}$
+6406531166642.  * $M_X(\lambda) = \frac{1}{8} + \frac{1}{4}e^\lambda + \frac{1}{8}e^{2\lambda} + \frac{1}{2}e^{3\lambda}$
+6406531166643.  ✓ $M_X(\lambda) = \frac{1}{8} + \frac{1}{4}e^\lambda + \frac{1}{8}e^{2\lambda} + \frac{1}{2}e^{3\lambda}$
+6406531166644.  * $M_X(\lambda) = \frac{1}{4}e^{-\lambda} + \frac{1}{8}e^{2\lambda} + \frac{1}{2}e^{3\lambda}$
+Sub-Section Number : 3
+Sub-Section Id : 64065350463
+Question Shuffling Allowed : Yes
+
+Question Number : 26 Question Id : 640653351547 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

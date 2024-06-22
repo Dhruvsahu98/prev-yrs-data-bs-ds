@@ -1,0 +1,44 @@
+Suppose random variables $X$ and $Y$ are uniformly distributed over the region $D$, where 
+$$D = \{(x,y) : [0,2] \times [0,-2] \cup [-1,0] \times [0,1]\}$$
+
+```python
+# Code block
+```
+\begin{tabular}{c|c|c|c}
+\hline
+&  &  &  \\ 
+\hline
+&  &  &  \\ 
+\hline
+&  &  &  \\
+\hline
+\end{tabular}
+
+Choose the correct options from the following:
+
+**Options :**
+
+6406531166645. $\times$  $f_{XY}(x,y) = \begin{cases}
+4, & 0<x<2,-2<y<0 \\
+1, & -1<x<0, 0<y<1 \\
+0, & otherwise
+\end{cases}$ 
+
+6406531166646. $\checkmark$ $f_{XY}(x,y) = \begin{cases}
+\frac{1}{5}, & x,y \in D \\
+0, & otherwise
+\end{cases}$
+
+6406531166647. $\checkmark$ $f_{Y|X=1}(-1) = 0.5$
+
+6406531166648. $\times$ $f_{Y|X=1}(-1) = 0$
+
+6406531166649. $\times$ $f_{Y|X=1}(-1) = 0.625$
+
+**Sub-Section Number :** 5
+
+**Sub-Section Id :** 64065350465
+
+**Question Shuffling Allowed :** No
+
+**Question Id :** 640653351525 **Question Type :** COMPREHENSION **Sub Question Shuffling Allowed :** No Group Comprehension Questions : **No Calculator :** None **Response Time :** N.A 

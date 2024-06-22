@@ -1,0 +1,32 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+498 to 502
+
+Question Id : 640653770498 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (87 to 88)
+
+Question Label : Comprehension
+The joint density of two continuous random variables X and Y is given by 
+$f_{XY}(x,y) = \begin{cases} 
+\frac{x+y}{k}, & 0<x<1, 0<y<1, \\
+0, & otherwise.
+\end{cases}$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 87 Question Id : 640653770499 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of k.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

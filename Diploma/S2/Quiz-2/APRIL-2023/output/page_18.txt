@@ -1,0 +1,23 @@
+Question Label : Multiple Choice Question
+Find the range of Z.
+**Options :**
+6406531736576.  ✓ $T_Z = \{0, 1, 2, 3, 4, 5\}$
+6406531736577.  ✗ $T_Z = \{1, 2, 3, 4, 5\}$
+6406531736578.  ✗ $T_Z = \{1, 2, 3, 4, 5, 6\}$
+6406531736579.  ✗ $T_Z = \{0, 1, 2, 3, 4, 5, 6\}$
+
+Question Number : 22 Question Id : 640653520999 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the value of $P(0 < Z < 3)$.
+**Options :**
+6406531736580.  ✗ $\frac{18}{}$
+6406531736581.  ✗ $\frac{5}{6}$
+6406531736582.  ✓ $\frac{1}{2}$
+6406531736583.  ✗ $3$
+
+Sub-Section Number : 5
+Sub-Section Id : 64065373911
+Question Shuffling Allowed : No
+Is Section Default? : null

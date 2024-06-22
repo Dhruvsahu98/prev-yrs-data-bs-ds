@@ -1,0 +1,31 @@
+6406531963315. ✖
+
+Question Number : 108 Question Id : 640653588615 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Suppose $X$ is a discrete random variable and has moment generating function 
+$$M_X(\lambda) = \frac{1}{7} + \frac{3}{7}e^{2\lambda} + \frac{2}{7}e^{4\lambda} + \frac{1}{7}e^{6\lambda}.$$
+What is the PMF of $X$?
+
+Options :
+
+6406531963320. ✖
+
+| $x$ | $f_X(x)$ |
+|---|---|
+| 1 | 1/7 |
+| 2 | 3/7 |
+| 4 | 2/7 |
+| 6 | 1/7 |
+
+6406531963321. ✔️
+
+| $x$ | $f_X(x)$ |
+|---|---|
+| 0 | 1/7 |
+| 2 | 3/7 |
+| 4 | 2/7 |
+| 6 | 1/7 |

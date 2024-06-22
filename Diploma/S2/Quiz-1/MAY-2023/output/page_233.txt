@@ -1,0 +1,24 @@
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.75
+Question Id : 640653577781 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (32 to 33)
+Question Label : Comprehension
+Sruthi throws a dart onto a circular board. Let a random variable X denote the distance from the center to the point where the dart hits the board. Suppose the PDF of X is 
+$$f_X(x) = \begin{cases}
+kx(1-x^2), & 0 \le x \le 1, \\
+0, & otherwise.
+\end{cases}$$
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 32 Question Id : 640653577782 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of k.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

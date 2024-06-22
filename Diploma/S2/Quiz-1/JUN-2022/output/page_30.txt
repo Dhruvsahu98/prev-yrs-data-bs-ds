@@ -1,0 +1,25 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.66 to 0.68
+Sub-Section Number : 5
+Sub-Section Id : 6406534884
+Question Shuffling Allowed : Yes
+Question Number : 38 Question Id : 640653345467 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Steven and Selena throw a die each simultaneously. If the two numbers appearing on the dice are different, Steven will receive ₹300. If the numbers are same, Steven will pay ₹1200. Find the expected money that will be won by Steven.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+50
+Section Id : CT
+Section Number : 3
+64065321869

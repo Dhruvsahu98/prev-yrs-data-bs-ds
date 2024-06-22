@@ -1,0 +1,32 @@
+Possible Answers :
+2.55 to 2.65
+
+Question Id : 640653445808 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (65 to 66)
+Question Label : Comprehension
+
+Let X denote the stock price (in units of hundred rupees) of a company A and let Y denote the stock price (in units of hundred rupees) of company B. The joint density function of X and Y is given below:
+$$f_{XY}(x,y)=\begin{cases}
+cy & \text{for } 0<x,y<2 \\
+0 & \text{otherwise}
+\end{cases}$$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 65 Question Id : 640653445809 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of 8c.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+2

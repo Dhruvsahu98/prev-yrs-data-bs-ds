@@ -1,0 +1,32 @@
+Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (28 to 30)
+Question Label : Comprehension
+Consider a sample 0, 1, 0, 1, 1, 0, 1, 0, 1 from Bernoulli(0.5) distribution.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 28 Question Id : 640653351526 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Compute empirical distribution of the sample.
+
+Options :
+6406531166630. ❌ $p(0) = 0.3$, $p(1) = 0.7$
+6406531166631. ✅ $p(0) = 0.4$, $p(1) = 0.6$
+6406531166632. ❌ $p(0) = 0.6$, $p(1) = 0.4$
+6406531166633. ❌ $p(0) = 0.7$, $p(1) = 0.3$
+
+Question Number : 29 Question Id : 640653351527 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Short Answer Question
+Compute distribution mean. Enter the answer correct to one decimal place.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :

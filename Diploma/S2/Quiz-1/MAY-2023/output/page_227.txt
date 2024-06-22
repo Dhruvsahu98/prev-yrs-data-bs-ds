@@ -1,0 +1,34 @@
+Question Number : 24 Question Id : 64065377770 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Identify the correct joint PMF table of X and Y:
+Options :
+6406531929394.  
+$\begin{array}{|c|c|c|c|c|}\hline
+ & X  & 0 & 1 & 2 & 3\\\hline
+Y & & & & &\\\hline
+ 0 & & 0 & \frac{1}{32} & \frac{4}{32} & \frac{9}{32}\\\hline
+ 1 & & \frac{1}{32} & \frac{2}{32} & \frac{5}{32} & \frac{10}{32}\\\hline
+\end{array}$
+6406531929395.  
+$\begin{array}{|c|c|c|c|c|}\hline
+ & X  & 0 & 1 & 2 & 3\\\hline
+Y & & & & &\\\hline
+ 0 & & 0 & \frac{1}{32} & \frac{1}{32} & \frac{10}{32}\\\hline
+ 1 & & \frac{1}{32} & \frac{2}{32} & \frac{4}{32} & \frac{10}{32}\\\hline
+\end{array}$
+6406531929396.  
+$\begin{array}{|c|c|c|c|c|}\hline
+ & X  & 0 & 1 & 2 & 3\\\hline
+Y & & & & &\\\hline
+ 0 & & 0 & \frac{1}{32} & \frac{4}{32} & \frac{10}{32}\\\hline
+ 1 & & \frac{1}{32} & \frac{2}{32} & \frac{4}{32} & \frac{9}{32}\\\hline
+\end{array}$
+6406531929397.  
+$\begin{array}{|c|c|c|c|c|}\hline
+ & X  & 0 & 1 & 2 & 3\\\hline
+Y & & & & &\\\hline
+ 0 & & 0 & \frac{1}{32} & \frac{5}{32} & \frac{10}{32}\\\hline
+ 1 & & \frac{1}{32} & \frac{2}{32} & \frac{4}{32} & \frac{10}{32}\\\hline
+\end{array}$

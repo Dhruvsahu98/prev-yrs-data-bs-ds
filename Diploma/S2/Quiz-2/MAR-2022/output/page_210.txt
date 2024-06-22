@@ -1,0 +1,40 @@
+Continuous random variables:
+
+| Distribution | PDF ($f_X(x)$) | CDF ($F_X(x)$) | E[X] | Var(X) |
+|---|---|---|---|---|
+| Uniform[a, b] | $\frac{1}{b-a}$, $a \leq x \leq b$ | $\begin{cases} 0 & x \leq a \\ \frac{x-a}{b-a} & a < x < b \\ 1 & x \geq b \end{cases}$ | $\frac{a+b}{2}$ | $\frac{(b-a)^2}{12}$ |
+| Exp($\lambda$) | $\lambda e^{-\lambda x}$, $x > 0$ | $\begin{cases} 0 & x \leq 0 \\ 1 - e^{-\lambda x} & x > 0 \end{cases}$ | $\frac{1}{\lambda}$ | $\frac{1}{\lambda^2}$ |
+| Normal($\mu$, $\sigma^2$) | $\frac{1}{\sigma \sqrt{2 \pi}} exp\left( -\frac{(x-\mu)^2}{2 \sigma^2} \right)$, $-\infty < x < \infty$ | No closed form | $\mu$ | $\sigma^2$ |
+| Gamma($\alpha$, $\beta$) | $\frac{\beta^\alpha}{\Gamma(\alpha)} x^{\alpha-1} e^{-\beta x}$, $x > 0$ |  | $\frac{\alpha}{\beta}$ | $\frac{\alpha}{\beta^2}$ |
+| Beta($\alpha$, $\beta$) | $\frac{\Gamma(\alpha + \beta)}{\Gamma(\alpha)\Gamma(\beta)} x^{\alpha-1}(1-x)^{\beta-1}$, $0 < x < 1$ |  | $\frac{\alpha}{\alpha + \beta}$ | $\frac{\alpha \beta}{(\alpha + \beta)^2(\alpha + \beta + 1)}$ |
+
+1. Markov's inequality: Let X be a discrete random variable taking non-negative values with a finite mean $\mu$. Then, 
+$P(X \geq c) \leq \frac{\mu}{c}$
+
+2. Chebyshev's inequality: Let X be a discrete random variable with a finite mean $\mu$ and a finite variance $\sigma^2$. Then,
+$P(|X-\mu| \geq k \sigma) \leq \frac{1}{k^2}$
+
+3. Weak Law of Large numbers: Let $X_1$, $X_2$, ... , $X_n \sim iid$ X with E[X] = $\mu$, Var(X) = $\sigma^2$.
+Define sample mean $\bar{X} = \frac{X_1 + X_2 + ... + X_n}{n}$. Then,
+$P(|\bar{X} - \mu| > \delta) \leq \frac{\sigma^2}{n \delta^2}$
+
+4. Using CLT to approximate probability: Let $X_1$, $X_2$, ... , $X_n \sim iid$ X with E[X] = $\mu$, Var(X) = $\sigma^2$.
+Define $Y = X_1 + X_2 + ... + X_n$. Then,
+$\frac{Y-n\mu}{\sqrt{n}\sigma} \approx Normal(0, 1)$.
+
+5. Bias of an estimator: $Bias(\hat{\theta}, \theta) = E[\hat{\theta}] - \theta$.
+
+6. Method of moments: Sample moments, $M_k(X_1, X_2, ..., X_n) = \frac{1}{n} \sum_{i=1}^n X_i^k$
+
+7. Likelihood of i.i.d. samples: Likelihood of a sampling $x_1, x_2, ..., x_n$, denoted $L(x_1, ..., x_n) = \prod_{i=1}^n f_X(x_i, \theta_1, \theta_2, ...)$
+
+8. Maximum likelihood (ML) estimation:
+$\theta_1^*, \theta_2^*, ... = argmax_{\theta_1, \theta_2, ...} \prod_{i=1}^n f_X(x_i, \theta_1, \theta_2, ...)$
+
+**Options :**
+
+A. **✅** Useful Data has been mentioned above.
+
+B. **❌** This data attachment is just for a reference & not for an evaluation.
+
+**Question Number : 249 Question Type : MCQ**

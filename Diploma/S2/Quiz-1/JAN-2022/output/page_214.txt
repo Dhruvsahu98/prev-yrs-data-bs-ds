@@ -1,0 +1,3 @@
+C. $\times$  $f_{Z|Y=15}(50) = \frac{15! \times 10!}{20! \times 5!}$
+
+D. $\checkmark$ $f_{Z|Y=15}(50) = 2 \times \frac{15! \times 10!}{20! \times 5!}$

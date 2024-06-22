@@ -1,0 +1,29 @@
+B. $\checkmark$ 80 - 10$F_Z^{-1}$(0.9)
+C. $\times$ 80 - 10$F_Z^{-1}$(0.1)
+D. $\times$ 80 + 10$F_Z^{-1}$(0.1)
+
+Question Number : 271 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+The probability density function of *X* is given by
+$$f_X(x) = \begin{cases}
+\frac{x}{25} + \frac{1}{5} & \text{for } -5 \le x \le 0 \\
+\frac{-x}{25} + \frac{1}{5} & \text{for } 0 \le x \le 5
+\end{cases}$$
+Then the PDF of *Y* = *X* + 5 is
+
+Options :
+A. $\checkmark$ $$f_Y(y) = \begin{cases}
+\frac{y-5}{25} + \frac{1}{5} & \text{for } 0 < y < 5 \\
+\frac{5-y}{25} + \frac{1}{5} & \text{for } 5 < y < 10
+\end{cases}$$
+B. $\times$ $$f_Y(y) = \begin{cases}
+\frac{y-5}{25} + \frac{1}{5} & \text{for } -5 < y < 0 \\
+\frac{5-y}{25} + \frac{1}{5} & \text{for } 0 < y < 5
+\end{cases}$$
+C. $\times$ $$f_Y(y) = \begin{cases}
+\frac{y}{25} + \frac{1}{5} & \text{for } -5 < y < 0 \\
+\frac{-y}{25} + \frac{1}{5} & \text{for } 0 < y < 5
+\end{cases}$$
+D. $\times$

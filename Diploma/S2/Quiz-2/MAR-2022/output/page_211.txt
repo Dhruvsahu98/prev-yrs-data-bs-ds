@@ -1,0 +1,28 @@
+**Correct Marks : 3**
+
+**Question Label : Multiple Choice Question**
+
+Let X and Y be independent Poisson random variables with mean 1. Then 
+$P(min(X, Y) = 0)$ equals
+
+**Options :**
+
+A.  $e^{-2}$
+B.  $1 + e^{-2} - 2e^{-1}$
+C.  $2e^{-1}$
+D.  $2e^{-1} - e^{-2}$
+
+**Question Number : 250 Question Type : MSQ**
+
+**Correct Marks : 4**
+
+**Question Label : Multiple Select Question**
+
+Suppose the moment generating function of a random variable X is given by $M_X(\lambda) = e^{8\lambda^2}$ and $X_1, X_2, ..., X_9$ are 9 i.i.d. samples with distribution X. Let Y be a random variable defined as $Y = X_1 + X_2 + ... + X_9$. Which of the following options are true?
+
+**Options :**
+
+A. $X \sim Normal(0, 8)$.
+B. $X \sim Normal(0, 16)$.
+C. The moment generating function of Y is given by $M_Y(\lambda) = e^{72\lambda^2}$.
+D. The moment generating function of Y is given by $M_Y(\lambda) = 9e^{8\lambda^2}$.

@@ -1,0 +1,44 @@
+**Question Label : Short Answer Question**
+
+If a randomly selected player scored 60 runs, what is the probability that the selected candidate is a capped player? Enter the answer correct to two decimal places.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Range**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+0.77 to 0.82
+
+**Question Id : 640653351537 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Question Numbers : (42 to 44)**
+
+**Question Label : Comprehension**
+
+Suppose the time to failure of device A is exponentially distributed with parameter $\alpha$. Suppose the time to failure of device B is exponentially distributed with parameter $\beta$. Let X and Y denote the time to failure of Devices A and B, respectively. The joint pdf of X and Y is given by
+$$
+f_{XY}(x,y) = 
+\begin{cases}
+ke^{-(4x+5y)} & \text{if } x>0, y>0 \\
+0 & \text{otherwise}
+\end{cases}
+$$
+
+**Sub questions**
+
+**Question Number : 42 Question Id : 640653351538 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 2**
+
+**Question Label : Short Answer Question**
+
+Find the value of $k$.
+
+**Response Type : Numeric**

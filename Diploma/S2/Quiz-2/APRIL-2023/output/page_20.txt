@@ -1,0 +1,43 @@
+**Correct Marks : 3**
+
+Question Label : Short Answer Question
+
+Find the value of $P(|X - 0.5| \le 0.25)$. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Range
+
+Text Areas : PlainText
+
+Possible Answers : 
+
+0.66 to 0.72
+
+**Question Id : 640653521007 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Question Numbers : (25 to 26)**
+
+Question Label : Comprehension
+
+30% of the total candidates in a competitive exam were boys and 70% were girls. The distribution of the marks of the boys is Normal(60,36) and the distribution of the marks of the girls is Normal(55,49).
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number : 25 Question Id : 640653521008 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+Find the PDF of the marks of a candidate chosen uniformly at random.
+
+**Options :**
+
+6406531736596. 

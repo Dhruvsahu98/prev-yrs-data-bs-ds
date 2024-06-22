@@ -1,0 +1,17 @@
+Options : 
+6406531929389.  ✓ $\frac{7 \times 3^6}{4^7}$
+6406531929390.  × $\frac{7 \times 3^6}{4^8}$
+6406531929391.  × $^8C_2 (\frac{3^2}{4^8})$
+6406531929392.  × $^4C_2 (\frac{3^2}{4^4})$
+
+Sub-Section Number : 3
+Sub-Section Id : 64065382559
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 640653577763 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (20 to 21)
+Question Label : Comprehension
+Suppose two fair dice are rolled. Let a random variable X denote the number obtained on the first die and let a random variable Y denote the number obtained on the second die. Define a new random variable $U = X + Y -1$.
+
+Based on the above data, answer the given subquestions.
+Sub questions

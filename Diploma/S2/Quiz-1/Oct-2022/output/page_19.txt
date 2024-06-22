@@ -1,0 +1,34 @@
+Question Label : Multiple Choice Question
+
+Let X be a Poisson random variable with mean equal to 10. Which of the following bounds can be obtained using Markov's inequality?
+
+Options :
+
+6406531285097. ❌ $P(X > 20) \ge \frac{1}{2}$
+
+6406531285098. ❌ $P(X < 20) \le \frac{1}{2}$
+
+6406531285099. ❌ $P(X > 25) \ge \frac{10}{25}$
+
+6406531285100. ✅ $P(X > 25) \le \frac{10}{26}$
+
+Question Number : 21 Question Id : 640653386397 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+Which of the following statements are correct?
+
+Options :
+
+6406531285101. ❌ The probability density function (PDF) of a continuous random variable X must be continuous.
+
+6406531285102. ✅ The cumulative distribution function (CDF) of a continuous random variable X must be continuous.
+
+6406531285103. ❌ The sum of two independent binomial random variables must be a binomial random variable.
+
+6406531285104. ❌ For a random variable X, mean and variance cannot be equal.
+
+Sub-Section Number : 3
+
+Sub-Section Id : 64065355224

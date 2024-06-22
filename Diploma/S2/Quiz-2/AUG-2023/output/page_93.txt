@@ -1,0 +1,45 @@
+**Correct Marks : 2**
+
+Question Label : Short Answer Question
+
+Find the expected value of
+$Y = \sum_{i=1}^{10} X_i + \sum_{i=11}^{20} 2X_i$.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+300
+
+**Question Number : 117 Question Id : 640653588627 Question Type : SA Calculator : None**
+
+**Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+Question Label : Short Answer Question
+
+Using Chebyshev's inequality, find an upper bound for $P(| \overline{X} - 10| > 2)$ where
+$\overline{X} = \frac{X_1 + X_2 + \dots + X_{20}}{20}$ is the sample mean. Enter the answer correct to 3 decimal places.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Range**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+0.014 to 0.02

@@ -1,0 +1,28 @@
+$$\frac{1}{1 + 2exp\left(\frac{-25}{98}\right)}$$
+
+Question Id : 640653521010 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (27 to 28)
+Question Label : Comprehension
+
+At a particular petrol pump, petrol is stocked in a bulk tank each week. Let a random variable X denote the proportion of the tank's capacity that is stocked in a given week, and let Y denote the proportion of the tank's capacity that is sold in the same week. The petrol pump cannot sell more than what was stocked in a given week. Assume the joint density function of X and Y is given by
+
+$$f_{XY}(x,y) = \begin{cases}
+cxy, & \text{if } 0 \leq y \leq x \leq 2, \\
+0, & \text{otherwise}.
+\end{cases}$$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 27 Question Id : 640653521011 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+Find the value of c. Enter the answer correct to one decimal place.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText

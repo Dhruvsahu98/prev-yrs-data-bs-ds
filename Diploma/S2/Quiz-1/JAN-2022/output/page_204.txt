@@ -1,0 +1,33 @@
+Text Areas : PlainText
+Possible Answers :
+0.68
+
+Question Type : COMPREHENSION
+Question Numbers : (258 to 260)
+Question Label : Comprehension
+
+Use the following information to answer the subquestions
+
+Let the random variable $X$ be normally distributed with mean $\mu$ and variance $\sigma^2$. Define $Y = e^X$.
+
+Sub questions
+
+Question Number : 258 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Which of the following is true about $Y$?
+
+Options :
+A. $\checkmark$ $Y$ is a monotonically increasing function of $X$.
+B. $\times$ $Y$ is a monotonically decreasing function of $X$.
+
+Question Number : 259 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+
+Find the support of $Y$.
+
+Options :
+A. $\times$ $Supp(Y) = (-\infty, \infty)$
+B. $\checkmark$ $Supp(Y) = (0, \infty)$

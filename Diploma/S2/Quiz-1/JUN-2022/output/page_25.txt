@@ -1,0 +1,21 @@
+In a book store, there are two types of books (Type 1 and Type 2). Let $X$ denote the number of books of Type 1 that is sold in a week. Let $Y$ denote the number of books of Type 2 that is sold in a week. Suppose $X$ and $Y$ follows the Poisson distribution with parameters 2 and 3, respectively. Let $Z$ denote the total number of books of Type 1 and Type 2 sold in a week. Assume that $X$ and $Y$ are independent.
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+Question Number : 30 Question Id : 640653345465 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Select Question
+
+Which of the following options are true?
+
+Options :
+6406531148947.  $\times$ $(Y|Z=5) \sim Binomial(5, \frac{2}{5})$.
+6406531148948.  $\checkmark$ $(X|Z=5) \sim Binomial(5, \frac{2}{5})$.
+6406531148949.  $\times$ $(X|Z=5) \sim Binomial(5, \frac{3}{5})$.
+6406531148950.  $\checkmark$ $(Y|Z=5) \sim Binomial(5, \frac{3}{5})$.
+
+Question Number : 31 Question Id : 640653345466 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question

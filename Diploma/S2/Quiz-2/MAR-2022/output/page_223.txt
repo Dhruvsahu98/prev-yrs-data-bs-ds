@@ -1,0 +1,41 @@
+**Correct Marks : 3**
+
+**Question Label : Short Answer Question**
+
+Find the estimate of $ \theta $ for the samples 0, 1, 2, 3, 3, 2, 0, 0, 2, 1 using method of moments. Write your answer correct to one decimal place.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+0.6
+
+**Question Number : 268 Question Type : SA**
+
+**Correct Marks : 4**
+
+**Question Label : Short Answer Question**
+
+Find the maximum likelihood estimate of $ \theta $ for the samples 1, 2, 3, 2, 1. Write your answer correct to one decimal place.
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+0.4

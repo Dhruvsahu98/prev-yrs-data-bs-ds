@@ -1,0 +1,21 @@
+Sub-Section Number : 5
+Sub-Section Id : 64065384960
+Question Shuffling Allowed : No
+Is Section Default? : null
+Question Id : 640653588616 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (110 to 111)
+Question Label : Comprehension
+A weather forecaster wants to predict the rainfall in a local area in the month of July. Suppose a random variable X represents the amount of rainfall (in inches) in the local area and the PDF of X is
+ $$f(x) = \begin{cases}
+ke^{-x/20}, & 0 < x < \infty, \\
+0, & otherwise.
+\end{cases}$$
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 110 Question Id : 640653588617 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Find the value of $k$ such that $f(x)$ is a valid PDF.
+Hint: $\int e^{ax} dx = \frac{e^{ax}}{a}$
+Options :
+6406531963324. $\ast$ 20

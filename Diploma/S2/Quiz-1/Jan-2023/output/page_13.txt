@@ -1,0 +1,39 @@
+Consider the subset $S = \{(1, \alpha, 0), (0, \alpha, 1)\}$ of $V_\alpha$. Which of the following options is(are) true?
+
+**Options :**
+
+6406531562551. ✅  $S$ is linearly independent.
+
+6406531562552. ❌  $Span(S) \neq V_\alpha$.
+
+6406531562553. ✅  $S$ forms a basis of $V_\alpha$.
+
+6406531562554. ❌  $dim(V_\alpha) = 3$
+
+## Statistics2
+
+**Section Id :**  64065330343
+
+**Section Number :**  2
+
+**Section type :**  Online
+
+**Mandatory or Optional :**  Mandatory
+
+**Number of Questions :**  12
+
+**Number of Questions to be attempted :**  12
+
+**Section Marks :**  40
+
+**Display Number Panel :**  Yes
+
+**Group All Questions :**  No
+
+**Enable Mark as Answered Mark for Review and Clear Response :**  Yes
+
+**Maximum Instruction Time :**  0
+
+**Sub-Section Number :**  1
+
+**Sub-Section Id :**  64065367744

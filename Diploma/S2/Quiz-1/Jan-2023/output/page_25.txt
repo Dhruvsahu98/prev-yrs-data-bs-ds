@@ -1,0 +1,33 @@
+$X_1$
+$X_2$
+0
+1
+$\frac{1}{8}$
+$\frac{3}{40}$
+$\frac{1}{8}$
+$\frac{27}{40}$
+6406531562585. $\checkmark$
+$X_1$
+$X_2$
+0
+1
+$\frac{1}{8}$
+$\frac{1}{8}$
+$\frac{27}{40}$
+$\frac{3}{40}$
+6406531562586. $\ast$
+Question Number : 28 Question Id : 640653470227 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the probability that John loses the second match. Enter the answer correct to one decimal place.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.19 to 0.21
+Question Id : 640653470228 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0

@@ -1,0 +1,33 @@
+Question Shuffling Allowed : Yes
+
+Question Number : 22 Question Id : 640653386395 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+
+The joint PMF of two discrete random variables X and Y is given in the following table:
+
+| X | 0 | 1 |
+|:---|:---|:---|
+| Y |     |     |     |
+| 0 | $\frac{1}{12}$ | $\frac{1}{3}$ |
+| 1 | $\frac{1}{4}$ | 0 |
+| 2 | $\frac{1}{6}$ | $\frac{1}{6}$ |
+
+Joint PMF of X and Y
+
+Calculate Cov(X, Y). Enter the answer correct to three decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+-0.125
+
+Sub-Section Number : 4
+Sub-Section Id : 64065355225
+Question Shuffling Allowed : No
+
+Question Id : 640653386391 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A

@@ -1,0 +1,38 @@
+Find the value of $P(X = 1 | Z = 5)$. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.24 to 0.27
+
+Question Id : 640653345468 Question Type : COMPREHENSION Sub Question Shuffling
+Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (32 to 33)
+Question Label : Comprehension
+
+Let $X$ be a continuous random variable with the following PDF:
+
+$f_X(x) = \begin{cases}
+\frac{p}{x^2} & 1 \le x \le 5 \\
+0 & \text{otherwise}
+\end{cases}$
+
+Hint: Use $\int_{x=a}^b \frac{1}{x^2} dx = \frac{1}{a} - \frac{1}{b}$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 32 Question Id : 640653345469 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+Find the value of $p$ so that $f_X(x)$ is a valid PDF. Enter the answer correct to two decimal places. 
+
+Response Type : Numeric
+Evaluation Required For SA : Yes

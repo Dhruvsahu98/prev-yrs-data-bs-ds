@@ -1,0 +1,18 @@
+Is Section Default?: null
+
+Question Number : 17 Question Id : 640653521000 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Let $(X,Y) \sim Uniform(D)$, where $D = \{(x,y): x < 2, x + y < 4, x > 0, y > 0\}$. Find $P(Y < 2)$.
+Options : 
+6406531736584. $\times$ $\frac{1}{3}$
+6406531736585. $\checkmark$ $\frac{2}{3}$
+6406531736586. $\times$ $\frac{1}{4}$
+6406531736587. $\times$ $\frac{3}{4}$
+
+Question Number : 18 Question Id : 640653521003 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Let $X_1, X_2, ..., X_n$ be i.i.d. $X$ with mean $\mu = 0$ and variance $\sigma^2 = 1$. Using Chebyshev's inequality, what should be the minimum value of $n$ such that the probability that the sample mean $\frac{X_1 + X_2 + ... + X_n}{n}$ lies between $-0.5$ and $0.5$ is at least $0.95$?
+Options : 
+6406531736590. $\times$ 40

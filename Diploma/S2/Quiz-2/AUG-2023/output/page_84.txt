@@ -1,0 +1,15 @@
+$f_Y(y) = \begin{cases} 0.3, & -1 \le y < 0, \\ 0.5, & 0 \le y < 1, \\ 0.2, & 1 \le y < 2, \\ 0, & \text{otherwise}. \end{cases}$
+6406531963310. ✖
+
+$f_Y(y) = \begin{cases} 0.2, & -1 \le y < 0, \\ 0.5, & 0 \le y < 1, \\ 0.3, & 1 \le y < 2, \\ 0, & \text{otherwise}. \end{cases}$
+6406531963311. ✖
+
+$f_Y(y) = \begin{cases} 0.5, & -1 \le y \le 1, \\ 0, & \text{otherwise}. \end{cases}$
+
+Question Number : 107 Question Id : 640653588613 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Let $(X, Y) \sim Uniform(D)$. Which of the following may represent a region $D$ such that $X$ and $Y$ are independent?
+
+Options :

@@ -1,0 +1,21 @@
+Options :
+6406531285110. ❌ $F_X(k) = \left(\frac{k}{6}\right)$
+6406531285111. ❌ $F_X(k) = \left(\frac{1}{6}\right)^3$
+6406531285112. ❌ $F_X(k) = \left(\frac{k+1}{6}\right)^3$
+6406531285113. ✅ $F_X(k) = \left(\frac{k}{6}\right)^3$
+
+Question Number : 28 Question Id : 640653386403 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+Question Label : Short Answer Question
+Find $P(X=5)$. Enter the answer correct to two decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.26 to 0.30
+
+Question Id : 640653386404 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (29 to 30)

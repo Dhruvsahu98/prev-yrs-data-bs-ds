@@ -1,0 +1,29 @@
+Question Label : Comprehension
+
+30% of the total players in IPL 2022 are uncapped (i.e., they have not played any international games) and 70% are capped (i.e., they have played at least 1 international game). Suppose the runs scored by the capped players is Normal(60, 25) and the runs scored by the uncapped players is Normal(55, 36).
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 40 Question Id : 640653351535 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Find the distribution of runs of a randomly chosen player.
+
+Options :
+
+6406531166650.  $\times$ $\frac{3}{25\sqrt{2\pi}}$ exp($\frac{-(y-60)^2}{50}$) + $\frac{1}{15\sqrt{2\pi}}$ exp($\frac{-(y-55)^2}{72}$)
+
+6406531166651.  $\checkmark$ $\frac{7}{50\sqrt{2\pi}}$ exp($\frac{-(y-60)^2}{50}$) + $\frac{1}{20\sqrt{2\pi}}$ exp($\frac{-(y-55)^2}{72}$)
+
+6406531166652.  $\times$ $\frac{3}{25\sqrt{2\pi}}$ exp($\frac{-(y-60)^2}{50}$) + $\frac{7}{15\sqrt{2\pi}}$ exp($\frac{-(y-55)^2}{72}$)
+
+6406531166653.  $\times$ $\frac{7}{25\sqrt{2\pi}}$ exp($\frac{-(y-60)^2}{50}$) + $\frac{1}{15\sqrt{2\pi}}$ exp($\frac{-(y-55)^2}{72}$)
+
+Question Number : 41 Question Id : 640653351536 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3

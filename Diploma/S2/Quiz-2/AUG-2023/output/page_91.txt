@@ -1,0 +1,32 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.75
+
+Question Id : 640653588622 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (114 to 115)
+Question Label : Comprehension
+
+Let a random variable X represent the temperature change and let Y represent the pressure change during a chemical process. The joint density for X and Y is given by
+$$f_{XY}(x,y) = \begin{cases}
+cxy, & 0<x<2, 0<y<2, \\
+0, & \text{otherwise}.
+\end{cases}$$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 114 Question Id : 640653588623 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+
+Find the value of c. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal

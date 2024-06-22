@@ -1,0 +1,33 @@
+Question Label : Comprehension
+
+Let the random variables X and Y have the following joint PDF:
+
+$$f_{XY}(x,y) = \begin{cases}
+2x & \text{for } 0 \le x < 1, 0 \le y < 1\\
+0 & \text{otherwise}
+\end{cases}$$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 54 Question Id : 640653445793 Question Type : MSQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Which of the following statements are true?
+
+Options : 
+
+6406531485296.  ✔ Marginal density of X is 2x, for  0 ≤ x < 1.
+6406531485297.  ✖ Marginal density of X is $\frac{x^2}{2}$, for 0 ≤ x < 1.
+6406531485298.  ✖ Marginal density of Y is 2y, for 0 ≤ y < 1.
+6406531485299.  ✔ Marginal density of Y is 1, for 0 ≤ y < 1.
+
+Question Number : 55 Question Id : 640653445794 Question Type : MCQ Is Question
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Are X and Y independent?

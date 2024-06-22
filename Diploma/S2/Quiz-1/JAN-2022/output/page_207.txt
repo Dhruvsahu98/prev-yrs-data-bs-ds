@@ -1,0 +1,28 @@
+C. $\checkmark$ $X \sim Poisson(1.5)$ and $Y \sim Poisson(3.5)$
+
+D. $\times$ $X \sim Poisson(1.5)$ and $Y \sim Poisson(1.5)$
+
+Question Number : 263 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+Find $P(X = 3, Y = 3)$. (Enter the answer correct to three decimal places)
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.023 to 0.031
+
+Question Type : COMPREHENSION
+
+Question Numbers : (264 to 265)
+Question Label : Comprehension
+Answer the subquestions.
+
+Sub questions
+
+Question Number : 264 Question Type : SA
+Correct Marks : 3
+Question Label : Short Answer Question
+The time of an interview follows an exponential distribution with an average time of 20 minutes. Find the probability that the interview lasted more than 15 minutes given that it was between 12

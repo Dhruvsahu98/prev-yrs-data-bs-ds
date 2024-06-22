@@ -1,0 +1,42 @@
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+The joint PMF of two discrete random variables $X$ and $Y$ is 
+ $$f_{XY}(x,y) = \begin{cases}
+\frac{1}{27}(2x+y), & x,y \in \{0,1,2\}, \\
+0, & \text{otherwise}
+\end{cases}$$
+What is the value of $P(0 \leq X < 1.5 | X > 0)$?
+
+**Options :**
+ 
+6406531562559. $\times$ $\frac{1}{3}$
+
+6406531562560. $\times$ $\frac{1}{9}$
+
+6406531562561. $\checkmark$ $\frac{3}{8}$
+
+6406531562562. $\times$ $\frac{24}{27}$
+
+
+**Question Number : 19 Question Id : 640653470215 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0**
+
+**Correct Marks : 3**
+
+Question Label : Multiple Choice Question
+
+Let $X \sim Uniform(\{-2,-1,0,1,2\})$ and $Y \sim Uniform(\{-1,1\})$ be two independent random variables. Define another random variable $Z = |X| - |Y|$. Find the PMF of $Z$.
+
+**Options :**
+
+6406531562563. $\times$ 
+\begin{tabular}{|c|c|c|c|}
+\hline
+$z$ & $-1$ & $0$ & $1$\\ 
+\hline
+$f(z)$ & $2/5$ & $1/5$ & $2/5$ \\
+\hline
+\end{tabular}
+
+6406531562564. $\times$ 

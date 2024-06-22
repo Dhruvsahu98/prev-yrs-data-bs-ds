@@ -1,0 +1,34 @@
+List of options:
+
+1. $P(A^c) = 1 - P(A)$
+2. $P(A \cap B) = P(A)P(B)$, if A and B are independent.
+3. $Cov(X,Y) = E[XY] - E[X]E[Y]$
+4. $P(A|B) = \frac{P(A \cap B)}{P(B)}$
+5. $E[g(X)] = \int g(x)f_X(x) dx$
+6. $E[X] = \sum xP(X = x)$
+7. $Var(X) = \sum (X - E[X])^2P(X = x)$
+8. $\int_a^b x^n dx = \frac{x^{n+1}}{n+1}|_a^b$
+9. $X \sim Binomial(n,p), P(X = k) =  ^nC_kp^k(1-p)^{n-k}$
+10. $E[X + Y] = E[X] + E[Y]$
+11. $X \sim Exp(\lambda), F_X(x) = 1-e^{-\lambda x}, f_X(x) = \lambda e^{-\lambda x}$
+12. Sum of $n$ i.i.d. Bernoulli($p$) is Binomial($n,p$)
+13. $max(a,b) = min(a,b) + 1$ if $|a-b| = 1$.
+14. If X and Y are independent, $Var[X+Y] = Var[X] + Var[Y]$
+15. $P(X > a) = 1 - F_X(a)$
+16. $X \sim Uniform[a, b], f_X(x) = \frac{1}{b-a}$
+17. Bayes' rule
+18. $P(|X - E[X]| \ge k\sigma) \le \frac{1}{k^2}$
+19. $max(a,b) = min(a,b)$ if $a = b$.
+20. $P(a < X < b) = \int_a^b f_X(x) dx$
+21. $P(a < X < b) = F_X(b) - F_X(a)$
+22. $(Y|X_1 = 0) = X_2 + X_3 + ... + X_{10}$
+23. $P(X \ge a) = 1 - F_X(a-1)$
+24. $X_1, X_2 \sim i.i.d. X, Z = max(X_1, X_2), F_Z(z) = [F_X(z)]^2$
+25. $X_1, X_2 \sim i.i.d. X, Z = min(X_1, X_2), F_Z(z) = [1 - F_X(z)]^2$
+
+Options :
+
+A.  ✅ Useful Data has been mentioned above
+B.  ❌ This data attachment is just for a reference & not for an evaluation.
+
+Question Type : COMPREHENSION

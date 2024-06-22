@@ -1,0 +1,24 @@
+6406531148916. ❌ $x_1=x_2$
+6406531148917. ✅ $x_2=x_3$
+6406531148918. ❌ $x_1=x_2=x_3$
+
+Question Number : 19 Question Id : 640653345451 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 4
+
+Question Label : Multiple Choice Question
+
+If we try to find $x_1$, $x_2$, and $x_3$ using appropriate matrix representation by taking $c=3$ and $d=100$, then which of the following options is always true?
+
+Options :
+
+6406531148919. ❌ $x_1=12$, $x_2=20$ and $x_3=10$
+6406531148920. ❌ $x_1=x_2=24$ and $x_3=10$
+6406531148921. ✅ $x_1=10$, $x_2=12$ and $x_3=24$
+6406531148922. ❌ $x_1=x_2=x_3=10$
+
+# Statistics 2
+
+Section Id : 64065321868
+Section Number : 2
+Section type : Online

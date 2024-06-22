@@ -1,0 +1,28 @@
+list of options given in the data attachment.
+
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+6, 7, 10, 12, 14, 18
+
+Question Type : COMPREHENSION
+Question Numbers : (268 to 269)
+Question Label : Comprehension
+Answer the subquestions.
+Sub questions
+
+Question Number : 268 Question Type : SA
+Correct Marks : 4
+Question Label : Short Answer Question
+A 2-digit number from 00 to 99 is selected at random. Let X be the digit in units place and Y be the digit in tens place. A new random variable Z is defined as
+$Z = max(X, Y) - min(X, Y)$.
+Find the value of $P(Z \ge 2)$.
+Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes

@@ -1,0 +1,25 @@
+Suppose that the number of customers visiting a KFC on a particular day is $N \sim Poisson(5)$. Assume that each customer purchases a Classic Chicken Zingers with probability 0.3, independent of other customers and independent of the value of $N$. Let $X$ denote the number of customers who purchase a Classic Chicken Zingers in a day. Let $Y$ denote the number of customers who do not purchase a Classic Chicken Zingers.
+
+Sub questions
+
+Question Number : 261 Question Type : MSQ
+Correct Marks : 2
+Question Label : Multiple Select Question
+
+Choose the correct options from the following:
+
+Options :
+A. $\checkmark$ $(X | N = n) \sim Binomial(n, 0.3)$
+B. $\times$ $(X | N = n) \sim Bernoulli(0.3)$
+C. $\checkmark$ $(Y | N = n) \sim Binomial(n, 0.7)$
+D. $\times$ $(Y | N = n) \sim Bernoulli(0.7)$
+
+Question Number : 262 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+
+Find the marginal distributions of $X$ and $Y$.
+
+Options :
+A. $\times$ $X \sim Bernoulli(0.3)$ and $Y \sim Bernoulli(0.7)$
+B. $\times$ $X \sim Poisson(0.3)$ and $Y \sim Poisson(0.7)$

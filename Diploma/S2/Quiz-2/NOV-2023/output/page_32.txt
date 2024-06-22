@@ -1,0 +1,41 @@
+Options : 
+6406531485300. ✅ YES
+6406531485301. ❌ NO
+
+Sub-Section Number : 3
+Sub-Section Id : 6406536395
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 56 Question Id : 640653445795 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+The probability density function of a continuous random variable X is given by
+$$
+f(x) = 
+\begin{cases}
+2x & \text{for } 0 \leq x < 1 \\
+0 & \text{otherwise}
+\end{cases}
+$$
+
+Find the value of $E[X]$. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.65 to 0.68
+
+Question Number : 57 Question Id : 640653445797 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3
+
+Question Label : Short Answer Question
+
+Let $X_1, X_2, ..., X_n$ be i.i.d. Poisson(9). Using Chebyshev's inequality, what should be the minimum value of $n$ such that the probability that the sample mean $(\bar{X})$ lies in between 8.6 and 9.4 is at least 0.95?

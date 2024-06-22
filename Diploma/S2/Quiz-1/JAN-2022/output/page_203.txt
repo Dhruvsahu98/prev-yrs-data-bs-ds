@@ -1,0 +1,36 @@
+$X_1$ & 0 & 1 \\
+$X_2$ & & & \\
+0 & $\frac{1}{5}$ & $\frac{1}{5}$ \\
+1 & $\frac{3}{25}$ & $\frac{12}{25}$ \\
+
+B. $\times$ 
+
+$X_1$ & 0 & 1 \\
+$X_2$ & & & \\
+0 & $\frac{1}{5}$ & $\frac{12}{25}$ \\
+1 & $\frac{1}{5}$ & $\frac{3}{25}$ \\
+
+C. $\checkmark$ 
+
+$X_1$ & 0 & 1 \\
+$X_2$ & & & \\
+0 & $\frac{1}{5}$ & $\frac{1}{5}$ \\
+1 & $\frac{12}{25}$ & $\frac{3}{25}$ \\
+
+D. $\times$ 
+
+Question Number : 257 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Find the probability that Kasparov loses the second game. Enter the answer correct to two decimal places.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal

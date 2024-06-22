@@ -1,0 +1,24 @@
+$$f_Y(y) = \begin{cases}
+\frac{y}{25} + \frac{1}{5} & \text{for } 0 < y < 5 \\
+\frac{-y}{25} + \frac{1}{5} & \text{for } 5 < y < 10
+\end{cases}$$
+
+Question Number : 272 Question Type : SA
+Correct Marks : 2
+Question Label : Short Answer Question
+Two unbiased dice are thrown repeatedly. Find the expected number of trials needed to get the same value on both the dice.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+6
+
+Question Number : 273 Question Type : MSQ
+Correct Marks : 4
+Question Label : Multiple Select Question
+Suppose $X_1, X_2$ are two i.i.d. Binomial $\left( 10, \frac{1}{3} \right)$ samples. Let $Y, Z$ be two random variables defined as $Y = X_1 + X_2$ and $Z = X_1 X_2$ respectively. Which of the following options are true?
+Options :
+A. $\checkmark$ $Y \sim$ Binomial $\left( 20, \frac{1}{3} \right)$
+B. $\times$ $Y \sim$ Binomial $\left( 10, \frac{1}{3} \right)$

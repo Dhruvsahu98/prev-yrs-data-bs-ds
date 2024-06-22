@@ -1,0 +1,35 @@
+Suppose $X \sim Binomial(n, \frac{1}{2})$.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 30 Question Id : 640653577779 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 3
+
+Question Label : Multiple Choice Question
+
+Find the value of $n$ for which
+
+$\frac{1}{30}P(X=3) = P(X=2)$.
+
+Options :
+
+6406531929409. $\times$ 90
+
+6406531929410. $\checkmark$ 92
+
+6406531929411. $\times$ 30
+
+6406531929412. $\times$ 32
+
+Question Number : 31 Question Id : 640653577780 Question Type : SA Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Using the Chebyshev's inequality, find a lower bound for $P(-2\sigma \le X - \mu \le 2\sigma)$, where $\mu$ and $\sigma^2$ are mean and variance of $X$. Enter the answer correct to 2 decimal places.
+
+Response Type : Numeric

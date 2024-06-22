@@ -1,0 +1,25 @@
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What is the range of X?
+Options :
+6406532467763. ❌ $T_X = \{0, 1, 2, ...\}$
+6406532467764. ✅ $T_X = \{1, 2, ...\}$
+6406532467765. ❌ $T_X = \{1, 2, ..., 100\}$
+6406532467766. ❌ $T_X = \{0, 1\}$
+Question Number : 72 Question Id : 640653737340 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+What is the probability that the first failed inspection occurs on the analyst's $5^{th}$ inspection? Enter the answer correct to three decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+0.046 to 0.086
+Sub-Section Number : 4
+Sub-Section Id : 640653107605
+Question Shuffling Allowed : Yes
+Is Section Default? : null

@@ -1,0 +1,22 @@
+$P\left(\left|\frac{S}{n}-\frac{1}{6}\right|>0.1\right)<0.1$
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+38
+Question Number : 265 Question Type : SA
+Correct Marks : 0
+Question Label : Short Answer Question
+Select four facts/formulae/steps from the list of options that you will use for solving question number 263 & 264.
+Note: "This question is optional. We will check your answer to this question if you make a mistake in the previous one. Please enter your answers in comma-separated format. E.g. 1, 2, 3". Check the list of options given in the data attachment.
+Response Type : Alphanumeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Set
+Answers Case Sensitive : No
+Text Areas : PlainText
+Possible Answers :
+1, 2, 4, 6, 7, 9, 11, 14
+Question Type : COMPREHENSION

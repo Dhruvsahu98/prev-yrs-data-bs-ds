@@ -1,0 +1,23 @@
+Options : 
+6406531148942.  ✔  X and Y are independent random variables
+6406531148943.  ✖  X and Y are dependent random variables
+6406531148944.  ✔  $P(X \leq 1) = \frac{5}{6}$
+6406531148945.  ✖  $P(Y=1|X=2) = \frac{1}{4}$ 
+
+Question Number : 29 Question Id : 640653345463 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+Find the value of 
+$P(X \leq 1, Y = 0) + P(X = 2, Y = 1)$
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers : 
+3
+
+Question Id : 640653345464 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (30 to 31)
+Question Label : Comprehension

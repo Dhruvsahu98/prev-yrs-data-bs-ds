@@ -1,0 +1,23 @@
+and 18 minutes. (Enter the answer correct to two decimal places)
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :**
+0.45 to 0.47
+**Question Number :** 265 **Question Type :** SA
+**Correct Marks :** 0
+**Question Label :** Short Answer Question
+Select three facts/formulae/steps from the list of options that you will use for solving previous question.
+**Note:** "This question is optional. We will check your answer to this question if you make a mistake in the previous one. Please enter your answers in comma-separated format. E.g. 1,2,3". Check the list of options given in the data attachment.
+**Response Type :** Alphanumeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Set
+**Answers Case Sensitive :** No
+**Text Areas :** PlainText
+**Possible Answers :**
+4, 11, 15, 20, 21
+**Question Type :** COMPREHENSION
+**Question Numbers :** (266 to 267)

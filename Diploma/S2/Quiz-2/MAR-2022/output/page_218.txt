@@ -1,0 +1,46 @@
+1, 2, 6, 7, 14
+
+Question Type : COMPREHENSION
+
+Question Numbers : (260 to 262)
+
+Question Label : Comprehension
+
+Let the joint PDF of two random variables $X$ and $Y$ be given by 
+$$
+f_{XY}(x,y) = 
+\begin{cases}
+kxy & \text{if } 0 < x < 1, 0 < y < 1 \\
+0 & \text{otherwise}
+\end{cases}.
+$$
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 260 Question Type : SA
+
+Correct Marks : 2
+
+Question Label : Short Answer Question
+
+Find the value of $k$ so that $f_{XY}$ is a valid PDF.
+
+Response Type : Numeric
+
+Evaluation Required For SA : Yes
+
+Show Word Count : Yes
+
+Answers Type : Equal
+
+Text Areas : PlainText
+
+Possible Answers : 
+
+4
+
+Question Number : 261 Question Type : SA
+
+Correct Marks : 2

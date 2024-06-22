@@ -1,0 +1,41 @@
+**Question Numbers : (263 to 265)**
+
+**Question Label : Comprehension**
+
+A fair die is rolled *n* times. Let *S* denote the total number of times six is obtained.
+
+Based on the above data, answer the given subquestions.
+
+**Sub questions**
+
+**Question Number : 263 Question Type : SA**
+
+**Correct Marks : 3**
+
+**Question Label : Short Answer Question**
+
+Use Weak Law of Large Numbers to find the minimum value of *n* such that 
+
+$P\left(\left|\frac{S}{n} - \frac{1}{6}\right| < 0.1\right) < 0.1$
+
+**Response Type : Numeric**
+
+**Evaluation Required For SA : Yes**
+
+**Show Word Count : Yes**
+
+**Answers Type : Equal**
+
+**Text Areas : PlainText**
+
+**Possible Answers :**
+
+139
+
+**Question Number : 264 Question Type : SA**
+
+**Correct Marks : 4**
+
+**Question Label : Short Answer Question**
+
+Use CLT to find the value of *n* such that 

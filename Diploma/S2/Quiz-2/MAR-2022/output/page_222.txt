@@ -1,0 +1,26 @@
+Question Numbers : (266 to 268)
+Question Label : Comprehension
+Let X be a discrete random variable with the following probability mass function:
+
+| X | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| $f_X(x)$ | $\theta/2$ | $(1-\theta)/2$ | $\theta/2$ | $(1-\theta)/2$ |
+
+where $0 < \theta < 1$. Suppose we want to estimate the parameter $\theta$ from i.i.d. samples of $X$.
+
+Based on the above data, answer the given subquestions.
+
+Sub questions
+
+Question Number : 266 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Calculate the first moment of $X$.
+
+Options :
+A. $\times$ $\theta + 2$
+B. $\checkmark$ $2 - \theta$
+C. $\times$ $1 + \frac{\theta}{2}$
+D. $\times$ $\theta - 2$
+
+Question Number : 267 Question Type : SA

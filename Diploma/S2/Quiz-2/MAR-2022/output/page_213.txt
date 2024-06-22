@@ -1,0 +1,25 @@
+**Answers Type :** Equal
+**Text Areas :** PlainText
+**Possible Answers :**
+6
+
+**Question Type :** COMPREHENSION
+
+**Question Numbers :** (253 to 254)
+**Question Label :** Comprehension
+Answer the given subquestions.
+**Sub questions**
+
+**Question Number :** 253 **Question Type :** SA
+**Correct Marks :** 5
+**Question Label :** Short Answer Question
+An urn contains a certain number of balls and one of them is numbered 1. Let the probability of drawing a 1 be p. Independent draws are made with replacement until ball 1 is drawn. The experiment is conducted 10 times and number of draws made are as follows: 4, 3, 1, 5, 7, 5, 4, 2, 6, 8. Find the maximum likelihood estimate of p. Enter your answer correct to two decimal places.
+**Response Type :** Numeric
+**Evaluation Required For SA :** Yes
+**Show Word Count :** Yes
+**Answers Type :** Range
+**Text Areas :** PlainText
+**Possible Answers :**
+0.20 to 0.24
+
+**Question Number :** 254 **Question Type :** SA

@@ -1,0 +1,23 @@
+Question Label : Short Answer Question
+Find $P(X>6|X>4)$.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers : 
+0.35 to 0.38
+
+Question Id : 640653445802 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (61 to 62)
+Question Label : Comprehension
+In a telecom system, each data file consists of 400 bits. Due to noise, each data bit received may have an error with probability 0.1. It is assumed that bit errors occur independently.
+Based on the above data, answer the given subquestions.
+Sub questions
+
+Question Number : 61 Question Id : 640653445803 Question Type : MCQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Suppose Y represents the total number of bits without an error in a certain data file. Which of the following is true?
+Options : 
+6406531485314. $\times$ $Y \sim Bernoulli(0.9)$

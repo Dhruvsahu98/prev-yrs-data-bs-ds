@@ -1,0 +1,49 @@
+Question Label : Multiple Choice Question
+
+Naveen tosses a fair coin twice and Suman tosses another fair coin two times. Let the random variables X and Y denote the number of heads observed by Naveen and Suman respectively. Identify the correct joint PMF table of X and Y.
+
+Options :
+$\newline$
+6406532467759. $\times$
+$\newline$
+\begin{tabular}{ |c|c|c|c| } 
+  \hline
+  Y/X & 0 & 1 & 2 \\ 
+  \hline
+  0 & $\frac{1}{16}$ & $\frac{1}{16}$ & $\frac{1}{8}$ \\ 
+  \hline
+  1 & $\frac{1}{4}$ & $\frac{1}{8}$ & $\frac{1}{8}$ \\ 
+  \hline
+  2 & $\frac{1}{8}$ & $\frac{1}{16}$ & $\frac{1}{16}$ \\ 
+  \hline
+\end{tabular}
+$\newline$
+6406532467760. $\checkmark$
+$\newline$
+\begin{tabular}{ |c|c|c|c| } 
+  \hline
+  Y/X & 0 & 1 & 2 \\ 
+  \hline
+  0 & $\frac{1}{16}$ & $\frac{1}{8}$ & $\frac{1}{16}$ \\ 
+  \hline
+  1 & $\frac{1}{8}$ & $\frac{1}{4}$ & $\frac{1}{8}$ \\ 
+  \hline
+  2 & $\frac{1}{16}$ & $\frac{1}{8}$ & $\frac{1}{16}$ \\ 
+  \hline
+\end{tabular}
+$\newline$
+6406532467761. $\times$
+$\newline$
+\begin{tabular}{ |c|c|c|c| } 
+  \hline
+  Y/X & 0 & 1 & 2 \\ 
+  \hline
+  0 & $\frac{1}{8}$ & $\frac{1}{4}$ & $\frac{1}{8}$ \\ 
+  \hline
+  1 & $\frac{1}{16}$ & $\frac{1}{8}$ & $\frac{1}{16}$ \\ 
+  \hline
+  2 & $\frac{1}{16}$ & $\frac{1}{8}$ & $\frac{1}{16}$ \\ 
+  \hline
+\end{tabular}
+$\newline$
+6406532467762. $\times$

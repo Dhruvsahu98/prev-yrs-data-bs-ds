@@ -1,0 +1,21 @@
+Use the following values of $F_z$ if needed: 
+$F_z(0.13) = 0.55$, $F_z(1.88) = 0.96995$, $F_z(-1.88) = 0.03005$, $F_z(0.4) = 0.65542$, $F_z(1.64) = 0.95$, $F_z(-1.64) = 0.05$, $F_z(1.9) = 0.97128$, $F_z(1.33) = 0.90824$, $F_z(-1.33) = 0.09176$
+
+List of options: 
+1. $P(Z > a) = 1 - F_z(a)$
+2. $E[aX + bY] = aE[X] + bE[Y]$
+3. $p^* = arg \max_p \prod_{i=1}^{10} f_X(x_i; p)$
+4. $P(|\overline{X} - \mu| > \delta) \leq \frac{\sigma^2}{n\delta^2}$
+5. $\int_a^b x^n dx = \frac{x^{n+1}}{n+1}|_a^b$
+6. Central Limit Theorem
+7. If X and Y are independent, then $Var[aX + Y] = a^2Var[X] + Var[Y]$.
+8. $X \sim Geometric(p)$, $f_X(k) = (1 - p)^{k-1}p$. 
+9. Sum of n i.i.d. Bernoulli(p) is Binomial(n, p)
+10. $P(F) = \int \int_{Supp(F)} f_{XY}(x, y) dx dy$
+11. $P(a < X < b) = F_X(b) - F_X(a)$
+12. $L(x_1, ..., x_{10}) = \prod_{i=1}^{10} f_X(x_i; p)$
+13. $\int \int_{Supp} f_{XY}(x, y) dx dy = 1$
+14. $F_z(-a) = 1 - F_z(a)$, $Z \sim Normal(0, 1)$
+15. $X \sim Poisson(\lambda)$, $f_X(k) = \frac{e^{-\lambda}\lambda^k}{k!}$.
+16. If X and Y are independent, then $E[XY] = E[X]E[Y]$.
+17. For an event E, $P(E^c) = 1 - P(E)$.

@@ -1,0 +1,30 @@
+Question Id : 640653521016 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0 Question Numbers : (31 to 32)
+Question Label : Comprehension
+
+Let $X$ be a random variable with PMF as follows:
+
+| $x$ | 0 | 1 | 2 |
+|---|---|---|---|
+| $f_X(x)$ | 1/4 | 1/2 | 1/4 |
+
+Suppose $X_1, X_2 \sim i.i.d. X$. Define a random variable $Y = X_1 + X_2$. 
+
+Based on the above data, answer the given subquestions. 
+
+Sub questions
+
+Question Number : 31 Question Id : 640653521017 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Selectable Option : 0
+Question Label : Multiple Select Question
+
+Which of the following option(s) is (are) true about the moment generating function of the random variable $Y$?
+
+Options :
+
+6406531736611. ✅ $M_Y(\lambda) = M_{X_1}(\lambda) \times M_{X_2}(\lambda)$
+
+6406531736612. ❌ $M_Y(\lambda) = M_{X_1}(\lambda) + M_{X_2}(\lambda)$
+
+6406531736613. ❌ $M_Y(\lambda) = \frac{1}{2} + e^\lambda + \frac{1}{2} e^{2 \lambda}$
+
+6406531736614. ❌ $M_Y(\lambda) = \frac{1}{16} + \frac{1}{8}e^\lambda + \frac{3}{8} e^{2 \lambda} + \frac{3}{8} e^{3 \lambda} + \frac{1}{16} e^{4 \lambda}$

@@ -1,0 +1,29 @@
+Question Number : 32 Question Id : 640653386409 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+Question Label : Short Answer Question
+With the choice of $a$, $b$, find 
+$P\left(X>-\frac{1}{2}|X<1\right)$.
+Enter the answer correct to three decimal places.
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.875
+
+Question Id : 640653386410 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (33 to 34)
+Question Label : Comprehension
+Suppose a fair die is rolled. Let $X$ and $Y$ be defined as 
+$X = \begin{cases}
+1, & \text{if the number is odd} \\
+0, & \text{otherwise}
+\end{cases}$
+$Y = \begin{cases}
+1, & \text{if the number is prime} \\
+0, & \text{otherwise}
+\end{cases}$
+Based on the above data, answer the given subquestions
+Sub questions

@@ -1,0 +1,41 @@
+Let $f:\mathbb{R}\rightarrow\mathbb{R}$ be defined by
+ $$f(x) = \begin{cases}
+0 & \text{ for } -\infty < x < 0, \\
+\frac{1}{4} & \text{ for } 0 < x \leq 1, \\
+\frac{3}{4x^2} & \text{ for } 1 < x < \infty.
+\end{cases}$$
+If a random variable $X$ has the PDF $f(x)$, calculate $P\left(-\frac{1}{2}<X<\frac{3}{2}\right)$. Enter the answer correct to one decimal place.
+
+Hint: Use $\int_a^b \frac{1}{x^2}dx = \frac{1}{a}-\frac{1}{b}$.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+0.5
+
+Question Number : 27 Question Id : 640653345460 Question Type : SA Calculator : None
+Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 2
+
+Question Label : Short Answer Question
+Let $X$ be a discrete random variable with the following PMF and CDF:
+ $$p_X(x) = \begin{cases}
+a, & x = 1 \\
+b, & x = 2 \\
+c, & x = 3 \\
+0.3, & x = 4
+\end{cases}$$
+ $$F_X(x) = \begin{cases}
+0, & x < 1 \\
+0.2, & 1 \leq x < 2 \\
+0.6, & 2 \leq x < 3 \\
+0.7, & 3 \leq x < 4 \\
+d, & x \geq 4
+\end{cases}$$
+Evaluate $a+b+c+d$.
+
+Response Type : Numeric
+Evaluation Required For SA : Yes

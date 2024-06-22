@@ -1,0 +1,19 @@
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Range
+Text Areas : PlainText
+Possible Answers :
+1.81 to 1.85
+Question Id : 640653578668 Question Type : COMPREHENSION Sub Question Shuffling Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Question Numbers : (118 to 119)
+Question Label : Comprehension
+In a bookstore, there are two book types: Type 1 and Type 2.
+Let $X$ and $Y$ be independent random variables representing the number of Type 1 and Type 2 books sold in a week, respectively. Suppose $X$ and $Y$ follow the Poisson distribution with averages of 2 and 3, respectively. Define a new random variable $Z = X + Y$.
+Based on the above data, answer the given subquestions.
+Sub questions
+Question Number : 118 Question Id : 640653578669 Question Type : MSQ Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 3 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+If $Z = 5$, then which of the following options are true?
+Options :

@@ -1,0 +1,43 @@
+6406532467741.  ✅ If $a = 2$, $b = 3$, $c = 1$, then the subspace spanned by the vectors $\{v_1, v_2, v_3\}$ has dimension 3. 
+
+6406532467742.  ✅ If $a = 2$, $b = 3$, $c = 1$ and A is the matrix with $v_1$, $v_2$ and $v_3$ as its columns, then A is invertible.
+
+# Statistics2
+64065351353
+## Section Id :
+5
+## Section Number :
+Online
+## Section type :
+Mandatory
+## Mandatory or Optional :
+12
+## Number of Questions :
+12
+## Number of Questions to be attempted :
+40
+## Section Marks :
+Yes
+## Display Number Panel :
+0
+## Section Negative Marks :
+No
+## Group All Questions :
+Yes
+## Enable Mark as Answered Mark for Review and Clear Response :
+0
+## Maximum Instruction Time :
+1
+## Sub-Section Number :
+640653107602
+## Sub-Section Id :
+No
+## Question Shuffling Allowed :
+null
+## Is Section Default? :
+66
+## Question Number :
+640653737335
+## Question Id :
+MCQ Is Question
+## Question Type :
