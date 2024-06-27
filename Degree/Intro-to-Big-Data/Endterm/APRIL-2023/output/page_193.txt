@@ -22,15 +22,3 @@ Options :
 6406531888223. ❌ Batch processing can operate on massively larger data sets than streaming can
 
 Question Number : 248 Question Id : 640653564881 Question Type : MSQ Is Question
-Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
-Correct Marks : 3 Selectable Option : 0
-Question Label : Multiple Select Question
-
-What differentiates "streaming processing" from "batch processing" in the context of big data?
-
-Options :
-6406531888219. ❌ Batch operates on a set of data elements taken together while streaming operates on data individually as it streams in
-6406531888220. ✅ Batch operates on data that is static while streaming operates on data that is dynamically changing
-6406531888221. ✅ Batch processing can assume data as fully specified and complete while streaming cannot make that assumption
-6406531888222. ✅ Batch processing is typically high latency while streaming processing is necessary for real-time latencies
-6406531888223. ❌ Batch processing can operate on massively larger data sets than streaming can
